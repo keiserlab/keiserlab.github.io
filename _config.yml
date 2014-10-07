@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title:            Site Title
+title:            keiser lab @ ucsf
 locale:           en_US
-url:
-
+url:              http://www.keiserlab.org
+#url:              http://localhost:4000
 
 # Jekyll configuration
 
@@ -26,15 +26,22 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Michael Keiser
   avatar: bio-photo.jpg
+<<<<<<< 08dbf6153bd461fb19c768bb1c7e2768c90543e8
   bio: "Describe your self."
   email:
   disqus-shortname:
+=======
+  bio: ""
+  email: keiser@keiserlab.org
+  disqus-shortname: 
+>>>>>>> set default site config and owner
   twitter: #username
   facebook: #username
   google:
     plus: #username
+<<<<<<< 08dbf6153bd461fb19c768bb1c7e2768c90543e8
     analytics:
     verify:
     ad-client:
@@ -44,6 +51,16 @@ owner:
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
+=======
+    analytics: 
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  github: mjke
+  stackoverflow: #http://stackoverflow.com/users/123456/username
+  linkedin: keiser
+>>>>>>> set default site config and owner
   instagram: #username
   lastfm: #username
   tumblr: #username
