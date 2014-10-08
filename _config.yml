@@ -26,41 +26,24 @@ kramdown:
 
 # Site owner
 owner:
-  name: Michael Keiser
+  name: keiserlab
   avatar: bio-photo.jpg
-<<<<<<< 08dbf6153bd461fb19c768bb1c7e2768c90543e8
-  bio: "Describe your self."
-  email:
-  disqus-shortname:
-=======
   bio: ""
-  email: keiser@keiserlab.org
+  email: 
   disqus-shortname: 
->>>>>>> set default site config and owner
   twitter: #username
   facebook: #username
   google:
     plus: #username
-<<<<<<< 08dbf6153bd461fb19c768bb1c7e2768c90543e8
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
-  xing: #username
-=======
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: mjke
+  github: #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: keiser
->>>>>>> set default site config and owner
+  linkedin: #username
+  xing: #username
   instagram: #username
   lastfm: #username
   tumblr: #username
