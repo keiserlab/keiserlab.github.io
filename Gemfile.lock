@@ -158,6 +158,5 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (= 39)
-  jekyll-sitemap
   json
   octopress (~> 3.0.0.rc.12)
