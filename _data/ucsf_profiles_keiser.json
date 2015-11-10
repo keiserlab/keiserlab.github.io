@@ -1,20 +1,42 @@
 {
-   "api_notes" : "To maximize performance, we are providing recently-cached data. This data was cached on Thu Jul 23 08:28:14 2015",
+   "api_notes" : "To maximize performance, we are providing recently-cached data. This data was cached on Tue Nov 10 06:16:57 2015",
    "Profiles" : [
       {
          "FirstName" : "Michael",
-         "PublicationCount" : "15",
+         "PublicationCount" : "16",
          "Address" : {
-            "Longitude" : "0",
+            "Longitude" : null,
             "Address2" : "San Francisco, CA 94158",
             "Address4" : null,
             "Address1" : "675 Nelson Rising Lane",
             "Address3" : null,
-            "Latitude" : "0",
+            "Latitude" : [
+               null,
+               null
+            ],
             "Fax" : null,
             "Telephone" : "415-502-7651"
          },
          "Publications" : [
+            {
+               "Publication" : "Journal of pharmacokinetics and pharmacodynamics",
+               "Featured" : null,
+               "Date" : "2015-09-03T00:00:00",
+               "Title" : "Prediction and validation of enzyme and transporter off-targets for metformin.",
+               "PublicationMedlineTA" : "J Pharmacokinet Pharmacodyn",
+               "Year" : "2015",
+               "PublicationSource" : [
+                  {
+                     "PublicationSourceURL" : "http://www.ncbi.nlm.nih.gov/pubmed/26335661",
+                     "PublicationSourceName" : "PubMed",
+                     "PMID" : "26335661"
+                  }
+               ],
+               "PublicationCategory" : null,
+               "PublicationTitle" : "Yee SW, Lin L, Merski M, Keiser MJ, Gupta A, Zhang Y, Chien HC, Shoichet BK, Giacomini KM. Prediction and validation of enzyme and transporter off-targets for metformin. J Pharmacokinet Pharmacodyn. 2015 Oct; 42(5):463-75.",
+               "PublicationID" : "http://profiles.ucsf.edu/profile/88014382",
+               "AuthorList" : "Yee SW, Lin L, Merski M, Keiser MJ, Gupta A, Zhang Y, Chien HC, Shoichet BK, Giacomini KM"
+            },
             {
                "Publication" : "Clinical pharmacology and therapeutics",
                "Featured" : null,
@@ -30,9 +52,9 @@
                   }
                ],
                "PublicationCategory" : null,
-               "PublicationTitle" : "Lorberbaum T, Nasir M, Keiser MJ, Vilar S, Hripcsak G, Tatonetti NP. Systems pharmacology augments drug safety surveillance. Clin Pharmacol Ther. 2015 Feb; 97(2):151-8.",
+               "PublicationTitle" : "Lorberbaum T, Nasir M, Keiser M, Vilar S, Hripcsak G, Tatonetti N. Systems pharmacology augments drug safety surveillance. Clin Pharmacol Ther. 2015 Feb; 97(2):151-8.",
                "PublicationID" : "http://profiles.ucsf.edu/profile/82757302",
-               "AuthorList" : "Lorberbaum T, Nasir M, Keiser MJ, Vilar S, Hripcsak G, Tatonetti NP"
+               "AuthorList" : "Lorberbaum T, Nasir M, Keiser M, Vilar S, Hripcsak G, Tatonetti N"
             },
             {
                "Publication" : "PLoS biology",
@@ -313,6 +335,13 @@
          "MediaLinks_beta" : [],
          "AwardOrHonors" : [
             {
+               "AwardLabel" : "Allen Distinguished Investigator",
+               "AwardStartDate" : "2015",
+               "AwardEndDate" : null,
+               "Summary" : "Allen Distinguished Investigator, Paul G. Allen Family Foundation, 2015",
+               "AwardConferredBy" : "Paul G. Allen Family Foundation"
+            },
+            {
                "AwardLabel" : "40 Under Forty",
                "AwardStartDate" : "2014",
                "AwardEndDate" : null,
@@ -350,8 +379,8 @@
             {
                "AwardLabel" : "Foreign Languages and Area Studies Fellow",
                "AwardStartDate" : "2003",
-               "AwardEndDate" : null,
-               "Summary" : "Foreign Languages and Area Studies Fellow, US Dept. Education, 2003",
+               "AwardEndDate" : "2004",
+               "Summary" : "Foreign Languages and Area Studies Fellow, US Dept. Education, 2003-2004",
                "AwardConferredBy" : "US Dept. Education"
             }
          ],
@@ -365,8 +394,38 @@
          "Narrative" : "Our lab investigates how small molecules perturb protein target networks to biological and therapeutic effect. In a forward polypharmacology campaign, we are using machine learning and computational methods such as the Similarity Ensemble Approach (SEA) to infer new combinations of targets underlying compound-induced phenotypes in cells and broader model systems. Thinking of each target as a musical note, we predict and test entire chords at a time via chemical-genetic epistasis experiments in models of complex diseases such as neurodegeneration.\n\nThese systems pharmacology inquiries tell us where current understanding of drug action is weak, and because we use human pharmacology to mine for mechanisms, we can apply the therapeutic chords we find directly to the prediction of patient drug responses, adverse drug reactions, and personalized medicine.",
          "School" : "UCSF School of Medicine",
          "PhotoURL" : "http://profiles.ucsf.edu/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=30250598",
-         "WebLinks_beta" : [],
-         "Education_Training" : [],
+         "WebLinks_beta" : [
+            {
+               "URL" : "http://www.keiserlab.org",
+               "Label" : "Keiser Lab at UCSF"
+            }
+         ],
+         "Education_Training" : [
+            {
+               "degree" : "Ph.D.",
+               "end_date" : "2009",
+               "department_or_school" : "Graduate Division (Biological and Medical Informatics)",
+               "organization" : "University of California, San Francisco"
+            },
+            {
+               "degree" : "B.S.",
+               "end_date" : "2004",
+               "department_or_school" : "Computer Science",
+               "organization" : "Stanford University"
+            },
+            {
+               "degree" : "M.A.",
+               "end_date" : "2004",
+               "department_or_school" : "Russian, East European & Eurasian Studies",
+               "organization" : "Stanford University"
+            },
+            {
+               "degree" : "B.A.",
+               "end_date" : "2004",
+               "department_or_school" : "Slavic Language and Literature",
+               "organization" : "Stanford University"
+            }
+         ],
          "GlobalHealth_beta" : {},
          "Twitter_beta" : [],
          "Name" : "Michael Keiser, PhD",
