@@ -1,9 +1,9 @@
 {
-   "api_notes" : "To maximize performance, we are providing recently-cached data. This data was cached on Tue Nov 10 06:16:57 2015",
+   "api_notes" : "To maximize performance, we are providing recently-cached data. This data was cached on Tue Mar 29 06:11:30 2016",
    "Profiles" : [
       {
          "FirstName" : "Michael",
-         "PublicationCount" : "16",
+         "PublicationCount" : "18",
          "Address" : {
             "Longitude" : null,
             "Address2" : "San Francisco, CA 94158",
@@ -18,6 +18,44 @@
             "Telephone" : "415-502-7651"
          },
          "Publications" : [
+            {
+               "Publication" : "The lancet. Psychiatry",
+               "Featured" : null,
+               "Date" : "2016-02-22T00:00:00",
+               "Title" : "Polygenic overlap between schizophrenia risk and antipsychotic response: a genomic medicine approach.",
+               "PublicationMedlineTA" : "Lancet Psychiatry",
+               "Year" : "2016",
+               "PublicationSource" : [
+                  {
+                     "PublicationSourceURL" : "http://www.ncbi.nlm.nih.gov/pubmed/26915512",
+                     "PublicationSourceName" : "PubMed",
+                     "PMID" : "26915512"
+                  }
+               ],
+               "PublicationCategory" : null,
+               "PublicationTitle" : "Ruderfer DM, Charney AW, Readhead B, Kidd BA, Kähler AK, Kenny PJ, Keiser MJ, Moran JL, Hultman CM, Scott SA, Sullivan PF, Purcell SM, Dudley JT, Sklar P. Polygenic overlap between schizophrenia risk and antipsychotic response: a genomic medicine approach. Lancet Psychiatry. 2016 Feb 22.",
+               "PublicationID" : "http://profiles.ucsf.edu/profile/98324849",
+               "AuthorList" : "Ruderfer DM, Charney AW, Readhead B, Kidd BA, Kähler AK, Kenny PJ, Keiser MJ, Moran JL, Hultman CM, Scott SA, Sullivan PF, Purcell SM, Dudley JT, Sklar P"
+            },
+            {
+               "Publication" : "ACS chemical biology",
+               "Featured" : null,
+               "Date" : "2016-02-17T00:00:00",
+               "Title" : "Leveraging Large-scale Behavioral Profiling in Zebrafish to Explore Neuroactive Polypharmacology.",
+               "PublicationMedlineTA" : "ACS Chem Biol",
+               "Year" : "2016",
+               "PublicationSource" : [
+                  {
+                     "PublicationSourceURL" : "http://www.ncbi.nlm.nih.gov/pubmed/26845413",
+                     "PublicationSourceName" : "PubMed",
+                     "PMID" : "26845413"
+                  }
+               ],
+               "PublicationCategory" : null,
+               "PublicationTitle" : "McCarroll MN, Gendelev L, Keiser MJ, Kokel D. Leveraging Large-scale Behavioral Profiling in Zebrafish to Explore Neuroactive Polypharmacology. ACS Chem Biol. 2016 Feb 17.",
+               "PublicationID" : "http://profiles.ucsf.edu/profile/98324843",
+               "AuthorList" : "McCarroll MN, Gendelev L, Keiser MJ, Kokel D"
+            },
             {
                "Publication" : "Journal of pharmacokinetics and pharmacodynamics",
                "Featured" : null,
@@ -331,7 +369,7 @@
             "Drug Discovery"
          ],
          "Title" : "Assistant Professor",
-         "Department" : "Institute for Neurodegenerative Diseases",
+         "Department" : null,
          "MediaLinks_beta" : [],
          "AwardOrHonors" : [
             {
@@ -384,15 +422,13 @@
                "AwardConferredBy" : "US Dept. Education"
             }
          ],
-         "Titles" : [
-            "Assistant Professor"
-         ],
+         "Titles" : [],
          "LastName" : "Keiser",
          "ProfilesURL" : "http://profiles.ucsf.edu/michael.keiser",
          "NIHGrants_beta" : [],
          "Email" : "Michael.Keiser@ucsf.edu",
          "Narrative" : "Our lab investigates how small molecules perturb protein target networks to biological and therapeutic effect. In a forward polypharmacology campaign, we are using machine learning and computational methods such as the Similarity Ensemble Approach (SEA) to infer new combinations of targets underlying compound-induced phenotypes in cells and broader model systems. Thinking of each target as a musical note, we predict and test entire chords at a time via chemical-genetic epistasis experiments in models of complex diseases such as neurodegeneration.\n\nThese systems pharmacology inquiries tell us where current understanding of drug action is weak, and because we use human pharmacology to mine for mechanisms, we can apply the therapeutic chords we find directly to the prediction of patient drug responses, adverse drug reactions, and personalized medicine.",
-         "School" : "UCSF School of Medicine",
+         "School" : null,
          "PhotoURL" : "http://profiles.ucsf.edu/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=30250598",
          "WebLinks_beta" : [
             {
