@@ -8,19 +8,16 @@ image:
   feature: bar-network.png
 ---
 
-We are located on the third and fourth floors of the [UCSF Institute for Neurodegenerative Diseases](http://ind.ucsf.edu) in the Sandler Neurosciences Center.
+We are located on the third and fourth floors of the [UCSF Institute for Neurodegenerative Diseases](http://ind.ucsf.edu) in the Sandler Neurosciences Center. Our dry lab is located in room NS 435 and our wet lab is in NS 321.
 
-### Dry lab
-675 Nelson Rising Ln Rm NS 435\\
-San Francisco, CA 94158
+### Dry lab & mailing address
+UCSF Institute for Neurodegenerative Diseases (Box 0518)\\
+675 Nelson Rising Ln Rm 435\\
+San Francisco, CA 94158 (please use 94143 for USPS)
 {% comment %}phone: xxx-xxx-xxxx{% endcomment %}
 
-### Wet lab
-675 Nelson Rising Ln Rm NS 321\\
-San Francisco, CA 94158
-{% comment %}phone: xxx-xxx-xxxx{% endcomment %}
-
-### Shipping address
+### Shipping & freight address
+UCSF Institute for Neurodegenerative Diseases\\
 675 Nelson Rising Ln Rm 380\\
 San Francisco, CA 94158
 
