@@ -1,9 +1,9 @@
 {
-   "api_notes" : "To maximize performance, we are providing recently-cached data. This data was cached on Tue Mar 29 06:11:30 2016",
+   "api_notes" : "To maximize performance, we are providing recently-cached data. This data was cached on Tue Jul 26 06:10:02 2016",
    "Profiles" : [
       {
          "FirstName" : "Michael",
-         "PublicationCount" : "18",
+         "PublicationCount" : "19",
          "Address" : {
             "Longitude" : null,
             "Address2" : "San Francisco, CA 94158",
@@ -19,9 +19,28 @@
          },
          "Publications" : [
             {
+               "Publication" : "Nature chemical biology",
+               "Featured" : null,
+               "Date" : "2016-05-30T00:00:00",
+               "Title" : "Zebrafish behavioral profiling identifies multitarget antipsychotic-like compounds.",
+               "PublicationMedlineTA" : "Nat Chem Biol",
+               "Year" : "2016",
+               "PublicationSource" : [
+                  {
+                     "PublicationSourceURL" : "http://www.ncbi.nlm.nih.gov/pubmed/27239787",
+                     "PublicationSourceName" : "PubMed",
+                     "PMID" : "27239787"
+                  }
+               ],
+               "PublicationCategory" : null,
+               "PublicationTitle" : "Bruni G, Rennekamp AJ, Velenich A, McCarroll M, Gendelev L, Fertsch E, Taylor J, Lakhani P, Lensen D, Evron T, Lorello PJ, Huang XP, Kolczewski S, Carey G, Caldarone BJ, Prinssen E, Roth BL, Keiser MJ, Peterson RT, Kokel D. Zebrafish behavioral profiling identifies multitarget antipsychotic-like compounds. Nat Chem Biol. 2016 Jul; 12(7):559-66.",
+               "PublicationID" : "http://profiles.ucsf.edu/profile/110507878",
+               "AuthorList" : "Bruni G, Rennekamp AJ, Velenich A, McCarroll M, Gendelev L, Fertsch E, Taylor J, Lakhani P, Lensen D, Evron T, Lorello PJ, Huang XP, Kolczewski S, Carey G, Caldarone BJ, Prinssen E, Roth BL, Keiser MJ, Peterson RT, Kokel D"
+            },
+            {
                "Publication" : "The lancet. Psychiatry",
                "Featured" : null,
-               "Date" : "2016-02-22T00:00:00",
+               "Date" : "2016-02-23T00:00:00",
                "Title" : "Polygenic overlap between schizophrenia risk and antipsychotic response: a genomic medicine approach.",
                "PublicationMedlineTA" : "Lancet Psychiatry",
                "Year" : "2016",
@@ -33,7 +52,7 @@
                   }
                ],
                "PublicationCategory" : null,
-               "PublicationTitle" : "Ruderfer DM, Charney AW, Readhead B, Kidd BA, Kähler AK, Kenny PJ, Keiser MJ, Moran JL, Hultman CM, Scott SA, Sullivan PF, Purcell SM, Dudley JT, Sklar P. Polygenic overlap between schizophrenia risk and antipsychotic response: a genomic medicine approach. Lancet Psychiatry. 2016 Feb 22.",
+               "PublicationTitle" : "Ruderfer DM, Charney AW, Readhead B, Kidd BA, Kähler AK, Kenny PJ, Keiser MJ, Moran JL, Hultman CM, Scott SA, Sullivan PF, Purcell SM, Dudley JT, Sklar P. Polygenic overlap between schizophrenia risk and antipsychotic response: a genomic medicine approach. Lancet Psychiatry. 2016 Apr; 3(4):350-7.",
                "PublicationID" : "http://profiles.ucsf.edu/profile/98324849",
                "AuthorList" : "Ruderfer DM, Charney AW, Readhead B, Kidd BA, Kähler AK, Kenny PJ, Keiser MJ, Moran JL, Hultman CM, Scott SA, Sullivan PF, Purcell SM, Dudley JT, Sklar P"
             },
@@ -52,7 +71,7 @@
                   }
                ],
                "PublicationCategory" : null,
-               "PublicationTitle" : "McCarroll MN, Gendelev L, Keiser MJ, Kokel D. Leveraging Large-scale Behavioral Profiling in Zebrafish to Explore Neuroactive Polypharmacology. ACS Chem Biol. 2016 Feb 17.",
+               "PublicationTitle" : "McCarroll MN, Gendelev L, Keiser MJ, Kokel D. Leveraging Large-scale Behavioral Profiling in Zebrafish to Explore Neuroactive Polypharmacology. ACS Chem Biol. 2016 Apr 15; 11(4):842-9.",
                "PublicationID" : "http://profiles.ucsf.edu/profile/98324843",
                "AuthorList" : "McCarroll MN, Gendelev L, Keiser MJ, Kokel D"
             },
@@ -90,9 +109,9 @@
                   }
                ],
                "PublicationCategory" : null,
-               "PublicationTitle" : "Lorberbaum T, Nasir M, Keiser M, Vilar S, Hripcsak G, Tatonetti N. Systems pharmacology augments drug safety surveillance. Clin Pharmacol Ther. 2015 Feb; 97(2):151-8.",
+               "PublicationTitle" : "Lorberbaum T, Nasir M, Keiser MJ, Vilar S, Hripcsak G, Tatonetti NP. Systems pharmacology augments drug safety surveillance. Clin Pharmacol Ther. 2015 Feb; 97(2):151-8.",
                "PublicationID" : "http://profiles.ucsf.edu/profile/82757302",
-               "AuthorList" : "Lorberbaum T, Nasir M, Keiser M, Vilar S, Hripcsak G, Tatonetti N"
+               "AuthorList" : "Lorberbaum T, Nasir M, Keiser MJ, Vilar S, Hripcsak G, Tatonetti NP"
             },
             {
                "Publication" : "PLoS biology",
@@ -369,7 +388,7 @@
             "Drug Discovery"
          ],
          "Title" : "Assistant Professor",
-         "Department" : null,
+         "Department" : "Institute for Neurodegenerative Diseases",
          "MediaLinks_beta" : [],
          "AwardOrHonors" : [
             {
@@ -422,13 +441,15 @@
                "AwardConferredBy" : "US Dept. Education"
             }
          ],
-         "Titles" : [],
+         "Titles" : [
+            "Assistant Professor"
+         ],
          "LastName" : "Keiser",
          "ProfilesURL" : "http://profiles.ucsf.edu/michael.keiser",
          "NIHGrants_beta" : [],
          "Email" : "Michael.Keiser@ucsf.edu",
          "Narrative" : "Our lab investigates how small molecules perturb protein target networks to biological and therapeutic effect. In a forward polypharmacology campaign, we are using machine learning and computational methods such as the Similarity Ensemble Approach (SEA) to infer new combinations of targets underlying compound-induced phenotypes in cells and broader model systems. Thinking of each target as a musical note, we predict and test entire chords at a time via chemical-genetic epistasis experiments in models of complex diseases such as neurodegeneration.\n\nThese systems pharmacology inquiries tell us where current understanding of drug action is weak, and because we use human pharmacology to mine for mechanisms, we can apply the therapeutic chords we find directly to the prediction of patient drug responses, adverse drug reactions, and personalized medicine.",
-         "School" : null,
+         "School" : "UCSF School of Medicine",
          "PhotoURL" : "http://profiles.ucsf.edu/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=30250598",
          "WebLinks_beta" : [
             {
