@@ -41,16 +41,6 @@ leo_gendelev:
   title: Grad student
   github: lgend
 
-cristina_melero:
-  name: Cristina Melero
-  email: melero@keiserlab.org
-  bio: ""
-  bio_long: "I am examining chemical-genetic epistasis in mammalian cell lines to understand the underlying targets associated with therapeutically relevant compounds. By simultaneously inactivating multiple targets through chemical and genetic manipulation, we can begin to elucidate the phenotypic outputs underlying these therapeutic effects."
-  avatar: members/bio-melero.jpg
-  title: Specialist
-  linkedin: cristina-melero-4567524
-  github: MeleroC
-
 nick_mew:
   name: Nick Mew
   email: mew@keiserlab.org
@@ -60,16 +50,25 @@ nick_mew:
   title: Specialist
   github: munick
 
+cristina_melero:
+  name: Cristina Melero, MS
+  email: melero@keiserlab.org
+  bio: ""
+  bio_long: "I am examining chemical-genetic epistasis in mammalian cell lines to understand the underlying targets associated with therapeutically relevant compounds. By simultaneously inactivating multiple targets through chemical and genetic manipulation, we can begin to elucidate the phenotypic outputs underlying these therapeutic effects."
+  avatar: members/bio-melero.jpg
+  title: Alumn (Specialist)
+  linkedin: cristina-melero-4567524
+  github: MeleroC
+
 michael_mysinger:
   name: Michael Mysinger, PhD
   email: mysinger@keiserlab.org
   bio: ""
-  bio_long: "I am fascinated and excited about Computational Chemistry, where the intersection of Chemistry, Math, and Computers creates the potential to better understand and transform our daily lives. My current ligand-based research focuses on using and improving the Similarity Ensemble Approach (SEA) to untangle poly-pharmacology and to predict novel protein targets from mysterious phenotypes. My current structure-based research involves exploring new energy potentials for protein-ligand interactions. Overall, my long-term research goals are quantitative, mechanism-based insight into protein-ligand interactions with an eye towards drug design."
+  bio_long: "Principal Scientist, Atomwise"
   avatar: members/bio-mysinger.jpg
-  title: Alumn
+  title: Alumn (Specialist)
   github: mmysinger
   linkedin: mysinger-michael-536ba5b
-
 
 #teague_sterling:
 #  name: Teague Sterling
