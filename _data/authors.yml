@@ -20,7 +20,7 @@ elena_caceres:
   bio: "bioinformatics"
   bio_long: "Elena graduated from UCSD with a B.Sc. in molecular biology and a minor in mathematics. As of 2014, she is a graduate student in the Bioinformatics program as part of the iPQB program at UCSF. She is interested in applying techniques from statistics and machine learning to better understand and predict features underlying drug-target interactions."
   avatar: members/bio-caceres.jpg
-  title: Grad student
+  title: Grad student; NSF Fellow; HHMI Gilliam Fellow
   github: elcaceres
 
 garrett_gaskins:
@@ -29,7 +29,7 @@ garrett_gaskins:
   bio: "bioinformatics"
   bio_long: "High-content screening across varied cells, conditions, and chemical libraries has emerged as a key method for identifying novel compounds capable of systematically perturbing a biological network to induce a phenotype. The molecular targets (proteins, receptors, etc.) through which these compounds act to achieve their phenotype(s) are typically unknown. I am currently developing a chemoinformatic approach using aspects of image processing, machine learning, and SEA to identify the targets of novel compounds via their phenotypic signature."
   avatar: members/bio-gaskins.jpg
-  title: Grad student; Hillblom Fellow
+  title: Grad student; Genentech Fellow; Hillblom Fellow
   github: gtgask
 
 leo_gendelev:
@@ -38,7 +38,7 @@ leo_gendelev:
   bio: "biophysics"
   bio_long: "Traditional approaches for ligand similarity, such as neighborhood or path based fingerprints, are based on molecular patterns, containing little information about the physics underlying protein-ligand recognition events. I am using a combined cheminformatics and structural bioinformatics approach to construct a thesaurus for ligand-based scaffolds, related via their interaction patterns with proteins from high-resolution x-ray crystals. This thesaurus will then be used to construct 3D interaction fingerprints for use in SEA (Similarity Ensemble Approach), for constraining or filtering virtual screening experiments, and for designing ligand-binding proteins. In developing these interaction fingerprints, we differ philosophically from previous fingerprinting approaches in that we strive to capture statistically enriched many-body interactions instead of painting yet another unsatisfying pairwise landscape."
   avatar: members/bio-gendelev.jpg
-  title: Grad student
+  title: Grad student; Fletcher Jones Fellow
   github: lgend
 
 nick_mew:
