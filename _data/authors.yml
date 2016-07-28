@@ -3,8 +3,8 @@
 michael_keiser:
   name: Michael Keiser, PhD
   email: keiser@keiserlab.org
-  bio: "pharm chem; bts; ichs; institute for neurodegenerative diseases"
-  bio_long: "Michael completed a bioinformatics Ph.D. in 2009 at UCSF as a National Science Foundation Fellow, where he developed techniques to relate drugs and proteins based on the statistical similarity of their ligands, such as the Similarity Ensemble Approach (SEA). He also holds B.Sc., B.A., and M.A. degrees from Stanford University. He subsequently co-founded a startup bringing these methods to pharma companies and the US FDA. Michael joined the faculty at UCSF in the Dept. of Pharmaceutical Chemistry and the Institute for Neurodegenerative Diseases in 2014, with joint appointments in the Dept. of Bioengineering and Therapeutic Sciences and the Institute for Computational Health Sciences (ICHS)."
+  bio: "pharm chem; bts; ichs; ind"
+  bio_long: "Michael completed a bioinformatics Ph.D. in 2009 at UCSF as a NSF Fellow, where he developed techniques to relate drugs and proteins based on their ligands, such as the Similarity Ensemble Approach (SEA). He also holds B.Sc., B.A., and M.A. degrees from Stanford University. He subsequently co-founded a startup bringing these methods to pharma companies and the US FDA. Michael joined the faculty at UCSF in the Dept. of Pharmaceutical Chemistry and the Institute for Neurodegenerative Diseases in 2014, with joint appointments in the Dept. of Bioengineering and Therapeutic Sciences and the Institute for Computational Health Sciences (ICHS)."
   avatar: members/bio-keiser.jpg
   title: Assistant Professor
   github: mjke
@@ -42,7 +42,7 @@ leo_gendelev:
   github: lgend
 
 nick_mew:
-  name: Nick Mew
+  name: Nick Mew, MS
   email: mew@keiserlab.org
   bio: ""
   bio_long: "Coming from a software engineering and computer science background, I’m focused on creating research tools that combine the state of the art in machine learning, statistics and data visualization. My current research involves training artificial neural networks to answer questions related to drugs, targets and their interactions. I also work on creating interactive visualizations that help human neural networks answer similar questions. "
