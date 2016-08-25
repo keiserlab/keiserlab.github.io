@@ -15,7 +15,7 @@ We're looking for highly motivated postdoctoral candidates with a background in 
 
 #### Qualifications
 
-Desired, but not strictly required, skills include experience with theano, lasagne/keras, TensorFlow, pandas, and sklearn. Expertise with CUDA and/or massive dataset analysis (e.g., NoSQL, AWS, Google Cloud) is a plus. A productive track record with at least profile first-author publication is required. We seek a driven individual who will lead his/her research independently and communicate frequently and clearly to the field.
+Desired, but not strictly required, skills include experience with theano, lasagne/keras, TensorFlow, pandas, rdkit, and sklearn. Expertise with CUDA and/or massive dataset analysis (e.g., NoSQL, AWS, Google Cloud) is a plus. A productive track record with at least one major first-author publication is required. We seek a driven individual who will lead his/her research independently and communicate frequently and clearly to the field.
 
 #### Environment
 
@@ -23,4 +23,4 @@ Just north of Silicon Valley, the lab's location at UCSF Mission Bay directly ad
 
 #### How to apply
 
-Interested candidates should submit a CV and arrange that three letters of reference be sent directly to apply@keiserlab.org. Please reference "postdoc-dnn".
+Interested candidates should submit a CV and arrange that three letters of reference be sent to apply@keiserlab.org. Please reference "postdoc-dnn".
