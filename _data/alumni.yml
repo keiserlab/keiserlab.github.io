@@ -1,0 +1,28 @@
+# Alumni
+
+cristina_melero:
+  name: Cristina Melero, MS
+  email: melero@keiserlab.org
+  bio: ""
+  bio_long: ""
+  avatar: members/bio-melero.jpg
+  title: 
+  linkedin: cristina-melero-4567524
+  github: MeleroC
+
+michael_mysinger:
+  name: Michael Mysinger, PhD
+  email: mysinger@keiserlab.org
+  bio: ""
+  bio_long: "Principal Scientist, Atomwise"
+  avatar: members/bio-mysinger.jpg
+  title: 
+  github: mmysinger
+  linkedin: mysinger-michael-536ba5b
+
+#teague_sterling:
+#  name: Teague Sterling
+#  email: sterling@keiserlab.org
+#  bio: ""
+#  avatar: members/bio-sterling.jpg
+#  title: Specialist

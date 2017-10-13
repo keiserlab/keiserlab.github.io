@@ -37,8 +37,9 @@
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
       {{ content }}
-      {% for auth in site.data.authors %}
+      {% for auth in site.data.members %}
       {% assign author = auth[1] %}
+      <hr />
       <div class="lab-member-half">
       <leftinfo >
       {% include _author-bio-content.html %}</leftinfo>
@@ -46,7 +47,22 @@
       <p><em>{{ author.bio_long }}</em></p>
       {% include _author-bio-links.html %}</rightinfo>
       </div>
-      <hr /><br/>
+      {% endfor %}
+    </div>
+
+    <p>
+    <h1>Lab alumni</h1>
+    <div class="article-wrap">
+      {% for auth in site.data.alumni %}
+      {% assign author = auth[1] %}
+      <hr />
+      <div class="lab-member-half">
+      <leftinfo >
+      {% include _author-bio-content.html %}</leftinfo>
+      <rightinfo >
+      <p><em>{{ author.bio_long }}</em></p>
+      {% include _author-bio-links.html %}</rightinfo>
+      </div>
       {% endfor %}
     </div><!-- /.article-wrap -->
     {% if site.owner.disqus-shortname and page.comments == true %}
