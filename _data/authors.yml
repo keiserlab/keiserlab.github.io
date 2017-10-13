@@ -4,14 +4,14 @@ michael_keiser:
   name: Michael Keiser, PhD
   email: keiser@keiserlab.org
   bio: "pharm chem; bts; ichs; ind"
-  bio_long: "Michael completed a bioinformatics Ph.D. in 2009 at UCSF as a NSF Fellow, where he developed techniques to relate drugs and proteins based on their ligands, such as the Similarity Ensemble Approach (SEA). He also holds B.Sc., B.A., and M.A. degrees from Stanford University. He subsequently co-founded a startup bringing these methods to pharma companies and the US FDA. Michael joined the faculty at UCSF in the Dept. of Pharmaceutical Chemistry and the Institute for Neurodegenerative Diseases in 2014, with joint appointments in the Dept. of Bioengineering and Therapeutic Sciences and the Institute for Computational Health Sciences (ICHS)."
+  bio_long: "Michael joined the UCSF faculty in the Dept. of Pharmaceutical Chemistry and the Institute for Neurodegenerative Diseases as an Assistant Professor in 2014, with joint appointments in the Dept. of Bioengineering & Therapeutic Sciences and the Institute for Computational Health Sciences. Before this, he co-founded a startup bringing systems pharmacology methods to pharma and the US FDA. During his bioinformatics Ph.D. at UCSF as a NSF Fellow, Michael developed techniques to relate drugs and proteins from the statistical similarity of their ligands, such as the Similarity Ensemble Approach (SEA). He also holds B.Sc., B.A., and M.A. degrees from Stanford University."
   avatar: members/bio-keiser.jpg
   title: Assistant Professor
   github: mjke
   linkedin: keiser
   google:
     scholar: 6GGtbegAAAAJ
-    plus: MichaelKeiser
+#    plus: MichaelKeiser
   ucsf_profiles: michael.keiser
 
 elena_caceres:
@@ -20,8 +20,28 @@ elena_caceres:
   bio: "bioinformatics"
   bio_long: "Elena graduated from UCSD with a B.Sc. in molecular biology and a minor in mathematics. As of 2014, she is a graduate student in the Bioinformatics program as part of the iPQB program at UCSF. She is interested in applying techniques from statistics and machine learning to better understand and predict features underlying drug-target interactions."
   avatar: members/bio-caceres.jpg
-  title: Grad student; NSF Fellow; HHMI Gilliam Fellow
+  title: Grad Student; NSF Fellow; HHMI Gilliam Fellow
   github: elcaceres
+
+kangway_chuang:
+  name: Kangway Chuang, PhD
+  email: kangway@keiserlab.org
+  bio: ""
+  bio_long: ""
+  avatar: members/bio-chuang.jpg
+  title: Postdoctoral Scholar
+  github: kangway
+  linkedin: kangway-chuang-47549052
+
+edward_elhauge:
+  name: Edward Elhauge, MPH
+  email: eelhauge@keiserlab.org
+  bio: ""
+  bio_long: ""
+  avatar: members/bio-elhauge.jpg
+  title: Specialist
+  github: eelhauge-keiserlab
+  linkedin: edwardelhauge
 
 garrett_gaskins:
   name: Garrett Gaskins
@@ -29,7 +49,7 @@ garrett_gaskins:
   bio: "bioinformatics"
   bio_long: "High-content screening across varied cells, conditions, and chemical libraries has emerged as a key method for identifying novel compounds capable of systematically perturbing a biological network to induce a phenotype. The molecular targets (proteins, receptors, etc.) through which these compounds act to achieve their phenotype(s) are typically unknown. I am currently developing a chemoinformatic approach using aspects of image processing, machine learning, and SEA to identify the targets of novel compounds via their phenotypic signature."
   avatar: members/bio-gaskins.jpg
-  title: Grad student; Genentech Fellow; Hillblom Fellow
+  title: Grad Student; Genentech Fellow; Hillblom Fellow
   github: gtgask
 
 leo_gendelev:
@@ -38,8 +58,18 @@ leo_gendelev:
   bio: "biophysics"
   bio_long: "Traditional approaches for ligand similarity, such as neighborhood or path based fingerprints, are based on molecular patterns, containing little information about the physics underlying protein-ligand recognition events. I am using a combined cheminformatics and structural bioinformatics approach to construct a thesaurus for ligand-based scaffolds, related via their interaction patterns with proteins from high-resolution x-ray crystals. This thesaurus will then be used to construct 3D interaction fingerprints for use in SEA (Similarity Ensemble Approach), for constraining or filtering virtual screening experiments, and for designing ligand-binding proteins. In developing these interaction fingerprints, we differ philosophically from previous fingerprinting approaches in that we strive to capture statistically enriched many-body interactions instead of painting yet another unsatisfying pairwise landscape."
   avatar: members/bio-gendelev.jpg
-  title: Grad student; Fletcher Jones Fellow
+  title: Grad Student; Fletcher Jones Fellow
   github: lgend
+
+amanda_li:
+  name: Amanda Li, PhD
+  email: ali@keiserlab.org
+  bio: ""
+  bio_long: ""
+  avatar: members/bio-li.jpg
+  title: Postdoctoral Scholar
+  github: 8li
+  linkedin: liamanda
 
 nick_mew:
   name: Nick Mew, MS
@@ -50,13 +80,22 @@ nick_mew:
   title: Specialist
   github: munick
 
+ziqi_tang:
+  name: Ziqi Tang
+  email: tzq14@mails.tsinghua.edu.cn
+  bio: "Tsinghua University"
+  bio_long: "I'm an undergraduate student from Tsinghua University School of Pharmaceutical Sciences, participating in the UCSF-Tsinghua University Joint Student Education Program. My interests are in polypharmacology and machine learning."
+  avatar: members/bio-tang.jpg
+  title: Visiting Research Scholar
+#  github: 
+
 cristina_melero:
   name: Cristina Melero, MS
   email: melero@keiserlab.org
   bio: ""
-  bio_long: "I am examining chemical-genetic epistasis in mammalian cell lines to understand the underlying targets associated with therapeutically relevant compounds. By simultaneously inactivating multiple targets through chemical and genetic manipulation, we can begin to elucidate the phenotypic outputs underlying these therapeutic effects."
+  bio_long: "Alumn"
   avatar: members/bio-melero.jpg
-  title: Alumn (Specialist)
+  title: 
   linkedin: cristina-melero-4567524
   github: MeleroC
 
@@ -66,7 +105,7 @@ michael_mysinger:
   bio: ""
   bio_long: "Principal Scientist, Atomwise"
   avatar: members/bio-mysinger.jpg
-  title: Alumn (Specialist)
+  title: 
   github: mmysinger
   linkedin: mysinger-michael-536ba5b
 
