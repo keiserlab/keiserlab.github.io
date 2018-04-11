@@ -37,5 +37,4 @@ if [[ $? != 0 ]]; then
    exit 1
 fi
 
-mail -s "Feedly push ok" $admin_email
-source deactivate
+# mail -s "Feedly push ok" $admin_email
