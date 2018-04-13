@@ -1,5 +1,5 @@
 #/bin/bash
-
+source /srv/home/ecaceres/.bash_profile
 admin_email='ecaceres@keiserlab.org';
 run_py=$JBDISTRIBUTOR"/jbdistributor/jbdistributor.py";
 peeps=$JBDISTRIBUTOR"/data/peeps.tsv";
