@@ -13,6 +13,7 @@ archive=$JBARCHIVE_LOC"/archive";
 # Call jbdistributor
 # has last update, has log, archives
 
+cd /srv/home/ecaceres/feedly/keiserlab.github.io
 echo "current directory: " 
 pwd 
 echo "shell: "
