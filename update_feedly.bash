@@ -12,6 +12,7 @@ archive=$JBARCHIVE_LOC"/archive";
 
 # Call jbdistributor
 # has last update, has log, archives
+cd /srv/home/ecaceres/feedly/keiserlab.github.io
 source /srv/home/ecaceres/anaconda2/envs/py3env/bin/activate /srv/home/ecaceres/anaconda2/envs/py3env
 python $run_py $peeps $jname $users_per_article -p $last_update_file -l $log_file -a $archive ; 
 
