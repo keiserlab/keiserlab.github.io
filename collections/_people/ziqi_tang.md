@@ -6,6 +6,6 @@ layout: author-bio
 excerpt: Visiting Research Scholar - Tsinghua University
 type: member
 header:
-  teaser: /assets/images/members/bio-tang.jpg
+  teaser: /assets/images/people/bio-tang.jpg
 papers: 
 ---

@@ -6,6 +6,6 @@ layout: author-bio
 excerpt: Specialist
 type: member
 header:
-  teaser: /assets/images/members/bio-mew.jpg
+  teaser: /assets/images/people/bio-mew.jpg
 papers: 
 ---

@@ -6,7 +6,7 @@ layout: author-bio
 excerpt: Grad Student; NSF Fellow; HHMI Gilliam Fellow - bioinformatics
 type: member
 header:
-  teaser: /assets/images/members/bio-caceres.jpg
+  teaser: /assets/images/people/bio-caceres.jpg
 papers: 
     - title: A Simple Representation of Three-Dimensional Molecular Structure
       excerpt: __J Med Chem__. 2017 Sep 14. Axen SD, Huang XP, Caceres EL, Gendelev L, Roth BL, Keiser MJ.

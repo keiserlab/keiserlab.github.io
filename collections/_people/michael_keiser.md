@@ -6,7 +6,7 @@ layout: author-bio
 excerpt: Assistant Professor - pharm chem; bts; ichs; ind
 type: member
 header:
-  teaser: /assets/images/members/bio-keiser.jpg
+  teaser: /assets/images/people/bio-keiser.jpg
 papers: 
     - title: Predicted Biological Activity of Purchasable Chemical Space
       excerpt: __J Chem Inf Model__. 2018 Jan 22. Irwin JJ, Gaskins G, Sterling T, Mysinger MM, Keiser MJ.

@@ -6,7 +6,7 @@ layout: author-bio
 excerpt: Grad Student; Genentech Fellow; Hillblom Fellow - bioinformatics
 type: member
 header:
-  teaser: /assets/images/members/bio-gaskins.jpg
+  teaser: /assets/images/people/bio-gaskins.jpg
 papers: 
     - title: Predicted Biological Activity of Purchasable Chemical Space
       excerpt: __J Chem Inf Model__. 2018 Jan 22. Irwin JJ, Gaskins G, Sterling T, Mysinger MM, Keiser MJ.

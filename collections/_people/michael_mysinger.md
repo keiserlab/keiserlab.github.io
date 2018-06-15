@@ -6,7 +6,7 @@ layout: author-bio
 excerpt: Principal Scientist, Atomwise
 type: alumn
 header:
-  teaser: /assets/images/members/bio-mysinger.jpg
+  teaser: /assets/images/people/bio-mysinger.jpg
 papers: 
     - title: Predicted Biological Activity of Purchasable Chemical Space
       excerpt: __J Chem Inf Model__. 2018 Jan 22. Irwin JJ, Gaskins G, Sterling T, Mysinger MM, Keiser MJ.

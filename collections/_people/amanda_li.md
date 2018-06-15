@@ -6,6 +6,6 @@ layout: author-bio
 excerpt: Postdoctoral Scholar
 type: member
 header:
-  teaser: /assets/images/members/bio-li.jpg
+  teaser: /assets/images/people/bio-li.jpg
 papers: 
 ---

@@ -6,6 +6,6 @@ layout: author-bio
 excerpt: 
 type: alumn
 header:
-  teaser: /assets/images/members/bio-melero.jpg
+  teaser: /assets/images/people/bio-melero.jpg
 papers: 
 ---
