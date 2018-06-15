@@ -1,0 +1,30 @@
+---
+layout: single
+author_profile: true
+---
+
+{% assign author = page.author %}
+{% assign author = site.data.authors[author] | default: author %}
+
+{% if author.title %}
+  <p class="author__title" itemprop="description">
+    <strong>{{ author.title }}</strong>
+  </p>
+{% endif %}
+
+{% if author.bio_long %}
+  <p class="author__bio_long" itemprop="description">
+    {{ author.bio_long }}
+  </p>
+{% endif %}
+
+{% if page.papers.size > 0 %}
+<h2>Lab papers</h2>
+<ol reversed>
+    {% for paper in page.papers %}
+    <li>
+        <a href="{{ paper.link }}">{{ paper.title }}</a>. {{ paper.excerpt | markdownify }}
+    </li>
+    {% endfor %}
+</ol>
+{% endif %}

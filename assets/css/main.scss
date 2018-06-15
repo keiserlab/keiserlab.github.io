@@ -1,28 +1,63 @@
 ---
-sitemap: false
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+@charset "utf-8";
+
+// custom typography
+
 /*
- *
- *  Minimal Mistakes
- *
- *  Designer: Michael Rose
- *  Twitter: http://twitter.com/mmistakes
- *
+$serif              : "PT Serif", Georgia, Times, serif;
+$sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+
+$global-font-family : $serif;
+$header-font-family : $sans-serif-narrow;
 */
 
-// Partials
-@import "variables";
-@import "grid";
-@import "mixins";
-@import "normalize";
-@import "site";
-@import "typography";
-@import "pygments";
-@import "coderay";
-@import "elements";
-@import "forms";
-@import "page";
-@import "vendor/font-awesome/font-awesome";
-@import "vendor/magnific-popup/magnific-popup";
-//@import "vendor/google/fonts";
+// core
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+
+// custom keiserlab
+
+.grid__item {
+  .archive__item-teaser-person {
+    @extend .archive__item-teaser;
+    max-height: 100%; // override max-height
+    // https://github.com/mmistakes/minimal-mistakes/issues/623
+  }
+}
+
+/* For fixed-height paper images (disabled)
+.archive__item-teaser-paper {
+  @extend .archive__item-teaser;
+  @include breakpoint($small) {
+    max-height: 400px;
+  }
+
+  @include breakpoint($medium) {
+    max-height: 240px;
+  }
+}
+*/
+
+// scale font size
+// https://github.com/mmistakes/minimal-mistakes/issues/1219
+
+html {
+  font-size: 14px;
+
+  @include breakpoint($medium) {
+    font-size: 16px;
+  }
+
+  @include breakpoint($large) {
+    font-size: 18px;
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 20px;
+  }
+}

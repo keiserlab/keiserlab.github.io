@@ -1,0 +1,31 @@
+{% comment %}
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+{% endcomment %}
+
+{% if author.google.scholar %}
+  <li>
+    <a href="http://scholar.google.com/citations?user={{ author.google.scholar }}" itemprop="sameAs">
+      <i class="fab fa-google" aria-hidden="true"></i> Google Scholar
+    </a>
+  </li>
+{% endif %}
+
+{% if author.my_ncbi %}
+  <li>
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/{{ author.my_ncbi }}/?sort=date&direction=descending" itemprop="sameAs">
+      <i class="fas fa-dna" aria-hidden="true"></i> My NCBI
+    </a>
+  </li>
+{% endif %}
+
+{% if author.ucsf_profiles %}
+  <li>
+    <a href="http://profiles.ucsf.edu/{{ author.ucsf_profiles }}" itemprop="sameAs">
+      <i class="fas fa-users" aria-hidden="true"></i> UCSF Profiles
+    </a>
+  </li>
+{% endif %}
