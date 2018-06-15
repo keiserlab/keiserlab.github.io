@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: single
 title: Research directions
-tags: [research, projects, sea, similarity ensemble approach, forward polypharmacology]
+permalink: /research/
+tags: [research, projects, SEA, Similarity Ensemble Approach, forward polypharmacology]
 modified: 
 comments: false
-image:
-  feature: bar-network.png
+header:
+   image: /assets/images/bar-network.png
 ---
 
 In classical pharmacology, drugs struck single notes, where one drug would hit one target to treat one disease. But drugs frequently modulate entire “chords” of targets at once, and this can be essential to their action. Our lab is decoding this molecular music, both in terms of new and useful chords for the treatment of complex diseases, and also to identify the jarring notes that existing drugs unintentionally hit when they induce side effects.
@@ -23,4 +24,4 @@ To investigate this, we are using phenotypic screens to deconvolute the mechanis
 
 ---
 
-![tech talk]({{ site.url }}/images/lab-research-1.jpg)
+![subgroup]({{ site.url }}/assets/images/lab-research-1.jpg)
