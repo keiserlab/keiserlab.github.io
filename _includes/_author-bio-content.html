@@ -1,8 +1,0 @@
-{% if author.avatar contains 'http' %}
-	<img src="{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
-{% elsif author.avatar != null %}
-	<img src="{{ site.url }}/images/{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
-{% endif %}
-  <h3 itemprop="name">{{ author.name }}</h3>
-  <h4>{{ author.title }}</h4>
-  <p><em>{{ author.bio }}</em></p>
