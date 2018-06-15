@@ -82,7 +82,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/icon/android-chrome-256x256.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -103,8 +103,8 @@ analytics:
 # Site Author
 author:
   name             : "keiserlab"
-  avatar           : "images/bio-photo.jpg"
-  bio              : ""
+  avatar           : "/assets/icon/android-chrome-256x256.png"
+  bio              : "keiserlab @ ucsf"
   location         : "ucsf"
   email            :
   uri              :
@@ -266,17 +266,6 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -289,14 +278,28 @@ defaults:
       comments: false
       share: true
       related: false
-  # people (collection)
+  # _posts (collection)
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _people (collection)
   - scope:
       path: ""
       type: people
     values:
       layout: single
       author_profile: false
+      read_time: false
+      comments: false
       share: true
+      related: false
 
 # https://jekyllrb.com/docs/collections/
 collections_dir: collections
