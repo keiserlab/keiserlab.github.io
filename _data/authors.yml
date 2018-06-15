@@ -1,91 +1,149 @@
 # Authors
 
+# MEMBERS
+
 michael_keiser:
   name: Michael Keiser, PhD
   email: keiser@keiserlab.org
   bio: "pharm chem; bts; ichs; ind"
   bio_long: "Michael joined the UCSF faculty in the Dept. of Pharmaceutical Chemistry and the Institute for Neurodegenerative Diseases as an Assistant Professor in 2014, with joint appointments in the Dept. of Bioengineering & Therapeutic Sciences and the Institute for Computational Health Sciences. Before this, he co-founded a startup bringing systems pharmacology methods to pharma and the US FDA. During his bioinformatics Ph.D. at UCSF as a NSF Fellow, Michael developed techniques to relate drugs and proteins from the statistical similarity of their ligands, such as the Similarity Ensemble Approach (SEA). He also holds B.Sc., B.A., and M.A. degrees from Stanford University."
-  avatar: members/bio-keiser.jpg
+  avatar: /assets/images/members/bio-keiser.jpg
   title: Assistant Professor
   github: mjke
   linkedin: keiser
   google:
     scholar: 6GGtbegAAAAJ
-#    plus: MichaelKeiser
+    #plus: MichaelKeiser
   ucsf_profiles: michael.keiser
+  my_ncbi: 47783869
+  ncbi_id: Keiser MJ
+  type: member
 
 elena_caceres:
   name: Elena Caceres
   email: ecaceres@keiserlab.org
   bio: "bioinformatics"
   bio_long: "Elena graduated from UCSD with a B.Sc. in molecular biology and a minor in mathematics. As of 2014, she is a graduate student in the Bioinformatics program as part of the iPQB program at UCSF. She is interested in applying techniques from statistics and machine learning to better understand and predict features underlying drug-target interactions."
-  avatar: members/bio-caceres.jpg
+  avatar: /assets/images/members/bio-caceres.jpg
   title: Grad Student; NSF Fellow; HHMI Gilliam Fellow
   github: elcaceres
+  ncbi_id: Caceres EL
+  type: member
 
 kangway_chuang:
   name: Kangway Chuang, PhD
   email: kangway@keiserlab.org
   bio: ""
   bio_long: ""
-  avatar: members/bio-chuang.jpg
+  avatar: /assets/images/members/bio-chuang.jpg
   title: Postdoctoral Scholar
   github: kangway
   linkedin: kangway-chuang-47549052
+  ncbi_id: Chuang K
+  type: member
 
 edward_elhauge:
   name: Edward Elhauge, MPH
   email: eelhauge@keiserlab.org
   bio: ""
   bio_long: ""
-  avatar: members/bio-elhauge.jpg
+  avatar: /assets/images/members/bio-elhauge.jpg
   title: Specialist
   github: eelhauge-keiserlab
   linkedin: edwardelhauge
+  ncbi_id: Elhauge E
+  type: member
 
 garrett_gaskins:
   name: Garrett Gaskins
   email: gaskins@keiserlab.org
   bio: "bioinformatics"
   bio_long: "High-content screening across varied cells, conditions, and chemical libraries has emerged as a key method for identifying novel compounds capable of systematically perturbing a biological network to induce a phenotype. The molecular targets (proteins, receptors, etc.) through which these compounds act to achieve their phenotype(s) are typically unknown. I am currently developing a chemoinformatic approach using aspects of image processing, machine learning, and SEA to identify the targets of novel compounds via their phenotypic signature."
-  avatar: members/bio-gaskins.jpg
+  avatar: /assets/images/members/bio-gaskins.jpg
   title: Grad Student; Genentech Fellow; Hillblom Fellow
   github: gtgask
+  ncbi_id: Gaskins G
+  type: member
 
 leo_gendelev:
   name: Leo Gendelev
   email: gendelev@keiserlab.org
   bio: "biophysics"
   bio_long: "Traditional approaches for ligand similarity, such as neighborhood or path based fingerprints, are based on molecular patterns, containing little information about the physics underlying protein-ligand recognition events. I am using a combined cheminformatics and structural bioinformatics approach to construct a thesaurus for ligand-based scaffolds, related via their interaction patterns with proteins from high-resolution x-ray crystals. This thesaurus will then be used to construct 3D interaction fingerprints for use in SEA (Similarity Ensemble Approach), for constraining or filtering virtual screening experiments, and for designing ligand-binding proteins. In developing these interaction fingerprints, we differ philosophically from previous fingerprinting approaches in that we strive to capture statistically enriched many-body interactions instead of painting yet another unsatisfying pairwise landscape."
-  avatar: members/bio-gendelev.jpg
+  avatar: /assets/images/members/bio-gendelev.jpg
   title: Grad Student; Fletcher Jones Fellow
   github: lgend
+  ncbi_id: Gendelev L
+  type: member
 
 amanda_li:
   name: Amanda Li, PhD
   email: ali@keiserlab.org
   bio: ""
   bio_long: ""
-  avatar: members/bio-li.jpg
+  avatar: /assets/images/members/bio-li.jpg
   title: Postdoctoral Scholar
   github: 8li
   linkedin: liamanda
+  ncbi_id: Li A
+  type: member
 
 nick_mew:
   name: Nick Mew, MS
   email: mew@keiserlab.org
   bio: ""
   bio_long: "Coming from a software engineering and computer science background, I’m focused on creating research tools that combine the state of the art in machine learning, statistics and data visualization. My current research involves training artificial neural networks to answer questions related to drugs, targets and their interactions. I also work on creating interactive visualizations that help human neural networks answer similar questions. "
-  avatar: members/bio-mew.jpg
+  avatar: /assets/images/members/bio-mew.jpg
   title: Specialist
   github: munick
+  ncbi_id: Mew N
+  type: member
 
 ziqi_tang:
   name: Ziqi Tang
   email: tzq14@mails.tsinghua.edu.cn
   bio: "Tsinghua University"
   bio_long: "Ziqi is an undergraduate student from Tsinghua University School of Pharmaceutical Sciences, participating in the UCSF-Tsinghua University Joint Student Education Program. His interests are in polypharmacology and machine learning."
-  avatar: members/bio-tang.jpg
+  avatar: /assets/images/members/bio-tang.jpg
   title: Visiting Research Scholar
-#  github: 
+  github: ZiqiTang919
+  ncbi_id: Tang Z
+  type: member
+
+
+# ALUMNI
+
+cristina_melero:
+  name: Cristina Melero, MS
+  email: melero@keiserlab.org
+  bio: ""
+  bio_long: ""
+  avatar: /assets/images/members/bio-melero.jpg
+  title: ""
+  linkedin: cristina-melero-4567524
+  github: MeleroC
+  ncbi_id: Melero C
+  type: alumn
+
+michael_mysinger:
+  name: Michael Mysinger, PhD
+  email: mysinger@keiserlab.org
+  bio: ""
+  bio_long: ""
+  avatar: /assets/images/members/bio-mysinger.jpg
+  title: "Principal Scientist, Atomwise"
+  github: mmysinger
+  linkedin: mysinger-michael-536ba5b
+  ncbi_id: Mysinger MM
+  type: alumn
+
+teague_sterling:
+  name: Teague Sterling
+  email: sterling@keiserlab.org
+  bio: ""
+  avatar: /assets/images/members/bio-sterling.jpg
+  title: "Principal Research Informatics Engineer, BioMarin Pharmaceutical"
+  linkedin: teaguesterling
+  ncbi_id: Sterling T
+  type: alumn
 
