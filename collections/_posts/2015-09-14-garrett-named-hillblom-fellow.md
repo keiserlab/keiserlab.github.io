@@ -1,9 +1,9 @@
 ---
 author: michael_keiser
-layout: post
+layout: single
 title: "Garrett named Hillblom Fellow"
 modified:
-categories: 
+categories: news
 excerpt:
 tags: []
 image:

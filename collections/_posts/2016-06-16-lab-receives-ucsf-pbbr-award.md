@@ -1,9 +1,9 @@
 ---
 author: michael_keiser
-layout: post
+layout: single
 title: "Lab receives UCSF PBBR Award"
 modified:
-categories: 
+categories: news
 excerpt:
 tags: []
 image:

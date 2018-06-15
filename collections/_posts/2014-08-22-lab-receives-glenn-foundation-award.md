@@ -1,9 +1,9 @@
 ---
 author: michael_keiser
-layout: post
+layout: single
 title: "Lab receives Glenn Foundation Award"
 modified:
-categories: 
+categories: news
 excerpt:
 tags: []
 image:

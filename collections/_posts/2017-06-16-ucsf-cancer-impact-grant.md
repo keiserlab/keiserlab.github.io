@@ -1,9 +1,9 @@
 ---
 author: michael_keiser
-layout: post
+layout: single
 title: "@UCSFCancer Impact Grant awarded"
 modified:
-categories: 
+categories: news
 excerpt:
 tags: []
 image:
@@ -15,4 +15,4 @@ We're [excited](https://twitter.com/keiser_lab/status/875845095613808640) to be 
 
 Details in this [news story](https://www.ucsf.edu/news/2017/06/407376/artificial-intelligence-melanoma-detector-wins-cancer-center-impact-grant?utm_source=ucsf_tw&utm_medium=tw&utm_campaign=2017_cancer_impact_grant).
 
-![Grant photo]({{ site.url }}/images/posts/2017-06-16-impact-grant.jpg)
+![Grant photo]({{ site.url }}/assets/images/posts/2017-06-16-impact-grant.jpg)

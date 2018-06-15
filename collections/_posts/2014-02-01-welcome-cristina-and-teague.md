@@ -1,9 +1,9 @@
 ---
 author: michael_keiser
-layout: post
+layout: single
 title: "Welcome Cristina & Teague"
 modified:
-categories: 
+categories: news
 excerpt:
 tags: []
 image:

@@ -1,9 +1,9 @@
 ---
 author: michael_keiser
-layout: post
+layout: single
 title: "Leo, Garrett, and Elena receive graduate fellowships"
 modified:
-categories: 
+categories: news
 excerpt:
 tags: []
 image:

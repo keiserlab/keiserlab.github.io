@@ -1,9 +1,8 @@
 ---
 author: michael_keiser
-layout: post
 title: "Postdoc - Deep Learning and Pharmacology"
 modified:
-categories: 
+categories: jobs
 excerpt:
 tags: []
 image:

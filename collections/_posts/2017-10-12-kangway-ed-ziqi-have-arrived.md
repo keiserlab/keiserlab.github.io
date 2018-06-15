@@ -1,9 +1,9 @@
 ---
 author: michael_keiser
-layout: post
+layout: single
 title: "Kangway, Ed, and Ziqi have arrived"
 modified:
-categories: 
+categories: news
 excerpt:
 tags: []
 image:

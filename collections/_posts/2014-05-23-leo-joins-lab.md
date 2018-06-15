@@ -1,9 +1,9 @@
 ---
 author: michael_keiser
-layout: post
+layout: single
 title: "Leo joins lab"
 modified:
-categories: 
+categories: news
 excerpt:
 tags: []
 image:
