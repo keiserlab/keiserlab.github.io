@@ -1,0 +1,21 @@
+# feature updates
+
+-> add ben
+-> update amanda
+-> add lucas
+-> add jizhou
+
+-> photo albums/internal
+-> tools collection
+-> move /images/ to /assets/images/
+
+-> feature-row photos per person?
+
+# reference
+
+collections
+    https://mmistakes.github.io/minimal-mistakes/docs/collections/
+    https://jekyllrb.com/docs/collections/
+    https://mmistakes.github.io/minimal-mistakes/docs/layouts/
+data
+    https://jekyllrb.com/docs/datafiles/
