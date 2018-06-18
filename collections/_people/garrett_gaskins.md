@@ -3,7 +3,8 @@
 title: Garrett Gaskins
 author: garrett_gaskins
 layout: author-bio
-excerpt: Grad Student; Genentech Fellow; Hillblom Fellow - bioinformatics
+jobtitle: Grad Student; Genentech Fellow; Hillblom Fellow
+bio: bioinformatics
 type: member
 header:
   teaser: /assets/images/people/bio-gaskins.jpg

@@ -3,7 +3,8 @@
 title: Elena Caceres
 author: elena_caceres
 layout: author-bio
-excerpt: Grad Student; NSF Fellow; HHMI Gilliam Fellow - bioinformatics
+jobtitle: Grad Student; NSF Fellow; HHMI Gilliam Fellow
+bio: bioinformatics
 type: member
 header:
   teaser: /assets/images/people/bio-caceres.jpg

@@ -3,7 +3,8 @@
 title: Ziqi Tang
 author: ziqi_tang
 layout: author-bio
-excerpt: Visiting Research Scholar - Tsinghua University
+jobtitle: Visiting Research Scholar
+bio: Tsinghua University
 type: member
 header:
   teaser: /assets/images/people/bio-tang.jpg

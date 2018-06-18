@@ -3,7 +3,8 @@
 title: Michael Keiser, PhD
 author: michael_keiser
 layout: author-bio
-excerpt: Assistant Professor - pharm chem; bts; ichs; ind
+jobtitle: Assistant Professor
+bio: pharm chem; bts; ichs; ind
 type: member
 header:
   teaser: /assets/images/people/bio-keiser.jpg

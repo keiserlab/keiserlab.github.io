@@ -3,7 +3,8 @@
 title: Teague Sterling
 author: teague_sterling
 layout: author-bio
-excerpt: Principal Research Informatics Engineer, BioMarin Pharmaceutical
+jobtitle: Principal Research Informatics Engineer
+bio: BioMarin Pharmaceutical
 type: alumn
 header:
   teaser: /assets/images/people/bio-sterling.jpg

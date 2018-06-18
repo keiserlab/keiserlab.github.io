@@ -7,13 +7,13 @@ author_profile: true
 {% assign author = site.data.authors[author] | default: author %}
 
 {% if author.title %}
-  <p class="author__title" itemprop="description">
+  <p class="author__title" itemprop="jobTitle">
     <strong>{{ author.title }}</strong>
   </p>
 {% endif %}
 
 {% if author.bio_long %}
-  <p class="author__bio_long" itemprop="description">
+  <p itemprop="description">
     {{ author.bio_long }}
   </p>
 {% endif %}

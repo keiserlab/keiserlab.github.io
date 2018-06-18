@@ -3,7 +3,8 @@
 title: Leo Gendelev
 author: leo_gendelev
 layout: author-bio
-excerpt: Grad Student; Fletcher Jones Fellow - biophysics
+jobtitle: Grad Student; Fletcher Jones Fellow
+bio: biophysics
 type: member
 header:
   teaser: /assets/images/people/bio-gendelev.jpg

@@ -3,7 +3,8 @@
 title: Amanda Li, PhD
 author: amanda_li
 layout: author-bio
-excerpt: Postdoctoral Scholar
+jobtitle: Postdoctoral Scholar
+bio: 
 type: member
 header:
   teaser: /assets/images/people/bio-li.jpg

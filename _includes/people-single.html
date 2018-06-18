@@ -2,6 +2,8 @@
 mjk: derived from archive-single.html that changes:
   <article class="archive__item" itemscope itemtype="http://schema.org/Person">
   <div class="archive__item-teaser-person">
+  <h2 class="archive__item-title" itemprop="name">
+  Plus a jobtitle/description section at bottom
 {% endcomment %}
 
 {% if post.header.teaser %}
@@ -29,7 +31,7 @@ mjk: derived from archive-single.html that changes:
           alt="">
       </div>
     {% endif %}
-    <h2 class="archive__item-title" itemprop="headline">
+    <h2 class="archive__item-title" itemprop="name">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
@@ -39,6 +41,13 @@ mjk: derived from archive-single.html that changes:
     {% if post.read_time %}
       <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+    <p class="archive__item-excerpt">
+    {% if post.jobtitle %}
+      <span itemprop="jobTitle">{{ post.jobtitle | markdownify | strip_html | truncate: 160 }}</span>
+    {% endif %}
+    {% if post.bio %}
+      <br />&mdash; <span itemprop="description"><em>{{ post.bio | markdownify | strip_html | truncate: 160 }}</em></span>
+    {% endif %}
+  </p>
   </article>
 </div>

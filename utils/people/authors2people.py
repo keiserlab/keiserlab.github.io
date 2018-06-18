@@ -20,7 +20,8 @@ TEMPLATE = """---
 title: %s
 author: %s
 layout: author-bio
-excerpt: %s
+jobtitle: %s
+bio: %s
 type: %s
 header:
   teaser: %s
@@ -58,8 +59,6 @@ def main(fauthors, outdir, fpapers):
         print 'read %d papers' % len(papers)
 
     for uid, info in ppl_dict.iteritems():
-        excerpt = EXCERPT_DIVIDER.join(filter(lambda x: x != "", [info['title'], info['bio']]))
-
         display_papers = filter(
             lambda x: x[PCOL_AUTH].strip('.').lower().find(info['ncbi_id'].lower()) != -1, 
             papers)
@@ -70,7 +69,8 @@ def main(fauthors, outdir, fpapers):
             ) for ppr in display_papers])
 
         with open(os.path.join(outdir, '%s.md' % uid), 'wb') as fo:
-            fo.write(TEMPLATE % (info['name'], uid, excerpt, info['type'], info['avatar'],
+            fo.write(TEMPLATE % (info['name'], uid, info['title'], info['bio'], 
+                    info['type'], info['avatar'],
                     paper_yml))
     print 'wrote %d people to %s' % (len(ppl_dict), os.path.abspath(outdir))
 

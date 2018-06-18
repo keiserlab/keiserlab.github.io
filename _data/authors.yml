@@ -128,10 +128,10 @@ cristina_melero:
 michael_mysinger:
   name: Michael Mysinger, PhD
   email: mysinger@keiserlab.org
-  bio: ""
+  bio: "Atomwise"
   bio_long: ""
   avatar: /assets/images/people/bio-mysinger.jpg
-  title: "Principal Scientist, Atomwise"
+  title: "Principal Scientist"
   github: mmysinger
   linkedin: mysinger-michael-536ba5b
   ncbi_id: Mysinger MM
@@ -140,9 +140,9 @@ michael_mysinger:
 teague_sterling:
   name: Teague Sterling
   email: sterling@keiserlab.org
-  bio: ""
+  bio: "BioMarin Pharmaceutical"
   avatar: /assets/images/people/bio-sterling.jpg
-  title: "Principal Research Informatics Engineer, BioMarin Pharmaceutical"
+  title: "Principal Research Informatics Engineer"
   linkedin: teaguesterling
   ncbi_id: Sterling T
   type: alumn

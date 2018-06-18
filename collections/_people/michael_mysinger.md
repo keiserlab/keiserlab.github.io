@@ -3,7 +3,8 @@
 title: Michael Mysinger, PhD
 author: michael_mysinger
 layout: author-bio
-excerpt: Principal Scientist, Atomwise
+jobtitle: Principal Scientist
+bio: Atomwise
 type: alumn
 header:
   teaser: /assets/images/people/bio-mysinger.jpg

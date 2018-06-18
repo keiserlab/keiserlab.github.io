@@ -3,7 +3,8 @@
 title: Edward Elhauge, MPH
 author: edward_elhauge
 layout: author-bio
-excerpt: Specialist
+jobtitle: Specialist
+bio: 
 type: member
 header:
   teaser: /assets/images/people/bio-elhauge.jpg

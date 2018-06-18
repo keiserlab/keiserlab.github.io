@@ -3,7 +3,8 @@
 title: Cristina Melero, MS
 author: cristina_melero
 layout: author-bio
-excerpt: 
+jobtitle: 
+bio: 
 type: alumn
 header:
   teaser: /assets/images/people/bio-melero.jpg

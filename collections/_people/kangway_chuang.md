@@ -3,7 +3,8 @@
 title: Kangway Chuang, PhD
 author: kangway_chuang
 layout: author-bio
-excerpt: Postdoctoral Scholar
+jobtitle: Postdoctoral Scholar
+bio: 
 type: member
 header:
   teaser: /assets/images/people/bio-chuang.jpg

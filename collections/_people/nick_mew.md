@@ -3,7 +3,8 @@
 title: Nick Mew, MS
 author: nick_mew
 layout: author-bio
-excerpt: Specialist
+jobtitle: Specialist
+bio: 
 type: member
 header:
   teaser: /assets/images/people/bio-mew.jpg
