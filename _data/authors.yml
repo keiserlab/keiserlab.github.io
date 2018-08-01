@@ -147,3 +147,14 @@ teague_sterling:
   ncbi_id: Sterling T
   type: alumn
 
+jizhou_yang:
+  name: Jizhou Yang
+  email: jyang15@mail.sfsu.edu
+  bio: "UCSF"
+  bio_long: "Data science intern, 2017-2018."
+  avatar: /assets/images/people/bio-yang.jpg
+  title: "Software Engineer Intern"
+  linkedin: jizhou-yang-43082a55
+  ncbi_id: Yang J
+  type: alumn
+
