@@ -1,3 +1,263 @@
+PMID- 30053424
+OWN - NLM
+STAT- In-Data-Review
+LR  - 20180727
+IS  - 1097-4172 (Electronic)
+IS  - 0092-8674 (Linking)
+VI  - 174
+IP  - 3
+DP  - 2018 Jul 26
+TI  - The Psychiatric Cell Map Initiative: A Convergent Systems Biological Approach to 
+      Illuminating Key Molecular Pathways in Neuropsychiatric Disorders.
+PG  - 505-520
+LID - S0092-8674(18)30784-0 [pii]
+LID - 10.1016/j.cell.2018.06.016 [doi]
+AB  - Although gene discovery in neuropsychiatric disorders, including autism spectrum 
+      disorder, intellectual disability, epilepsy, schizophrenia, and Tourette
+      disorder, has accelerated, resulting in a large number of molecular clues, it has
+      proven difficult to generate specific hypotheses without the corresponding
+      datasets at the protein complex and functional pathway level. Here, we describe
+      one path forward-an initiative aimed at mapping the physical and genetic
+      interaction networks of these conditions and then using these maps to connect the
+      genomic data to neurobiology and, ultimately, the clinic. These efforts will
+      include a team of geneticists, structural biologists, neurobiologists, systems
+      biologists, and clinicians, leveraging a wide array of experimental approaches
+      and creating a collaborative infrastructure necessary for long-term
+      investigation. This initiative will ultimately intersect with parallel studies
+      that focus on other diseases, as there is a significant overlap with genes
+      implicated in cancer, infectious disease, and congenital heart defects.
+CI  - Copyright (c) 2018 Elsevier Inc. All rights reserved.
+FAU - Willsey, A Jeremy
+AU  - Willsey AJ
+AD  - Department of Psychiatry, UCSF Weill Institute for Neurosciences, University of
+      California, San Francisco, San Francisco, CA 94143, USA; Institute for
+      Neurodegenerative Diseases, UCSF Weill Institute for Neurosciences, University of
+      California, San Francisco, San Francisco, CA 94143, USA; Quantitative Biosciences
+      Institute (QBI), University of California, San Francisco, San Francisco, CA
+      94143, USA. Electronic address: jeremy.willsey@ucsf.edu.
+FAU - Morris, Montana T
+AU  - Morris MT
+AD  - Institute for Neurodegenerative Diseases, UCSF Weill Institute for Neurosciences,
+      University of California, San Francisco, San Francisco, CA 94143, USA.
+FAU - Wang, Sheng
+AU  - Wang S
+AD  - Institute for Neurodegenerative Diseases, UCSF Weill Institute for Neurosciences,
+      University of California, San Francisco, San Francisco, CA 94143, USA.
+FAU - Willsey, Helen R
+AU  - Willsey HR
+AD  - Department of Psychiatry, UCSF Weill Institute for Neurosciences, University of
+      California, San Francisco, San Francisco, CA 94143, USA.
+FAU - Sun, Nawei
+AU  - Sun N
+AD  - Institute for Neurodegenerative Diseases, UCSF Weill Institute for Neurosciences,
+      University of California, San Francisco, San Francisco, CA 94143, USA.
+FAU - Teerikorpi, Nia
+AU  - Teerikorpi N
+AD  - Institute for Neurodegenerative Diseases, UCSF Weill Institute for Neurosciences,
+      University of California, San Francisco, San Francisco, CA 94143, USA; Tetrad
+      Graduate Program, University of California, San Francisco, San Francisco, CA
+      94143, USA.
+FAU - Baum, Tierney B
+AU  - Baum TB
+AD  - Institute for Neurodegenerative Diseases, UCSF Weill Institute for Neurosciences,
+      University of California, San Francisco, San Francisco, CA 94143, USA.
+FAU - Cagney, Gerard
+AU  - Cagney G
+AD  - School of Biomolecular and Biomedical Science, Conway Institute, University
+      College Dublin, Dublin 4, Ireland.
+FAU - Bender, Kevin J
+AU  - Bender KJ
+AD  - Department of Neurology, UCSF Weill Institute for Neurosciences, University of
+      California, San Francisco, San Francisco, CA 94143, USA.
+FAU - Desai, Tejal A
+AU  - Desai TA
+AD  - Quantitative Biosciences Institute (QBI), University of California, San
+      Francisco, San Francisco, CA 94143, USA; Department of Bioengineering and
+      Therapeutic Sciences, University of California, San Francisco, San Francisco, CA 
+      94143, USA.
+FAU - Srivastava, Deepak
+AU  - Srivastava D
+AD  - Gladstone Institutes, San Francisco, CA 94158, USA; Department of Pediatrics,
+      University of California, San Francisco, San Francisco, CA 94143, USA; Department
+      of Biochemistry and Biophysics, University of California, San Francisco, San
+      Francisco, CA 94143, USA.
+FAU - Davis, Graeme W
+AU  - Davis GW
+AD  - Department of Biochemistry and Biophysics, University of California, San
+      Francisco, San Francisco, CA 94143, USA; Kavli Institute for Fundamental
+      Neuroscience, University of California, San Francisco, San Francisco, CA 94143,
+      USA.
+FAU - Doudna, Jennifer
+AU  - Doudna J
+AD  - Department of Molecular and Cell Biology, University of California, Berkeley,
+      Berkeley, CA 94720, USA; Department of Chemistry, University of California,
+      Berkeley, Berkeley, CA 94720, USA; Howard Hughes Medical Institute, University of
+      California, Berkeley, Berkeley, CA, 94720, USA; Innovative Genomics Institute,
+      University of California, Berkeley, Berkeley, CA 94720, USA; MBIB Division,
+      Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA.
+FAU - Chang, Edward
+AU  - Chang E
+AD  - Department of Neurological Surgery, UCSF Weill Institute for Neurosciences,
+      University of California, San Francisco, San Francisco, CA 94143, USA.
+FAU - Sohal, Vikaas
+AU  - Sohal V
+AD  - Department of Psychiatry, UCSF Weill Institute for Neurosciences, University of
+      California, San Francisco, San Francisco, CA 94143, USA; Kavli Institute for
+      Fundamental Neuroscience, University of California, San Francisco, San Francisco,
+      CA 94143, USA.
+FAU - Lowenstein, Daniel H
+AU  - Lowenstein DH
+AD  - Department of Neurology, UCSF Weill Institute for Neurosciences, University of
+      California, San Francisco, San Francisco, CA 94143, USA.
+FAU - Li, Hao
+AU  - Li H
+AD  - Quantitative Biosciences Institute (QBI), University of California, San
+      Francisco, San Francisco, CA 94143, USA; Department of Biochemistry and
+      Biophysics, University of California, San Francisco, San Francisco, CA 94143,
+      USA.
+FAU - Agard, David
+AU  - Agard D
+AD  - Quantitative Biosciences Institute (QBI), University of California, San
+      Francisco, San Francisco, CA 94143, USA; Department of Biochemistry and
+      Biophysics, University of California, San Francisco, San Francisco, CA 94143,
+      USA.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AD  - Institute for Neurodegenerative Diseases, UCSF Weill Institute for Neurosciences,
+      University of California, San Francisco, San Francisco, CA 94143, USA;
+      Quantitative Biosciences Institute (QBI), University of California, San
+      Francisco, San Francisco, CA 94143, USA; Department of Bioengineering and
+      Therapeutic Sciences, University of California, San Francisco, San Francisco, CA 
+      94143, USA; Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, CA 94143, USA.
+FAU - Shoichet, Brian
+AU  - Shoichet B
+AD  - Quantitative Biosciences Institute (QBI), University of California, San
+      Francisco, San Francisco, CA 94143, USA; Department of Pharmaceutical Chemistry, 
+      University of California, San Francisco, San Francisco, CA 94143, USA.
+FAU - von Zastrow, Mark
+AU  - von Zastrow M
+AD  - Department of Psychiatry, UCSF Weill Institute for Neurosciences, University of
+      California, San Francisco, San Francisco, CA 94143, USA; Quantitative Biosciences
+      Institute (QBI), University of California, San Francisco, San Francisco, CA
+      94143, USA; Department of Cellular and Molecular Pharmacology, University of
+      California, San Francisco, San Francisco, CA 94143, USA.
+FAU - Mucke, Lennart
+AU  - Mucke L
+AD  - Department of Neurology, UCSF Weill Institute for Neurosciences, University of
+      California, San Francisco, San Francisco, CA 94143, USA; Gladstone Institutes,
+      San Francisco, CA 94158, USA.
+FAU - Finkbeiner, Steven
+AU  - Finkbeiner S
+AD  - Department of Neurology, UCSF Weill Institute for Neurosciences, University of
+      California, San Francisco, San Francisco, CA 94143, USA; Gladstone Institutes,
+      San Francisco, CA 94158, USA; Department of Physiology, University of California,
+      San Francisco, San Francisco, CA 94143, USA.
+FAU - Gan, Li
+AU  - Gan L
+AD  - Department of Neurology, UCSF Weill Institute for Neurosciences, University of
+      California, San Francisco, San Francisco, CA 94143, USA; Gladstone Institutes,
+      San Francisco, CA 94158, USA.
+FAU - Sestan, Nenad
+AU  - Sestan N
+AD  - Department of Neuroscience and Kavli Institute for Neuroscience, Yale School of
+      Medicine, New Haven, CT 06510, USA.
+FAU - Ward, Michael E
+AU  - Ward ME
+AD  - National Institute of Neurological Disorders and Stroke, NIH, Bethesda, MD 20892,
+      USA.
+FAU - Huttenhain, Ruth
+AU  - Huttenhain R
+AD  - Quantitative Biosciences Institute (QBI), University of California, San
+      Francisco, San Francisco, CA 94143, USA; Gladstone Institutes, San Francisco, CA 
+      94158, USA; Department of Cellular and Molecular Pharmacology, University of
+      California, San Francisco, San Francisco, CA 94143, USA.
+FAU - Nowakowski, Tomasz J
+AU  - Nowakowski TJ
+AD  - Department of Psychiatry, UCSF Weill Institute for Neurosciences, University of
+      California, San Francisco, San Francisco, CA 94143, USA; Department of Anatomy,
+      University of California, San Francisco, San Francisco, CA 94143, USA; The Eli
+      and Edythe Broad Center of Regeneration Medicine and Stem Cell Research,
+      University of California, San Francisco, San Francisco, CA 94143, USA.
+FAU - Bellen, Hugo J
+AU  - Bellen HJ
+AD  - Departments of Molecular and Human Genetics and Neuroscience, Neurological
+      Research Institute at TCH, Baylor College of Medicine, Houston, TX 77030, USA;
+      Howard Hughes Medical Institute, Baylor College of Medicine, Houston, TX 77030,
+      USA.
+FAU - Frank, Loren M
+AU  - Frank LM
+AD  - Kavli Institute for Fundamental Neuroscience, University of California, San
+      Francisco, San Francisco, CA 94143, USA; Department of Physiology, University of 
+      California, San Francisco, San Francisco, CA 94143, USA; Howard Hughes Medical
+      Institute, University of California, San Francisco, San Francisco, CA 94143, USA.
+FAU - Khokha, Mustafa K
+AU  - Khokha MK
+AD  - Pediatric Genomics Discovery Program, Departments of Pediatrics and Genetics,
+      Yale University School of Medicine, New Haven, CT 06510, USA.
+FAU - Lifton, Richard P
+AU  - Lifton RP
+AD  - Laboratory of Human Genetics and Genomics, The Rockefeller University, New York, 
+      NY 10065, USA.
+FAU - Kampmann, Martin
+AU  - Kampmann M
+AD  - Institute for Neurodegenerative Diseases, UCSF Weill Institute for Neurosciences,
+      University of California, San Francisco, San Francisco, CA 94143, USA;
+      Quantitative Biosciences Institute (QBI), University of California, San
+      Francisco, San Francisco, CA 94143, USA; Department of Biochemistry and
+      Biophysics, University of California, San Francisco, San Francisco, CA 94143,
+      USA; Chan Zuckerberg Biohub, San Francisco, CA 94158, USA.
+FAU - Ideker, Trey
+AU  - Ideker T
+AD  - Department of Medicine, University of California, San Diego, La Jolla, CA 92093, 
+      USA.
+FAU - State, Matthew W
+AU  - State MW
+AD  - Department of Psychiatry, UCSF Weill Institute for Neurosciences, University of
+      California, San Francisco, San Francisco, CA 94143, USA; Quantitative Biosciences
+      Institute (QBI), University of California, San Francisco, San Francisco, CA
+      94143, USA.
+FAU - Krogan, Nevan J
+AU  - Krogan NJ
+AD  - Quantitative Biosciences Institute (QBI), University of California, San
+      Francisco, San Francisco, CA 94143, USA; Gladstone Institutes, San Francisco, CA 
+      94158, USA; Department of Cellular and Molecular Pharmacology, University of
+      California, San Francisco, San Francisco, CA 94143, USA; Helen Diller
+      Comprehensive Cancer Center, University of California, San Francisco, San
+      Francisco, CA 94143, USA. Electronic address: nevan.krogan@ucsf.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Cell
+JT  - Cell
+JID - 0413066
+OTO - NOTNLM
+OT  - convergence
+OT  - genetics
+OT  - interactome
+OT  - network
+OT  - neurodevelopmental disorder
+OT  - pathway
+OT  - proteomics
+OT  - psychiatric cell map initiative
+OT  - psychiatric disorder
+OT  - psychiatry
+OT  - systems biology
+EDAT- 2018/07/28 06:00
+MHDA- 2018/07/28 06:00
+CRDT- 2018/07/28 06:00
+PHST- 2018/02/13 00:00 [received]
+PHST- 2018/05/07 00:00 [revised]
+PHST- 2018/06/08 00:00 [accepted]
+PHST- 2018/07/28 06:00 [entrez]
+PHST- 2018/07/28 06:00 [pubmed]
+PHST- 2018/07/28 06:00 [medline]
+AID - S0092-8674(18)30784-0 [pii]
+AID - 10.1016/j.cell.2018.06.016 [doi]
+PST - ppublish
+SO  - Cell. 2018 Jul 26;174(3):505-520. doi: 10.1016/j.cell.2018.06.016.
+
 PMID- 29193970
 OWN - NLM
 STAT- In-Data-Review
@@ -87,8 +347,9 @@ SO  - J Chem Inf Model. 2018 Jan 22;58(1):148-164. doi: 10.1021/acs.jcim.7b00316
 
 PMID- 29091768
 OWN - NLM
-STAT- In-Process
-LR  - 20180121
+STAT- MEDLINE
+DCOM- 20180612
+LR  - 20180612
 IS  - 2211-1247 (Electronic)
 VI  - 21
 IP  - 5
@@ -187,6 +448,37 @@ PL  - United States
 TA  - Cell Rep
 JT  - Cell reports
 JID - 101573691
+RN  - 0 (ATP Binding Cassette Transporter, Sub-Family B)
+RN  - 0 (ATP-Binding Cassette, Sub-Family B, Member 1)
+RN  - 0 (Drosophila Proteins)
+RN  - 0 (Gonadal Steroid Hormones)
+RN  - 0 (Xenobiotics)
+RN  - 0 (mdr65 protein, Drosophila)
+RN  - 4964P6T9RB (Aldosterone)
+RN  - 5289-74-7 (Ecdysterone)
+RN  - 83HN0GTJ6D (Cyclosporine)
+SB  - IM
+MH  - ATP Binding Cassette Transporter, Sub-Family B/chemistry/genetics/metabolism
+MH  - ATP-Binding Cassette, Sub-Family B, Member 1/chemistry/metabolism
+MH  - Aldosterone/chemistry/metabolism
+MH  - Animals
+MH  - Behavior, Animal/drug effects
+MH  - Binding Sites
+MH  - Biological Evolution
+MH  - Blood-Brain Barrier/drug effects/*metabolism
+MH  - Brain/drug effects/metabolism
+MH  - Central Nervous System/*metabolism
+MH  - Cyclosporine/pharmacology
+MH  - Databases, Chemical
+MH  - Drosophila
+MH  - Drosophila Proteins/chemistry/genetics/metabolism
+MH  - Ecdysterone/chemistry/metabolism
+MH  - Gonadal Steroid Hormones/analysis/*metabolism
+MH  - Male
+MH  - Molecular Docking Simulation
+MH  - Rats
+MH  - Substrate Specificity
+MH  - Xenobiotics/chemistry/*metabolism
 PMC - PMC5774027
 MID - NIHMS916195
 OTO - NOTNLM
@@ -199,14 +491,14 @@ OT  - endobiotics
 OT  - steroid hormones
 OT  - toxicology
 EDAT- 2017/11/02 06:00
-MHDA- 2017/11/02 06:00
+MHDA- 2018/06/13 06:00
 CRDT- 2017/11/02 06:00
 PHST- 2015/01/21 00:00 [received]
 PHST- 2017/08/25 00:00 [revised]
 PHST- 2017/10/05 00:00 [accepted]
 PHST- 2017/11/02 06:00 [entrez]
 PHST- 2017/11/02 06:00 [pubmed]
-PHST- 2017/11/02 06:00 [medline]
+PHST- 2018/06/13 06:00 [medline]
 AID - S2211-1247(17)31458-4 [pii]
 AID - 10.1016/j.celrep.2017.10.026 [doi]
 PST - ppublish

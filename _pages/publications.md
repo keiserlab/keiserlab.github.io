@@ -9,6 +9,19 @@ intro:
     - title: Publications
 feature_row0:
 
+  - image_path: /assets/images/papers/10.1016.j.cell.2018.06.016.jpg
+    alt: "The Psychiatric Cell Map Initiative: A Convergent Systems Biological Approach to Illuminating Key Molecular Pathways in Neuropsychiatric Disorders"
+    title: "The Psychiatric Cell Map Initiative: A Convergent Systems Biological Approach to Illuminating Key Molecular Pathways in Neuropsychiatric Disorders"
+    excerpt: "__Cell__. 2018 Jul 26. Willsey AJ, Morris MT, Wang S, Willsey HR, Sun N, Teerikorpi N, Baum TB, Cagney G, Bender KJ, Desai TA, Srivastava D, Davis GW, Doudna J, Chang E, Sohal V, Lowenstein DH, Li H, Agard D, Keiser MJ, Shoichet B, von Zastrow M, Mucke L, Finkbeiner S, Gan L, Sestan N, Ward ME, Huttenhain R, Nowakowski TJ, Bellen HJ, Frank LM, Khokha MK, Lifton RP, Kampmann M, Ideker T, State MW, Krogan NJ."
+    url: "https://doi.org/10.1016/j.cell.2018.06.016"
+    btn_label: >-
+        <i class="fas fa-file-alt"></i> doi
+    btn_class: "btn--primary"
+    url2: "http://pcmi.ucsf.edu/"
+    btn2_label: >-
+        <i class="fas fa-file-alt"></i> pcmi.ucsf.edu
+    btn2_class: "btn--info"
+
   - image_path: /assets/images/papers/10.1021.acs.jcim.7b00316.jpg
     alt: "Predicted Biological Activity of Purchasable Chemical Space"
     title: "Predicted Biological Activity of Purchasable Chemical Space"
@@ -31,6 +44,8 @@ feature_row0:
         <i class="fas fa-file-alt"></i> bioRxiv
     btn2_class: "btn--info"
 
+feature_row1:
+
   - image_path: /assets/images/papers/10.1021.acs.jmedchem.7b00696.jpg
     alt: "A Simple Representation of Three-Dimensional Molecular Structure"
     title: "A Simple Representation of Three-Dimensional Molecular Structure"
@@ -43,8 +58,6 @@ feature_row0:
     btn2_label: >-
         <i class="fas fa-file-alt"></i> bioRxiv
     btn2_class: "btn--info"
-
-feature_row1:
 
   - image_path: /assets/images/papers/10.1038.nchembio.2097.jpg
     alt: "Zebrafish behavioral profiling identifies multitarget antipsychotic-like compounds"
@@ -64,6 +77,8 @@ feature_row1:
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
 
+feature_row2:
+
   - image_path: /assets/images/papers/10.1016.S2215-0366(15)00553-2.jpg
     alt: "Polygenic overlap between schizophrenia risk and antipsychotic response: a genomic medicine approach"
     title: "Polygenic overlap between schizophrenia risk and antipsychotic response: a genomic medicine approach"
@@ -72,8 +87,6 @@ feature_row1:
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
-
-feature_row2:
 
   - image_path: /assets/images/papers/10.1007.s10928-015-9436-y.jpg
     alt: "Prediction and validation of enzyme and transporter off-targets for metformin"
@@ -93,6 +106,8 @@ feature_row2:
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
 
+feature_row3:
+
   - image_path: /assets/images/papers/10.1371.journal.pbio.1001712.jpg
     alt: "In silico molecular comparisons of C. elegans and mammalian pharmacology identify distinct targets that regulate feeding"
     title: "In silico molecular comparisons of C. elegans and mammalian pharmacology identify distinct targets that regulate feeding"
@@ -101,8 +116,6 @@ feature_row2:
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
-
-feature_row3:
 
   - image_path: /assets/images/papers/10.1038.nature11159.jpg
     alt: "Large-scale prediction and testing of drug activity on side-effect targets"
@@ -122,6 +135,8 @@ feature_row3:
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
 
+feature_row4:
+
   - image_path: /assets/images/papers/10.1038.npp.2010.195.jpg
     alt: "The presynaptic component of the serotonergic system is required for clozapine's efficacy"
     title: "The presynaptic component of the serotonergic system is required for clozapine's efficacy"
@@ -130,8 +145,6 @@ feature_row3:
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
-
-feature_row4:
 
   - image_path: /assets/images/papers/10.1021.bi101540g.jpg
     alt: "The chemical basis of pharmacology"
@@ -151,6 +164,8 @@ feature_row4:
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
 
+feature_row5:
+
   - image_path: /assets/images/papers/10.1021.jm901613f.jpg
     alt: "Prediction and evaluation of protein farnesyltransferase inhibition by commercial drugs"
     title: "Prediction and evaluation of protein farnesyltransferase inhibition by commercial drugs"
@@ -159,8 +174,6 @@ feature_row4:
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
-
-feature_row5:
 
   - image_path: /assets/images/papers/20581797.jpg
     alt: "A pilot study of the pharmacodynamic impact of SSRI drug selection and beta-1 receptor genotype (ADRB1) on cardiac vital signs in depressed patients: a novel pharmacogenetic approach"
@@ -180,6 +193,8 @@ feature_row5:
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
 
+feature_row6:
+
   - image_path: /assets/images/papers/10.1371.journal.pcbi.1000474.jpg
     alt: "A mapping of drug space from the viewpoint of small molecule metabolism"
     title: "A mapping of drug space from the viewpoint of small molecule metabolism"
@@ -188,8 +203,6 @@ feature_row5:
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
-
-feature_row6:
 
   - image_path: /assets/images/papers/10.1038.nchembio.180.jpg
     alt: "Quantifying biogenic bias in screening libraries"
@@ -209,6 +222,8 @@ feature_row6:
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
 
+feature_row7:
+
   - image_path: /assets/images/papers/10.1021.ci8000259.jpg
     alt: "Quantifying the relationships among drug classes"
     title: "Quantifying the relationships among drug classes"
@@ -217,8 +232,6 @@ feature_row6:
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
-
-feature_row7:
 
   - image_path: /assets/images/papers/10.1038.nbt1284.jpg
     alt: "Relating protein pharmacology by ligand chemistry"

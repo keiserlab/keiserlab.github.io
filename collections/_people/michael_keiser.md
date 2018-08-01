@@ -9,6 +9,10 @@ type: member
 header:
   teaser: /assets/images/people/bio-keiser.jpg
 papers: 
+    - title: The Psychiatric Cell Map Initiative- A Convergent Systems Biological Approach to Illuminating Key Molecular Pathways in Neuropsychiatric Disorders
+      excerpt: __Cell__. 2018 Jul 26. Willsey AJ, Morris MT, Wang S, Willsey HR, Sun N, Teerikorpi N, Baum TB, Cagney G, Bender KJ, Desai TA, Srivastava D, Davis GW, Doudna J, Chang E, Sohal V, Lowenstein DH, Li H, Agard D, Keiser MJ, Shoichet B, von Zastrow M, Mucke L, Finkbeiner S, Gan L, Sestan N, Ward ME, Huttenhain R, Nowakowski TJ, Bellen HJ, Frank LM, Khokha MK, Lifton RP, Kampmann M, Ideker T, State MW, Krogan NJ.
+      link: "/publications/"
+
     - title: Predicted Biological Activity of Purchasable Chemical Space
       excerpt: __J Chem Inf Model__. 2018 Jan 22. Irwin JJ, Gaskins G, Sterling T, Mysinger MM, Keiser MJ.
       link: "/publications/"
