@@ -3,7 +3,7 @@
 title: Amanda Li, PhD
 author: amanda_li
 layout: author-bio
-jobtitle: Postdoctoral Scholar
+jobtitle: ATOM Postdoctoral Fellow
 bio: 
 type: member
 header:
