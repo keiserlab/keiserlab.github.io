@@ -11,7 +11,7 @@ feature_row:
   - image_path: /assets/images/lab-photo-2.jpg
     alt: "lab lunch"
     title: "Welcome to the Keiser Lab"
-    excerpt: "We're part of the [Institute for Neurodegenerative Diseases](http://ind.ucsf.edu), the [Institute for Computational Health Sciences](http://ichs.ucsf.edu), the [Department of Pharmaceutical Chemistry](http://pharmchem.ucsf.edu), and the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/).
+    excerpt: "We're part of the [Institute for Neurodegenerative Diseases](http://ind.ucsf.edu), the [Bakar Computational Health Sciences Institute](http://bakarinstitute.ucsf.edu/), the [Department of Pharmaceutical Chemistry](http://pharmchem.ucsf.edu), and the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/).
 
     We're located in the [Sandler Neurosciences Center](http://www.som.com/projects/university_of_california_san_francisco_sandler_neurosciences_center) at UCSF Mission Bay."
 entries_layout: grid
