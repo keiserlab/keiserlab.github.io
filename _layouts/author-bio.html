@@ -14,7 +14,7 @@ author_profile: true
 
 {% if author.bio_long %}
   <p itemprop="description">
-    {{ author.bio_long }}
+    {{ author.bio_long | markdownify }}
   </p>
 {% endif %}
 
