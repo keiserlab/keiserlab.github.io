@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: splash
-excerpt: "Systems pharmacology laboratory."
+excerpt: "Systems pharmacology and deep learning laboratory at UCSF."
 tags: [SEA, machine learning, systems pharmacology, computational chemical biology]
 header:
    image: /assets/images/bar-network.png

@@ -43,6 +43,8 @@ PG_HDR_TEMPLATE = """---
 title: Publications
 layout: splash
 permalink: /publications/
+excerpt: "Selected lab publications, with links to preprints and supporting content."
+tags: [publications, papers, preprints, manuscripts]
 header:
    image: /assets/images/bar-network.png
 intro:

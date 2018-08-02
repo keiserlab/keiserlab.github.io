@@ -3,7 +3,7 @@ layout: posts
 title: News
 classes:
 permalink: /news/
-excerpt: "News items"
+excerpt: "Current and archived lab news posts."
 header:
    image: /assets/images/bar-network.png
 ---

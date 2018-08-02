@@ -2,7 +2,8 @@
 layout: single
 title: Research directions
 permalink: /research/
-tags: [research, projects, SEA, Similarity Ensemble Approach, forward polypharmacology]
+excerpt: "Summary of major lab research directions in polypharmacology, phenotypic screen mechanism of action discovery, and precision drug response."
+tags: [research, projects, SEA, Similarity Ensemble Approach, forward polypharmacology, precision medicine]
 modified: 
 comments: false
 header:

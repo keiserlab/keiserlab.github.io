@@ -2,6 +2,7 @@
 layout: single
 title: Contact
 permalink: /contact/
+excerpt: "Physical and mailing address contact information."
 tags: [contact, address, directions]
 modified: 
 comments: false

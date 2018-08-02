@@ -1,7 +1,7 @@
 ---
 title: Job posts
 permalink: /jobs/
-excerpt: "Job posts"
+excerpt: "Lab job posts, open and archived."
 header:
    image: /assets/images/bar-network.png
 layout: category

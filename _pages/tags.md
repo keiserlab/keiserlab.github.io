@@ -2,7 +2,7 @@
 layout: tags
 title: Tags
 permalink: /tags/
-excerpt: "Tags"
+excerpt: "News items and job posts organized by tag."
 header:
    image: /assets/images/bar-network.png
 ---
