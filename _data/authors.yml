@@ -110,6 +110,17 @@ ziqi_tang:
   ncbi_id: Tang Z
   type: member
 
+ben_wong:
+  name: Ben Wong
+  email: bwong@keiserlab.org
+  bio: ""
+  bio_long: "Ben keeps the trains running and the GPU fans spinning. He administers the computational infrastructures of three UCSF labs, and does it with panache."
+  avatar: /assets/images/people/bio-wong.jpg
+  title: Systems and Infrastructure Admin
+  github: valkaben
+  ncbi_id: Wong B
+  type: member
+
 
 # ALUMNI
 
@@ -134,6 +145,7 @@ michael_mysinger:
   title: "Principal Scientist"
   github: mmysinger
   linkedin: mysinger-michael-536ba5b
+  github: mmysinger
   ncbi_id: Mysinger MM
   type: alumn
 
@@ -144,6 +156,7 @@ teague_sterling:
   avatar: /assets/images/people/bio-sterling.jpg
   title: "Principal Research Informatics Engineer"
   linkedin: teaguesterling
+  github: teaguesterling
   ncbi_id: Sterling T
   type: alumn
 
@@ -155,6 +168,7 @@ jizhou_yang:
   avatar: /assets/images/people/bio-yang.jpg
   title: "Software Engineer Intern"
   linkedin: jizhou-yang-43082a55
+  github: JYang25
   ncbi_id: Yang J
   type: alumn
 
