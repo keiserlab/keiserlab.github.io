@@ -3,7 +3,7 @@
 title: Ben Wong
 author: ben_wong
 layout: author-bio
-jobtitle: Systems and Infrastructure Administrator
+jobtitle: Systems and Infrastructure Admin
 bio: 
 type: member
 header:
