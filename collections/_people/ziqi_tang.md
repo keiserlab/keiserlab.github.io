@@ -6,6 +6,7 @@ layout: author-bio
 jobtitle: Visiting Research Scholar
 bio: Tsinghua University
 type: member
+excerpt: "Biographical summary for Ziqi Tang, Visiting Research Scholar in the Keiser Lab at UCSF."
 header:
   teaser: /assets/images/people/bio-tang.jpg
 papers: 

@@ -13,8 +13,10 @@ feature_row0:
 
   - image_path: /assets/images/papers/10.1016.j.cell.2018.06.016.jpg
     alt: "The Psychiatric Cell Map Initiative: A Convergent Systems Biological Approach to Illuminating Key Molecular Pathways in Neuropsychiatric Disorders"
-    title: "The Psychiatric Cell Map Initiative: A Convergent Systems Biological Approach to Illuminating Key Molecular Pathways in Neuropsychiatric Disorders"
-    excerpt: "__Cell__. 2018 Jul 26. Willsey AJ, Morris MT, Wang S, Willsey HR, Sun N, Teerikorpi N, Baum TB, Cagney G, Bender KJ, Desai TA, Srivastava D, Davis GW, Doudna J, Chang E, Sohal V, Lowenstein DH, Li H, Agard D, Keiser MJ, Shoichet B, von Zastrow M, Mucke L, Finkbeiner S, Gan L, Sestan N, Ward ME, Huttenhain R, Nowakowski TJ, Bellen HJ, Frank LM, Khokha MK, Lifton RP, Kampmann M, Ideker T, State MW, Krogan NJ."
+    title: >-
+        <span itemprop="name">The Psychiatric Cell Map Initiative: A Convergent Systems Biological Approach to Illuminating Key Molecular Pathways in Neuropsychiatric Disorders</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Cell</strong></span>. <span itemprop="datePublished">2018 Jul 26</span>. <span itemprop="author">Willsey AJ, Morris MT, Wang S, Willsey HR, Sun N, Teerikorpi N, Baum TB, Cagney G, Bender KJ, Desai TA, Srivastava D, Davis GW, Doudna J, Chang E, Sohal V, Lowenstein DH, Li H, Agard D, Keiser MJ, Shoichet B, von Zastrow M, Mucke L, Finkbeiner S, Gan L, Sestan N, Ward ME, Huttenhain R, Nowakowski TJ, Bellen HJ, Frank LM, Khokha MK, Lifton RP, Kampmann M, Ideker T, State MW, Krogan NJ</span>.
     url: "https://doi.org/10.1016/j.cell.2018.06.016"
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
@@ -26,8 +28,10 @@ feature_row0:
 
   - image_path: /assets/images/papers/10.1021.acs.jcim.7b00316.jpg
     alt: "Predicted Biological Activity of Purchasable Chemical Space"
-    title: "Predicted Biological Activity of Purchasable Chemical Space"
-    excerpt: "__J Chem Inf Model__. 2018 Jan 22. Irwin JJ, Gaskins G, Sterling T, Mysinger MM, Keiser MJ."
+    title: >-
+        <span itemprop="name">Predicted Biological Activity of Purchasable Chemical Space</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>J Chem Inf Model</strong></span>. <span itemprop="datePublished">2018 Jan 22</span>. <span itemprop="author">Irwin JJ, Gaskins G, Sterling T, Mysinger MM, Keiser MJ</span>.
     url: "https://doi.org/10.1021/acs.jcim.7b00316"
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
@@ -35,8 +39,10 @@ feature_row0:
 
   - image_path: /assets/images/papers/10.1016.j.celrep.2017.10.026.jpg
     alt: "Evolutionarily Conserved Roles for Blood-Brain Barrier Xenobiotic Transporters in Endogenous Steroid Partitioning and Behavior"
-    title: "Evolutionarily Conserved Roles for Blood-Brain Barrier Xenobiotic Transporters in Endogenous Steroid Partitioning and Behavior"
-    excerpt: "__Cell Rep__. 2017 Oct 31. Hindle SJ, Munji RN, Dolghih E, Gaskins G, Orng S, Ishimoto H, Soung A, DeSalvo M, Kitamoto T, Keiser MJ, Jacobson MP, Daneman R, Bainton RJ."
+    title: >-
+        <span itemprop="name">Evolutionarily Conserved Roles for Blood-Brain Barrier Xenobiotic Transporters in Endogenous Steroid Partitioning and Behavior</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Cell Rep</strong></span>. <span itemprop="datePublished">2017 Oct 31</span>. <span itemprop="author">Hindle SJ, Munji RN, Dolghih E, Gaskins G, Orng S, Ishimoto H, Soung A, DeSalvo M, Kitamoto T, Keiser MJ, Jacobson MP, Daneman R, Bainton RJ</span>.
     url: "https://doi.org/10.1016/j.celrep.2017.10.026"
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
@@ -50,8 +56,10 @@ feature_row1:
 
   - image_path: /assets/images/papers/10.1021.acs.jmedchem.7b00696.jpg
     alt: "A Simple Representation of Three-Dimensional Molecular Structure"
-    title: "A Simple Representation of Three-Dimensional Molecular Structure"
-    excerpt: "__J Med Chem__. 2017 Sep 14. Axen SD, Huang XP, Caceres EL, Gendelev L, Roth BL, Keiser MJ."
+    title: >-
+        <span itemprop="name">A Simple Representation of Three-Dimensional Molecular Structure</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>J Med Chem</strong></span>. <span itemprop="datePublished">2017 Sep 14</span>. <span itemprop="author">Axen SD, Huang XP, Caceres EL, Gendelev L, Roth BL, Keiser MJ</span>.
     url: "https://doi.org/10.1021/acs.jmedchem.7b00696"
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
@@ -63,8 +71,10 @@ feature_row1:
 
   - image_path: /assets/images/papers/10.1038.nchembio.2097.jpg
     alt: "Zebrafish behavioral profiling identifies multitarget antipsychotic-like compounds"
-    title: "Zebrafish behavioral profiling identifies multitarget antipsychotic-like compounds"
-    excerpt: "__Nat Chem Biol__. 2016 Jul. Bruni G, Rennekamp AJ, Velenich A, McCarroll M, Gendelev L, Fertsch E, Taylor J, Lakhani P, Lensen D, Evron T, Lorello PJ, Huang XP, Kolczewski S, Carey G, Caldarone BJ, Prinssen E, Roth BL, Keiser MJ, Peterson RT, Kokel D."
+    title: >-
+        <span itemprop="name">Zebrafish behavioral profiling identifies multitarget antipsychotic-like compounds</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nat Chem Biol</strong></span>. <span itemprop="datePublished">2016 Jul</span>. <span itemprop="author">Bruni G, Rennekamp AJ, Velenich A, McCarroll M, Gendelev L, Fertsch E, Taylor J, Lakhani P, Lensen D, Evron T, Lorello PJ, Huang XP, Kolczewski S, Carey G, Caldarone BJ, Prinssen E, Roth BL, Keiser MJ, Peterson RT, Kokel D</span>.
     url: "https://doi.org/10.1038/nchembio.2097"
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
@@ -72,8 +82,10 @@ feature_row1:
 
   - image_path: /assets/images/papers/10.1021.acschembio.5b00800.jpg
     alt: "Leveraging Large-scale Behavioral Profiling in Zebrafish to Explore Neuroactive Polypharmacology"
-    title: "Leveraging Large-scale Behavioral Profiling in Zebrafish to Explore Neuroactive Polypharmacology"
-    excerpt: "__ACS Chem Biol__. 2016 Apr 15. McCarroll MN, Gendelev L, Keiser MJ, Kokel D."
+    title: >-
+        <span itemprop="name">Leveraging Large-scale Behavioral Profiling in Zebrafish to Explore Neuroactive Polypharmacology</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>ACS Chem Biol</strong></span>. <span itemprop="datePublished">2016 Apr 15</span>. <span itemprop="author">McCarroll MN, Gendelev L, Keiser MJ, Kokel D</span>.
     url: "https://doi.org/10.1021/acschembio.5b00800"
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
@@ -83,8 +95,10 @@ feature_row2:
 
   - image_path: /assets/images/papers/10.1016.S2215-0366(15)00553-2.jpg
     alt: "Polygenic overlap between schizophrenia risk and antipsychotic response: a genomic medicine approach"
-    title: "Polygenic overlap between schizophrenia risk and antipsychotic response: a genomic medicine approach"
-    excerpt: "__Lancet Psychiatry__. 2016 Apr. Ruderfer DM, Charney AW, Readhead B, Kidd BA, Kahler AK, Kenny PJ, Keiser MJ, Moran JL, Hultman CM, Scott SA, Sullivan PF, Purcell SM, Dudley JT, Sklar P."
+    title: >-
+        <span itemprop="name">Polygenic overlap between schizophrenia risk and antipsychotic response: a genomic medicine approach</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Lancet Psychiatry</strong></span>. <span itemprop="datePublished">2016 Apr</span>. <span itemprop="author">Ruderfer DM, Charney AW, Readhead B, Kidd BA, Kahler AK, Kenny PJ, Keiser MJ, Moran JL, Hultman CM, Scott SA, Sullivan PF, Purcell SM, Dudley JT, Sklar P</span>.
     url: "https://doi.org/10.1016/S2215-0366(15)00553-2"
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
@@ -92,8 +106,10 @@ feature_row2:
 
   - image_path: /assets/images/papers/10.1007.s10928-015-9436-y.jpg
     alt: "Prediction and validation of enzyme and transporter off-targets for metformin"
-    title: "Prediction and validation of enzyme and transporter off-targets for metformin"
-    excerpt: "__J Pharmacokinet Pharmacodyn__. 2015 Oct. Yee SW, Lin L, Merski M, Keiser MJ, Gupta A, Zhang Y, Chien HC, Shoichet BK, Giacomini KM."
+    title: >-
+        <span itemprop="name">Prediction and validation of enzyme and transporter off-targets for metformin</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>J Pharmacokinet Pharmacodyn</strong></span>. <span itemprop="datePublished">2015 Oct</span>. <span itemprop="author">Yee SW, Lin L, Merski M, Keiser MJ, Gupta A, Zhang Y, Chien HC, Shoichet BK, Giacomini KM</span>.
     url: "https://doi.org/10.1007/s10928-015-9436-y"
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
@@ -101,8 +117,10 @@ feature_row2:
 
   - image_path: /assets/images/papers/10.1002.cpt.2.jpg
     alt: "Systems pharmacology augments drug safety surveillance"
-    title: "Systems pharmacology augments drug safety surveillance"
-    excerpt: "__Clin Pharmacol Ther__. 2015 Feb. Lorberbaum T, Nasir M, Keiser MJ, Vilar S, Hripcsak G, Tatonetti NP."
+    title: >-
+        <span itemprop="name">Systems pharmacology augments drug safety surveillance</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Clin Pharmacol Ther</strong></span>. <span itemprop="datePublished">2015 Feb</span>. <span itemprop="author">Lorberbaum T, Nasir M, Keiser MJ, Vilar S, Hripcsak G, Tatonetti NP</span>.
     url: "https://doi.org/10.1002/cpt.2"
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
@@ -112,8 +130,10 @@ feature_row3:
 
   - image_path: /assets/images/papers/10.1371.journal.pbio.1001712.jpg
     alt: "In silico molecular comparisons of C. elegans and mammalian pharmacology identify distinct targets that regulate feeding"
-    title: "In silico molecular comparisons of C. elegans and mammalian pharmacology identify distinct targets that regulate feeding"
-    excerpt: "__PLoS Biol__. 2013 Nov. Lemieux GA, Keiser MJ, Sassano MF, Laggner C, Mayer F, Bainton RJ, Werb Z, Roth BL, Shoichet BK, Ashrafi K."
+    title: >-
+        <span itemprop="name">In silico molecular comparisons of C. elegans and mammalian pharmacology identify distinct targets that regulate feeding</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>PLoS Biol</strong></span>. <span itemprop="datePublished">2013 Nov</span>. <span itemprop="author">Lemieux GA, Keiser MJ, Sassano MF, Laggner C, Mayer F, Bainton RJ, Werb Z, Roth BL, Shoichet BK, Ashrafi K</span>.
     url: "https://doi.org/10.1371/journal.pbio.1001712"
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
@@ -121,8 +141,10 @@ feature_row3:
 
   - image_path: /assets/images/papers/10.1038.nature11159.jpg
     alt: "Large-scale prediction and testing of drug activity on side-effect targets"
-    title: "Large-scale prediction and testing of drug activity on side-effect targets"
-    excerpt: "__Nature__. 2012 Jun 10. Lounkine E, Keiser MJ, Whitebread S, Mikhailov D, Hamon J, Jenkins JL, Lavan P, Weber E, Doak AK, Cote S, Shoichet BK, Urban L."
+    title: >-
+        <span itemprop="name">Large-scale prediction and testing of drug activity on side-effect targets</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nature</strong></span>. <span itemprop="datePublished">2012 Jun 10</span>. <span itemprop="author">Lounkine E, Keiser MJ, Whitebread S, Mikhailov D, Hamon J, Jenkins JL, Lavan P, Weber E, Doak AK, Cote S, Shoichet BK, Urban L</span>.
     url: "https://doi.org/10.1038/nature11159"
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
@@ -130,8 +152,10 @@ feature_row3:
 
   - image_path: /assets/images/papers/10.1038.nchembio.732.jpg
     alt: "Chemical informatics and target identification in a zebrafish phenotypic screen"
-    title: "Chemical informatics and target identification in a zebrafish phenotypic screen"
-    excerpt: "__Nat Chem Biol__. 2011 Dec 18. Laggner C, Kokel D, Setola V, Tolia A, Lin H, Irwin JJ, Keiser MJ, Cheung CY, Minor DL Jr, Roth BL, Peterson RT, Shoichet BK."
+    title: >-
+        <span itemprop="name">Chemical informatics and target identification in a zebrafish phenotypic screen</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nat Chem Biol</strong></span>. <span itemprop="datePublished">2011 Dec 18</span>. <span itemprop="author">Laggner C, Kokel D, Setola V, Tolia A, Lin H, Irwin JJ, Keiser MJ, Cheung CY, Minor DL Jr, Roth BL, Peterson RT, Shoichet BK</span>.
     url: "https://doi.org/10.1038/nchembio.732"
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
@@ -141,8 +165,10 @@ feature_row4:
 
   - image_path: /assets/images/papers/10.1038.npp.2010.195.jpg
     alt: "The presynaptic component of the serotonergic system is required for clozapine's efficacy"
-    title: "The presynaptic component of the serotonergic system is required for clozapine's efficacy"
-    excerpt: "__Neuropsychopharmacology__. 2011 Feb. Yadav PN, Abbas AI, Farrell MS, Setola V, Sciaky N, Huang XP, Kroeze WK, Crawford LK, Piel DA, Keiser MJ, Irwin JJ, Shoichet BK, Deneris ES, Gingrich J, Beck SG, Roth BL."
+    title: >-
+        <span itemprop="name">The presynaptic component of the serotonergic system is required for clozapine's efficacy</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Neuropsychopharmacology</strong></span>. <span itemprop="datePublished">2011 Feb</span>. <span itemprop="author">Yadav PN, Abbas AI, Farrell MS, Setola V, Sciaky N, Huang XP, Kroeze WK, Crawford LK, Piel DA, Keiser MJ, Irwin JJ, Shoichet BK, Deneris ES, Gingrich J, Beck SG, Roth BL</span>.
     url: "https://doi.org/10.1038/npp.2010.195"
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
@@ -150,8 +176,10 @@ feature_row4:
 
   - image_path: /assets/images/papers/10.1021.bi101540g.jpg
     alt: "The chemical basis of pharmacology"
-    title: "The chemical basis of pharmacology"
-    excerpt: "__Biochemistry__. 2010 Dec 7. Keiser MJ, Irwin JJ, Shoichet BK."
+    title: >-
+        <span itemprop="name">The chemical basis of pharmacology</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Biochemistry</strong></span>. <span itemprop="datePublished">2010 Dec 7</span>. <span itemprop="author">Keiser MJ, Irwin JJ, Shoichet BK</span>.
     url: "https://doi.org/10.1021/bi101540g"
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
@@ -159,8 +187,10 @@ feature_row4:
 
   - image_path: /assets/images/papers/10.1021.jm100488w.jpg
     alt: "Complementarity between a docking and a high-throughput screen in discovering new cruzain inhibitors"
-    title: "Complementarity between a docking and a high-throughput screen in discovering new cruzain inhibitors"
-    excerpt: "__J Med Chem__. 2010 Jul 8. Ferreira RS, Simeonov A, Jadhav A, Eidam O, Mott BT, Keiser MJ, McKerrow JH, Maloney DJ, Irwin JJ, Shoichet BK."
+    title: >-
+        <span itemprop="name">Complementarity between a docking and a high-throughput screen in discovering new cruzain inhibitors</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>J Med Chem</strong></span>. <span itemprop="datePublished">2010 Jul 8</span>. <span itemprop="author">Ferreira RS, Simeonov A, Jadhav A, Eidam O, Mott BT, Keiser MJ, McKerrow JH, Maloney DJ, Irwin JJ, Shoichet BK</span>.
     url: "https://doi.org/10.1021/jm100488w"
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
@@ -170,8 +200,10 @@ feature_row5:
 
   - image_path: /assets/images/papers/10.1021.jm901613f.jpg
     alt: "Prediction and evaluation of protein farnesyltransferase inhibition by commercial drugs"
-    title: "Prediction and evaluation of protein farnesyltransferase inhibition by commercial drugs"
-    excerpt: "__J Med Chem__. 2010 Mar 25. DeGraw AJ, Keiser MJ, Ochocki JD, Shoichet BK, Distefano MD."
+    title: >-
+        <span itemprop="name">Prediction and evaluation of protein farnesyltransferase inhibition by commercial drugs</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>J Med Chem</strong></span>. <span itemprop="datePublished">2010 Mar 25</span>. <span itemprop="author">DeGraw AJ, Keiser MJ, Ochocki JD, Shoichet BK, Distefano MD</span>.
     url: "https://doi.org/10.1021/jm901613f"
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
@@ -179,8 +211,10 @@ feature_row5:
 
   - image_path: /assets/images/papers/20581797.jpg
     alt: "A pilot study of the pharmacodynamic impact of SSRI drug selection and beta-1 receptor genotype (ADRB1) on cardiac vital signs in depressed patients: a novel pharmacogenetic approach"
-    title: "A pilot study of the pharmacodynamic impact of SSRI drug selection and beta-1 receptor genotype (ADRB1) on cardiac vital signs in depressed patients: a novel pharmacogenetic approach"
-    excerpt: "__Psychopharmacol Bull__. 2010. Thomas KL, Ellingrod VL, Bishop JR, Keiser MJ."
+    title: >-
+        <span itemprop="name">A pilot study of the pharmacodynamic impact of SSRI drug selection and beta-1 receptor genotype (ADRB1) on cardiac vital signs in depressed patients: a novel pharmacogenetic approach</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Psychopharmacol Bull</strong></span>. <span itemprop="datePublished">2010</span>. <span itemprop="author">Thomas KL, Ellingrod VL, Bishop JR, Keiser MJ</span>.
     url: "https://www.ncbi.nlm.nih.gov/pubmed/20581797"
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
@@ -188,8 +222,10 @@ feature_row5:
 
   - image_path: /assets/images/papers/10.1038.nature08506.jpg
     alt: "Predicting new molecular targets for known drugs"
-    title: "Predicting new molecular targets for known drugs"
-    excerpt: "__Nature__. 2009 Nov 12. Keiser MJ, Setola V, Irwin JJ, Laggner C, Abbas AI, Hufeisen SJ, Jensen NH, Kuijer MB, Matos RC, Tran TB, Whaley R, Glennon RA, Hert J, Thomas KL, Edwards DD, Shoichet BK, Roth BL."
+    title: >-
+        <span itemprop="name">Predicting new molecular targets for known drugs</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nature</strong></span>. <span itemprop="datePublished">2009 Nov 12</span>. <span itemprop="author">Keiser MJ, Setola V, Irwin JJ, Laggner C, Abbas AI, Hufeisen SJ, Jensen NH, Kuijer MB, Matos RC, Tran TB, Whaley R, Glennon RA, Hert J, Thomas KL, Edwards DD, Shoichet BK, Roth BL</span>.
     url: "https://doi.org/10.1038/nature08506"
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
@@ -199,8 +235,10 @@ feature_row6:
 
   - image_path: /assets/images/papers/10.1371.journal.pcbi.1000474.jpg
     alt: "A mapping of drug space from the viewpoint of small molecule metabolism"
-    title: "A mapping of drug space from the viewpoint of small molecule metabolism"
-    excerpt: "__PLoS Comput Biol__. 2009 Aug. Adams JC, Keiser MJ, Basuino L, Chambers HF, Lee DS, Wiest OG, Babbitt PC."
+    title: >-
+        <span itemprop="name">A mapping of drug space from the viewpoint of small molecule metabolism</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>PLoS Comput Biol</strong></span>. <span itemprop="datePublished">2009 Aug</span>. <span itemprop="author">Adams JC, Keiser MJ, Basuino L, Chambers HF, Lee DS, Wiest OG, Babbitt PC</span>.
     url: "https://doi.org/10.1371/journal.pcbi.1000474"
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
@@ -208,8 +246,10 @@ feature_row6:
 
   - image_path: /assets/images/papers/10.1038.nchembio.180.jpg
     alt: "Quantifying biogenic bias in screening libraries"
-    title: "Quantifying biogenic bias in screening libraries"
-    excerpt: "__Nat Chem Biol__. 2009 Jul. Hert J, Irwin JJ, Laggner C, Keiser MJ, Shoichet BK."
+    title: >-
+        <span itemprop="name">Quantifying biogenic bias in screening libraries</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nat Chem Biol</strong></span>. <span itemprop="datePublished">2009 Jul</span>. <span itemprop="author">Hert J, Irwin JJ, Laggner C, Keiser MJ, Shoichet BK</span>.
     url: "https://doi.org/10.1038/nchembio.180"
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
@@ -217,8 +257,10 @@ feature_row6:
 
   - image_path: /assets/images/papers/10.1007.978-1-60761-274-2_8.jpg
     alt: "Off-target networks derived from ligand set similarity"
-    title: "Off-target networks derived from ligand set similarity"
-    excerpt: "__Methods Mol Biol__. 2009. Keiser MJ, Hert J."
+    title: >-
+        <span itemprop="name">Off-target networks derived from ligand set similarity</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Methods Mol Biol</strong></span>. <span itemprop="datePublished">2009</span>. <span itemprop="author">Keiser MJ, Hert J</span>.
     url: "https://doi.org/10.1007/978-1-60761-274-2_8"
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
@@ -228,8 +270,10 @@ feature_row7:
 
   - image_path: /assets/images/papers/10.1021.ci8000259.jpg
     alt: "Quantifying the relationships among drug classes"
-    title: "Quantifying the relationships among drug classes"
-    excerpt: "__J Chem Inf Model__. 2008 Apr. Hert J, Keiser MJ, Irwin JJ, Oprea TI, Shoichet BK."
+    title: >-
+        <span itemprop="name">Quantifying the relationships among drug classes</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>J Chem Inf Model</strong></span>. <span itemprop="datePublished">2008 Apr</span>. <span itemprop="author">Hert J, Keiser MJ, Irwin JJ, Oprea TI, Shoichet BK</span>.
     url: "https://doi.org/10.1021/ci8000259"
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
@@ -237,8 +281,10 @@ feature_row7:
 
   - image_path: /assets/images/papers/10.1038.nbt1284.jpg
     alt: "Relating protein pharmacology by ligand chemistry"
-    title: "Relating protein pharmacology by ligand chemistry"
-    excerpt: "__Nat Biotechnol__. 2007 Feb. Keiser MJ, Roth BL, Armbruster BN, Ernsberger P, Irwin JJ, Shoichet BK."
+    title: >-
+        <span itemprop="name">Relating protein pharmacology by ligand chemistry</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nat Biotechnol</strong></span>. <span itemprop="datePublished">2007 Feb</span>. <span itemprop="author">Keiser MJ, Roth BL, Armbruster BN, Ernsberger P, Irwin JJ, Shoichet BK</span>.
     url: "https://doi.org/10.1038/nbt1284"
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi

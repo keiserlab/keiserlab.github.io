@@ -6,6 +6,7 @@ layout: author-bio
 jobtitle: Postdoctoral Scholar
 bio: 
 type: member
+excerpt: "Biographical summary for Kangway Chuang, PhD, Postdoctoral Scholar in the Keiser Lab at UCSF."
 header:
   teaser: /assets/images/people/bio-chuang.jpg
 papers: 

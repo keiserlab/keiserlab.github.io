@@ -61,8 +61,10 @@ F_ROW_HDR_TEMPLATE = """feature_row%d:
 F_ROW_HDR_ITEM = """
   - image_path: /assets/images/papers/%s
     alt: "%s"
-    title: "%s"
-    excerpt: "%s"
+    title: >-
+        %s
+    excerpt: >-
+        %s
     url: "%s"
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
@@ -78,6 +80,10 @@ F_ROW_HDR_PREPRINT = """    url2: "%s"
 F_ROW_INCL_TEMPLATE = """
 {%% include feature_row_paper.html id="feature_row%d" %%}
 """
+
+PAPER_TEMPLATE = '<span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>%s</strong></span>. ' +\
+                 '<span itemprop="datePublished">%s</span>. ' +\
+                 '<span itemprop="author">%s</span>.'
 
 CSV_HEADER = ['id', 'title', 'journal', 'date', 'authors', 'link', 
     'preprint_url', 'preprint_journal', 'jekyll_date','type']
@@ -190,8 +196,8 @@ def main(fmedline, fpreprint, outfile, datafile):
             items.append(F_ROW_HDR_ITEM % (
                 '%s.jpg' % p[0],
                 p[1],
-                p[1],
-                '__%s__. %s. %s.' % (p[2], p[3], p[4]), # this is "excerpt"
+                '<span itemprop="name">%s</span>' % p[1],
+                PAPER_TEMPLATE % (p[2], p[3], p[4]), # this is "excerpt"
                 p[5],
                 pprint,
                 ))

@@ -6,6 +6,7 @@ layout: author-bio
 jobtitle: 
 bio: 
 type: alumn
+excerpt: "Biographical summary for Cristina Melero, MS,  in the Keiser Lab at UCSF."
 header:
   teaser: /assets/images/people/bio-melero.jpg
 papers: 

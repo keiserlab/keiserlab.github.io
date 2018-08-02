@@ -6,6 +6,7 @@ layout: author-bio
 jobtitle: ATOM Postdoctoral Fellow
 bio: 
 type: member
+excerpt: "Biographical summary for Amanda Li, PhD, ATOM Postdoctoral Fellow in the Keiser Lab at UCSF."
 header:
   teaser: /assets/images/people/bio-li.jpg
 papers: 

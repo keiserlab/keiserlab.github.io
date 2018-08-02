@@ -10,7 +10,6 @@ import csv
 import os
 import yaml
 
-
 DEF_OUTDIR = "people_test"
 
 EXCERPT_DIVIDER = " - " # https://fontawesome.com/icons/
@@ -23,6 +22,7 @@ layout: author-bio
 jobtitle: %s
 bio: %s
 type: %s
+excerpt: "Biographical summary for %s, %s in the Keiser Lab at UCSF."
 header:
   teaser: %s
 papers: %s
@@ -34,11 +34,12 @@ PAPER_TEMPLATE = """
       link: "%s"
 """
 
-# columns in papers.csv datafile
+# columns in papers.csv datafile as defined in ../papers/merge_myncbi.py CSV_HEADER
 PCOL_TITLE = 1
 PCOL_JOUR = 2
 PCOL_DATE = 3
 PCOL_AUTH = 4
+PCOL_LINK = 5
 
 
 def yml_sanitize(txt):
@@ -65,12 +66,12 @@ def main(fauthors, outdir, fpapers):
         paper_yml = ''.join([PAPER_TEMPLATE % (
             yml_sanitize(ppr[PCOL_TITLE]),
             yml_sanitize('__%s__. %s. %s.' % (ppr[PCOL_JOUR], ppr[PCOL_DATE], ppr[PCOL_AUTH])), # this is "excerpt"
-            '/publications/',
+            ppr[PCOL_LINK],
             ) for ppr in display_papers])
 
         with open(os.path.join(outdir, '%s.md' % uid), 'wb') as fo:
             fo.write(TEMPLATE % (info['name'], uid, info['title'], info['bio'], 
-                    info['type'], info['avatar'],
+                    info['type'], info['name'], info['title'], info['avatar'],
                     paper_yml))
     print 'wrote %d people to %s' % (len(ppl_dict), os.path.abspath(outdir))
 

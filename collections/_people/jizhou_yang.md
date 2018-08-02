@@ -6,6 +6,7 @@ layout: author-bio
 jobtitle: Software Engineer Intern
 bio: UCSF
 type: alumn
+excerpt: "Biographical summary for Jizhou Yang, Software Engineer Intern in the Keiser Lab at UCSF."
 header:
   teaser: /assets/images/people/bio-yang.jpg
 papers: 

@@ -6,6 +6,7 @@ layout: author-bio
 jobtitle: Specialist
 bio: 
 type: member
+excerpt: "Biographical summary for Nick Mew, MS, Specialist in the Keiser Lab at UCSF."
 header:
   teaser: /assets/images/people/bio-mew.jpg
 papers: 

@@ -24,46 +24,48 @@ mjk 2018-06-14 based on feature-row, extended for 2 btns & h3 title (substantial
     {% endif %}
 
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
-      <div class="archive__item">
-        {% if f.image_path %}
-          {% comment %}for fixed height: <div class="archive__item-teaser-paper">{% endcomment %}
-          <div class="archive__item-teaser">
-            <img src=
-              {% if f.image_path contains "://" %}
-                "{{ f.image_path }}"
-              {% else %}
-                "{{ f.image_path | relative_url }}"
+      <article itemscope itemtype="http://schema.org/ScholarlyArticle">
+        <div class="archive__item">
+          {% if f.image_path %}
+            {% comment %}for fixed height: <div class="archive__item-teaser-paper">{% endcomment %}
+            <div class="archive__item-teaser">
+              <img src=
+                {% if f.image_path contains "://" %}
+                  "{{ f.image_path }}"
+                {% else %}
+                  "{{ f.image_path | relative_url }}"
+                {% endif %}
+              alt="{% if f.alt %}{{ f.alt }}{% endif %}" itemProp="image">
+              {% if f.image_caption %}
+                <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
               {% endif %}
-            alt="{% if f.alt %}{{ f.alt }}{% endif %}">
-            {% if f.image_caption %}
-              <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
-            {% endif %}
-          </div>
-        {% endif %}
-
-        <div class="archive__item-body">
-          {% if f.title %}
-            <h3 class="archive__item-title">{{ f.title }}</h3>
-          {% endif %}
-
-          {% if f.excerpt %}
-            <div class="archive__item-excerpt">
-              {{ f.excerpt | markdownify }}
             </div>
           {% endif %}
 
-          {% if f.url or f.url2 %}
-            <p>
-              {% if f.url and f.url != "" %}
-                <a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
-              {% endif %}
-              {% if f.url2 and f.url2 != "" %}
-                <a href="{{ f_url2 }}" class="btn {{ f.btn2_class }}">{{ f.btn2_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
-              {% endif %}
-            </p>
-          {% endif %}
+          <div class="archive__item-body">
+            {% if f.title %}
+              <h3 class="archive__item-title">{{ f.title }}</h3>
+            {% endif %}
+
+            {% if f.excerpt %}
+              <div class="archive__item-excerpt">
+                {{ f.excerpt }}
+              </div>
+            {% endif %}
+
+            {% if f.url or f.url2 %}
+              <p>
+                {% if f.url and f.url != "" %}
+                  <a href="{{ f_url }}" class="btn {{ f.btn_class }}" itemProp="sameAs">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+                {% endif %}
+                {% if f.url2 and f.url2 != "" %}
+                  <a href="{{ f_url2 }}" class="btn {{ f.btn2_class }}" itemProp="url">{{ f.btn2_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+                {% endif %}
+              </p>
+            {% endif %}
+          </div>
         </div>
-      </div>
+      </article>
     </div>
   {% endfor %}
 

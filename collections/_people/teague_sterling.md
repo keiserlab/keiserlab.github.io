@@ -6,11 +6,12 @@ layout: author-bio
 jobtitle: Principal Research Informatics Engineer
 bio: BioMarin Pharmaceutical
 type: alumn
+excerpt: "Biographical summary for Teague Sterling, MS, Principal Research Informatics Engineer in the Keiser Lab at UCSF."
 header:
   teaser: /assets/images/people/bio-sterling.jpg
 papers: 
     - title: Predicted Biological Activity of Purchasable Chemical Space
       excerpt: __J Chem Inf Model__. 2018 Jan 22. Irwin JJ, Gaskins G, Sterling T, Mysinger MM, Keiser MJ.
-      link: "/publications/"
+      link: "https://doi.org/10.1021/acs.jcim.7b00316"
 
 ---
