@@ -1,7 +1,3 @@
-# keiserlab
+# keiserlab.org
 
-## Keiser lab site, using:
-
-**[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** is a two column responsive Jekyll theme perfect for powering your GitHub hosted blog. 
-
-To learn how to install and use this theme check out the [Setup Guide](http://mmistakes.github.io/minimal-mistakes/theme-setup/) for more information.
+We're using the [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes) Jekyll theme. For theme setup and use info, check out the [Setup Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).

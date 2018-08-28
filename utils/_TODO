@@ -1,0 +1,16 @@
+# feature updates
+
+-> new page: resources collection (tools, repos, supplemental/data)
+-> new page: photo albums/internal
+
+-> add lucas, rotation students? new section for shorter appointments
+-> feature-row photos per person?
+
+# reference
+
+collections
+    https://mmistakes.github.io/minimal-mistakes/docs/collections/
+    https://jekyllrb.com/docs/collections/
+    https://mmistakes.github.io/minimal-mistakes/docs/layouts/
+data
+    https://jekyllrb.com/docs/datafiles/

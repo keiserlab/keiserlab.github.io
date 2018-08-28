@@ -1,19 +1,13 @@
-# Site navigation links
-
+main:
 - title: research
   url: /research/
-
 - title: publications
   url: /publications/
-
 - title: people
   url: /people/
-
 - title: news
   url: /news/
-
 - title: jobs
   url: /jobs/
-
 - title: contact
   url: /contact/

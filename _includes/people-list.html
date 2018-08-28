@@ -1,0 +1,25 @@
+{% comment %}
+mjk: variant of docs-collection.html that changes lines:
+  {% assign entries = include.entries %}
+  {% include people-single.html %}
+{% endcomment %}
+
+{% assign entries = include.entries %}
+
+{% if include.sort_by == 'title' %}
+  {% if include.sort_order == 'reverse' %}
+    {% assign entries = entries | sort: 'title' | reverse %}
+  {% else %}
+    {% assign entries = entries | sort: 'title' %}
+  {% endif %}
+{% elsif include.sort_by == 'date' %}
+  {% if include.sort_order == 'reverse' %}
+    {% assign entries = entries | sort: 'date' | reverse %}
+  {% else %}
+    {% assign entries = entries | sort: 'date' %}
+  {% endif %}
+{% endif %}
+
+{%- for post in entries -%}
+  {% include people-single.html %}
+{%- endfor -%}

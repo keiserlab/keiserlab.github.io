@@ -1,0 +1,34 @@
+---
+layout: single
+author_profile: true
+---
+
+{% assign author = page.author %}
+{% assign author = site.data.authors[author] | default: author %}
+
+<article itemscope itemtype="http://schema.org/Person">
+  <div>
+    {% if author.title %}
+      <p class="author__title" itemprop="jobTitle">
+        <strong>{{ author.title }}</strong>
+      </p>
+    {% endif %}
+
+    {% if author.bio_long %}
+      <p itemprop="description">
+        {{ author.bio_long | markdownify }}
+      </p>
+    {% endif %}
+  </div>
+
+  {% if page.papers.size > 0 %}
+  <h2>Lab papers</h2>
+  <ol reversed>
+      {% for paper in page.papers %}
+      <li itemprop="knowsAbout">
+          <a href="{{ paper.link }}">{{ paper.title }}</a>. {{ paper.excerpt | markdownify }}
+      </li>
+      {% endfor %}
+  </ol>
+  {% endif %}
+</article>
