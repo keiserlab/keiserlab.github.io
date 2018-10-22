@@ -1,7 +1,62 @@
+PMID- 30336670
+OWN - NLM
+STAT- In-Data-Review
+LR  - 20181019
+IS  - 1554-8937 (Electronic)
+IS  - 1554-8929 (Linking)
+VI  - 13
+IP  - 10
+DP  - 2018 Oct 19
+TI  - Adversarial Controls for Scientific Machine Learning.
+PG  - 2819-2821
+LID - 10.1021/acschembio.8b00881 [doi]
+AB  - New machine learning methods to analyze raw chemical and biological data are now 
+      widely accessible as open-source toolkits. This positions researchers to leverage
+      powerful, predictive models in their own domains. We caution, however, that the
+      application of machine learning to experimental research merits careful
+      consideration. Machine learning algorithms readily exploit confounding variables 
+      and experimental artifacts instead of relevant patterns, leading to
+      overoptimistic performance and poor model generalization. In parallel to the
+      strong control experiments that remain a cornerstone of experimental research, we
+      advance the concept of adversarial controls for scientific machine learning: the 
+      design of exacting and purposeful experiments to ensure that predictive
+      performance arises from meaningful models.
+FAU - Chuang, Kangway V
+AU  - Chuang KV
+AUID- ORCID: http://orcid.org/0000-0002-0652-8071
+AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
+      Therapeutic Sciences, Institute for Neurodegenerative Diseases and Bakar
+      Institute for Computational Health Sciences , University of California-San
+      Francisco , 675 Nelson Rising Lane , San Francisco , California 94158 , United
+      States.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AUID- ORCID: http://orcid.org/0000-0002-1240-2192
+AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
+      Therapeutic Sciences, Institute for Neurodegenerative Diseases and Bakar
+      Institute for Computational Health Sciences , University of California-San
+      Francisco , 675 Nelson Rising Lane , San Francisco , California 94158 , United
+      States.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - ACS Chem Biol
+JT  - ACS chemical biology
+JID - 101282906
+EDAT- 2018/10/20 06:00
+MHDA- 2018/10/20 06:00
+CRDT- 2018/10/20 06:00
+PHST- 2018/10/20 06:00 [entrez]
+PHST- 2018/10/20 06:00 [pubmed]
+PHST- 2018/10/20 06:00 [medline]
+AID - 10.1021/acschembio.8b00881 [doi]
+PST - ppublish
+SO  - ACS Chem Biol. 2018 Oct 19;13(10):2819-2821. doi: 10.1021/acschembio.8b00881.
+
 PMID- 30053424
 OWN - NLM
 STAT- In-Data-Review
-LR  - 20180727
+LR  - 20181019
 IS  - 1097-4172 (Electronic)
 IS  - 0092-8674 (Linking)
 VI  - 174
@@ -226,6 +281,8 @@ AD  - Quantitative Biosciences Institute (QBI), University of California, San
       Comprehensive Cancer Center, University of California, San Francisco, San
       Francisco, CA 94143, USA. Electronic address: nevan.krogan@ucsf.edu.
 LA  - eng
+GR  - DP2 GM119139/GM/NIGMS NIH HHS/United States
+GR  - U01 MH115747/MH/NIMH NIH HHS/United States
 PT  - Journal Article
 PT  - Review
 PL  - United States
@@ -261,7 +318,7 @@ SO  - Cell. 2018 Jul 26;174(3):505-520. doi: 10.1016/j.cell.2018.06.016.
 PMID- 29193970
 OWN - NLM
 STAT- In-Data-Review
-LR  - 20180127
+LR  - 20180912
 IS  - 1549-960X (Electronic)
 IS  - 1549-9596 (Linking)
 VI  - 58
@@ -327,6 +384,7 @@ LA  - eng
 GR  - R01 GM071896/GM/NIGMS NIH HHS/United States
 GR  - R43 GM093456/GM/NIGMS NIH HHS/United States
 GR  - R44 GM093456/GM/NIGMS NIH HHS/United States
+GR  - T32 GM067547/GM/NIGMS NIH HHS/United States
 PT  - Journal Article
 DEP - 20171229
 PL  - United States
@@ -349,7 +407,7 @@ PMID- 29091768
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20180612
-LR  - 20180612
+LR  - 20180912
 IS  - 2211-1247 (Electronic)
 VI  - 21
 IP  - 5
@@ -439,9 +497,10 @@ AU  - Bainton RJ
 AD  - Department of Anesthesia and Perioperative Care, University of California San
       Francisco, San Francisco, CA, USA. Electronic address: roland.bainton@ucsf.edu.
 LA  - eng
-GR  - R01 GM081863/GM/NIGMS NIH HHS/United States
-GR  - R21 ES021412/ES/NIEHS NIH HHS/United States
 GR  - R21 NS082856/NS/NINDS NIH HHS/United States
+GR  - T32 GM067547/GM/NIGMS NIH HHS/United States
+GR  - R21 ES021412/ES/NIEHS NIH HHS/United States
+GR  - R01 GM081863/GM/NIGMS NIH HHS/United States
 GR  - T32 GM008440/GM/NIGMS NIH HHS/United States
 PT  - Journal Article
 PL  - United States
@@ -508,7 +567,7 @@ PMID- 28731335
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20170926
-LR  - 20180321
+LR  - 20180914
 IS  - 1520-4804 (Electronic)
 IS  - 0022-2623 (Linking)
 VI  - 60
@@ -580,7 +639,9 @@ AD  - Department of Pharmaceutical Chemistry, Institute for Neurodegenerative Di
       Francisco , 675 Nelson Rising Lane NS 416A, San Francisco, California 94143,
       United States.
 LA  - eng
+GR  - HHSN271201300017C/MH/NIMH NIH HHS/United States
 GR  - T32 EB009383/EB/NIBIB NIH HHS/United States
+GR  - T32 GM067547/GM/NIGMS NIH HHS/United States
 PT  - Journal Article
 DEP - 20170808
 PL  - United States
@@ -596,6 +657,8 @@ MH  - Ligands
 MH  - Models, Molecular
 MH  - *Molecular Conformation
 MH  - Small Molecule Libraries/*chemistry/pharmacology
+PMC - PMC6075869
+MID - NIHMS909954
 EDAT- 2017/07/22 06:00
 MHDA- 2017/09/28 06:00
 CRDT- 2017/07/22 06:00
@@ -797,7 +860,7 @@ PMID- 26845413
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20161213
-LR  - 20170220
+LR  - 20180830
 IS  - 1554-8937 (Electronic)
 IS  - 1554-8929 (Linking)
 VI  - 11
@@ -842,6 +905,7 @@ GR  - T32EB009383/EB/NIBIB NIH HHS/United States
 GR  - R44 GM093456/GM/NIGMS NIH HHS/United States
 GR  - R44GM093456/GM/NIGMS NIH HHS/United States
 GR  - T32 EB009383/EB/NIBIB NIH HHS/United States
+GR  - U01 MH105027/MH/NIMH NIH HHS/United States
 GR  - AA022583/AA/NIAAA NIH HHS/United States
 GR  - R01 AA022583/AA/NIAAA NIH HHS/United States
 PT  - Journal Article

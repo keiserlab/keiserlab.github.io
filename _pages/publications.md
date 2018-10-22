@@ -11,6 +11,17 @@ intro:
     - title: Publications
 feature_row0:
 
+  - image_path: /assets/images/papers/10.1021.acschembio.8b00881.jpg
+    alt: "Adversarial Controls for Scientific Machine Learning"
+    title: >-
+        <span itemprop="name">Adversarial Controls for Scientific Machine Learning</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>ACS Chem Biol</strong></span>. <span itemprop="datePublished">2018 Oct 19</span>. <span itemprop="author">Chuang KV, Keiser MJ</span>.
+    url: "https://doi.org/10.1021/acschembio.8b00881"
+    btn_label: >-
+        <i class="fas fa-file-alt"></i> doi
+    btn_class: "btn--primary"
+
   - image_path: /assets/images/papers/10.1016.j.cell.2018.06.016.jpg
     alt: "The Psychiatric Cell Map Initiative: A Convergent Systems Biological Approach to Illuminating Key Molecular Pathways in Neuropsychiatric Disorders"
     title: >-
@@ -37,6 +48,8 @@ feature_row0:
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
 
+feature_row1:
+
   - image_path: /assets/images/papers/10.1016.j.celrep.2017.10.026.jpg
     alt: "Evolutionarily Conserved Roles for Blood-Brain Barrier Xenobiotic Transporters in Endogenous Steroid Partitioning and Behavior"
     title: >-
@@ -51,8 +64,6 @@ feature_row0:
     btn2_label: >-
         <i class="fas fa-file-alt"></i> bioRxiv
     btn2_class: "btn--info"
-
-feature_row1:
 
   - image_path: /assets/images/papers/10.1021.acs.jmedchem.7b00696.jpg
     alt: "A Simple Representation of Three-Dimensional Molecular Structure"
@@ -80,6 +91,8 @@ feature_row1:
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
 
+feature_row2:
+
   - image_path: /assets/images/papers/10.1021.acschembio.5b00800.jpg
     alt: "Leveraging Large-scale Behavioral Profiling in Zebrafish to Explore Neuroactive Polypharmacology"
     title: >-
@@ -90,8 +103,6 @@ feature_row1:
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
-
-feature_row2:
 
   - image_path: /assets/images/papers/10.1016.S2215-0366(15)00553-2.jpg
     alt: "Polygenic overlap between schizophrenia risk and antipsychotic response: a genomic medicine approach"
@@ -115,6 +126,8 @@ feature_row2:
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
 
+feature_row3:
+
   - image_path: /assets/images/papers/10.1002.cpt.2.jpg
     alt: "Systems pharmacology augments drug safety surveillance"
     title: >-
@@ -125,8 +138,6 @@ feature_row2:
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
-
-feature_row3:
 
   - image_path: /assets/images/papers/10.1371.journal.pbio.1001712.jpg
     alt: "In silico molecular comparisons of C. elegans and mammalian pharmacology identify distinct targets that regulate feeding"
@@ -150,6 +161,8 @@ feature_row3:
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
 
+feature_row4:
+
   - image_path: /assets/images/papers/10.1038.nchembio.732.jpg
     alt: "Chemical informatics and target identification in a zebrafish phenotypic screen"
     title: >-
@@ -160,8 +173,6 @@ feature_row3:
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
-
-feature_row4:
 
   - image_path: /assets/images/papers/10.1038.npp.2010.195.jpg
     alt: "The presynaptic component of the serotonergic system is required for clozapine's efficacy"
@@ -185,6 +196,8 @@ feature_row4:
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
 
+feature_row5:
+
   - image_path: /assets/images/papers/10.1021.jm100488w.jpg
     alt: "Complementarity between a docking and a high-throughput screen in discovering new cruzain inhibitors"
     title: >-
@@ -195,8 +208,6 @@ feature_row4:
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
-
-feature_row5:
 
   - image_path: /assets/images/papers/10.1021.jm901613f.jpg
     alt: "Prediction and evaluation of protein farnesyltransferase inhibition by commercial drugs"
@@ -220,6 +231,8 @@ feature_row5:
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
 
+feature_row6:
+
   - image_path: /assets/images/papers/10.1038.nature08506.jpg
     alt: "Predicting new molecular targets for known drugs"
     title: >-
@@ -230,8 +243,6 @@ feature_row5:
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
-
-feature_row6:
 
   - image_path: /assets/images/papers/10.1371.journal.pcbi.1000474.jpg
     alt: "A mapping of drug space from the viewpoint of small molecule metabolism"
@@ -255,6 +266,8 @@ feature_row6:
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
 
+feature_row7:
+
   - image_path: /assets/images/papers/10.1007.978-1-60761-274-2_8.jpg
     alt: "Off-target networks derived from ligand set similarity"
     title: >-
@@ -265,8 +278,6 @@ feature_row6:
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
-
-feature_row7:
 
   - image_path: /assets/images/papers/10.1021.ci8000259.jpg
     alt: "Quantifying the relationships among drug classes"

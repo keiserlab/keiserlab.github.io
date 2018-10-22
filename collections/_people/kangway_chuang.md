@@ -10,4 +10,8 @@ excerpt: "Biographical summary for Kangway Chuang, PhD, Postdoctoral Scholar in 
 header:
   teaser: /assets/images/people/bio-chuang.jpg
 papers: 
+    - title: Adversarial Controls for Scientific Machine Learning
+      excerpt: __ACS Chem Biol__. 2018 Oct 19. Chuang KV, Keiser MJ.
+      link: "https://doi.org/10.1021/acschembio.8b00881"
+
 ---

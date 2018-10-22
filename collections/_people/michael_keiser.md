@@ -10,6 +10,10 @@ excerpt: "Biographical summary for Michael Keiser, PhD, Assistant Professor in t
 header:
   teaser: /assets/images/people/bio-keiser.jpg
 papers: 
+    - title: Adversarial Controls for Scientific Machine Learning
+      excerpt: __ACS Chem Biol__. 2018 Oct 19. Chuang KV, Keiser MJ.
+      link: "https://doi.org/10.1021/acschembio.8b00881"
+
     - title: The Psychiatric Cell Map Initiative- A Convergent Systems Biological Approach to Illuminating Key Molecular Pathways in Neuropsychiatric Disorders
       excerpt: __Cell__. 2018 Jul 26. Willsey AJ, Morris MT, Wang S, Willsey HR, Sun N, Teerikorpi N, Baum TB, Cagney G, Bender KJ, Desai TA, Srivastava D, Davis GW, Doudna J, Chang E, Sohal V, Lowenstein DH, Li H, Agard D, Keiser MJ, Shoichet B, von Zastrow M, Mucke L, Finkbeiner S, Gan L, Sestan N, Ward ME, Huttenhain R, Nowakowski TJ, Bellen HJ, Frank LM, Khokha MK, Lifton RP, Kampmann M, Ideker T, State MW, Krogan NJ.
       link: "https://doi.org/10.1016/j.cell.2018.06.016"
