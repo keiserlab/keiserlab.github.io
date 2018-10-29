@@ -11,6 +11,21 @@ intro:
     - title: Publications
 feature_row0:
 
+  - image_path: /assets/images/papers/bioRxiv.454793.jpg
+    alt: "Interpretable classification of Alzheimer's disease pathologies with a convolutional neural network pipeline"
+    title: >-
+        <span itemprop="name">Interpretable classification of Alzheimer's disease pathologies with a convolutional neural network pipeline</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2018 Oct 29</span>. <span itemprop="author">Tang Z, Chuang KV, DeCarli C, Jin L-W, Beckett L, Keiser MJ, Dugger BN</span>.
+    url: ""
+    btn_label: >-
+        <i class="fas fa-file-alt"></i> doi
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.1101/454793"
+    btn2_label: >-
+        <i class="fas fa-file-alt"></i> bioRxiv
+    btn2_class: "btn--info"
+
   - image_path: /assets/images/papers/10.1021.acschembio.8b00881.jpg
     alt: "Adversarial Controls for Scientific Machine Learning"
     title: >-
@@ -37,6 +52,8 @@ feature_row0:
         <i class="fas fa-file-alt"></i> pcmi.ucsf.edu
     btn2_class: "btn--info"
 
+feature_row1:
+
   - image_path: /assets/images/papers/10.1021.acs.jcim.7b00316.jpg
     alt: "Predicted Biological Activity of Purchasable Chemical Space"
     title: >-
@@ -47,8 +64,6 @@ feature_row0:
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
-
-feature_row1:
 
   - image_path: /assets/images/papers/10.1016.j.celrep.2017.10.026.jpg
     alt: "Evolutionarily Conserved Roles for Blood-Brain Barrier Xenobiotic Transporters in Endogenous Steroid Partitioning and Behavior"
@@ -80,6 +95,8 @@ feature_row1:
         <i class="fas fa-file-alt"></i> bioRxiv
     btn2_class: "btn--info"
 
+feature_row2:
+
   - image_path: /assets/images/papers/10.1038.nchembio.2097.jpg
     alt: "Zebrafish behavioral profiling identifies multitarget antipsychotic-like compounds"
     title: >-
@@ -90,8 +107,6 @@ feature_row1:
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
-
-feature_row2:
 
   - image_path: /assets/images/papers/10.1021.acschembio.5b00800.jpg
     alt: "Leveraging Large-scale Behavioral Profiling in Zebrafish to Explore Neuroactive Polypharmacology"
@@ -115,6 +130,8 @@ feature_row2:
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
 
+feature_row3:
+
   - image_path: /assets/images/papers/10.1007.s10928-015-9436-y.jpg
     alt: "Prediction and validation of enzyme and transporter off-targets for metformin"
     title: >-
@@ -125,8 +142,6 @@ feature_row2:
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
-
-feature_row3:
 
   - image_path: /assets/images/papers/10.1002.cpt.2.jpg
     alt: "Systems pharmacology augments drug safety surveillance"
@@ -150,6 +165,8 @@ feature_row3:
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
 
+feature_row4:
+
   - image_path: /assets/images/papers/10.1038.nature11159.jpg
     alt: "Large-scale prediction and testing of drug activity on side-effect targets"
     title: >-
@@ -160,8 +177,6 @@ feature_row3:
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
-
-feature_row4:
 
   - image_path: /assets/images/papers/10.1038.nchembio.732.jpg
     alt: "Chemical informatics and target identification in a zebrafish phenotypic screen"
@@ -185,6 +200,8 @@ feature_row4:
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
 
+feature_row5:
+
   - image_path: /assets/images/papers/10.1021.bi101540g.jpg
     alt: "The chemical basis of pharmacology"
     title: >-
@@ -195,8 +212,6 @@ feature_row4:
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
-
-feature_row5:
 
   - image_path: /assets/images/papers/10.1021.jm100488w.jpg
     alt: "Complementarity between a docking and a high-throughput screen in discovering new cruzain inhibitors"
@@ -220,6 +235,8 @@ feature_row5:
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
 
+feature_row6:
+
   - image_path: /assets/images/papers/20581797.jpg
     alt: "A pilot study of the pharmacodynamic impact of SSRI drug selection and beta-1 receptor genotype (ADRB1) on cardiac vital signs in depressed patients: a novel pharmacogenetic approach"
     title: >-
@@ -230,8 +247,6 @@ feature_row5:
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
-
-feature_row6:
 
   - image_path: /assets/images/papers/10.1038.nature08506.jpg
     alt: "Predicting new molecular targets for known drugs"
@@ -255,6 +270,8 @@ feature_row6:
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
 
+feature_row7:
+
   - image_path: /assets/images/papers/10.1038.nchembio.180.jpg
     alt: "Quantifying biogenic bias in screening libraries"
     title: >-
@@ -265,8 +282,6 @@ feature_row6:
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
-
-feature_row7:
 
   - image_path: /assets/images/papers/10.1007.978-1-60761-274-2_8.jpg
     alt: "Off-target networks derived from ligand set similarity"
@@ -289,6 +304,8 @@ feature_row7:
     btn_label: >-
         <i class="fas fa-file-alt"></i> doi
     btn_class: "btn--primary"
+
+feature_row8:
 
   - image_path: /assets/images/papers/10.1038.nbt1284.jpg
     alt: "Relating protein pharmacology by ligand chemistry"
@@ -320,3 +337,5 @@ feature_row7:
 {% include feature_row_paper.html id="feature_row6" %}
 
 {% include feature_row_paper.html id="feature_row7" %}
+
+{% include feature_row_paper.html id="feature_row8" %}

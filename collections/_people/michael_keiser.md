@@ -10,6 +10,10 @@ excerpt: "Biographical summary for Michael Keiser, PhD, Assistant Professor in t
 header:
   teaser: /assets/images/people/bio-keiser.jpg
 papers: 
+    - title: Interpretable classification of Alzheimer's disease pathologies with a convolutional neural network pipeline
+      excerpt: __bioRxiv__. 2018 Oct 29. Tang Z, Chuang KV, DeCarli C, Jin L-W, Beckett L, Keiser MJ, Dugger BN.
+      link: ""
+
     - title: Adversarial Controls for Scientific Machine Learning
       excerpt: __ACS Chem Biol__. 2018 Oct 19. Chuang KV, Keiser MJ.
       link: "https://doi.org/10.1021/acschembio.8b00881"
