@@ -67,13 +67,13 @@ F_ROW_HDR_ITEM = """
         %s
     url: "%s"
     btn_label: >-
-        <i class="fas fa-file-alt"></i> doi
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 %s"""
 
 F_ROW_HDR_PREPRINT = """    url2: "%s"
     btn2_label: >-
-        <i class="fas fa-file-alt"></i> %s
+        %s &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 """
 
