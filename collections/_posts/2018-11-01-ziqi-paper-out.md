@@ -10,6 +10,12 @@ image:
   feature:
 date: 2018-11-01T00:00:00-07:00
 ---
+[Ziqi]({{ site.url }}/people/ziqi_tang/) and [Kangway's]({{ site.url }}/people/kangway_chuang/) preprint on interpretable neural networks for amyloid-&beta; pathology classification is out!
+
+> Tang et al, Interpretable classification of Alzheimer's disease pathologies with a convolutional neural network pipeline. bioRxiv 454793 (2018). [<i class="fas fa-external-link-alt"></i>](https://doi.org/10.1101/454793) [<i class="fas fa-cloud-download-alt"></i>]({{ site.url }}/resources/)
+
+With fantastic neuropathologist collaborator [Brittany Dugger (UC-Davis)](https://www.ucdmc.ucdavis.edu/pathology/our_team/faculty/duggerB.html), Ziqi's won several conference awards for preliminary results in this project:
+
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -18,12 +24,6 @@ date: 2018-11-01T00:00:00-07:00
   js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2';
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-
-[Ziqi]({{ site.url }}/people/ziqi_tang/) and [Kangway's]({{ site.url }}/people/kangway_chuang/) preprint on interpretable neural networks for amyloid-&beta; pathology classification is out!
-
-> Tang et al, Interpretable classification of Alzheimer's disease pathologies with a convolutional neural network pipeline. bioRxiv 454793 (2018). [<i class="fas fa-external-link-alt"></i>](https://doi.org/10.1101/454793) [<i class="fas fa-cloud-download-alt"></i>]({{ site.url }}/resources/)
-
-With fantastic neuropathologist collaborator [Brittany Dugger (UC-Davis)](https://www.ucdmc.ucdavis.edu/pathology/our_team/faculty/duggerB.html), Ziqi's won several conference awards for preliminary results in this project:
 
 ## 2018 October - UC-Davis Artificial Intelligence & Machine Learning Symposium best abstract award
 
