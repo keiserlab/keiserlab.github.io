@@ -35,6 +35,7 @@ PCOL_AUTH = 3
 PCOL_TITLE = 4
 PCOL_DATE = 5
 PCOL_URL = 6
+PCOL_DOI = 7
 
 # OUTPUT file templates
 
@@ -66,6 +67,7 @@ F_ROW_HDR_ITEM = """
     excerpt: >-
         %s
     url: "%s"
+    doi: "%s"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -77,7 +79,10 @@ F_ROW_HDR_PREPRINT = """    url2: "%s"
     btn2_class: "btn--info"
 """
 
+# js script is for https://www.altmetric.com/products/altmetric-badges/
 F_ROW_INCL_TEMPLATE = """
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
 {%% include feature_row_paper.html id="feature_row%d" %%}
 """
 
@@ -102,17 +107,17 @@ def aid_scrub(aid):
 # end aid_scrub
 
 def get_id_url(record):
-    "pull DOI if possible, otherwise PMID"
+    "pull DOI if possible, otherwise PMID: return (id, url, doi)"
     if 'AID' in record:
         aid = filter(lambda x: x.lower().find('doi') != -1, record['AID'])
         assert len(aid) == 1
         aid = aid[0].split()[0]
         print '\tdoi', aid
-        return aid_scrub(aid), '%s/%s' % (DOI_URLBASE, aid)
+        return aid_scrub(aid), '%s/%s' % (DOI_URLBASE, aid), aid
     else:
         pmid = record['PMID']
         print '\tpmid', pmid
-        return pmid, '%s/%s' % (PMID_URLBASE, pmid)
+        return pmid, '%s/%s' % (PMID_URLBASE, pmid), ""
 # end get_id_url
 
 
@@ -158,12 +163,13 @@ def main(fmedline, fpreprint, outfile, datafile):
             record[PCOL_DATE],
             record[PCOL_AUTH],
             '',
+            record[PCOL_DOI],
             (record[PCOL_URL], record[PCOL_JOUR]),
             convert_date(record[PCOL_DATE]),
             'preprint'])
     # read papers from NCBI
     for record in m_records:
-        aid, url = get_id_url(record)
+        aid, url, doi = get_id_url(record)
         pprint = None
         if aid in aid2preprint:
             pp = aid2preprint[aid]
@@ -175,6 +181,7 @@ def main(fmedline, fpreprint, outfile, datafile):
             record['DP'],
             ", ".join(record['AU']),
             url,
+            doi,
             pprint,
             convert_date(record['DP']),
             'ncbi'])
@@ -183,12 +190,12 @@ def main(fmedline, fpreprint, outfile, datafile):
     print 'merged into %d publication entries (expected %d)' % (len(publications), 
         len(p_records) + len(m_records))
 
-    # ['id', 'title', 'journal', 'date', 'authors', 'link', preprint, 'jekyll_date','type']
+    # ['id', 'title', 'journal', 'date', 'authors', 'link', 'doi', preprint, 'jekyll_date','type']
     frows = []
     for i, p3 in enumerate(grouper(3, publications)):
         items = []
         for p in filter(lambda x: x is not None, p3):
-            pp = p[6]
+            pp = p[7]
             if pp is not None:
                 pprint = F_ROW_HDR_PREPRINT % pp
             else:
@@ -199,6 +206,7 @@ def main(fmedline, fpreprint, outfile, datafile):
                 '<span itemprop="name">%s</span>' % p[1],
                 PAPER_TEMPLATE % (p[2], p[3], p[4]), # this is "excerpt"
                 p[5],
+                p[6],
                 pprint,
                 ))
         frows.append((F_ROW_HDR_TEMPLATE % (i, ''.join(items))))

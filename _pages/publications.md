@@ -18,6 +18,7 @@ feature_row0:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2018 Oct 29</span>. <span itemprop="author">Tang Z, Chuang KV, DeCarli C, Jin L-W, Beckett L, Keiser MJ, Dugger BN</span>.
     url: ""
+    doi: "10.1101/454793"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -33,6 +34,7 @@ feature_row0:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>ACS Chem Biol</strong></span>. <span itemprop="datePublished">2018 Oct 19</span>. <span itemprop="author">Chuang KV, Keiser MJ</span>.
     url: "https://doi.org/10.1021/acschembio.8b00881"
+    doi: "10.1021/acschembio.8b00881"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -44,6 +46,7 @@ feature_row0:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Cell</strong></span>. <span itemprop="datePublished">2018 Jul 26</span>. <span itemprop="author">Willsey AJ, Morris MT, Wang S, Willsey HR, Sun N, Teerikorpi N, Baum TB, Cagney G, Bender KJ, Desai TA, Srivastava D, Davis GW, Doudna J, Chang E, Sohal V, Lowenstein DH, Li H, Agard D, Keiser MJ, Shoichet B, von Zastrow M, Mucke L, Finkbeiner S, Gan L, Sestan N, Ward ME, Huttenhain R, Nowakowski TJ, Bellen HJ, Frank LM, Khokha MK, Lifton RP, Kampmann M, Ideker T, State MW, Krogan NJ</span>.
     url: "https://doi.org/10.1016/j.cell.2018.06.016"
+    doi: "10.1016/j.cell.2018.06.016"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -61,6 +64,7 @@ feature_row1:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>J Chem Inf Model</strong></span>. <span itemprop="datePublished">2018 Jan 22</span>. <span itemprop="author">Irwin JJ, Gaskins G, Sterling T, Mysinger MM, Keiser MJ</span>.
     url: "https://doi.org/10.1021/acs.jcim.7b00316"
+    doi: "10.1021/acs.jcim.7b00316"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -72,6 +76,7 @@ feature_row1:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Cell Rep</strong></span>. <span itemprop="datePublished">2017 Oct 31</span>. <span itemprop="author">Hindle SJ, Munji RN, Dolghih E, Gaskins G, Orng S, Ishimoto H, Soung A, DeSalvo M, Kitamoto T, Keiser MJ, Jacobson MP, Daneman R, Bainton RJ</span>.
     url: "https://doi.org/10.1016/j.celrep.2017.10.026"
+    doi: "10.1016/j.celrep.2017.10.026"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -87,6 +92,7 @@ feature_row1:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>J Med Chem</strong></span>. <span itemprop="datePublished">2017 Sep 14</span>. <span itemprop="author">Axen SD, Huang XP, Caceres EL, Gendelev L, Roth BL, Keiser MJ</span>.
     url: "https://doi.org/10.1021/acs.jmedchem.7b00696"
+    doi: "10.1021/acs.jmedchem.7b00696"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -104,6 +110,7 @@ feature_row2:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nat Chem Biol</strong></span>. <span itemprop="datePublished">2016 Jul</span>. <span itemprop="author">Bruni G, Rennekamp AJ, Velenich A, McCarroll M, Gendelev L, Fertsch E, Taylor J, Lakhani P, Lensen D, Evron T, Lorello PJ, Huang XP, Kolczewski S, Carey G, Caldarone BJ, Prinssen E, Roth BL, Keiser MJ, Peterson RT, Kokel D</span>.
     url: "https://doi.org/10.1038/nchembio.2097"
+    doi: "10.1038/nchembio.2097"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -115,6 +122,7 @@ feature_row2:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>ACS Chem Biol</strong></span>. <span itemprop="datePublished">2016 Apr 15</span>. <span itemprop="author">McCarroll MN, Gendelev L, Keiser MJ, Kokel D</span>.
     url: "https://doi.org/10.1021/acschembio.5b00800"
+    doi: "10.1021/acschembio.5b00800"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -126,6 +134,7 @@ feature_row2:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Lancet Psychiatry</strong></span>. <span itemprop="datePublished">2016 Apr</span>. <span itemprop="author">Ruderfer DM, Charney AW, Readhead B, Kidd BA, Kahler AK, Kenny PJ, Keiser MJ, Moran JL, Hultman CM, Scott SA, Sullivan PF, Purcell SM, Dudley JT, Sklar P</span>.
     url: "https://doi.org/10.1016/S2215-0366(15)00553-2"
+    doi: "10.1016/S2215-0366(15)00553-2"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -139,6 +148,7 @@ feature_row3:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>J Pharmacokinet Pharmacodyn</strong></span>. <span itemprop="datePublished">2015 Oct</span>. <span itemprop="author">Yee SW, Lin L, Merski M, Keiser MJ, Gupta A, Zhang Y, Chien HC, Shoichet BK, Giacomini KM</span>.
     url: "https://doi.org/10.1007/s10928-015-9436-y"
+    doi: "10.1007/s10928-015-9436-y"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -150,6 +160,7 @@ feature_row3:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Clin Pharmacol Ther</strong></span>. <span itemprop="datePublished">2015 Feb</span>. <span itemprop="author">Lorberbaum T, Nasir M, Keiser MJ, Vilar S, Hripcsak G, Tatonetti NP</span>.
     url: "https://doi.org/10.1002/cpt.2"
+    doi: "10.1002/cpt.2"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -161,6 +172,7 @@ feature_row3:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>PLoS Biol</strong></span>. <span itemprop="datePublished">2013 Nov</span>. <span itemprop="author">Lemieux GA, Keiser MJ, Sassano MF, Laggner C, Mayer F, Bainton RJ, Werb Z, Roth BL, Shoichet BK, Ashrafi K</span>.
     url: "https://doi.org/10.1371/journal.pbio.1001712"
+    doi: "10.1371/journal.pbio.1001712"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -174,6 +186,7 @@ feature_row4:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nature</strong></span>. <span itemprop="datePublished">2012 Jun 10</span>. <span itemprop="author">Lounkine E, Keiser MJ, Whitebread S, Mikhailov D, Hamon J, Jenkins JL, Lavan P, Weber E, Doak AK, Cote S, Shoichet BK, Urban L</span>.
     url: "https://doi.org/10.1038/nature11159"
+    doi: "10.1038/nature11159"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -185,6 +198,7 @@ feature_row4:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nat Chem Biol</strong></span>. <span itemprop="datePublished">2011 Dec 18</span>. <span itemprop="author">Laggner C, Kokel D, Setola V, Tolia A, Lin H, Irwin JJ, Keiser MJ, Cheung CY, Minor DL Jr, Roth BL, Peterson RT, Shoichet BK</span>.
     url: "https://doi.org/10.1038/nchembio.732"
+    doi: "10.1038/nchembio.732"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -196,6 +210,7 @@ feature_row4:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Neuropsychopharmacology</strong></span>. <span itemprop="datePublished">2011 Feb</span>. <span itemprop="author">Yadav PN, Abbas AI, Farrell MS, Setola V, Sciaky N, Huang XP, Kroeze WK, Crawford LK, Piel DA, Keiser MJ, Irwin JJ, Shoichet BK, Deneris ES, Gingrich J, Beck SG, Roth BL</span>.
     url: "https://doi.org/10.1038/npp.2010.195"
+    doi: "10.1038/npp.2010.195"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -209,6 +224,7 @@ feature_row5:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Biochemistry</strong></span>. <span itemprop="datePublished">2010 Dec 7</span>. <span itemprop="author">Keiser MJ, Irwin JJ, Shoichet BK</span>.
     url: "https://doi.org/10.1021/bi101540g"
+    doi: "10.1021/bi101540g"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -220,6 +236,7 @@ feature_row5:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>J Med Chem</strong></span>. <span itemprop="datePublished">2010 Jul 8</span>. <span itemprop="author">Ferreira RS, Simeonov A, Jadhav A, Eidam O, Mott BT, Keiser MJ, McKerrow JH, Maloney DJ, Irwin JJ, Shoichet BK</span>.
     url: "https://doi.org/10.1021/jm100488w"
+    doi: "10.1021/jm100488w"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -231,6 +248,7 @@ feature_row5:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>J Med Chem</strong></span>. <span itemprop="datePublished">2010 Mar 25</span>. <span itemprop="author">DeGraw AJ, Keiser MJ, Ochocki JD, Shoichet BK, Distefano MD</span>.
     url: "https://doi.org/10.1021/jm901613f"
+    doi: "10.1021/jm901613f"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -244,6 +262,7 @@ feature_row6:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Psychopharmacol Bull</strong></span>. <span itemprop="datePublished">2010</span>. <span itemprop="author">Thomas KL, Ellingrod VL, Bishop JR, Keiser MJ</span>.
     url: "https://www.ncbi.nlm.nih.gov/pubmed/20581797"
+    doi: ""
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -255,6 +274,7 @@ feature_row6:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nature</strong></span>. <span itemprop="datePublished">2009 Nov 12</span>. <span itemprop="author">Keiser MJ, Setola V, Irwin JJ, Laggner C, Abbas AI, Hufeisen SJ, Jensen NH, Kuijer MB, Matos RC, Tran TB, Whaley R, Glennon RA, Hert J, Thomas KL, Edwards DD, Shoichet BK, Roth BL</span>.
     url: "https://doi.org/10.1038/nature08506"
+    doi: "10.1038/nature08506"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -266,6 +286,7 @@ feature_row6:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>PLoS Comput Biol</strong></span>. <span itemprop="datePublished">2009 Aug</span>. <span itemprop="author">Adams JC, Keiser MJ, Basuino L, Chambers HF, Lee DS, Wiest OG, Babbitt PC</span>.
     url: "https://doi.org/10.1371/journal.pcbi.1000474"
+    doi: "10.1371/journal.pcbi.1000474"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -279,6 +300,7 @@ feature_row7:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nat Chem Biol</strong></span>. <span itemprop="datePublished">2009 Jul</span>. <span itemprop="author">Hert J, Irwin JJ, Laggner C, Keiser MJ, Shoichet BK</span>.
     url: "https://doi.org/10.1038/nchembio.180"
+    doi: "10.1038/nchembio.180"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -290,6 +312,7 @@ feature_row7:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Methods Mol Biol</strong></span>. <span itemprop="datePublished">2009</span>. <span itemprop="author">Keiser MJ, Hert J</span>.
     url: "https://doi.org/10.1007/978-1-60761-274-2_8"
+    doi: "10.1007/978-1-60761-274-2_8"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -301,6 +324,7 @@ feature_row7:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>J Chem Inf Model</strong></span>. <span itemprop="datePublished">2008 Apr</span>. <span itemprop="author">Hert J, Keiser MJ, Irwin JJ, Oprea TI, Shoichet BK</span>.
     url: "https://doi.org/10.1021/ci8000259"
+    doi: "10.1021/ci8000259"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -314,12 +338,15 @@ feature_row8:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nat Biotechnol</strong></span>. <span itemprop="datePublished">2007 Feb</span>. <span itemprop="author">Keiser MJ, Roth BL, Armbruster BN, Ernsberger P, Irwin JJ, Shoichet BK</span>.
     url: "https://doi.org/10.1038/nbt1284"
+    doi: "10.1038/nbt1284"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
 
 ---
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row_paper.html id="feature_row0" %}

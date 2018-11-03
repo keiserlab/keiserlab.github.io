@@ -1,5 +1,6 @@
 {% comment %}
 mjk 2018-06-14 based on feature-row, extended for 2 btns & h3 title (substantial)
+mjk 2018-11-02 added altmetrics
 {% endcomment %}
 
 {% if include.id %}
@@ -43,12 +44,15 @@ mjk 2018-06-14 based on feature-row, extended for 2 btns & h3 title (substantial
           {% endif %}
 
           <div class="archive__item-body">
+            {% if f.doi and f.doi != "" %}
+              <div data-badge-popover="bottom" data-badge-type="donut" data-doi="{{ f.doi }}" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right; margin-left:0.5em;"></div>
+            {% endif %}
             {% if f.title %}
               <h3 class="archive__item-title">{{ f.title }}</h3>
             {% endif %}
 
             {% if f.excerpt %}
-              <div class="archive__item-excerpt">
+              <div class="archive__item-excerpt" style="margin-top:0.5em;">
                 {{ f.excerpt }}
               </div>
             {% endif %}
