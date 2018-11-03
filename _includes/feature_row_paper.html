@@ -45,7 +45,7 @@ mjk 2018-11-02 added altmetrics
 
           <div class="archive__item-body">
             {% if f.doi and f.doi != "" %}
-              <div data-badge-popover="bottom" data-badge-type="donut" data-doi="{{ f.doi }}" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed" style="float:right; margin-left:0.5em;"></div>
+              <div data-badge-popover="bottom" data-badge-type="donut" data-doi="{{ f.doi }}" data-hide-no-mentions="true" data-hide-less-than="5" class="altmetric-embed align-right" style="margin-left:0.5em;"></div>
             {% endif %}
             {% if f.title %}
               <h3 class="archive__item-title">{{ f.title }}</h3>
