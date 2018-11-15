@@ -61,7 +61,8 @@ F_ROW_HDR_TEMPLATE = """feature_row%d:
 
 F_ROW_HDR_ITEM = """
   - image_path: /assets/images/papers/%s
-    alt: "%s"
+    alt: >-
+        %s
     title: >-
         %s
     excerpt: >-
@@ -154,7 +155,7 @@ def main(fmedline, fpreprint, outfile, datafile):
 
     publications = []
     # read preprints/manual, and put first
-    for record in p_records:
+    for record in sorted(p_records, key=lambda x: convert_date(x[PCOL_DATE]), reverse=True):
         pid = '.'.join([record[PCOL_JOUR].replace(' ','_'), record[PCOL_JOURNID]])
         publications.append([
             pid,
@@ -168,7 +169,7 @@ def main(fmedline, fpreprint, outfile, datafile):
             convert_date(record[PCOL_DATE]),
             'preprint'])
     # read papers from NCBI
-    for record in m_records:
+    for record in sorted(m_records, key=lambda x: convert_date(x['DP']), reverse=True):
         aid, url, doi = get_id_url(record)
         pprint = None
         if aid in aid2preprint:
