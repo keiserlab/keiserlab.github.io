@@ -11,8 +11,26 @@ intro:
     - title: Publications
 feature_row0:
 
+  - image_path: /assets/images/papers/Science.eaat8603.jpg
+    alt: >-
+        Comment on &quot;Predicting reaction performance in C-N cross-coupling using machine learning&quot;
+    title: >-
+        <span itemprop="name">Comment on &quot;Predicting reaction performance in C-N cross-coupling using machine learning&quot;</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Science</strong></span>. <span itemprop="datePublished">2018 Nov 16</span>. <span itemprop="author">Chuang KV, Keiser MJ</span>.
+    url: ""
+    doi: "10.1126/science.aat8603"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.1126/science.aat8603"
+    btn2_label: >-
+        Science &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
   - image_path: /assets/images/papers/bioRxiv.454793.jpg
-    alt: "Interpretable classification of Alzheimer's disease pathologies with a convolutional neural network pipeline"
+    alt: >-
+        Interpretable classification of Alzheimer's disease pathologies with a convolutional neural network pipeline
     title: >-
         <span itemprop="name">Interpretable classification of Alzheimer's disease pathologies with a convolutional neural network pipeline</span>
     excerpt: >-
@@ -28,7 +46,8 @@ feature_row0:
     btn2_class: "btn--info"
 
   - image_path: /assets/images/papers/10.1021.acschembio.8b00881.jpg
-    alt: "Adversarial Controls for Scientific Machine Learning"
+    alt: >-
+        Adversarial Controls for Scientific Machine Learning
     title: >-
         <span itemprop="name">Adversarial Controls for Scientific Machine Learning</span>
     excerpt: >-
@@ -39,8 +58,11 @@ feature_row0:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row1:
+
   - image_path: /assets/images/papers/10.1016.j.cell.2018.06.016.jpg
-    alt: "The Psychiatric Cell Map Initiative: A Convergent Systems Biological Approach to Illuminating Key Molecular Pathways in Neuropsychiatric Disorders"
+    alt: >-
+        The Psychiatric Cell Map Initiative: A Convergent Systems Biological Approach to Illuminating Key Molecular Pathways in Neuropsychiatric Disorders
     title: >-
         <span itemprop="name">The Psychiatric Cell Map Initiative: A Convergent Systems Biological Approach to Illuminating Key Molecular Pathways in Neuropsychiatric Disorders</span>
     excerpt: >-
@@ -55,10 +77,9 @@ feature_row0:
         pcmi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row1:
-
   - image_path: /assets/images/papers/10.1021.acs.jcim.7b00316.jpg
-    alt: "Predicted Biological Activity of Purchasable Chemical Space"
+    alt: >-
+        Predicted Biological Activity of Purchasable Chemical Space
     title: >-
         <span itemprop="name">Predicted Biological Activity of Purchasable Chemical Space</span>
     excerpt: >-
@@ -70,7 +91,8 @@ feature_row1:
     btn_class: "btn--primary"
 
   - image_path: /assets/images/papers/10.1016.j.celrep.2017.10.026.jpg
-    alt: "Evolutionarily Conserved Roles for Blood-Brain Barrier Xenobiotic Transporters in Endogenous Steroid Partitioning and Behavior"
+    alt: >-
+        Evolutionarily Conserved Roles for Blood-Brain Barrier Xenobiotic Transporters in Endogenous Steroid Partitioning and Behavior
     title: >-
         <span itemprop="name">Evolutionarily Conserved Roles for Blood-Brain Barrier Xenobiotic Transporters in Endogenous Steroid Partitioning and Behavior</span>
     excerpt: >-
@@ -85,8 +107,11 @@ feature_row1:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
+feature_row2:
+
   - image_path: /assets/images/papers/10.1021.acs.jmedchem.7b00696.jpg
-    alt: "A Simple Representation of Three-Dimensional Molecular Structure"
+    alt: >-
+        A Simple Representation of Three-Dimensional Molecular Structure
     title: >-
         <span itemprop="name">A Simple Representation of Three-Dimensional Molecular Structure</span>
     excerpt: >-
@@ -101,10 +126,9 @@ feature_row1:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row2:
-
   - image_path: /assets/images/papers/10.1038.nchembio.2097.jpg
-    alt: "Zebrafish behavioral profiling identifies multitarget antipsychotic-like compounds"
+    alt: >-
+        Zebrafish behavioral profiling identifies multitarget antipsychotic-like compounds
     title: >-
         <span itemprop="name">Zebrafish behavioral profiling identifies multitarget antipsychotic-like compounds</span>
     excerpt: >-
@@ -116,7 +140,8 @@ feature_row2:
     btn_class: "btn--primary"
 
   - image_path: /assets/images/papers/10.1021.acschembio.5b00800.jpg
-    alt: "Leveraging Large-scale Behavioral Profiling in Zebrafish to Explore Neuroactive Polypharmacology"
+    alt: >-
+        Leveraging Large-scale Behavioral Profiling in Zebrafish to Explore Neuroactive Polypharmacology
     title: >-
         <span itemprop="name">Leveraging Large-scale Behavioral Profiling in Zebrafish to Explore Neuroactive Polypharmacology</span>
     excerpt: >-
@@ -127,8 +152,11 @@ feature_row2:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row3:
+
   - image_path: /assets/images/papers/10.1016.S2215-0366(15)00553-2.jpg
-    alt: "Polygenic overlap between schizophrenia risk and antipsychotic response: a genomic medicine approach"
+    alt: >-
+        Polygenic overlap between schizophrenia risk and antipsychotic response: a genomic medicine approach
     title: >-
         <span itemprop="name">Polygenic overlap between schizophrenia risk and antipsychotic response: a genomic medicine approach</span>
     excerpt: >-
@@ -139,10 +167,9 @@ feature_row2:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row3:
-
   - image_path: /assets/images/papers/10.1007.s10928-015-9436-y.jpg
-    alt: "Prediction and validation of enzyme and transporter off-targets for metformin"
+    alt: >-
+        Prediction and validation of enzyme and transporter off-targets for metformin
     title: >-
         <span itemprop="name">Prediction and validation of enzyme and transporter off-targets for metformin</span>
     excerpt: >-
@@ -154,7 +181,8 @@ feature_row3:
     btn_class: "btn--primary"
 
   - image_path: /assets/images/papers/10.1002.cpt.2.jpg
-    alt: "Systems pharmacology augments drug safety surveillance"
+    alt: >-
+        Systems pharmacology augments drug safety surveillance
     title: >-
         <span itemprop="name">Systems pharmacology augments drug safety surveillance</span>
     excerpt: >-
@@ -165,8 +193,11 @@ feature_row3:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row4:
+
   - image_path: /assets/images/papers/10.1371.journal.pbio.1001712.jpg
-    alt: "In silico molecular comparisons of C. elegans and mammalian pharmacology identify distinct targets that regulate feeding"
+    alt: >-
+        In silico molecular comparisons of C. elegans and mammalian pharmacology identify distinct targets that regulate feeding
     title: >-
         <span itemprop="name">In silico molecular comparisons of C. elegans and mammalian pharmacology identify distinct targets that regulate feeding</span>
     excerpt: >-
@@ -177,10 +208,9 @@ feature_row3:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row4:
-
   - image_path: /assets/images/papers/10.1038.nature11159.jpg
-    alt: "Large-scale prediction and testing of drug activity on side-effect targets"
+    alt: >-
+        Large-scale prediction and testing of drug activity on side-effect targets
     title: >-
         <span itemprop="name">Large-scale prediction and testing of drug activity on side-effect targets</span>
     excerpt: >-
@@ -192,7 +222,8 @@ feature_row4:
     btn_class: "btn--primary"
 
   - image_path: /assets/images/papers/10.1038.nchembio.732.jpg
-    alt: "Chemical informatics and target identification in a zebrafish phenotypic screen"
+    alt: >-
+        Chemical informatics and target identification in a zebrafish phenotypic screen
     title: >-
         <span itemprop="name">Chemical informatics and target identification in a zebrafish phenotypic screen</span>
     excerpt: >-
@@ -203,8 +234,11 @@ feature_row4:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row5:
+
   - image_path: /assets/images/papers/10.1038.npp.2010.195.jpg
-    alt: "The presynaptic component of the serotonergic system is required for clozapine's efficacy"
+    alt: >-
+        The presynaptic component of the serotonergic system is required for clozapine's efficacy
     title: >-
         <span itemprop="name">The presynaptic component of the serotonergic system is required for clozapine's efficacy</span>
     excerpt: >-
@@ -215,10 +249,9 @@ feature_row4:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row5:
-
   - image_path: /assets/images/papers/10.1021.bi101540g.jpg
-    alt: "The chemical basis of pharmacology"
+    alt: >-
+        The chemical basis of pharmacology
     title: >-
         <span itemprop="name">The chemical basis of pharmacology</span>
     excerpt: >-
@@ -230,7 +263,8 @@ feature_row5:
     btn_class: "btn--primary"
 
   - image_path: /assets/images/papers/10.1021.jm100488w.jpg
-    alt: "Complementarity between a docking and a high-throughput screen in discovering new cruzain inhibitors"
+    alt: >-
+        Complementarity between a docking and a high-throughput screen in discovering new cruzain inhibitors
     title: >-
         <span itemprop="name">Complementarity between a docking and a high-throughput screen in discovering new cruzain inhibitors</span>
     excerpt: >-
@@ -241,8 +275,11 @@ feature_row5:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row6:
+
   - image_path: /assets/images/papers/10.1021.jm901613f.jpg
-    alt: "Prediction and evaluation of protein farnesyltransferase inhibition by commercial drugs"
+    alt: >-
+        Prediction and evaluation of protein farnesyltransferase inhibition by commercial drugs
     title: >-
         <span itemprop="name">Prediction and evaluation of protein farnesyltransferase inhibition by commercial drugs</span>
     excerpt: >-
@@ -253,10 +290,9 @@ feature_row5:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row6:
-
   - image_path: /assets/images/papers/20581797.jpg
-    alt: "A pilot study of the pharmacodynamic impact of SSRI drug selection and beta-1 receptor genotype (ADRB1) on cardiac vital signs in depressed patients: a novel pharmacogenetic approach"
+    alt: >-
+        A pilot study of the pharmacodynamic impact of SSRI drug selection and beta-1 receptor genotype (ADRB1) on cardiac vital signs in depressed patients: a novel pharmacogenetic approach
     title: >-
         <span itemprop="name">A pilot study of the pharmacodynamic impact of SSRI drug selection and beta-1 receptor genotype (ADRB1) on cardiac vital signs in depressed patients: a novel pharmacogenetic approach</span>
     excerpt: >-
@@ -268,7 +304,8 @@ feature_row6:
     btn_class: "btn--primary"
 
   - image_path: /assets/images/papers/10.1038.nature08506.jpg
-    alt: "Predicting new molecular targets for known drugs"
+    alt: >-
+        Predicting new molecular targets for known drugs
     title: >-
         <span itemprop="name">Predicting new molecular targets for known drugs</span>
     excerpt: >-
@@ -279,8 +316,11 @@ feature_row6:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row7:
+
   - image_path: /assets/images/papers/10.1371.journal.pcbi.1000474.jpg
-    alt: "A mapping of drug space from the viewpoint of small molecule metabolism"
+    alt: >-
+        A mapping of drug space from the viewpoint of small molecule metabolism
     title: >-
         <span itemprop="name">A mapping of drug space from the viewpoint of small molecule metabolism</span>
     excerpt: >-
@@ -291,10 +331,9 @@ feature_row6:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row7:
-
   - image_path: /assets/images/papers/10.1038.nchembio.180.jpg
-    alt: "Quantifying biogenic bias in screening libraries"
+    alt: >-
+        Quantifying biogenic bias in screening libraries
     title: >-
         <span itemprop="name">Quantifying biogenic bias in screening libraries</span>
     excerpt: >-
@@ -306,7 +345,8 @@ feature_row7:
     btn_class: "btn--primary"
 
   - image_path: /assets/images/papers/10.1007.978-1-60761-274-2_8.jpg
-    alt: "Off-target networks derived from ligand set similarity"
+    alt: >-
+        Off-target networks derived from ligand set similarity
     title: >-
         <span itemprop="name">Off-target networks derived from ligand set similarity</span>
     excerpt: >-
@@ -317,8 +357,11 @@ feature_row7:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row8:
+
   - image_path: /assets/images/papers/10.1021.ci8000259.jpg
-    alt: "Quantifying the relationships among drug classes"
+    alt: >-
+        Quantifying the relationships among drug classes
     title: >-
         <span itemprop="name">Quantifying the relationships among drug classes</span>
     excerpt: >-
@@ -329,10 +372,9 @@ feature_row7:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row8:
-
   - image_path: /assets/images/papers/10.1038.nbt1284.jpg
-    alt: "Relating protein pharmacology by ligand chemistry"
+    alt: >-
+        Relating protein pharmacology by ligand chemistry
     title: >-
         <span itemprop="name">Relating protein pharmacology by ligand chemistry</span>
     excerpt: >-
@@ -345,24 +387,40 @@ feature_row8:
 
 
 ---
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-
 {% include feature_row id="intro" type="center" %}
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 {% include feature_row_paper.html id="feature_row0" %}
 
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
 {% include feature_row_paper.html id="feature_row1" %}
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 {% include feature_row_paper.html id="feature_row2" %}
 
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
 {% include feature_row_paper.html id="feature_row3" %}
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 {% include feature_row_paper.html id="feature_row4" %}
 
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
 {% include feature_row_paper.html id="feature_row5" %}
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 {% include feature_row_paper.html id="feature_row6" %}
 
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
 {% include feature_row_paper.html id="feature_row7" %}
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 {% include feature_row_paper.html id="feature_row8" %}
