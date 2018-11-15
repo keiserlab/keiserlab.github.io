@@ -63,6 +63,7 @@ html {
 }
 
 // remove css pseudo-element turning entire feature item into link from last btn
+// e.g., https://css-tricks.com/pseudo-element-roundup/
 
 a.btn::before {
   content: none;
