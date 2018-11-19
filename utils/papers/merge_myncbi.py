@@ -94,6 +94,12 @@ PAPER_TEMPLATE = '<span itemprop="isPartOf" itemscope itemtype="http://schema.or
 CSV_HEADER = ['id', 'title', 'journal', 'date', 'authors', 'link', 
     'preprint_url', 'preprint_journal', 'jekyll_date','type']
 
+def make_htmlsafe(txt):
+    "make text html safe (primitive)"
+    dangerlist = { '"' : "&quot;" }
+    for d, r in dangerlist.iteritems():
+        txt = txt.replace(d, r)
+    return txt
 
 # https://stackoverflow.com/questions/1624883/alternative-way-to-split-a-list-into-groups-of-n
 def grouper(n, iterable, fillvalue=None):
@@ -154,12 +160,12 @@ def main(fmedline, fpreprint, outfile, datafile):
         m_records = list(Medline.parse(fi))
 
     publications = []
-    # read preprints/manual, and put first
-    for record in sorted(p_records, key=lambda x: convert_date(x[PCOL_DATE]), reverse=True):
+    # read preprints/manual, and add first
+    for record in p_records:
         pid = '.'.join([record[PCOL_JOUR].replace(' ','_'), record[PCOL_JOURNID]])
         publications.append([
             pid,
-            record[PCOL_TITLE],
+            make_htmlsafe(record[PCOL_TITLE]),
             record[PCOL_JOUR],
             record[PCOL_DATE],
             record[PCOL_AUTH],
@@ -169,7 +175,7 @@ def main(fmedline, fpreprint, outfile, datafile):
             convert_date(record[PCOL_DATE]),
             'preprint'])
     # read papers from NCBI
-    for record in sorted(m_records, key=lambda x: convert_date(x['DP']), reverse=True):
+    for record in m_records:
         aid, url, doi = get_id_url(record)
         pprint = None
         if aid in aid2preprint:
@@ -177,7 +183,7 @@ def main(fmedline, fpreprint, outfile, datafile):
             pprint = (pp[PCOL_URL], pp[PCOL_JOUR])
         publications.append([
             aid,
-            record['TI'].strip('.'),
+            make_htmlsafe(record['TI'].strip('.')),
             record['TA'],
             record['DP'],
             ", ".join(record['AU']),
@@ -186,6 +192,9 @@ def main(fmedline, fpreprint, outfile, datafile):
             pprint,
             convert_date(record['DP']),
             'ncbi'])
+
+    # sort all by date
+    publications.sort(key=lambda x: x[8], reverse=True)
 
     print 'read %d medline records' % (len(m_records))
     print 'merged into %d publication entries (expected %d)' % (len(publications), 
