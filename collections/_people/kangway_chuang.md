@@ -12,7 +12,7 @@ header:
 papers: 
     - title: Comment on &quot;Predicting reaction performance in C-N cross-coupling using machine learning&quot;
       excerpt: __Science__. 2018 Nov 16. Chuang KV, Keiser MJ.
-      link: ""
+      link: "https://doi.org/10.1126/science.aat8603"
 
     - title: Interpretable classification of Alzheimer's disease pathologies with a convolutional neural network pipeline
       excerpt: __bioRxiv__. 2018 Oct 29. Tang Z, Chuang KV, DeCarli C, Jin L-W, Beckett L, Keiser MJ, Dugger BN.

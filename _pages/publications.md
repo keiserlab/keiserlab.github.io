@@ -11,22 +11,18 @@ intro:
     - title: Publications
 feature_row0:
 
-  - image_path: /assets/images/papers/Science.eaat8603.jpg
+  - image_path: /assets/images/papers/10.1126.science.aat8603.jpg
     alt: >-
         Comment on &quot;Predicting reaction performance in C-N cross-coupling using machine learning&quot;
     title: >-
         <span itemprop="name">Comment on &quot;Predicting reaction performance in C-N cross-coupling using machine learning&quot;</span>
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Science</strong></span>. <span itemprop="datePublished">2018 Nov 16</span>. <span itemprop="author">Chuang KV, Keiser MJ</span>.
-    url: ""
+    url: "https://doi.org/10.1126/science.aat8603"
     doi: "10.1126/science.aat8603"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-    url2: "https://doi.org/10.1126/science.aat8603"
-    btn2_label: >-
-        Science &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
 
   - image_path: /assets/images/papers/bioRxiv.454793.jpg
     alt: >-

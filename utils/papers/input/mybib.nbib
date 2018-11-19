@@ -1,3 +1,61 @@
+PMID- 30442776
+OWN - NLM
+STAT- In-Process
+LR  - 20181119
+IS  - 1095-9203 (Electronic)
+IS  - 0036-8075 (Linking)
+VI  - 362
+IP  - 6416
+DP  - 2018 Nov 16
+TI  - Comment on "Predicting reaction performance in C-N cross-coupling using machine
+      learning".
+LID - eaat8603 [pii]
+LID - 10.1126/science.aat8603 [doi]
+AB  - Ahneman et al (Reports, 13 April 2018) applied machine learning models to predict
+      C-N cross-coupling reaction yields. The models use atomic, electronic, and
+      vibrational descriptors as input features. However, the experimental design is
+      insufficient to distinguish models trained on chemical features from those
+      trained solely on random-valued features in retrospective and prospective test
+      scenarios, thus failing classical controls in machine learning.
+CI  - Copyright (c) 2018, American Association for the Advancement of Science.
+FAU - Chuang, Kangway V
+AU  - Chuang KV
+AUID- ORCID: 0000-0002-0652-8071
+AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
+      Therapeutic Sciences, Institute for Neurodegenerative Diseases, and Bakar
+      Computational Health Sciences Institute, University of California, San Francisco,
+      CA 94143, USA.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AUID- ORCID: 0000-0002-1240-2192
+AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
+      Therapeutic Sciences, Institute for Neurodegenerative Diseases, and Bakar
+      Computational Health Sciences Institute, University of California, San Francisco,
+      CA 94143, USA. keiser@keiserlab.org.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Comment
+PL  - United States
+TA  - Science
+JT  - Science (New York, N.Y.)
+JID - 0404511
+CON - Science. 2018 Apr 13;360(6385):186-190. PMID: 29449509
+CIN - Science. 2018 Nov 16;362(6416):. PMID: 30442777
+EDAT- 2018/11/18 06:00
+MHDA- 2018/11/18 06:00
+CRDT- 2018/11/17 06:00
+PHST- 2018/04/11 00:00 [received]
+PHST- 2018/09/18 00:00 [accepted]
+PHST- 2018/11/17 06:00 [entrez]
+PHST- 2018/11/18 06:00 [pubmed]
+PHST- 2018/11/18 06:00 [medline]
+AID - 362/6416/eaat8603 [pii]
+AID - 10.1126/science.aat8603 [doi]
+PST - ppublish
+SO  - Science. 2018 Nov 16;362(6416). pii: 362/6416/eaat8603. doi:
+      10.1126/science.aat8603.
+
 PMID- 30336670
 OWN - NLM
 STAT- In-Data-Review
@@ -56,7 +114,7 @@ SO  - ACS Chem Biol. 2018 Oct 19;13(10):2819-2821. doi: 10.1021/acschembio.8b008
 PMID- 30053424
 OWN - NLM
 STAT- In-Data-Review
-LR  - 20181019
+LR  - 20181026
 IS  - 1097-4172 (Electronic)
 IS  - 0092-8674 (Linking)
 VI  - 174
@@ -281,8 +339,12 @@ AD  - Quantitative Biosciences Institute (QBI), University of California, San
       Comprehensive Cancer Center, University of California, San Francisco, San
       Francisco, CA 94143, USA. Electronic address: nevan.krogan@ucsf.edu.
 LA  - eng
-GR  - DP2 GM119139/GM/NIGMS NIH HHS/United States
+GR  - R01 MH110928/MH/NIMH NIH HHS/United States
+GR  - U01 MH105575/MH/NIMH NIH HHS/United States
 GR  - U01 MH115747/MH/NIMH NIH HHS/United States
+GR  - R01 HD081379/HD/NICHD NIH HHS/United States
+GR  - R01 MH109901/MH/NIMH NIH HHS/United States
+GR  - DP2 GM119139/GM/NIGMS NIH HHS/United States
 PT  - Journal Article
 PT  - Review
 PL  - United States
@@ -317,8 +379,8 @@ SO  - Cell. 2018 Jul 26;174(3):505-520. doi: 10.1016/j.cell.2018.06.016.
 
 PMID- 29193970
 OWN - NLM
-STAT- In-Data-Review
-LR  - 20180912
+STAT- In-Process
+LR  - 20181115
 IS  - 1549-960X (Electronic)
 IS  - 1549-9596 (Linking)
 VI  - 58
@@ -346,7 +408,7 @@ AB  - Whereas 400 million distinct compounds are now purchasable within the span
       https://zinc15.docking.org and https://files.docking.org .
 FAU - Irwin, John J
 AU  - Irwin JJ
-AUID- ORCID: http://orcid.org/0000-0002-1195-6417
+AUID- ORCID: 0000-0002-1195-6417
 AD  - Department of Pharmaceutical Chemistry, University of California, San Francisco ,
       Byers Hall, 1700 4th Street, San Francisco, California 94158-2330, United States.
 FAU - Gaskins, Garrett
@@ -370,7 +432,7 @@ AD  - Department of Pharmaceutical Chemistry, University of California, San Fran
       Byers Hall, 1700 4th Street, San Francisco, California 94158-2330, United States.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
-AUID- ORCID: http://orcid.org/0000-0002-1240-2192
+AUID- ORCID: 0000-0002-1240-2192
 AD  - Department of Pharmaceutical Chemistry, University of California, San Francisco ,
       Byers Hall, 1700 4th Street, San Francisco, California 94158-2330, United States.
 AD  - Institute for Neurodegenerative Diseases, University of California, San Francisco
@@ -386,6 +448,8 @@ GR  - R43 GM093456/GM/NIGMS NIH HHS/United States
 GR  - R44 GM093456/GM/NIGMS NIH HHS/United States
 GR  - T32 GM067547/GM/NIGMS NIH HHS/United States
 PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
 DEP - 20171229
 PL  - United States
 TA  - J Chem Inf Model
@@ -407,7 +471,7 @@ PMID- 29091768
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20180612
-LR  - 20180912
+LR  - 20181113
 IS  - 2211-1247 (Electronic)
 VI  - 21
 IP  - 5
@@ -567,7 +631,7 @@ PMID- 28731335
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20170926
-LR  - 20180914
+LR  - 20181113
 IS  - 1520-4804 (Electronic)
 IS  - 0022-2623 (Linking)
 VI  - 60
@@ -674,7 +738,7 @@ PMID- 27239787
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20170515
-LR  - 20171122
+LR  - 20181113
 IS  - 1552-4469 (Electronic)
 IS  - 1552-4450 (Linking)
 VI  - 12
@@ -860,7 +924,7 @@ PMID- 26845413
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20161213
-LR  - 20180830
+LR  - 20181113
 IS  - 1554-8937 (Electronic)
 IS  - 1554-8929 (Linking)
 VI  - 11
@@ -938,7 +1002,7 @@ PMID- 26915512
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20171102
-LR  - 20171102
+LR  - 20181113
 IS  - 2215-0374 (Electronic)
 IS  - 2215-0366 (Linking)
 VI  - 3
@@ -1114,7 +1178,7 @@ PMID- 26335661
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20160627
-LR  - 20161019
+LR  - 20181113
 IS  - 1573-8744 (Electronic)
 IS  - 1567-567X (Linking)
 VI  - 42
@@ -1248,7 +1312,7 @@ PMID- 25670520
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20150408
-LR  - 20170220
+LR  - 20181113
 IS  - 1532-6535 (Electronic)
 IS  - 0009-9236 (Linking)
 VI  - 97
@@ -1336,7 +1400,7 @@ PMID- 24260022
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20140707
-LR  - 20170618
+LR  - 20181113
 IS  - 1545-7885 (Electronic)
 IS  - 1544-9173 (Linking)
 VI  - 11
@@ -1449,7 +1513,7 @@ PMID- 22722194
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20120814
-LR  - 20170220
+LR  - 20181113
 IS  - 1476-4687 (Electronic)
 IS  - 0028-0836 (Linking)
 VI  - 486
@@ -1557,7 +1621,7 @@ PMID- 22179068
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20120529
-LR  - 20170923
+LR  - 20181113
 IS  - 1552-4469 (Electronic)
 IS  - 1552-4450 (Linking)
 VI  - 8
@@ -1697,7 +1761,7 @@ PMID- 21048700
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20110509
-LR  - 20161125
+LR  - 20181113
 IS  - 1740-634X (Electronic)
 IS  - 0893-133X (Linking)
 VI  - 36
@@ -1858,7 +1922,7 @@ PMID- 21058655
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20101228
-LR  - 20170220
+LR  - 20181113
 IS  - 1520-4995 (Electronic)
 IS  - 0006-2960 (Linking)
 VI  - 49
@@ -1931,7 +1995,7 @@ PMID- 20540517
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20100722
-LR  - 20170220
+LR  - 20181113
 IS  - 1520-4804 (Electronic)
 IS  - 0022-2623 (Linking)
 VI  - 53
@@ -2020,7 +2084,7 @@ PMID- 20180535
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20100504
-LR  - 20170220
+LR  - 20181113
 IS  - 1520-4804 (Electronic)
 IS  - 0022-2623 (Linking)
 VI  - 53
@@ -2117,7 +2181,7 @@ PMID- 20581797
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20120302
-LR  - 20161122
+LR  - 20181113
 IS  - 0048-5764 (Print)
 IS  - 0048-5764 (Linking)
 VI  - 43
@@ -2222,7 +2286,7 @@ PMID- 19881490
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20100105
-LR  - 20161122
+LR  - 20181113
 IS  - 1476-4687 (Electronic)
 IS  - 0028-0836 (Linking)
 VI  - 462
@@ -2351,7 +2415,7 @@ PMID- 19701464
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20091029
-LR  - 20170220
+LR  - 20181113
 IS  - 1553-7358 (Electronic)
 IS  - 1553-734X (Linking)
 VI  - 5
@@ -2446,7 +2510,7 @@ PMID- 19483698
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20091214
-LR  - 20161122
+LR  - 20181113
 IS  - 1552-4469 (Electronic)
 IS  - 1552-4450 (Linking)
 VI  - 5
@@ -2617,7 +2681,7 @@ PMID- 18335977
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20080731
-LR  - 20170220
+LR  - 20181113
 IS  - 1549-9596 (Print)
 IS  - 1549-9596 (Linking)
 VI  - 48
