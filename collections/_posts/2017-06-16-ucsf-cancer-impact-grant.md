@@ -5,7 +5,8 @@ title: "@UCSFCancer Impact Grant awarded"
 modified:
 categories: news
 excerpt:
-tags: []
+tags:
+ - awards
 image:
   feature:
 date: 2017-06-16T00:00:00-07:00

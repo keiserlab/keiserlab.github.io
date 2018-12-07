@@ -5,7 +5,8 @@ title: "Elena receives NSF GFRP Fellowship"
 modified:
 categories: news
 excerpt:
-tags: []
+tags:
+ - awards
 image:
   feature:
 date: 2016-03-29T00:00:00-07:00

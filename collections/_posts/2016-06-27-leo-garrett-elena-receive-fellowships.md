@@ -5,7 +5,8 @@ title: "Leo, Garrett, and Elena receive graduate fellowships"
 modified:
 categories: news
 excerpt:
-tags: []
+tags:
+ - awards
 image:
   feature:
 date: 2016-06-27T00:00:00-07:00

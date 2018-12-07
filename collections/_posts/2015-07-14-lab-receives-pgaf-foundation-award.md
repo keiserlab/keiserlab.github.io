@@ -5,7 +5,8 @@ title: "Lab receives Paul G. Allen Family Foundation Award"
 modified:
 categories: news
 excerpt:
-tags: []
+tags:
+ - awards
 image:
   feature:
 date: 2015-07-14T00:00:00-07:00

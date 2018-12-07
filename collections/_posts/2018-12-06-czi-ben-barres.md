@@ -6,6 +6,7 @@ excerpt:
 tags:
   - embeds
   - twitter
+  - awards
 ---
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Extremely honored to join the <a href="https://twitter.com/hashtag/Neurodegeneration?src=hash&amp;ref_src=twsrc%5Etfw">#Neurodegeneration</a> Challenge Network as a <a href="https://twitter.com/cziscience?ref_src=twsrc%5Etfw">@cziscience</a> Ben Barres Investigator! We&#39;re working to decode how promising drug-like molecules battle <a href="https://twitter.com/hashtag/proteinopathies?src=hash&amp;ref_src=twsrc%5Etfw">#proteinopathies</a> using interpretable <a href="https://twitter.com/hashtag/DeepLearning?src=hash&amp;ref_src=twsrc%5Etfw">#DeepLearning</a>. <a href="https://twitter.com/hashtag/XAI?src=hash&amp;ref_src=twsrc%5Etfw">#XAI</a> <a href="https://twitter.com/hashtag/ML?src=hash&amp;ref_src=twsrc%5Etfw">#ML</a> <a href="https://t.co/oyaegfWBx4">https://t.co/oyaegfWBx4</a> <a href="https://t.co/JeT5CsWbVh">https://t.co/JeT5CsWbVh</a></p>&mdash; Keiser Lab (@keiser_lab) <a href="https://twitter.com/keiser_lab/status/1070842830611013633?ref_src=twsrc%5Etfw">December 7, 2018</a></blockquote>
