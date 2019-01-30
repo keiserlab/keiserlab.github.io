@@ -5,7 +5,8 @@ title: "Garrett named Hillblom Fellow"
 modified:
 categories: news
 excerpt:
-tags: []
+tags:
+ - awards
 image:
   feature:
 date: 2015-09-14T00:00:00-07:00

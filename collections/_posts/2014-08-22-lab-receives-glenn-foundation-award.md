@@ -5,7 +5,8 @@ title: "Lab receives Glenn Foundation Award"
 modified:
 categories: news
 excerpt:
-tags: []
+tags:
+ - awards
 image:
   feature:
 date: 2014-08-22T00:00:00-07:00

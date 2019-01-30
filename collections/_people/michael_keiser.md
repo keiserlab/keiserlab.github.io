@@ -10,6 +10,18 @@ excerpt: "Biographical summary for Michael Keiser, PhD, Assistant Professor in t
 header:
   teaser: /assets/images/people/bio-keiser.jpg
 papers: 
+    - title: Comment on &quot;Predicting reaction performance in C-N cross-coupling using machine learning&quot;
+      excerpt: __Science__. 2018 Nov 16. Chuang KV, Keiser MJ.
+      link: "https://doi.org/10.1126/science.aat8603"
+
+    - title: Interpretable classification of Alzheimer's disease pathologies with a convolutional neural network pipeline
+      excerpt: __bioRxiv__. 2018 Oct 29. Tang Z, Chuang KV, DeCarli C, Jin L-W, Beckett L, Keiser MJ, Dugger BN.
+      link: ""
+
+    - title: Adversarial Controls for Scientific Machine Learning
+      excerpt: __ACS Chem Biol__. 2018 Oct 19. Chuang KV, Keiser MJ.
+      link: "https://doi.org/10.1021/acschembio.8b00881"
+
     - title: The Psychiatric Cell Map Initiative- A Convergent Systems Biological Approach to Illuminating Key Molecular Pathways in Neuropsychiatric Disorders
       excerpt: __Cell__. 2018 Jul 26. Willsey AJ, Morris MT, Wang S, Willsey HR, Sun N, Teerikorpi N, Baum TB, Cagney G, Bender KJ, Desai TA, Srivastava D, Davis GW, Doudna J, Chang E, Sohal V, Lowenstein DH, Li H, Agard D, Keiser MJ, Shoichet B, von Zastrow M, Mucke L, Finkbeiner S, Gan L, Sestan N, Ward ME, Huttenhain R, Nowakowski TJ, Bellen HJ, Frank LM, Khokha MK, Lifton RP, Kampmann M, Ideker T, State MW, Krogan NJ.
       link: "https://doi.org/10.1016/j.cell.2018.06.016"
