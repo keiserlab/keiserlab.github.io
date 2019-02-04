@@ -312,3 +312,7 @@ collections:
   posts:
     output: true
     permalink: /:categories/:name
+
+# https://github.com/DIYbiosphere/sphere/issues/140
+github: [metadata]
+
