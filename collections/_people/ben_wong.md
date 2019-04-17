@@ -8,6 +8,6 @@ bio:
 type: member
 excerpt: "Biographical summary for Ben Wong, Systems and Infrastructure Admin in the Keiser Lab at UCSF."
 header:
-  teaser: /assets/images/people/bio-wong.jpg
+  teaser: /assets/images/people/bio-bwong.jpg
 papers: 
 ---

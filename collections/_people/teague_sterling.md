@@ -3,10 +3,10 @@
 title: Teague Sterling, MS
 author: teague_sterling
 layout: author-bio
-jobtitle: Principal Research Informatics Engineer
+jobtitle: Principal Engineer, Research Informatics
 bio: BioMarin Pharmaceutical
 type: alumn
-excerpt: "Biographical summary for Teague Sterling, MS, Principal Research Informatics Engineer in the Keiser Lab at UCSF."
+excerpt: "Biographical summary for Teague Sterling, MS, Principal Engineer, Research Informatics in the Keiser Lab at UCSF."
 header:
   teaser: /assets/images/people/bio-sterling.jpg
 papers: 

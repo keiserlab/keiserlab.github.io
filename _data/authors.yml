@@ -54,6 +54,17 @@ edward_elhauge:
   ncbi_id: Elhauge E
   type: member
 
+alexandre_fassio:
+  name: Alexandre Fassio
+  email: afassio@keiserlab.org
+  bio: "Federal University of Minas Gerais"
+  bio_long: "Alexandre is a visiting graduate student [CAPES scholar](https://www.iie.org/Programs/CAPES) from Federal University of Minas Gerais, Brazil. He is mentored by Dr. Raquel Minardi and Dr. Rafaela Ferreira. He is developing molecular representations to visualize and perform machine learning on protein-ligand interactions."
+  avatar: /assets/images/people/bio-fassio.jpg
+  title: Visiting CAPES Scholar
+  github: alexandrefassio
+  ncbi_id: Fassio AV
+  type: member
+
 garrett_gaskins:
   name: Garrett Gaskins
   email: gaskins@keiserlab.org
@@ -76,32 +87,31 @@ leo_gendelev:
   ncbi_id: Gendelev L
   type: member
 
-amanda_li:
-  name: Amanda Li, PhD
-  email: ali@keiserlab.org
-  bio: ""
-  bio_long: "Amanda is a Postdoctoral Fellow at the [Accelerating Therapeutics for Opportunities in Medicine (ATOM) consortium](https://atomscience.org/). Michael is her UCSF mentor."
-  avatar: /assets/images/people/bio-li.jpg
-  title: "ATOM Postdoctoral Fellow"
-  github: 8li
-  linkedin: liamanda
-  ncbi_id: Li A
-  type: member
-
 nick_mew:
   name: Nick Mew, MS
   email: mew@keiserlab.org
   bio: ""
-  bio_long: "Coming from a software engineering and computer science background, I’m focused on creating research tools that combine the state of the art in machine learning, statistics and data visualization. My current research involves training artificial neural networks to answer questions related to drugs, targets and their interactions. I also work on creating interactive visualizations that help human neural networks answer similar questions. "
+  bio_long: "Coming from a software engineering and computer science background, I’m focused on creating research tools that combine the state of the art in machine learning, statistics and data visualization. My current research involves training artificial neural networks to answer questions related to drugs, targets and their interactions. I also work on creating interactive visualizations that help human neural networks answer similar questions."
   avatar: /assets/images/people/bio-mew.jpg
   title: Specialist
   github: munick
   ncbi_id: Mew N
   type: member
 
+jacob_pfau:
+  name: Jacob Pfau, MS
+  email: pfau@keiserlab.org
+  bio: ""
+  bio_long: "My interests span the theory and applications of machine learning models -- and deep learning in particular. I previously graduated from Ecole Polytechnique, in Paris, with an M1 (masters) in data science and a focus on NLP and machine vision. I am currently researching applications of deep learning to automated diagnosis in dermatology. My work includes everything from data wrangling to refining convolutional architectures for the medical context."
+  avatar: /assets/images/people/bio-pfau.jpg
+  title: Research Data Analyst
+  github: JacobPfau
+  ncbi_id: Pfau J
+  type: member
+
 ziqi_tang:
   name: Ziqi Tang
-  email: tzq14@mails.tsinghua.edu.cn
+  email: tang@keiserlab.org
   bio: "Tsinghua University"
   bio_long: "Ziqi is an undergraduate student from Tsinghua University School of Pharmaceutical Sciences, participating in the UCSF-Tsinghua University Joint Student Education Program. His interests are in polypharmacology and machine learning."
   avatar: /assets/images/people/bio-tang.jpg
@@ -115,10 +125,21 @@ ben_wong:
   email: bwong@keiserlab.org
   bio: ""
   bio_long: "Ben keeps the trains running and the GPU fans spinning. He administers the computational infrastructures of three UCSF labs, and does it with panache."
-  avatar: /assets/images/people/bio-wong.jpg
+  avatar: /assets/images/people/bio-bwong.jpg
   title: Systems and Infrastructure Admin
   github: valkaben
   ncbi_id: Wong B
+  type: member
+
+dan_wong:
+  name: Daniel Wong
+  email: dwong@keiserlab.org
+  bio: "bioinformatics"
+  bio_long: "Daniel studied Computer Science and Biochemistry at UC Berkeley, and is currently in a PhD program within the Integrative Program in Quantitative Biology. He is interested in developing machine learning methodologies in improving human health, particularly in the fields of neurodegeneration and pharmacology. Daniel is co-mentored in the [Butte Lab](http://buttelab.ucsf.edu/)."
+  avatar: /assets/images/people/bio-dwong.jpg
+  title: Grad Student
+  github: wongdaniel8
+  ncbi_id: Wong DR
   type: member
 
 
@@ -126,9 +147,9 @@ ben_wong:
 
 cristina_melero:
   name: Cristina Melero, MS
-  email: melero@keiserlab.org
+  email: cristina.melero1@gmail.com
   bio: ""
-  bio_long: ""
+  bio_long: "Researcher and Lab Manager, 2014-2016."
   avatar: /assets/images/people/bio-melero.jpg
   title: ""
   linkedin: cristina-melero-4567524
@@ -140,7 +161,7 @@ michael_mysinger:
   name: Michael Mysinger, PhD
   email: mysinger@keiserlab.org
   bio: "Atomwise"
-  bio_long: ""
+  bio_long: "2015-2016."
   avatar: /assets/images/people/bio-mysinger.jpg
   title: "Principal Scientist"
   github: mmysinger
@@ -154,21 +175,33 @@ teague_sterling:
   email: sterling@keiserlab.org
   bio: "BioMarin Pharmaceutical"
   avatar: /assets/images/people/bio-sterling.jpg
-  title: "Principal Research Informatics Engineer"
+  title: "Principal Engineer, Research Informatics"
   linkedin: teaguesterling
   github: teaguesterling
   ncbi_id: Sterling T
   type: alumn
 
 jizhou_yang:
-  name: Jizhou Yang
+  name: Jizhou Yang, MS
   email: jyang15@mail.sfsu.edu
-  bio: "UCSF"
+  bio: "MentoInTec"
   bio_long: "Data science intern, 2017-2018."
   avatar: /assets/images/people/bio-yang.jpg
-  title: "Software Engineer Intern"
+  title: "Back End Intern"
   linkedin: jizhou-yang-43082a55
   github: JYang25
   ncbi_id: Yang J
+  type: alumn
+
+amanda_li:
+  name: Amanda Li, PhD
+  email: ali@keiserlab.org
+  bio: "Insight Data Science"
+  bio_long: "Postdoctoral Fellow at UCSF and the [Accelerating Therapeutics for Opportunities in Medicine (ATOM) consortium](https://atomscience.org/), 2017-2019."
+  avatar: /assets/images/people/bio-li.jpg
+  title: "Decentralized Consensus Fellow"
+  github: 8li
+  linkedin: liamanda
+  ncbi_id: Li A
   type: alumn
 

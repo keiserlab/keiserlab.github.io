@@ -3,10 +3,10 @@
 title: Amanda Li, PhD
 author: amanda_li
 layout: author-bio
-jobtitle: ATOM Postdoctoral Fellow
-bio: 
-type: member
-excerpt: "Biographical summary for Amanda Li, PhD, ATOM Postdoctoral Fellow in the Keiser Lab at UCSF."
+jobtitle: Decentralized Consensus Fellow
+bio: Insight Data Science
+type: alumn
+excerpt: "Biographical summary for Amanda Li, PhD, Decentralized Consensus Fellow in the Keiser Lab at UCSF."
 header:
   teaser: /assets/images/people/bio-li.jpg
 papers: 
