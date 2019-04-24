@@ -99,7 +99,7 @@ nick_mew:
   type: member
 
 jacob_pfau:
-  name: Jacob Pfau, MS
+  name: Jacob Pfau, M1
   email: pfau@keiserlab.org
   bio: ""
   bio_long: "My interests span the theory and applications of machine learning models -- and deep learning in particular. I previously graduated from Ecole Polytechnique, in Paris, with an M1 (masters) in data science and a focus on NLP and machine vision. I am currently researching applications of deep learning to automated diagnosis in dermatology. My work includes everything from data wrangling to refining convolutional architectures for the medical context."
@@ -184,7 +184,7 @@ teague_sterling:
 jizhou_yang:
   name: Jizhou Yang, MS
   email: jyang15@mail.sfsu.edu
-  bio: "MentoInTec"
+  bio: "MentorInTec"
   bio_long: "Data science intern, 2017-2018."
   avatar: /assets/images/people/bio-yang.jpg
   title: "Back End Intern"

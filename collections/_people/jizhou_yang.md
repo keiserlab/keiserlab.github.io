@@ -4,7 +4,7 @@ title: Jizhou Yang, MS
 author: jizhou_yang
 layout: author-bio
 jobtitle: Back End Intern
-bio: MentoInTec
+bio: MentorInTec
 type: alumn
 excerpt: "Biographical summary for Jizhou Yang, MS, Back End Intern in the Keiser Lab at UCSF."
 header:
