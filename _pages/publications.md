@@ -11,6 +11,23 @@ intro:
     - title: Publications
 feature_row0:
 
+  - image_path: /assets/images/papers/10.1038.s41467-019-10212-1.jpg
+    alt: >-
+        Interpretable classification of Alzheimer’s disease pathologies with a convolutional neural network pipeline
+    title: >-
+        <span itemprop="name">Interpretable classification of Alzheimer’s disease pathologies with a convolutional neural network pipeline</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nat Comm</strong></span>. <span itemprop="datePublished">2019 May 15</span>. <span itemprop="author">Tang Z, Chuang KV, DeCarli C, Jin L-W, Beckett L, Keiser MJ, Dugger BN</span>.
+    url: "https://doi.org/10.1038/s41467-019-10212-1"
+    doi: "10.1038/s41467-019-10212-1"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.1101/454793"
+    btn2_label: >-
+        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
   - image_path: /assets/images/papers/10.1126.science.aat8603.jpg
     alt: >-
         Comment on &quot;Predicting reaction performance in C-N cross-coupling using machine learning&quot;
@@ -23,23 +40,6 @@ feature_row0:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-  - image_path: /assets/images/papers/bioRxiv.454793.jpg
-    alt: >-
-        Interpretable classification of Alzheimer's disease pathologies with a convolutional neural network pipeline
-    title: >-
-        <span itemprop="name">Interpretable classification of Alzheimer's disease pathologies with a convolutional neural network pipeline</span>
-    excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2018 Oct 29</span>. <span itemprop="author">Tang Z, Chuang KV, DeCarli C, Jin L-W, Beckett L, Keiser MJ, Dugger BN</span>.
-    url: ""
-    doi: "10.1101/454793"
-    btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
-    url2: "https://doi.org/10.1101/454793"
-    btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
 
   - image_path: /assets/images/papers/10.1021.acschembio.8b00881.jpg
     alt: >-

@@ -10,8 +10,8 @@ excerpt: "Biographical summary for Ziqi Tang, Visiting Research Scholar in the K
 header:
   teaser: /assets/images/people/bio-tang.jpg
 papers: 
-    - title: Interpretable classification of Alzheimer's disease pathologies with a convolutional neural network pipeline
-      excerpt: __bioRxiv__. 2018 Oct 29. Tang Z, Chuang KV, DeCarli C, Jin L-W, Beckett L, Keiser MJ, Dugger BN.
-      link: ""
+    - title: Interpretable classification of Alzheimer’s disease pathologies with a convolutional neural network pipeline
+      excerpt: __Nat Comm__. 2019 May 15. Tang Z, Chuang KV, DeCarli C, Jin L-W, Beckett L, Keiser MJ, Dugger BN.
+      link: "https://doi.org/10.1038/s41467-019-10212-1"
 
 ---
