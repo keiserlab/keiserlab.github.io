@@ -51,7 +51,7 @@ def yml_sanitize(txt):
 
 def main(fauthors, outdir, fpapers):
     with open(fauthors) as fi:
-        ppl_dict = yaml.load(fi)
+        ppl_dict = yaml.load(fi, Loader=yaml.FullLoader)
 
     papers = []
     if fpapers is not None:
