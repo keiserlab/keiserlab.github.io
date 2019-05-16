@@ -11,15 +11,15 @@ header:
   teaser: /assets/images/people/bio-chuang.jpg
 papers: 
     - title: Interpretable classification of Alzheimer’s disease pathologies with a convolutional neural network pipeline
-      excerpt: Tang Z, <u>Chuang K</u>V, DeCarli C, Jin L-W, Beckett L, Keiser MJ, Dugger BN. __Nat Commun__. 2019 May 15.
+      excerpt: Tang Z, <u>Chuang KV</u>, DeCarli C, Jin L-W, Beckett L, Keiser MJ, Dugger BN. __Nat Commun__. 2019 May 15.
       link: "https://doi.org/10.1038/s41467-019-10212-1"
 
     - title: Comment on &quot;Predicting reaction performance in C-N cross-coupling using machine learning&quot;
-      excerpt: <u>Chuang K</u>V, Keiser MJ. __Science__. 2018 Nov 16.
+      excerpt: <u>Chuang KV</u>, Keiser MJ. __Science__. 2018 Nov 16.
       link: "https://doi.org/10.1126/science.aat8603"
 
     - title: Adversarial Controls for Scientific Machine Learning
-      excerpt: <u>Chuang K</u>V, Keiser MJ. __ACS Chem Biol__. 2018 Oct 19.
+      excerpt: <u>Chuang KV</u>, Keiser MJ. __ACS Chem Biol__. 2018 Oct 19.
       link: "https://doi.org/10.1021/acschembio.8b00881"
 
 ---
