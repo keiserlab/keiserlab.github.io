@@ -11,11 +11,11 @@ header:
   teaser: /assets/images/people/bio-gaskins.jpg
 papers: 
     - title: Predicted Biological Activity of Purchasable Chemical Space
-      excerpt: __J Chem Inf Model__. 2018 Jan 22. Irwin JJ, Gaskins G, Sterling T, Mysinger MM, Keiser MJ.
+      excerpt: Irwin JJ, <u>Gaskins G</u>, Sterling T, Mysinger MM, Keiser MJ. __J Chem Inf Model__. 2018 Jan 22.
       link: "https://doi.org/10.1021/acs.jcim.7b00316"
 
     - title: Evolutionarily Conserved Roles for Blood-Brain Barrier Xenobiotic Transporters in Endogenous Steroid Partitioning and Behavior
-      excerpt: __Cell Rep__. 2017 Oct 31. Hindle SJ, Munji RN, Dolghih E, Gaskins G, Orng S, Ishimoto H, Soung A, DeSalvo M, Kitamoto T, Keiser MJ, Jacobson MP, Daneman R, Bainton RJ.
+      excerpt: Hindle SJ, Munji RN, Dolghih E, <u>Gaskins G</u>, Orng S, Ishimoto H, Soung A, DeSalvo M, Kitamoto T, Keiser MJ, Jacobson MP, Daneman R, Bainton RJ. __Cell Rep__. 2017 Oct 31.
       link: "https://doi.org/10.1016/j.celrep.2017.10.026"
 
 ---

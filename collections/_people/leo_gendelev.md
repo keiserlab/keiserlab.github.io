@@ -11,15 +11,15 @@ header:
   teaser: /assets/images/people/bio-gendelev.jpg
 papers: 
     - title: A Simple Representation of Three-Dimensional Molecular Structure
-      excerpt: __J Med Chem__. 2017 Sep 14. Axen SD, Huang XP, Caceres EL, Gendelev L, Roth BL, Keiser MJ.
+      excerpt: Axen SD, Huang XP, Caceres EL, <u>Gendelev L</u>, Roth BL, Keiser MJ. __J Med Chem__. 2017 Sep 14.
       link: "https://doi.org/10.1021/acs.jmedchem.7b00696"
 
     - title: Zebrafish behavioral profiling identifies multitarget antipsychotic-like compounds
-      excerpt: __Nat Chem Biol__. 2016 Jul. Bruni G, Rennekamp AJ, Velenich A, McCarroll M, Gendelev L, Fertsch E, Taylor J, Lakhani P, Lensen D, Evron T, Lorello PJ, Huang XP, Kolczewski S, Carey G, Caldarone BJ, Prinssen E, Roth BL, Keiser MJ, Peterson RT, Kokel D.
+      excerpt: Bruni G, Rennekamp AJ, Velenich A, McCarroll M, <u>Gendelev L</u>, Fertsch E, Taylor J, Lakhani P, Lensen D, Evron T, Lorello PJ, Huang XP, Kolczewski S, Carey G, Caldarone BJ, Prinssen E, Roth BL, Keiser MJ, Peterson RT, Kokel D. __Nat Chem Biol__. 2016 Jul.
       link: "https://doi.org/10.1038/nchembio.2097"
 
     - title: Leveraging Large-scale Behavioral Profiling in Zebrafish to Explore Neuroactive Polypharmacology
-      excerpt: __ACS Chem Biol__. 2016 Apr 15. McCarroll MN, Gendelev L, Keiser MJ, Kokel D.
+      excerpt: McCarroll MN, <u>Gendelev L</u>, Keiser MJ, Kokel D. __ACS Chem Biol__. 2016 Apr 15.
       link: "https://doi.org/10.1021/acschembio.5b00800"
 
 ---

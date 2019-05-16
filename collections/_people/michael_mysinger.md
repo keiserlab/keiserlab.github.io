@@ -11,7 +11,7 @@ header:
   teaser: /assets/images/people/bio-mysinger.jpg
 papers: 
     - title: Predicted Biological Activity of Purchasable Chemical Space
-      excerpt: __J Chem Inf Model__. 2018 Jan 22. Irwin JJ, Gaskins G, Sterling T, Mysinger MM, Keiser MJ.
+      excerpt: Irwin JJ, Gaskins G, Sterling T, <u>Mysinger MM</u>, Keiser MJ. __J Chem Inf Model__. 2018 Jan 22.
       link: "https://doi.org/10.1021/acs.jcim.7b00316"
 
 ---

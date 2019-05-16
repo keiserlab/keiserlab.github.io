@@ -42,6 +42,9 @@ PCOL_AUTH = 4
 PCOL_LINK = 5
 
 
+def underline_author(authors, ncbi_id):
+    return authors.replace(ncbi_id, "<u>%s</u>" % ncbi_id)
+
 def yml_sanitize(txt):
     return txt.replace(':','-')
 
@@ -60,12 +63,15 @@ def main(fauthors, outdir, fpapers):
         print 'read %d papers' % len(papers)
 
     for uid, info in ppl_dict.iteritems():
+        ncbi_id = info['ncbi_id']
         display_papers = filter(
-            lambda x: x[PCOL_AUTH].strip('.').lower().find(info['ncbi_id'].lower()) != -1, 
+            lambda x: x[PCOL_AUTH].strip('.').lower().find(ncbi_id.lower()) != -1, 
             papers)
         paper_yml = ''.join([PAPER_TEMPLATE % (
             yml_sanitize(ppr[PCOL_TITLE]),
-            yml_sanitize('__%s__. %s. %s.' % (ppr[PCOL_JOUR], ppr[PCOL_DATE], ppr[PCOL_AUTH])), # this is "excerpt"
+            yml_sanitize('%s. __%s__. %s.' % \
+                (underline_author(ppr[PCOL_AUTH], ncbi_id),
+                 ppr[PCOL_JOUR], ppr[PCOL_DATE])), # this is "excerpt"
             ppr[PCOL_LINK],
             ) for ppr in display_papers])
 

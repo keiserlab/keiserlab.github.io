@@ -11,7 +11,7 @@ header:
   teaser: /assets/images/people/bio-caceres.jpg
 papers: 
     - title: A Simple Representation of Three-Dimensional Molecular Structure
-      excerpt: __J Med Chem__. 2017 Sep 14. Axen SD, Huang XP, Caceres EL, Gendelev L, Roth BL, Keiser MJ.
+      excerpt: Axen SD, Huang XP, <u>Caceres EL</u>, Gendelev L, Roth BL, Keiser MJ. __J Med Chem__. 2017 Sep 14.
       link: "https://doi.org/10.1021/acs.jmedchem.7b00696"
 
 ---
