@@ -11,7 +11,7 @@ header:
   teaser: /assets/images/people/bio-chuang.jpg
 papers: 
     - title: Interpretable classification of Alzheimer’s disease pathologies with a convolutional neural network pipeline
-      excerpt: Tang Z, <u>Chuang K</u>V, DeCarli C, Jin L-W, Beckett L, Keiser MJ, Dugger BN. __Nat Comm__. 2019 May 15.
+      excerpt: Tang Z, <u>Chuang K</u>V, DeCarli C, Jin L-W, Beckett L, Keiser MJ, Dugger BN. __Nat Commun__. 2019 May 15.
       link: "https://doi.org/10.1038/s41467-019-10212-1"
 
     - title: Comment on &quot;Predicting reaction performance in C-N cross-coupling using machine learning&quot;

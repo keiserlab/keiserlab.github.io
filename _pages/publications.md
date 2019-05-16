@@ -17,7 +17,7 @@ feature_row0:
     title: >-
         <span itemprop="name">Interpretable classification of Alzheimer’s disease pathologies with a convolutional neural network pipeline</span>
     excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nat Comm</strong></span>. <span itemprop="datePublished">2019 May 15</span>. <span itemprop="author">Tang Z, Chuang KV, DeCarli C, Jin L-W, Beckett L, Keiser MJ, Dugger BN</span>.
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nat Commun</strong></span>. <span itemprop="datePublished">2019 May 15</span>. <span itemprop="author">Tang Z, Chuang KV, DeCarli C, Jin L-W, Beckett L, Keiser MJ, Dugger BN</span>.
     url: "https://doi.org/10.1038/s41467-019-10212-1"
     doi: "10.1038/s41467-019-10212-1"
     btn_label: >-
