@@ -10,8 +10,8 @@ excerpt: "Biographical summary for Michael Keiser, PhD, Assistant Professor in t
 header:
   teaser: /assets/images/people/bio-keiser.jpg
 papers: 
-    - title: Interpretable classification of Alzheimer’s disease pathologies with a convolutional neural network pipeline
-      excerpt: Tang Z, Chuang KV, DeCarli C, Jin L-W, Beckett L, <u>Keiser MJ</u>, Dugger BN. __Nat Commun__. 2019 May 15.
+    - title: Interpretable classification of Alzheimer's disease pathologies with a convolutional neural network pipeline
+      excerpt: Tang Z, Chuang KV, DeCarli C, Jin LW, Beckett L, <u>Keiser MJ</u>, Dugger BN. __Nat Commun__. 2019 May 15.
       link: "https://doi.org/10.1038/s41467-019-10212-1"
 
     - title: Comment on &quot;Predicting reaction performance in C-N cross-coupling using machine learning&quot;

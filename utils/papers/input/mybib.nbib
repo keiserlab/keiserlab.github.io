@@ -1,51 +1,142 @@
-# START 2019-05-16 manual record
-AID - 10.1038/s41467-019-10212-1 [doi]
-TI  - Interpretable classification of Alzheimer’s disease pathologies with a convolutional neural network pipeline
-TA  - Nat Commun
+PMID- 31092819
+OWN - NLM
+STAT- In-Data-Review
+LR  - 20190516
+IS  - 2041-1723 (Electronic)
+IS  - 2041-1723 (Linking)
+VI  - 10
+IP  - 1
 DP  - 2019 May 15
+TI  - Interpretable classification of Alzheimer's disease pathologies with a
+      convolutional neural network pipeline.
+PG  - 2173
+LID - 10.1038/s41467-019-10212-1 [doi]
+AB  - Neuropathologists assess vast brain areas to identify diverse and subtly-
+      differentiated morphologies. Standard semi-quantitative scoring
+      approaches, however, are coarse-grained and lack precise neuroanatomic
+      localization. We report a proof-of-concept deep learning pipeline that
+      identifies specific neuropathologies-amyloid plaques and cerebral amyloid
+      angiopathy-in immunohistochemically-stained archival slides. Using
+      automated segmentation of stained objects and a cloud-based interface, we
+      annotate > 70,000 plaque candidates from 43 whole slide images (WSIs) to
+      train and evaluate convolutional neural networks. Networks achieve strong
+      plaque classification on a 10-WSI hold-out set (0.993 and 0.743 areas
+      under the receiver operating characteristic and precision recall curve,
+      respectively). Prediction confidence maps visualize morphology
+      distributions at high resolution. Resulting network-derived amyloid beta
+      (Abeta)-burden scores correlate well with established semi-quantitative
+      scores on a 30-WSI blinded hold-out. Finally, saliency mapping
+      demonstrates that networks learn patterns agreeing with accepted
+      pathologic features. This scalable means to augment a neuropathologist's
+      ability suggests a route to neuropathologic deep phenotyping.
+FAU - Tang, Ziqi
 AU  - Tang Z
+AUID- ORCID: http://orcid.org/0000-0003-0425-0173
+AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
+      Therapeutic Sciences, Institute for Neurodegenerative Diseases, and Bakar
+      Computational Health Sciences Institute, University of California, San
+      Francisco, 675 Nelson Rising Ln Box 0518, San Francisco, CA, 94143, USA.
+AD  - School of Pharmaceutical Sciences, Tsinghua University, 100084, Beijing,
+      China.
+FAU - Chuang, Kangway V
 AU  - Chuang KV
+AUID- ORCID: http://orcid.org/0000-0002-0652-8071
+AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
+      Therapeutic Sciences, Institute for Neurodegenerative Diseases, and Bakar
+      Computational Health Sciences Institute, University of California, San
+      Francisco, 675 Nelson Rising Ln Box 0518, San Francisco, CA, 94143, USA.
+FAU - DeCarli, Charles
 AU  - DeCarli C
-AU  - Jin L-W
+AD  - Department of Neurology, University of California-Davis School of
+      Medicine, 4860 Y Street Suite 3700, Sacramento, CA, 95817, USA.
+FAU - Jin, Lee-Way
+AU  - Jin LW
+AUID- ORCID: http://orcid.org/0000-0001-9729-1032
+AD  - Department of Pathology and Laboratory Medicine, University of
+      California-Davis School of Medicine, 2805 50th Street, Sacramento, CA,
+      95817, USA.
+FAU - Beckett, Laurel
 AU  - Beckett L
+AUID- ORCID: http://orcid.org/0000-0002-2418-9843
+AD  - Department of Public Health Sciences, University of California-Davis,
+      Medical Science, 1C One Shields Avenue, Davis, CA, 95616, USA.
+FAU - Keiser, Michael J
 AU  - Keiser MJ
+AUID- ORCID: http://orcid.org/0000-0002-1240-2192
+AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
+      Therapeutic Sciences, Institute for Neurodegenerative Diseases, and Bakar
+      Computational Health Sciences Institute, University of California, San
+      Francisco, 675 Nelson Rising Ln Box 0518, San Francisco, CA, 94143, USA.
+      keiser@keiserlab.org.
+FAU - Dugger, Brittany N
 AU  - Dugger BN
-# END 2019-05-16
+AUID- ORCID: http://orcid.org/0000-0003-2141-8855
+AD  - Department of Pathology and Laboratory Medicine, University of
+      California-Davis School of Medicine, 3400A Research Building III
+      Sacramento, Davis, CA, 95817, USA. bndugger@ucdavis.edu.
+LA  - eng
+GR  - N/A/China Scholarship Council (CSC)
+GR  - P30 AG010129/U.S. Department of Health & Human Services | National
+      Institutes of Health (NIH)
+GR  - P30 AG010129/U.S. Department of Health & Human Services | National
+      Institutes of Health (NIH)
+GR  - P30 AG010129/U.S. Department of Health & Human Services | National
+      Institutes of Health (NIH)
+PT  - Journal Article
+DEP - 20190515
+PL  - England
+TA  - Nat Commun
+JT  - Nature communications
+JID - 101528555
+EDAT- 2019/05/17 06:00
+MHDA- 2019/05/17 06:00
+CRDT- 2019/05/17 06:00
+PHST- 2018/10/30 00:00 [received]
+PHST- 2019/04/24 00:00 [accepted]
+PHST- 2019/05/17 06:00 [entrez]
+PHST- 2019/05/17 06:00 [pubmed]
+PHST- 2019/05/17 06:00 [medline]
+AID - 10.1038/s41467-019-10212-1 [doi]
+AID - 10.1038/s41467-019-10212-1 [pii]
+PST - epublish
+SO  - Nat Commun. 2019 May 15;10(1):2173. doi: 10.1038/s41467-019-10212-1.
 
 PMID- 30442776
 OWN - NLM
-STAT- In-Process
-LR  - 20181119
+STAT- PubMed-not-MEDLINE
+DCOM- 20181120
+LR  - 20181120
 IS  - 1095-9203 (Electronic)
 IS  - 0036-8075 (Linking)
 VI  - 362
 IP  - 6416
 DP  - 2018 Nov 16
-TI  - Comment on "Predicting reaction performance in C-N cross-coupling using machine
-      learning".
+TI  - Comment on "Predicting reaction performance in C-N cross-coupling using
+      machine learning".
 LID - eaat8603 [pii]
 LID - 10.1126/science.aat8603 [doi]
-AB  - Ahneman et al (Reports, 13 April 2018) applied machine learning models to predict
-      C-N cross-coupling reaction yields. The models use atomic, electronic, and
-      vibrational descriptors as input features. However, the experimental design is
-      insufficient to distinguish models trained on chemical features from those
-      trained solely on random-valued features in retrospective and prospective test
-      scenarios, thus failing classical controls in machine learning.
+AB  - Ahneman et al (Reports, 13 April 2018) applied machine learning models to
+      predict C-N cross-coupling reaction yields. The models use atomic,
+      electronic, and vibrational descriptors as input features. However, the
+      experimental design is insufficient to distinguish models trained on
+      chemical features from those trained solely on random-valued features in
+      retrospective and prospective test scenarios, thus failing classical
+      controls in machine learning.
 CI  - Copyright (c) 2018, American Association for the Advancement of Science.
 FAU - Chuang, Kangway V
 AU  - Chuang KV
 AUID- ORCID: 0000-0002-0652-8071
 AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
       Therapeutic Sciences, Institute for Neurodegenerative Diseases, and Bakar
-      Computational Health Sciences Institute, University of California, San Francisco,
-      CA 94143, USA.
+      Computational Health Sciences Institute, University of California, San
+      Francisco, CA 94143, USA.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
 AUID- ORCID: 0000-0002-1240-2192
 AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
       Therapeutic Sciences, Institute for Neurodegenerative Diseases, and Bakar
-      Computational Health Sciences Institute, University of California, San Francisco,
-      CA 94143, USA. keiser@keiserlab.org.
+      Computational Health Sciences Institute, University of California, San
+      Francisco, CA 94143, USA. keiser@keiserlab.org.
 LA  - eng
 PT  - Journal Article
 PT  - Research Support, Non-U.S. Gov't
@@ -57,13 +148,13 @@ JID - 0404511
 CON - Science. 2018 Apr 13;360(6385):186-190. PMID: 29449509
 CIN - Science. 2018 Nov 16;362(6416):. PMID: 30442777
 EDAT- 2018/11/18 06:00
-MHDA- 2018/11/18 06:00
+MHDA- 2018/11/18 06:01
 CRDT- 2018/11/17 06:00
 PHST- 2018/04/11 00:00 [received]
 PHST- 2018/09/18 00:00 [accepted]
 PHST- 2018/11/17 06:00 [entrez]
 PHST- 2018/11/18 06:00 [pubmed]
-PHST- 2018/11/18 06:00 [medline]
+PHST- 2018/11/18 06:01 [medline]
 AID - 362/6416/eaat8603 [pii]
 AID - 10.1126/science.aat8603 [doi]
 PST - ppublish
@@ -82,33 +173,34 @@ DP  - 2018 Oct 19
 TI  - Adversarial Controls for Scientific Machine Learning.
 PG  - 2819-2821
 LID - 10.1021/acschembio.8b00881 [doi]
-AB  - New machine learning methods to analyze raw chemical and biological data are now 
-      widely accessible as open-source toolkits. This positions researchers to leverage
-      powerful, predictive models in their own domains. We caution, however, that the
-      application of machine learning to experimental research merits careful
-      consideration. Machine learning algorithms readily exploit confounding variables 
-      and experimental artifacts instead of relevant patterns, leading to
-      overoptimistic performance and poor model generalization. In parallel to the
-      strong control experiments that remain a cornerstone of experimental research, we
-      advance the concept of adversarial controls for scientific machine learning: the 
-      design of exacting and purposeful experiments to ensure that predictive
-      performance arises from meaningful models.
+AB  - New machine learning methods to analyze raw chemical and biological data
+      are now widely accessible as open-source toolkits. This positions
+      researchers to leverage powerful, predictive models in their own domains.
+      We caution, however, that the application of machine learning to
+      experimental research merits careful consideration. Machine learning
+      algorithms readily exploit confounding variables and experimental
+      artifacts instead of relevant patterns, leading to overoptimistic
+      performance and poor model generalization. In parallel to the strong
+      control experiments that remain a cornerstone of experimental research,
+      we advance the concept of adversarial controls for scientific machine
+      learning: the design of exacting and purposeful experiments to ensure
+      that predictive performance arises from meaningful models.
 FAU - Chuang, Kangway V
 AU  - Chuang KV
 AUID- ORCID: http://orcid.org/0000-0002-0652-8071
 AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
       Therapeutic Sciences, Institute for Neurodegenerative Diseases and Bakar
-      Institute for Computational Health Sciences , University of California-San
-      Francisco , 675 Nelson Rising Lane , San Francisco , California 94158 , United
-      States.
+      Institute for Computational Health Sciences , University of California-
+      San Francisco , 675 Nelson Rising Lane , San Francisco , California 94158
+      , United States.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
 AUID- ORCID: http://orcid.org/0000-0002-1240-2192
 AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
       Therapeutic Sciences, Institute for Neurodegenerative Diseases and Bakar
-      Institute for Computational Health Sciences , University of California-San
-      Francisco , 675 Nelson Rising Lane , San Francisco , California 94158 , United
-      States.
+      Institute for Computational Health Sciences , University of California-
+      San Francisco , 675 Nelson Rising Lane , San Francisco , California 94158
+      , United States.
 LA  - eng
 PT  - Journal Article
 PL  - United States
@@ -123,269 +215,309 @@ PHST- 2018/10/20 06:00 [pubmed]
 PHST- 2018/10/20 06:00 [medline]
 AID - 10.1021/acschembio.8b00881 [doi]
 PST - ppublish
-SO  - ACS Chem Biol. 2018 Oct 19;13(10):2819-2821. doi: 10.1021/acschembio.8b00881.
+SO  - ACS Chem Biol. 2018 Oct 19;13(10):2819-2821. doi:
+      10.1021/acschembio.8b00881.
 
 PMID- 30053424
 OWN - NLM
-STAT- In-Data-Review
-LR  - 20181026
+STAT- MEDLINE
+DCOM- 20190418
+LR  - 20190418
 IS  - 1097-4172 (Electronic)
 IS  - 0092-8674 (Linking)
 VI  - 174
 IP  - 3
 DP  - 2018 Jul 26
-TI  - The Psychiatric Cell Map Initiative: A Convergent Systems Biological Approach to 
-      Illuminating Key Molecular Pathways in Neuropsychiatric Disorders.
+TI  - The Psychiatric Cell Map Initiative: A Convergent Systems Biological
+      Approach to Illuminating Key Molecular Pathways in Neuropsychiatric
+      Disorders.
 PG  - 505-520
 LID - S0092-8674(18)30784-0 [pii]
 LID - 10.1016/j.cell.2018.06.016 [doi]
-AB  - Although gene discovery in neuropsychiatric disorders, including autism spectrum 
-      disorder, intellectual disability, epilepsy, schizophrenia, and Tourette
-      disorder, has accelerated, resulting in a large number of molecular clues, it has
-      proven difficult to generate specific hypotheses without the corresponding
-      datasets at the protein complex and functional pathway level. Here, we describe
-      one path forward-an initiative aimed at mapping the physical and genetic
-      interaction networks of these conditions and then using these maps to connect the
-      genomic data to neurobiology and, ultimately, the clinic. These efforts will
-      include a team of geneticists, structural biologists, neurobiologists, systems
-      biologists, and clinicians, leveraging a wide array of experimental approaches
-      and creating a collaborative infrastructure necessary for long-term
-      investigation. This initiative will ultimately intersect with parallel studies
-      that focus on other diseases, as there is a significant overlap with genes
-      implicated in cancer, infectious disease, and congenital heart defects.
+AB  - Although gene discovery in neuropsychiatric disorders, including autism
+      spectrum disorder, intellectual disability, epilepsy, schizophrenia, and
+      Tourette disorder, has accelerated, resulting in a large number of
+      molecular clues, it has proven difficult to generate specific hypotheses
+      without the corresponding datasets at the protein complex and functional
+      pathway level. Here, we describe one path forward-an initiative aimed at
+      mapping the physical and genetic interaction networks of these conditions
+      and then using these maps to connect the genomic data to neurobiology
+      and, ultimately, the clinic. These efforts will include a team of
+      geneticists, structural biologists, neurobiologists, systems biologists,
+      and clinicians, leveraging a wide array of experimental approaches and
+      creating a collaborative infrastructure necessary for long-term
+      investigation. This initiative will ultimately intersect with parallel
+      studies that focus on other diseases, as there is a significant overlap
+      with genes implicated in cancer, infectious disease, and congenital heart
+      defects.
 CI  - Copyright (c) 2018 Elsevier Inc. All rights reserved.
 FAU - Willsey, A Jeremy
 AU  - Willsey AJ
-AD  - Department of Psychiatry, UCSF Weill Institute for Neurosciences, University of
-      California, San Francisco, San Francisco, CA 94143, USA; Institute for
-      Neurodegenerative Diseases, UCSF Weill Institute for Neurosciences, University of
-      California, San Francisco, San Francisco, CA 94143, USA; Quantitative Biosciences
-      Institute (QBI), University of California, San Francisco, San Francisco, CA
-      94143, USA. Electronic address: jeremy.willsey@ucsf.edu.
+AD  - Department of Psychiatry, UCSF Weill Institute for Neurosciences,
+      University of California, San Francisco, San Francisco, CA 94143, USA;
+      Institute for Neurodegenerative Diseases, UCSF Weill Institute for
+      Neurosciences, University of California, San Francisco, San Francisco, CA
+      94143, USA; Quantitative Biosciences Institute (QBI), University of
+      California, San Francisco, San Francisco, CA 94143, USA. Electronic
+      address: jeremy.willsey@ucsf.edu.
 FAU - Morris, Montana T
 AU  - Morris MT
-AD  - Institute for Neurodegenerative Diseases, UCSF Weill Institute for Neurosciences,
-      University of California, San Francisco, San Francisco, CA 94143, USA.
+AD  - Institute for Neurodegenerative Diseases, UCSF Weill Institute for
+      Neurosciences, University of California, San Francisco, San Francisco, CA
+      94143, USA.
 FAU - Wang, Sheng
 AU  - Wang S
-AD  - Institute for Neurodegenerative Diseases, UCSF Weill Institute for Neurosciences,
-      University of California, San Francisco, San Francisco, CA 94143, USA.
+AD  - Institute for Neurodegenerative Diseases, UCSF Weill Institute for
+      Neurosciences, University of California, San Francisco, San Francisco, CA
+      94143, USA.
 FAU - Willsey, Helen R
 AU  - Willsey HR
-AD  - Department of Psychiatry, UCSF Weill Institute for Neurosciences, University of
-      California, San Francisco, San Francisco, CA 94143, USA.
+AD  - Department of Psychiatry, UCSF Weill Institute for Neurosciences,
+      University of California, San Francisco, San Francisco, CA 94143, USA.
 FAU - Sun, Nawei
 AU  - Sun N
-AD  - Institute for Neurodegenerative Diseases, UCSF Weill Institute for Neurosciences,
-      University of California, San Francisco, San Francisco, CA 94143, USA.
+AD  - Institute for Neurodegenerative Diseases, UCSF Weill Institute for
+      Neurosciences, University of California, San Francisco, San Francisco, CA
+      94143, USA.
 FAU - Teerikorpi, Nia
 AU  - Teerikorpi N
-AD  - Institute for Neurodegenerative Diseases, UCSF Weill Institute for Neurosciences,
-      University of California, San Francisco, San Francisco, CA 94143, USA; Tetrad
-      Graduate Program, University of California, San Francisco, San Francisco, CA
-      94143, USA.
+AD  - Institute for Neurodegenerative Diseases, UCSF Weill Institute for
+      Neurosciences, University of California, San Francisco, San Francisco, CA
+      94143, USA; Tetrad Graduate Program, University of California, San
+      Francisco, San Francisco, CA 94143, USA.
 FAU - Baum, Tierney B
 AU  - Baum TB
-AD  - Institute for Neurodegenerative Diseases, UCSF Weill Institute for Neurosciences,
-      University of California, San Francisco, San Francisco, CA 94143, USA.
+AD  - Institute for Neurodegenerative Diseases, UCSF Weill Institute for
+      Neurosciences, University of California, San Francisco, San Francisco, CA
+      94143, USA.
 FAU - Cagney, Gerard
 AU  - Cagney G
-AD  - School of Biomolecular and Biomedical Science, Conway Institute, University
-      College Dublin, Dublin 4, Ireland.
+AD  - School of Biomolecular and Biomedical Science, Conway Institute,
+      University College Dublin, Dublin 4, Ireland.
 FAU - Bender, Kevin J
 AU  - Bender KJ
-AD  - Department of Neurology, UCSF Weill Institute for Neurosciences, University of
-      California, San Francisco, San Francisco, CA 94143, USA.
+AD  - Department of Neurology, UCSF Weill Institute for Neurosciences,
+      University of California, San Francisco, San Francisco, CA 94143, USA.
 FAU - Desai, Tejal A
 AU  - Desai TA
 AD  - Quantitative Biosciences Institute (QBI), University of California, San
       Francisco, San Francisco, CA 94143, USA; Department of Bioengineering and
-      Therapeutic Sciences, University of California, San Francisco, San Francisco, CA 
-      94143, USA.
+      Therapeutic Sciences, University of California, San Francisco, San
+      Francisco, CA 94143, USA.
 FAU - Srivastava, Deepak
 AU  - Srivastava D
-AD  - Gladstone Institutes, San Francisco, CA 94158, USA; Department of Pediatrics,
-      University of California, San Francisco, San Francisco, CA 94143, USA; Department
-      of Biochemistry and Biophysics, University of California, San Francisco, San
-      Francisco, CA 94143, USA.
+AD  - Gladstone Institutes, San Francisco, CA 94158, USA; Department of
+      Pediatrics, University of California, San Francisco, San Francisco, CA
+      94143, USA; Department of Biochemistry and Biophysics, University of
+      California, San Francisco, San Francisco, CA 94143, USA.
 FAU - Davis, Graeme W
 AU  - Davis GW
 AD  - Department of Biochemistry and Biophysics, University of California, San
       Francisco, San Francisco, CA 94143, USA; Kavli Institute for Fundamental
-      Neuroscience, University of California, San Francisco, San Francisco, CA 94143,
-      USA.
+      Neuroscience, University of California, San Francisco, San Francisco, CA
+      94143, USA.
 FAU - Doudna, Jennifer
 AU  - Doudna J
-AD  - Department of Molecular and Cell Biology, University of California, Berkeley,
-      Berkeley, CA 94720, USA; Department of Chemistry, University of California,
-      Berkeley, Berkeley, CA 94720, USA; Howard Hughes Medical Institute, University of
-      California, Berkeley, Berkeley, CA, 94720, USA; Innovative Genomics Institute,
-      University of California, Berkeley, Berkeley, CA 94720, USA; MBIB Division,
-      Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA.
+AD  - Department of Molecular and Cell Biology, University of California,
+      Berkeley, Berkeley, CA 94720, USA; Department of Chemistry, University of
+      California, Berkeley, Berkeley, CA 94720, USA; Howard Hughes Medical
+      Institute, University of California, Berkeley, Berkeley, CA, 94720, USA;
+      Innovative Genomics Institute, University of California, Berkeley,
+      Berkeley, CA 94720, USA; MBIB Division, Lawrence Berkeley National
+      Laboratory, Berkeley, CA 94720, USA.
 FAU - Chang, Edward
 AU  - Chang E
-AD  - Department of Neurological Surgery, UCSF Weill Institute for Neurosciences,
-      University of California, San Francisco, San Francisco, CA 94143, USA.
+AD  - Department of Neurological Surgery, UCSF Weill Institute for
+      Neurosciences, University of California, San Francisco, San Francisco, CA
+      94143, USA.
 FAU - Sohal, Vikaas
 AU  - Sohal V
-AD  - Department of Psychiatry, UCSF Weill Institute for Neurosciences, University of
-      California, San Francisco, San Francisco, CA 94143, USA; Kavli Institute for
-      Fundamental Neuroscience, University of California, San Francisco, San Francisco,
-      CA 94143, USA.
+AD  - Department of Psychiatry, UCSF Weill Institute for Neurosciences,
+      University of California, San Francisco, San Francisco, CA 94143, USA;
+      Kavli Institute for Fundamental Neuroscience, University of California,
+      San Francisco, San Francisco, CA 94143, USA.
 FAU - Lowenstein, Daniel H
 AU  - Lowenstein DH
-AD  - Department of Neurology, UCSF Weill Institute for Neurosciences, University of
-      California, San Francisco, San Francisco, CA 94143, USA.
+AD  - Department of Neurology, UCSF Weill Institute for Neurosciences,
+      University of California, San Francisco, San Francisco, CA 94143, USA.
 FAU - Li, Hao
 AU  - Li H
 AD  - Quantitative Biosciences Institute (QBI), University of California, San
       Francisco, San Francisco, CA 94143, USA; Department of Biochemistry and
-      Biophysics, University of California, San Francisco, San Francisco, CA 94143,
-      USA.
+      Biophysics, University of California, San Francisco, San Francisco, CA
+      94143, USA.
 FAU - Agard, David
 AU  - Agard D
 AD  - Quantitative Biosciences Institute (QBI), University of California, San
       Francisco, San Francisco, CA 94143, USA; Department of Biochemistry and
-      Biophysics, University of California, San Francisco, San Francisco, CA 94143,
-      USA.
+      Biophysics, University of California, San Francisco, San Francisco, CA
+      94143, USA.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
-AD  - Institute for Neurodegenerative Diseases, UCSF Weill Institute for Neurosciences,
-      University of California, San Francisco, San Francisco, CA 94143, USA;
-      Quantitative Biosciences Institute (QBI), University of California, San
-      Francisco, San Francisco, CA 94143, USA; Department of Bioengineering and
-      Therapeutic Sciences, University of California, San Francisco, San Francisco, CA 
-      94143, USA; Department of Pharmaceutical Chemistry, University of California, San
-      Francisco, San Francisco, CA 94143, USA.
+AD  - Institute for Neurodegenerative Diseases, UCSF Weill Institute for
+      Neurosciences, University of California, San Francisco, San Francisco, CA
+      94143, USA; Quantitative Biosciences Institute (QBI), University of
+      California, San Francisco, San Francisco, CA 94143, USA; Department of
+      Bioengineering and Therapeutic Sciences, University of California, San
+      Francisco, San Francisco, CA 94143, USA; Department of Pharmaceutical
+      Chemistry, University of California, San Francisco, San Francisco, CA
+      94143, USA.
 FAU - Shoichet, Brian
 AU  - Shoichet B
 AD  - Quantitative Biosciences Institute (QBI), University of California, San
-      Francisco, San Francisco, CA 94143, USA; Department of Pharmaceutical Chemistry, 
-      University of California, San Francisco, San Francisco, CA 94143, USA.
+      Francisco, San Francisco, CA 94143, USA; Department of Pharmaceutical
+      Chemistry, University of California, San Francisco, San Francisco, CA
+      94143, USA.
 FAU - von Zastrow, Mark
 AU  - von Zastrow M
-AD  - Department of Psychiatry, UCSF Weill Institute for Neurosciences, University of
-      California, San Francisco, San Francisco, CA 94143, USA; Quantitative Biosciences
-      Institute (QBI), University of California, San Francisco, San Francisco, CA
-      94143, USA; Department of Cellular and Molecular Pharmacology, University of
-      California, San Francisco, San Francisco, CA 94143, USA.
+AD  - Department of Psychiatry, UCSF Weill Institute for Neurosciences,
+      University of California, San Francisco, San Francisco, CA 94143, USA;
+      Quantitative Biosciences Institute (QBI), University of California, San
+      Francisco, San Francisco, CA 94143, USA; Department of Cellular and
+      Molecular Pharmacology, University of California, San Francisco, San
+      Francisco, CA 94143, USA.
 FAU - Mucke, Lennart
 AU  - Mucke L
-AD  - Department of Neurology, UCSF Weill Institute for Neurosciences, University of
-      California, San Francisco, San Francisco, CA 94143, USA; Gladstone Institutes,
-      San Francisco, CA 94158, USA.
+AD  - Department of Neurology, UCSF Weill Institute for Neurosciences,
+      University of California, San Francisco, San Francisco, CA 94143, USA;
+      Gladstone Institutes, San Francisco, CA 94158, USA.
 FAU - Finkbeiner, Steven
 AU  - Finkbeiner S
-AD  - Department of Neurology, UCSF Weill Institute for Neurosciences, University of
-      California, San Francisco, San Francisco, CA 94143, USA; Gladstone Institutes,
-      San Francisco, CA 94158, USA; Department of Physiology, University of California,
-      San Francisco, San Francisco, CA 94143, USA.
+AD  - Department of Neurology, UCSF Weill Institute for Neurosciences,
+      University of California, San Francisco, San Francisco, CA 94143, USA;
+      Gladstone Institutes, San Francisco, CA 94158, USA; Department of
+      Physiology, University of California, San Francisco, San Francisco, CA
+      94143, USA.
 FAU - Gan, Li
 AU  - Gan L
-AD  - Department of Neurology, UCSF Weill Institute for Neurosciences, University of
-      California, San Francisco, San Francisco, CA 94143, USA; Gladstone Institutes,
-      San Francisco, CA 94158, USA.
+AD  - Department of Neurology, UCSF Weill Institute for Neurosciences,
+      University of California, San Francisco, San Francisco, CA 94143, USA;
+      Gladstone Institutes, San Francisco, CA 94158, USA.
 FAU - Sestan, Nenad
 AU  - Sestan N
-AD  - Department of Neuroscience and Kavli Institute for Neuroscience, Yale School of
-      Medicine, New Haven, CT 06510, USA.
+AD  - Department of Neuroscience and Kavli Institute for Neuroscience, Yale
+      School of Medicine, New Haven, CT 06510, USA.
 FAU - Ward, Michael E
 AU  - Ward ME
-AD  - National Institute of Neurological Disorders and Stroke, NIH, Bethesda, MD 20892,
-      USA.
+AD  - National Institute of Neurological Disorders and Stroke, NIH, Bethesda,
+      MD 20892, USA.
 FAU - Huttenhain, Ruth
 AU  - Huttenhain R
 AD  - Quantitative Biosciences Institute (QBI), University of California, San
-      Francisco, San Francisco, CA 94143, USA; Gladstone Institutes, San Francisco, CA 
-      94158, USA; Department of Cellular and Molecular Pharmacology, University of
-      California, San Francisco, San Francisco, CA 94143, USA.
+      Francisco, San Francisco, CA 94143, USA; Gladstone Institutes, San
+      Francisco, CA 94158, USA; Department of Cellular and Molecular
+      Pharmacology, University of California, San Francisco, San Francisco, CA
+      94143, USA.
 FAU - Nowakowski, Tomasz J
 AU  - Nowakowski TJ
-AD  - Department of Psychiatry, UCSF Weill Institute for Neurosciences, University of
-      California, San Francisco, San Francisco, CA 94143, USA; Department of Anatomy,
-      University of California, San Francisco, San Francisco, CA 94143, USA; The Eli
-      and Edythe Broad Center of Regeneration Medicine and Stem Cell Research,
-      University of California, San Francisco, San Francisco, CA 94143, USA.
+AD  - Department of Psychiatry, UCSF Weill Institute for Neurosciences,
+      University of California, San Francisco, San Francisco, CA 94143, USA;
+      Department of Anatomy, University of California, San Francisco, San
+      Francisco, CA 94143, USA; The Eli and Edythe Broad Center of Regeneration
+      Medicine and Stem Cell Research, University of California, San Francisco,
+      San Francisco, CA 94143, USA.
 FAU - Bellen, Hugo J
 AU  - Bellen HJ
-AD  - Departments of Molecular and Human Genetics and Neuroscience, Neurological
-      Research Institute at TCH, Baylor College of Medicine, Houston, TX 77030, USA;
-      Howard Hughes Medical Institute, Baylor College of Medicine, Houston, TX 77030,
-      USA.
+AD  - Departments of Molecular and Human Genetics and Neuroscience,
+      Neurological Research Institute at TCH, Baylor College of Medicine,
+      Houston, TX 77030, USA; Howard Hughes Medical Institute, Baylor College
+      of Medicine, Houston, TX 77030, USA.
 FAU - Frank, Loren M
 AU  - Frank LM
-AD  - Kavli Institute for Fundamental Neuroscience, University of California, San
-      Francisco, San Francisco, CA 94143, USA; Department of Physiology, University of 
-      California, San Francisco, San Francisco, CA 94143, USA; Howard Hughes Medical
-      Institute, University of California, San Francisco, San Francisco, CA 94143, USA.
+AD  - Kavli Institute for Fundamental Neuroscience, University of California,
+      San Francisco, San Francisco, CA 94143, USA; Department of Physiology,
+      University of California, San Francisco, San Francisco, CA 94143, USA;
+      Howard Hughes Medical Institute, University of California, San Francisco,
+      San Francisco, CA 94143, USA.
 FAU - Khokha, Mustafa K
 AU  - Khokha MK
-AD  - Pediatric Genomics Discovery Program, Departments of Pediatrics and Genetics,
-      Yale University School of Medicine, New Haven, CT 06510, USA.
+AD  - Pediatric Genomics Discovery Program, Departments of Pediatrics and
+      Genetics, Yale University School of Medicine, New Haven, CT 06510, USA.
 FAU - Lifton, Richard P
 AU  - Lifton RP
-AD  - Laboratory of Human Genetics and Genomics, The Rockefeller University, New York, 
-      NY 10065, USA.
+AD  - Laboratory of Human Genetics and Genomics, The Rockefeller University,
+      New York, NY 10065, USA.
 FAU - Kampmann, Martin
 AU  - Kampmann M
-AD  - Institute for Neurodegenerative Diseases, UCSF Weill Institute for Neurosciences,
-      University of California, San Francisco, San Francisco, CA 94143, USA;
-      Quantitative Biosciences Institute (QBI), University of California, San
-      Francisco, San Francisco, CA 94143, USA; Department of Biochemistry and
-      Biophysics, University of California, San Francisco, San Francisco, CA 94143,
-      USA; Chan Zuckerberg Biohub, San Francisco, CA 94158, USA.
+AD  - Institute for Neurodegenerative Diseases, UCSF Weill Institute for
+      Neurosciences, University of California, San Francisco, San Francisco, CA
+      94143, USA; Quantitative Biosciences Institute (QBI), University of
+      California, San Francisco, San Francisco, CA 94143, USA; Department of
+      Biochemistry and Biophysics, University of California, San Francisco, San
+      Francisco, CA 94143, USA; Chan Zuckerberg Biohub, San Francisco, CA
+      94158, USA.
 FAU - Ideker, Trey
 AU  - Ideker T
-AD  - Department of Medicine, University of California, San Diego, La Jolla, CA 92093, 
-      USA.
+AD  - Department of Medicine, University of California, San Diego, La Jolla, CA
+      92093, USA.
 FAU - State, Matthew W
 AU  - State MW
-AD  - Department of Psychiatry, UCSF Weill Institute for Neurosciences, University of
-      California, San Francisco, San Francisco, CA 94143, USA; Quantitative Biosciences
-      Institute (QBI), University of California, San Francisco, San Francisco, CA
-      94143, USA.
+AD  - Department of Psychiatry, UCSF Weill Institute for Neurosciences,
+      University of California, San Francisco, San Francisco, CA 94143, USA;
+      Quantitative Biosciences Institute (QBI), University of California, San
+      Francisco, San Francisco, CA 94143, USA.
 FAU - Krogan, Nevan J
 AU  - Krogan NJ
 AD  - Quantitative Biosciences Institute (QBI), University of California, San
-      Francisco, San Francisco, CA 94143, USA; Gladstone Institutes, San Francisco, CA 
-      94158, USA; Department of Cellular and Molecular Pharmacology, University of
-      California, San Francisco, San Francisco, CA 94143, USA; Helen Diller
-      Comprehensive Cancer Center, University of California, San Francisco, San
-      Francisco, CA 94143, USA. Electronic address: nevan.krogan@ucsf.edu.
+      Francisco, San Francisco, CA 94143, USA; Gladstone Institutes, San
+      Francisco, CA 94158, USA; Department of Cellular and Molecular
+      Pharmacology, University of California, San Francisco, San Francisco, CA
+      94143, USA; Helen Diller Comprehensive Cancer Center, University of
+      California, San Francisco, San Francisco, CA 94143, USA. Electronic
+      address: nevan.krogan@ucsf.edu.
 LA  - eng
 GR  - R01 MH110928/MH/NIMH NIH HHS/United States
 GR  - U01 MH105575/MH/NIMH NIH HHS/United States
-GR  - U01 MH115747/MH/NIMH NIH HHS/United States
+GR  - UL1 TR001863/TR/NCATS NIH HHS/United States
 GR  - R01 HD081379/HD/NICHD NIH HHS/United States
 GR  - R01 MH109901/MH/NIMH NIH HHS/United States
 GR  - DP2 GM119139/GM/NIGMS NIH HHS/United States
+GR  - Z99 NS999999/NULL/International
 PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, N.I.H., Intramural
+PT  - Research Support, Non-U.S. Gov't
 PT  - Review
 PL  - United States
 TA  - Cell
 JT  - Cell
 JID - 0413066
+SB  - IM
+MH  - Chromosome Mapping/*methods
+MH  - Gene Regulatory Networks/genetics
+MH  - Genetic Predisposition to Disease/genetics
+MH  - Genome-Wide Association Study/methods
+MH  - Genomics/methods
+MH  - Humans
+MH  - Neurobiology/methods
+MH  - Neurodevelopmental Disorders/*genetics
+MH  - Neuropsychiatry
+MH  - Systems Biology/*methods
+PMC - PMC6247911
+MID - NIHMS1510441
 OTO - NOTNLM
-OT  - convergence
-OT  - genetics
-OT  - interactome
-OT  - network
-OT  - neurodevelopmental disorder
-OT  - pathway
-OT  - proteomics
-OT  - psychiatric cell map initiative
-OT  - psychiatric disorder
-OT  - psychiatry
-OT  - systems biology
+OT  - *convergence
+OT  - *genetics
+OT  - *interactome
+OT  - *network
+OT  - *neurodevelopmental disorder
+OT  - *pathway
+OT  - *proteomics
+OT  - *psychiatric cell map initiative
+OT  - *psychiatric disorder
+OT  - *psychiatry
+OT  - *systems biology
 EDAT- 2018/07/28 06:00
-MHDA- 2018/07/28 06:00
+MHDA- 2019/04/19 06:00
 CRDT- 2018/07/28 06:00
+PMCR- 2019/07/26 00:00
 PHST- 2018/02/13 00:00 [received]
 PHST- 2018/05/07 00:00 [revised]
 PHST- 2018/06/08 00:00 [accepted]
+PHST- 2019/07/26 00:00 [pmc-release]
 PHST- 2018/07/28 06:00 [entrez]
 PHST- 2018/07/28 06:00 [pubmed]
-PHST- 2018/07/28 06:00 [medline]
+PHST- 2019/04/19 06:00 [medline]
 AID - S0092-8674(18)30784-0 [pii]
 AID - 10.1016/j.cell.2018.06.016 [doi]
 PST - ppublish
@@ -393,8 +525,9 @@ SO  - Cell. 2018 Jul 26;174(3):505-520. doi: 10.1016/j.cell.2018.06.016.
 
 PMID- 29193970
 OWN - NLM
-STAT- In-Process
-LR  - 20181115
+STAT- MEDLINE
+DCOM- 20181211
+LR  - 20181211
 IS  - 1549-960X (Electronic)
 IS  - 1549-9596 (Linking)
 VI  - 58
@@ -403,59 +536,70 @@ DP  - 2018 Jan 22
 TI  - Predicted Biological Activity of Purchasable Chemical Space.
 PG  - 148-164
 LID - 10.1021/acs.jcim.7b00316 [doi]
-AB  - Whereas 400 million distinct compounds are now purchasable within the span of a
-      few weeks, the biological activities of most are unknown. To facilitate access to
-      new chemistry for biology, we have combined the Similarity Ensemble Approach
-      (SEA) with the maximum Tanimoto similarity to the nearest bioactive to predict
-      activity for every commercially available molecule in ZINC. This method, which we
-      label SEA+TC, outperforms both SEA and a naive-Bayesian classifier via predictive
+AB  - Whereas 400 million distinct compounds are now purchasable within the
+      span of a few weeks, the biological activities of most are unknown. To
+      facilitate access to new chemistry for biology, we have combined the
+      Similarity Ensemble Approach (SEA) with the maximum Tanimoto similarity
+      to the nearest bioactive to predict activity for every commercially
+      available molecule in ZINC. This method, which we label SEA+TC,
+      outperforms both SEA and a naive-Bayesian classifier via predictive
       performance on a 5-fold cross-validation of ChEMBL's bioactivity data set
-      (version 21). Using this method, predictions for over 40% of compounds (>160
-      million) have either high significance (pSEA >/= 40), high similarity (ECFP4MaxTc
-      >/= 0.4), or both, for one or more of 1382 targets well described by ligands in
-      the literature. Using a further 1347 less-well-described targets, we predict
-      activities for an additional 11 million compounds. To gauge whether these
-      predictions are sensible, we investigate 75 predictions for 50 drugs lacking a
-      binding affinity annotation in ChEMBL. The 535 million predictions for over 171
-      million compounds at 2629 targets are linked to purchasing information and
+      (version 21). Using this method, predictions for over 40% of compounds
+      (>160 million) have either high significance (pSEA >/= 40), high
+      similarity (ECFP4MaxTc >/= 0.4), or both, for one or more of 1382 targets
+      well described by ligands in the literature. Using a further 1347 less-
+      well-described targets, we predict activities for an additional 11
+      million compounds. To gauge whether these predictions are sensible, we
+      investigate 75 predictions for 50 drugs lacking a binding affinity
+      annotation in ChEMBL. The 535 million predictions for over 171 million
+      compounds at 2629 targets are linked to purchasing information and
       evidence to support each prediction and are freely available via
       https://zinc15.docking.org and https://files.docking.org .
 FAU - Irwin, John J
 AU  - Irwin JJ
 AUID- ORCID: 0000-0002-1195-6417
-AD  - Department of Pharmaceutical Chemistry, University of California, San Francisco ,
-      Byers Hall, 1700 4th Street, San Francisco, California 94158-2330, United States.
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco , Byers Hall, 1700 4th Street, San Francisco, California
+      94158-2330, United States.
 FAU - Gaskins, Garrett
 AU  - Gaskins G
-AD  - Department of Pharmaceutical Chemistry, University of California, San Francisco ,
-      Byers Hall, 1700 4th Street, San Francisco, California 94158-2330, United States.
-AD  - Institute for Neurodegenerative Diseases, University of California, San Francisco
-      , 675 Nelson Rising Lane, San Francisco, California 94158, United States.
-AD  - Department of Bioengineering and Therapeutic Sciences, University of California, 
-      San Francisco , Byers Hall, 1700 4th Street, San Francisco, California 94158,
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco , Byers Hall, 1700 4th Street, San Francisco, California
+      94158-2330, United States.
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco , 675 Nelson Rising Lane, San Francisco, California 94158,
       United States.
-AD  - Institute for Computational Health Sciences, University of California, San
-      Francisco , 550 16th Street, San Francisco, California 94158, United States.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco , Byers Hall, 1700 4th Street, San Francisco,
+      California 94158, United States.
+AD  - Institute for Computational Health Sciences, University of California,
+      San Francisco , 550 16th Street, San Francisco, California 94158, United
+      States.
 FAU - Sterling, Teague
 AU  - Sterling T
-AD  - Department of Pharmaceutical Chemistry, University of California, San Francisco ,
-      Byers Hall, 1700 4th Street, San Francisco, California 94158-2330, United States.
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco , Byers Hall, 1700 4th Street, San Francisco, California
+      94158-2330, United States.
 FAU - Mysinger, Michael M
 AU  - Mysinger MM
-AD  - Department of Pharmaceutical Chemistry, University of California, San Francisco ,
-      Byers Hall, 1700 4th Street, San Francisco, California 94158-2330, United States.
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco , Byers Hall, 1700 4th Street, San Francisco, California
+      94158-2330, United States.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
 AUID- ORCID: 0000-0002-1240-2192
-AD  - Department of Pharmaceutical Chemistry, University of California, San Francisco ,
-      Byers Hall, 1700 4th Street, San Francisco, California 94158-2330, United States.
-AD  - Institute for Neurodegenerative Diseases, University of California, San Francisco
-      , 675 Nelson Rising Lane, San Francisco, California 94158, United States.
-AD  - Department of Bioengineering and Therapeutic Sciences, University of California, 
-      San Francisco , Byers Hall, 1700 4th Street, San Francisco, California 94158,
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco , Byers Hall, 1700 4th Street, San Francisco, California
+      94158-2330, United States.
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco , 675 Nelson Rising Lane, San Francisco, California 94158,
       United States.
-AD  - Institute for Computational Health Sciences, University of California, San
-      Francisco , 550 16th Street, San Francisco, California 94158, United States.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco , Byers Hall, 1700 4th Street, San Francisco,
+      California 94158, United States.
+AD  - Institute for Computational Health Sciences, University of California,
+      San Francisco , 550 16th Street, San Francisco, California 94158, United
+      States.
 LA  - eng
 GR  - R01 GM071896/GM/NIGMS NIH HHS/United States
 GR  - R43 GM093456/GM/NIGMS NIH HHS/United States
@@ -469,111 +613,125 @@ PL  - United States
 TA  - J Chem Inf Model
 JT  - Journal of chemical information and modeling
 JID - 101230060
+RN  - 0 (Ligands)
+SB  - IM
+MH  - Bayes Theorem
+MH  - Drug Discovery/*methods
+MH  - Gene Expression Profiling
+MH  - Ligands
+MH  - Quantitative Structure-Activity Relationship
+MH  - Reproducibility of Results
+MH  - Software
+MH  - User-Computer Interface
 PMC - PMC5780839
 EDAT- 2017/12/02 06:00
-MHDA- 2017/12/02 06:00
+MHDA- 2018/12/12 06:00
 CRDT- 2017/12/02 06:00
 PHST- 2017/12/02 06:00 [pubmed]
-PHST- 2017/12/02 06:00 [medline]
+PHST- 2018/12/12 06:00 [medline]
 PHST- 2017/12/02 06:00 [entrez]
 AID - 10.1021/acs.jcim.7b00316 [doi]
 PST - ppublish
-SO  - J Chem Inf Model. 2018 Jan 22;58(1):148-164. doi: 10.1021/acs.jcim.7b00316. Epub 
-      2017 Dec 29.
+SO  - J Chem Inf Model. 2018 Jan 22;58(1):148-164. doi:
+      10.1021/acs.jcim.7b00316. Epub 2017 Dec 29.
 
 PMID- 29091768
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20180612
-LR  - 20181113
+LR  - 20181202
 IS  - 2211-1247 (Electronic)
 VI  - 21
 IP  - 5
 DP  - 2017 Oct 31
-TI  - Evolutionarily Conserved Roles for Blood-Brain Barrier Xenobiotic Transporters in
-      Endogenous Steroid Partitioning and Behavior.
+TI  - Evolutionarily Conserved Roles for Blood-Brain Barrier Xenobiotic
+      Transporters in Endogenous Steroid Partitioning and Behavior.
 PG  - 1304-1316
 LID - S2211-1247(17)31458-4 [pii]
 LID - 10.1016/j.celrep.2017.10.026 [doi]
-AB  - Central nervous system (CNS) chemical protection depends upon discrete control of
-      small-molecule access by the blood-brain barrier (BBB). Curiously, some drugs
-      cause CNS side-effects despite negligible transit past the BBB. To investigate
-      this phenomenon, we asked whether the highly BBB-enriched drug efflux transporter
-      MDR1 has dual functions in controlling drug and endogenous molecule CNS
-      homeostasis. If this is true, then brain-impermeable drugs could induce
-      behavioral changes by affecting brain levels of endogenous molecules. Using
-      computational, genetic, and pharmacologic approaches across diverse organisms, we
-      demonstrate that BBB-localized efflux transporters are critical for regulating
-      brain levels of endogenous steroids and steroid-regulated behaviors (sleep in
-      Drosophila and anxiety in mice). Furthermore, we show that MDR1-interacting drugs
-      are associated with anxiety-related behaviors in humans. We propose a general
-      mechanism for common behavioral side effects of prescription drugs:
-      pharmacologically challenging BBB efflux transporters disrupts brain levels of
-      endogenous substrates and implicates the BBB in behavioral regulation.
-CI  - Copyright (c) 2017 The Authors. Published by Elsevier Inc. All rights reserved.
+AB  - Central nervous system (CNS) chemical protection depends upon discrete
+      control of small-molecule access by the blood-brain barrier (BBB).
+      Curiously, some drugs cause CNS side-effects despite negligible transit
+      past the BBB. To investigate this phenomenon, we asked whether the highly
+      BBB-enriched drug efflux transporter MDR1 has dual functions in
+      controlling drug and endogenous molecule CNS homeostasis. If this is
+      true, then brain-impermeable drugs could induce behavioral changes by
+      affecting brain levels of endogenous molecules. Using computational,
+      genetic, and pharmacologic approaches across diverse organisms, we
+      demonstrate that BBB-localized efflux transporters are critical for
+      regulating brain levels of endogenous steroids and steroid-regulated
+      behaviors (sleep in Drosophila and anxiety in mice). Furthermore, we show
+      that MDR1-interacting drugs are associated with anxiety-related behaviors
+      in humans. We propose a general mechanism for common behavioral side
+      effects of prescription drugs: pharmacologically challenging BBB efflux
+      transporters disrupts brain levels of endogenous substrates and
+      implicates the BBB in behavioral regulation.
+CI  - Copyright (c) 2017 The Authors. Published by Elsevier Inc. All rights
+      reserved.
 FAU - Hindle, Samantha J
 AU  - Hindle SJ
-AD  - Department of Anesthesia and Perioperative Care, University of California San
-      Francisco, San Francisco, CA, USA.
+AD  - Department of Anesthesia and Perioperative Care, University of California
+      San Francisco, San Francisco, CA, USA.
 FAU - Munji, Roeben N
 AU  - Munji RN
-AD  - Department of Anesthesia and Perioperative Care, University of California San
-      Francisco, San Francisco, CA, USA; Division of Clinical Pharmacology and
-      Experimental Therapeutics, University of California San Francisco, San Francisco,
-      CA, USA; Department of Anatomy, University of California San Francisco, San
-      Francisco, CA, USA; Department of Pharmacology, University of California San
-      Diego, La Jolla, CA, USA.
+AD  - Department of Anesthesia and Perioperative Care, University of California
+      San Francisco, San Francisco, CA, USA; Division of Clinical Pharmacology
+      and Experimental Therapeutics, University of California San Francisco,
+      San Francisco, CA, USA; Department of Anatomy, University of California
+      San Francisco, San Francisco, CA, USA; Department of Pharmacology,
+      University of California San Diego, La Jolla, CA, USA.
 FAU - Dolghih, Elena
 AU  - Dolghih E
-AD  - Department of Pharmaceutical Chemistry, University of California San Francisco,
-      San Francisco, CA, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California San
+      Francisco, San Francisco, CA, USA.
 FAU - Gaskins, Garrett
 AU  - Gaskins G
-AD  - Department of Pharmaceutical Chemistry, University of California San Francisco,
-      San Francisco, CA, USA; Institute for Neurodegenerative Disease, University of
-      California San Francisco, San Francisco, CA, USA; Department of Bioengineering
-      and Therapeutic Sciences, University of California San Francisco, San Francisco, 
-      CA, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California San
+      Francisco, San Francisco, CA, USA; Institute for Neurodegenerative
+      Disease, University of California San Francisco, San Francisco, CA, USA;
+      Department of Bioengineering and Therapeutic Sciences, University of
+      California San Francisco, San Francisco, CA, USA.
 FAU - Orng, Souvinh
 AU  - Orng S
-AD  - Department of Anesthesia and Perioperative Care, University of California San
-      Francisco, San Francisco, CA, USA.
+AD  - Department of Anesthesia and Perioperative Care, University of California
+      San Francisco, San Francisco, CA, USA.
 FAU - Ishimoto, Hiroshi
 AU  - Ishimoto H
-AD  - Division of Biological Science, Graduate School of Science, Nagoya University,
-      Japan.
+AD  - Division of Biological Science, Graduate School of Science, Nagoya
+      University, Japan.
 FAU - Soung, Allison
 AU  - Soung A
-AD  - Department of Anatomy, University of California San Francisco, San Francisco, CA,
-      USA; Department of Pharmacology, University of California San Diego, La Jolla,
-      CA, USA.
+AD  - Department of Anatomy, University of California San Francisco, San
+      Francisco, CA, USA; Department of Pharmacology, University of California
+      San Diego, La Jolla, CA, USA.
 FAU - DeSalvo, Michael
 AU  - DeSalvo M
-AD  - Department of Anesthesia and Perioperative Care, University of California San
-      Francisco, San Francisco, CA, USA.
+AD  - Department of Anesthesia and Perioperative Care, University of California
+      San Francisco, San Francisco, CA, USA.
 FAU - Kitamoto, Toshihiro
 AU  - Kitamoto T
 AD  - Department of Anesthesia, University of Iowa, Iowa City, Iowa, USA.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
-AD  - Department of Pharmaceutical Chemistry, University of California San Francisco,
-      San Francisco, CA, USA; Institute for Neurodegenerative Disease, University of
-      California San Francisco, San Francisco, CA, USA; Department of Bioengineering
-      and Therapeutic Sciences, University of California San Francisco, San Francisco, 
-      CA, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California San
+      Francisco, San Francisco, CA, USA; Institute for Neurodegenerative
+      Disease, University of California San Francisco, San Francisco, CA, USA;
+      Department of Bioengineering and Therapeutic Sciences, University of
+      California San Francisco, San Francisco, CA, USA.
 FAU - Jacobson, Matthew P
 AU  - Jacobson MP
-AD  - Department of Pharmaceutical Chemistry, University of California San Francisco,
-      San Francisco, CA, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California San
+      Francisco, San Francisco, CA, USA.
 FAU - Daneman, Richard
 AU  - Daneman R
-AD  - Department of Anatomy, University of California San Francisco, San Francisco, CA,
-      USA; Department of Pharmacology, University of California San Diego, La Jolla,
-      CA, USA. Electronic address: rdaneman@ucsd.edu.
+AD  - Department of Anatomy, University of California San Francisco, San
+      Francisco, CA, USA; Department of Pharmacology, University of California
+      San Diego, La Jolla, CA, USA. Electronic address: rdaneman@ucsd.edu.
 FAU - Bainton, Roland J
 AU  - Bainton RJ
-AD  - Department of Anesthesia and Perioperative Care, University of California San
-      Francisco, San Francisco, CA, USA. Electronic address: roland.bainton@ucsf.edu.
+AD  - Department of Anesthesia and Perioperative Care, University of California
+      San Francisco, San Francisco, CA, USA. Electronic address:
+      roland.bainton@ucsf.edu.
 LA  - eng
 GR  - R21 NS082856/NS/NINDS NIH HHS/United States
 GR  - T32 GM067547/GM/NIGMS NIH HHS/United States
@@ -585,8 +743,8 @@ PL  - United States
 TA  - Cell Rep
 JT  - Cell reports
 JID - 101573691
-RN  - 0 (ATP Binding Cassette Transporter, Sub-Family B)
-RN  - 0 (ATP-Binding Cassette, Sub-Family B, Member 1)
+RN  - 0 (ATP Binding Cassette Transporter, Subfamily B)
+RN  - 0 (ATP Binding Cassette Transporter, Subfamily B, Member 1)
 RN  - 0 (Drosophila Proteins)
 RN  - 0 (Gonadal Steroid Hormones)
 RN  - 0 (Xenobiotics)
@@ -595,8 +753,10 @@ RN  - 4964P6T9RB (Aldosterone)
 RN  - 5289-74-7 (Ecdysterone)
 RN  - 83HN0GTJ6D (Cyclosporine)
 SB  - IM
-MH  - ATP Binding Cassette Transporter, Sub-Family B/chemistry/genetics/metabolism
-MH  - ATP-Binding Cassette, Sub-Family B, Member 1/chemistry/metabolism
+MH  - ATP Binding Cassette Transporter, Subfamily
+      B/chemistry/genetics/metabolism
+MH  - ATP Binding Cassette Transporter, Subfamily B, Member
+      1/chemistry/metabolism
 MH  - Aldosterone/chemistry/metabolism
 MH  - Animals
 MH  - Behavior, Animal/drug effects
@@ -645,7 +805,7 @@ PMID- 28731335
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20170926
-LR  - 20181113
+LR  - 20190113
 IS  - 1520-4804 (Electronic)
 IS  - 0022-2623 (Linking)
 VI  - 60
@@ -654,73 +814,77 @@ DP  - 2017 Sep 14
 TI  - A Simple Representation of Three-Dimensional Molecular Structure.
 PG  - 7393-7409
 LID - 10.1021/acs.jmedchem.7b00696 [doi]
-AB  - Statistical and machine learning approaches predict drug-to-target relationships 
-      from 2D small-molecule topology patterns. One might expect 3D information to
-      improve these calculations. Here we apply the logic of the extended connectivity 
-      fingerprint (ECFP) to develop a rapid, alignment-invariant 3D representation of
-      molecular conformers, the extended three-dimensional fingerprint (E3FP). By
-      integrating E3FP with the similarity ensemble approach (SEA), we achieve higher
-      precision-recall performance relative to SEA with ECFP on ChEMBL20 and equivalent
-      receiver operating characteristic performance. We identify classes of molecules
-      for which E3FP is a better predictor of similarity in bioactivity than is ECFP.
-      Finally, we report novel drug-to-target binding predictions inaccessible by 2D
-      fingerprints and confirm three of them experimentally with ligand efficiencies
-      from 0.442-0.637 kcal/mol/heavy atom.
+AB  - Statistical and machine learning approaches predict drug-to-target
+      relationships from 2D small-molecule topology patterns. One might expect
+      3D information to improve these calculations. Here we apply the logic of
+      the extended connectivity fingerprint (ECFP) to develop a rapid,
+      alignment-invariant 3D representation of molecular conformers, the
+      extended three-dimensional fingerprint (E3FP). By integrating E3FP with
+      the similarity ensemble approach (SEA), we achieve higher precision-
+      recall performance relative to SEA with ECFP on ChEMBL20 and equivalent
+      receiver operating characteristic performance. We identify classes of
+      molecules for which E3FP is a better predictor of similarity in
+      bioactivity than is ECFP. Finally, we report novel drug-to-target binding
+      predictions inaccessible by 2D fingerprints and confirm three of them
+      experimentally with ligand efficiencies from 0.442-0.637 kcal/mol/heavy
+      atom.
 FAU - Axen, Seth D
 AU  - Axen SD
-AD  - Department of Bioengineering and Therapeutic Sciences, University of California, 
-      San Francisco , 675 Nelson Rising Lane NS 416A, San Francisco, California 94143, 
-      United States.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco , 675 Nelson Rising Lane NS 416A, San
+      Francisco, California 94143, United States.
 FAU - Huang, Xi-Ping
 AU  - Huang XP
-AD  - Department of Pharmacology, University of North Carolina School of Medicine ,
-      Chapel Hill, North Carolina 27599, United States.
-AD  - National Institute of Mental Health Psychoactive Drug Screening Program (NIMH
-      PDSP), University of North Carolina , Chapel Hill, North Carolina 27599, United
-      States.
+AD  - Department of Pharmacology, University of North Carolina School of
+      Medicine , Chapel Hill, North Carolina 27599, United States.
+AD  - National Institute of Mental Health Psychoactive Drug Screening Program
+      (NIMH PDSP), University of North Carolina , Chapel Hill, North Carolina
+      27599, United States.
 FAU - Caceres, Elena L
 AU  - Caceres EL
-AD  - Department of Bioengineering and Therapeutic Sciences, University of California, 
-      San Francisco , 675 Nelson Rising Lane NS 416A, San Francisco, California 94143, 
-      United States.
-AD  - Department of Pharmaceutical Chemistry, Institute for Neurodegenerative Diseases,
-      and Institute for Computational Health Sciences, University of California, San
-      Francisco , 675 Nelson Rising Lane NS 416A, San Francisco, California 94143,
-      United States.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco , 675 Nelson Rising Lane NS 416A, San
+      Francisco, California 94143, United States.
+AD  - Department of Pharmaceutical Chemistry, Institute for Neurodegenerative
+      Diseases, and Institute for Computational Health Sciences, University of
+      California, San Francisco , 675 Nelson Rising Lane NS 416A, San
+      Francisco, California 94143, United States.
 FAU - Gendelev, Leo
 AU  - Gendelev L
-AD  - Department of Bioengineering and Therapeutic Sciences, University of California, 
-      San Francisco , 675 Nelson Rising Lane NS 416A, San Francisco, California 94143, 
-      United States.
-AD  - Department of Pharmaceutical Chemistry, Institute for Neurodegenerative Diseases,
-      and Institute for Computational Health Sciences, University of California, San
-      Francisco , 675 Nelson Rising Lane NS 416A, San Francisco, California 94143,
-      United States.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco , 675 Nelson Rising Lane NS 416A, San
+      Francisco, California 94143, United States.
+AD  - Department of Pharmaceutical Chemistry, Institute for Neurodegenerative
+      Diseases, and Institute for Computational Health Sciences, University of
+      California, San Francisco , 675 Nelson Rising Lane NS 416A, San
+      Francisco, California 94143, United States.
 FAU - Roth, Bryan L
 AU  - Roth BL
-AD  - Department of Pharmacology, University of North Carolina School of Medicine ,
-      Chapel Hill, North Carolina 27599, United States.
-AD  - National Institute of Mental Health Psychoactive Drug Screening Program (NIMH
-      PDSP), University of North Carolina , Chapel Hill, North Carolina 27599, United
-      States.
+AD  - Department of Pharmacology, University of North Carolina School of
+      Medicine , Chapel Hill, North Carolina 27599, United States.
+AD  - National Institute of Mental Health Psychoactive Drug Screening Program
+      (NIMH PDSP), University of North Carolina , Chapel Hill, North Carolina
+      27599, United States.
 AD  - Division of Chemical Biology and Medicinal Chemistry, Eshelman School of
-      Pharmacy, University of North Carolina at Chapel Hill , Chapel Hill, North
-      Carolina 27599, United States.
+      Pharmacy, University of North Carolina at Chapel Hill , Chapel Hill,
+      North Carolina 27599, United States.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
-AUID- ORCID: http://orcid.org/0000-0002-1240-2192
-AD  - Department of Bioengineering and Therapeutic Sciences, University of California, 
-      San Francisco , 675 Nelson Rising Lane NS 416A, San Francisco, California 94143, 
-      United States.
-AD  - Department of Pharmaceutical Chemistry, Institute for Neurodegenerative Diseases,
-      and Institute for Computational Health Sciences, University of California, San
-      Francisco , 675 Nelson Rising Lane NS 416A, San Francisco, California 94143,
-      United States.
+AUID- ORCID: 0000-0002-1240-2192
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco , 675 Nelson Rising Lane NS 416A, San
+      Francisco, California 94143, United States.
+AD  - Department of Pharmaceutical Chemistry, Institute for Neurodegenerative
+      Diseases, and Institute for Computational Health Sciences, University of
+      California, San Francisco , 675 Nelson Rising Lane NS 416A, San
+      Francisco, California 94143, United States.
 LA  - eng
 GR  - HHSN271201300017C/MH/NIMH NIH HHS/United States
 GR  - T32 EB009383/EB/NIBIB NIH HHS/United States
 GR  - T32 GM067547/GM/NIGMS NIH HHS/United States
 PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, N.I.H., Extramural
 DEP - 20170808
 PL  - United States
 TA  - J Med Chem
@@ -745,8 +909,8 @@ PHST- 2017/09/28 06:00 [medline]
 PHST- 2017/07/22 06:00 [entrez]
 AID - 10.1021/acs.jmedchem.7b00696 [doi]
 PST - ppublish
-SO  - J Med Chem. 2017 Sep 14;60(17):7393-7409. doi: 10.1021/acs.jmedchem.7b00696. Epub
-      2017 Aug 8.
+SO  - J Med Chem. 2017 Sep 14;60(17):7393-7409. doi:
+      10.1021/acs.jmedchem.7b00696. Epub 2017 Aug 8.
 
 PMID- 27239787
 OWN - NLM
@@ -762,32 +926,34 @@ TI  - Zebrafish behavioral profiling identifies multitarget antipsychotic-like
       compounds.
 PG  - 559-66
 LID - 10.1038/nchembio.2097 [doi]
-AB  - Many psychiatric drugs act on multiple targets and therefore require screening
-      assays that encompass a wide target space. With sufficiently rich phenotyping and
-      a large sampling of compounds, it should be possible to identify compounds with
-      desired mechanisms of action on the basis of behavioral profiles alone. Although 
-      zebrafish (Danio rerio) behavior has been used to rapidly identify neuroactive
-      compounds, it is not clear what types of behavioral assays would be necessary to 
-      identify multitarget compounds such as antipsychotics. Here we developed a
-      battery of behavioral assays in larval zebrafish to determine whether behavioral 
-      profiles can provide sufficient phenotypic resolution to identify and classify
-      psychiatric drugs. Using the antipsychotic drug haloperidol as a test case, we
-      found that behavioral profiles of haloperidol-treated zebrafish could be used to 
-      identify previously uncharacterized compounds with desired antipsychotic-like
-      activities and multitarget mechanisms of action.
+AB  - Many psychiatric drugs act on multiple targets and therefore require
+      screening assays that encompass a wide target space. With sufficiently
+      rich phenotyping and a large sampling of compounds, it should be possible
+      to identify compounds with desired mechanisms of action on the basis of
+      behavioral profiles alone. Although zebrafish (Danio rerio) behavior has
+      been used to rapidly identify neuroactive compounds, it is not clear what
+      types of behavioral assays would be necessary to identify multitarget
+      compounds such as antipsychotics. Here we developed a battery of
+      behavioral assays in larval zebrafish to determine whether behavioral
+      profiles can provide sufficient phenotypic resolution to identify and
+      classify psychiatric drugs. Using the antipsychotic drug haloperidol as a
+      test case, we found that behavioral profiles of haloperidol-treated
+      zebrafish could be used to identify previously uncharacterized compounds
+      with desired antipsychotic-like activities and multitarget mechanisms of
+      action.
 FAU - Bruni, Giancarlo
 AU  - Bruni G
 AUID- ORCID: 0000-0003-2850-4633
-AD  - Cardiovascular Research Center, Massachusetts General Hospital, Charlestown,
-      Massachusetts, USA.
+AD  - Cardiovascular Research Center, Massachusetts General Hospital,
+      Charlestown, Massachusetts, USA.
 AD  - Teleos Therapeutics, Medford, Massachusetts, USA.
 FAU - Rennekamp, Andrew J
 AU  - Rennekamp AJ
 AUID- ORCID: 0000-0001-6174-7253
-AD  - Cardiovascular Research Center, Massachusetts General Hospital, Charlestown,
-      Massachusetts, USA.
-AD  - Division of Cardiology, Department of Medicine, Massachusetts General Hospital,
+AD  - Cardiovascular Research Center, Massachusetts General Hospital,
       Charlestown, Massachusetts, USA.
+AD  - Division of Cardiology, Department of Medicine, Massachusetts General
+      Hospital, Charlestown, Massachusetts, USA.
 AD  - Department of Systems Biology, Harvard Medical School, Charlestown,
       Massachusetts, USA.
 AD  - Broad Institute, Cambridge, Massachusetts, USA.
@@ -796,36 +962,36 @@ AU  - Velenich A
 AD  - Teleos Therapeutics, Medford, Massachusetts, USA.
 FAU - McCarroll, Matthew
 AU  - McCarroll M
-AD  - Department of Physiology, University of California, San Francisco, San Francisco,
-      California, USA.
-AD  - Institute for Neurodegenerative Disease, University of California, San Francisco,
-      San Francisco, California, USA.
+AD  - Department of Physiology, University of California, San Francisco, San
+      Francisco, California, USA.
+AD  - Institute for Neurodegenerative Disease, University of California, San
+      Francisco, San Francisco, California, USA.
 FAU - Gendelev, Leo
 AU  - Gendelev L
-AD  - Institute for Neurodegenerative Disease, University of California, San Francisco,
-      San Francisco, California, USA.
-AD  - Department of Pharmaceutical Chemistry, University of California, San Francisco, 
-      San Francisco, California, USA.
-AD  - Department of Bioengineering and Therapeutic Sciences, University of California, 
-      San Francisco, San Francisco, California, USA.
+AD  - Institute for Neurodegenerative Disease, University of California, San
+      Francisco, San Francisco, California, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, California, USA.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco, San Francisco, California, USA.
 FAU - Fertsch, Ethan
 AU  - Fertsch E
-AD  - Department of Physiology, University of California, San Francisco, San Francisco,
-      California, USA.
-AD  - Institute for Neurodegenerative Disease, University of California, San Francisco,
-      San Francisco, California, USA.
+AD  - Department of Physiology, University of California, San Francisco, San
+      Francisco, California, USA.
+AD  - Institute for Neurodegenerative Disease, University of California, San
+      Francisco, San Francisco, California, USA.
 FAU - Taylor, Jack
 AU  - Taylor J
-AD  - Department of Physiology, University of California, San Francisco, San Francisco,
-      California, USA.
-AD  - Institute for Neurodegenerative Disease, University of California, San Francisco,
-      San Francisco, California, USA.
+AD  - Department of Physiology, University of California, San Francisco, San
+      Francisco, California, USA.
+AD  - Institute for Neurodegenerative Disease, University of California, San
+      Francisco, San Francisco, California, USA.
 FAU - Lakhani, Parth
 AU  - Lakhani P
-AD  - Department of Physiology, University of California, San Francisco, San Francisco,
-      California, USA.
-AD  - Institute for Neurodegenerative Disease, University of California, San Francisco,
-      San Francisco, California, USA.
+AD  - Department of Physiology, University of California, San Francisco, San
+      Francisco, California, USA.
+AD  - Institute for Neurodegenerative Disease, University of California, San
+      Francisco, San Francisco, California, USA.
 FAU - Lensen, Dennis
 AU  - Lensen D
 AD  - Teleos Therapeutics, Medford, Massachusetts, USA.
@@ -834,63 +1000,63 @@ AU  - Evron T
 AD  - Teleos Therapeutics, Medford, Massachusetts, USA.
 FAU - Lorello, Paul J
 AU  - Lorello PJ
-AD  - NeuroBehavior Laboratory, Harvard NeuroDiscovery Center, Brigham and Women's
-      Hospital, Boston, Massachusetts, USA.
-AD  - Department of Neurology, Brigham and Women's Hospital, Boston, Massachusetts,
-      USA.
+AD  - NeuroBehavior Laboratory, Harvard NeuroDiscovery Center, Brigham and
+      Women's Hospital, Boston, Massachusetts, USA.
+AD  - Department of Neurology, Brigham and Women's Hospital, Boston,
+      Massachusetts, USA.
 FAU - Huang, Xi-Ping
 AU  - Huang XP
-AD  - Department of Pharmacology, University of North Carolina Chapel Hill Medical
-      School, Chapel Hill, North Carolina, USA.
-AD  - NIMH Psychoactive Drug Screening Program, University of North Carolina Chapel
-      Hill Medical School, Chapel Hill, North Carolina, USA.
+AD  - Department of Pharmacology, University of North Carolina Chapel Hill
+      Medical School, Chapel Hill, North Carolina, USA.
+AD  - NIMH Psychoactive Drug Screening Program, University of North Carolina
+      Chapel Hill Medical School, Chapel Hill, North Carolina, USA.
 FAU - Kolczewski, Sabine
 AU  - Kolczewski S
-AD  - Roche Pharmaceutical Research and Early Development, Roche Innovation Center
-      Basel, Basel, Switzerland.
+AD  - Roche Pharmaceutical Research and Early Development, Roche Innovation
+      Center Basel, Basel, Switzerland.
 FAU - Carey, Galen
 AU  - Carey G
 AD  - Teleos Therapeutics, Medford, Massachusetts, USA.
 FAU - Caldarone, Barbara J
 AU  - Caldarone BJ
-AD  - NeuroBehavior Laboratory, Harvard NeuroDiscovery Center, Brigham and Women's
-      Hospital, Boston, Massachusetts, USA.
-AD  - Department of Neurology, Brigham and Women's Hospital, Boston, Massachusetts,
-      USA.
+AD  - NeuroBehavior Laboratory, Harvard NeuroDiscovery Center, Brigham and
+      Women's Hospital, Boston, Massachusetts, USA.
+AD  - Department of Neurology, Brigham and Women's Hospital, Boston,
+      Massachusetts, USA.
 FAU - Prinssen, Eric
 AU  - Prinssen E
-AD  - Roche Pharmaceutical Research and Early Development, Roche Innovation Center
-      Basel, Basel, Switzerland.
+AD  - Roche Pharmaceutical Research and Early Development, Roche Innovation
+      Center Basel, Basel, Switzerland.
 FAU - Roth, Bryan L
 AU  - Roth BL
-AD  - Department of Pharmacology, University of North Carolina Chapel Hill Medical
-      School, Chapel Hill, North Carolina, USA.
-AD  - NIMH Psychoactive Drug Screening Program, University of North Carolina Chapel
-      Hill Medical School, Chapel Hill, North Carolina, USA.
+AD  - Department of Pharmacology, University of North Carolina Chapel Hill
+      Medical School, Chapel Hill, North Carolina, USA.
+AD  - NIMH Psychoactive Drug Screening Program, University of North Carolina
+      Chapel Hill Medical School, Chapel Hill, North Carolina, USA.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
 AUID- ORCID: 0000-0002-1240-2192
-AD  - Institute for Neurodegenerative Disease, University of California, San Francisco,
-      San Francisco, California, USA.
-AD  - Department of Pharmaceutical Chemistry, University of California, San Francisco, 
-      San Francisco, California, USA.
-AD  - Department of Bioengineering and Therapeutic Sciences, University of California, 
-      San Francisco, San Francisco, California, USA.
+AD  - Institute for Neurodegenerative Disease, University of California, San
+      Francisco, San Francisco, California, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, California, USA.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco, San Francisco, California, USA.
 FAU - Peterson, Randall T
 AU  - Peterson RT
-AD  - Cardiovascular Research Center, Massachusetts General Hospital, Charlestown,
-      Massachusetts, USA.
-AD  - Division of Cardiology, Department of Medicine, Massachusetts General Hospital,
+AD  - Cardiovascular Research Center, Massachusetts General Hospital,
       Charlestown, Massachusetts, USA.
+AD  - Division of Cardiology, Department of Medicine, Massachusetts General
+      Hospital, Charlestown, Massachusetts, USA.
 AD  - Department of Systems Biology, Harvard Medical School, Charlestown,
       Massachusetts, USA.
 AD  - Broad Institute, Cambridge, Massachusetts, USA.
 FAU - Kokel, David
 AU  - Kokel D
-AD  - Department of Physiology, University of California, San Francisco, San Francisco,
-      California, USA.
-AD  - Institute for Neurodegenerative Disease, University of California, San Francisco,
-      San Francisco, California, USA.
+AD  - Department of Physiology, University of California, San Francisco, San
+      Francisco, California, USA.
+AD  - Institute for Neurodegenerative Disease, University of California, San
+      Francisco, San Francisco, California, USA.
 LA  - eng
 GR  - T32 GM008284/GM/NIGMS NIH HHS/United States
 GR  - K01 MH091449/MH/NIMH NIH HHS/United States
@@ -931,8 +1097,8 @@ PHST- 2017/05/16 06:00 [medline]
 AID - nchembio.2097 [pii]
 AID - 10.1038/nchembio.2097 [doi]
 PST - ppublish
-SO  - Nat Chem Biol. 2016 Jul;12(7):559-66. doi: 10.1038/nchembio.2097. Epub 2016 May
-      30.
+SO  - Nat Chem Biol. 2016 Jul;12(7):559-66. doi: 10.1038/nchembio.2097. Epub
+      2016 May 30.
 
 PMID- 26845413
 OWN - NLM
@@ -944,37 +1110,42 @@ IS  - 1554-8929 (Linking)
 VI  - 11
 IP  - 4
 DP  - 2016 Apr 15
-TI  - Leveraging Large-scale Behavioral Profiling in Zebrafish to Explore Neuroactive
-      Polypharmacology.
+TI  - Leveraging Large-scale Behavioral Profiling in Zebrafish to Explore
+      Neuroactive Polypharmacology.
 PG  - 842-9
 LID - 10.1021/acschembio.5b00800 [doi]
 AB  - Many psychiatric drugs modulate the nervous system through multitarget
-      mechanisms. However, systematic identification of multitarget compounds has been 
-      difficult using traditional in vitro screening assays. New approaches to
-      phenotypic profiling in zebrafish can help researchers identify novel compounds
-      with complex polypharmacology. For example, large-scale behavior-based chemical
-      screens can rapidly identify large numbers of structurally diverse and
-      phenotype-related compounds. Once these compounds have been identified, a
-      systems-level analysis of their structures may help to identify statistically
-      enriched target pathways. Together, systematic behavioral profiling and
-      multitarget predictions may help researchers identify new behavior-modifying
-      pathways and CNS therapeutics.
+      mechanisms. However, systematic identification of multitarget compounds
+      has been difficult using traditional in vitro screening assays. New
+      approaches to phenotypic profiling in zebrafish can help researchers
+      identify novel compounds with complex polypharmacology. For example,
+      large-scale behavior-based chemical screens can rapidly identify large
+      numbers of structurally diverse and phenotype-related compounds. Once
+      these compounds have been identified, a systems-level analysis of their
+      structures may help to identify statistically enriched target pathways.
+      Together, systematic behavioral profiling and multitarget predictions may
+      help researchers identify new behavior-modifying pathways and CNS
+      therapeutics.
 FAU - McCarroll, Matthew N
 AU  - McCarroll MN
-AD  - University of California San Francisco , Institute of Neurodegenerative Diseases,
-      675 Nelson Rising Lane, San Francisco, California 94143, United States.
+AD  - University of California San Francisco , Institute of Neurodegenerative
+      Diseases, 675 Nelson Rising Lane, San Francisco, California 94143, United
+      States.
 FAU - Gendelev, Leo
 AU  - Gendelev L
-AD  - University of California San Francisco , Institute of Neurodegenerative Diseases,
-      675 Nelson Rising Lane, San Francisco, California 94143, United States.
+AD  - University of California San Francisco , Institute of Neurodegenerative
+      Diseases, 675 Nelson Rising Lane, San Francisco, California 94143, United
+      States.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
-AD  - University of California San Francisco , Institute of Neurodegenerative Diseases,
-      675 Nelson Rising Lane, San Francisco, California 94143, United States.
+AD  - University of California San Francisco , Institute of Neurodegenerative
+      Diseases, 675 Nelson Rising Lane, San Francisco, California 94143, United
+      States.
 FAU - Kokel, David
 AU  - Kokel D
-AD  - University of California San Francisco , Institute of Neurodegenerative Diseases,
-      675 Nelson Rising Lane, San Francisco, California 94143, United States.
+AD  - University of California San Francisco , Institute of Neurodegenerative
+      Diseases, 675 Nelson Rising Lane, San Francisco, California 94143, United
+      States.
 LA  - eng
 GR  - K01MH091449/MH/NIMH NIH HHS/United States
 GR  - T32 GM008284/GM/NIGMS NIH HHS/United States
@@ -1009,8 +1180,8 @@ PHST- 2016/02/05 06:00 [pubmed]
 PHST- 2016/12/15 06:00 [medline]
 AID - 10.1021/acschembio.5b00800 [doi]
 PST - ppublish
-SO  - ACS Chem Biol. 2016 Apr 15;11(4):842-9. doi: 10.1021/acschembio.5b00800. Epub
-      2016 Feb 17.
+SO  - ACS Chem Biol. 2016 Apr 15;11(4):842-9. doi: 10.1021/acschembio.5b00800.
+      Epub 2016 Feb 17.
 
 PMID- 26915512
 OWN - NLM
@@ -1022,116 +1193,123 @@ IS  - 2215-0366 (Linking)
 VI  - 3
 IP  - 4
 DP  - 2016 Apr
-TI  - Polygenic overlap between schizophrenia risk and antipsychotic response: a
-      genomic medicine approach.
+TI  - Polygenic overlap between schizophrenia risk and antipsychotic response:
+      a genomic medicine approach.
 PG  - 350-7
 LID - 10.1016/S2215-0366(15)00553-2 [doi]
 LID - S2215-0366(15)00553-2 [pii]
-AB  - BACKGROUND: Therapeutic treatments for schizophrenia do not alleviate symptoms
-      for all patients and efficacy is limited by common, often severe, side-effects.
-      Genetic studies of disease can identify novel drug targets, and drugs for which
-      the mechanism has direct genetic support have increased likelihood of clinical
-      success. Large-scale genetic studies of schizophrenia have increased the number
-      of genes and gene sets associated with risk. We aimed to examine the overlap
-      between schizophrenia risk loci and gene targets of a comprehensive set of
+AB  - BACKGROUND: Therapeutic treatments for schizophrenia do not alleviate
+      symptoms for all patients and efficacy is limited by common, often
+      severe, side-effects. Genetic studies of disease can identify novel drug
+      targets, and drugs for which the mechanism has direct genetic support
+      have increased likelihood of clinical success. Large-scale genetic
+      studies of schizophrenia have increased the number of genes and gene sets
+      associated with risk. We aimed to examine the overlap between
+      schizophrenia risk loci and gene targets of a comprehensive set of
       medications to potentially inform and improve treatment of schizophrenia.
       METHODS: We defined schizophrenia risk loci as genomic regions reaching
       genome-wide significance in the latest Psychiatric Genomics Consortium
-      schizophrenia genome-wide association study (GWAS) of 36 989 cases and 113 075
-      controls and loss of function variants observed only once among 5079 individuals 
-      in an exome-sequencing study of 2536 schizophrenia cases and 2543 controls
-      (Swedish Schizophrenia Study). Using two large and orthogonally created
-      databases, we collated drug targets into 167 gene sets targeted by
-      pharmacologically similar drugs and examined enrichment of schizophrenia risk
-      loci in these sets. We further linked the exome-sequenced data with a national
-      drug registry (the Swedish Prescribed Drug Register) to assess the contribution
-      of rare variants to treatment response, using clozapine prescription as a proxy
-      for treatment resistance. FINDINGS: We combined results from testing rare and
-      common variation and, after correction for multiple testing, two gene sets were
-      associated with schizophrenia risk: agents against amoebiasis and other protozoal
-      diseases (106 genes, p=0.00046, pcorrected =0.024) and antipsychotics (347 genes,
-      p=0.00078, pcorrected=0.046). Further analysis pointed to antipsychotics as
-      having independent enrichment after removing genes that overlapped these two
-      target sets. We noted significant enrichment both in known targets of
-      antipsychotics (70 genes, p=0.0078) and novel predicted targets (277 genes,
-      p=0.019). Patients with treatment-resistant schizophrenia had an excess of rare
-      disruptive variants in gene targets of antipsychotics (347 genes, p=0.0067) and
-      in genes with evidence for a role in antipsychotic efficacy (91 genes, p=0.0029).
-      INTERPRETATION: Our results support genetic overlap between schizophrenia
-      pathogenesis and antipsychotic mechanism of action. This finding is consistent
-      with treatment efficacy being polygenic and suggests that single-target
-      therapeutics might be insufficient. We provide evidence of a role for rare
-      functional variants in antipsychotic treatment response, pointing to a subset of 
-      patients where their genetic information could inform treatment. Finally, we
-      present a novel framework for identifying treatments from genetic data and
-      improving our understanding of therapeutic mechanism. FUNDING: US National
-      Institutes of Health.
+      schizophrenia genome-wide association study (GWAS) of 36 989 cases and
+      113 075 controls and loss of function variants observed only once among
+      5079 individuals in an exome-sequencing study of 2536 schizophrenia cases
+      and 2543 controls (Swedish Schizophrenia Study). Using two large and
+      orthogonally created databases, we collated drug targets into 167 gene
+      sets targeted by pharmacologically similar drugs and examined enrichment
+      of schizophrenia risk loci in these sets. We further linked the exome-
+      sequenced data with a national drug registry (the Swedish Prescribed Drug
+      Register) to assess the contribution of rare variants to treatment
+      response, using clozapine prescription as a proxy for treatment
+      resistance. FINDINGS: We combined results from testing rare and common
+      variation and, after correction for multiple testing, two gene sets were
+      associated with schizophrenia risk: agents against amoebiasis and other
+      protozoal diseases (106 genes, p=0.00046, pcorrected =0.024) and
+      antipsychotics (347 genes, p=0.00078, pcorrected=0.046). Further analysis
+      pointed to antipsychotics as having independent enrichment after removing
+      genes that overlapped these two target sets. We noted significant
+      enrichment both in known targets of antipsychotics (70 genes, p=0.0078)
+      and novel predicted targets (277 genes, p=0.019). Patients with
+      treatment-resistant schizophrenia had an excess of rare disruptive
+      variants in gene targets of antipsychotics (347 genes, p=0.0067) and in
+      genes with evidence for a role in antipsychotic efficacy (91 genes,
+      p=0.0029). INTERPRETATION: Our results support genetic overlap between
+      schizophrenia pathogenesis and antipsychotic mechanism of action. This
+      finding is consistent with treatment efficacy being polygenic and
+      suggests that single-target therapeutics might be insufficient. We
+      provide evidence of a role for rare functional variants in antipsychotic
+      treatment response, pointing to a subset of patients where their genetic
+      information could inform treatment. Finally, we present a novel framework
+      for identifying treatments from genetic data and improving our
+      understanding of therapeutic mechanism. FUNDING: US National Institutes
+      of Health.
 CI  - Copyright (c) 2016 Elsevier Ltd. All rights reserved.
 FAU - Ruderfer, Douglas M
 AU  - Ruderfer DM
-AD  - Division of Psychiatric Genomics, Department of Psychiatry, New York, NY, USA;
-      Institute for Genomics and Multiscale Biology, New York, NY, USA; Icahn School of
-      Medicine at Mount Sinai, New York, NY, USA; Stanley Center for Psychiatric
-      Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA. Electronic
-      address: douglas.ruderfer@mssm.edu.
+AD  - Division of Psychiatric Genomics, Department of Psychiatry, New York, NY,
+      USA; Institute for Genomics and Multiscale Biology, New York, NY, USA;
+      Icahn School of Medicine at Mount Sinai, New York, NY, USA; Stanley
+      Center for Psychiatric Research, Broad Institute of MIT and Harvard,
+      Cambridge, MA, USA. Electronic address: douglas.ruderfer@mssm.edu.
 FAU - Charney, Alexander W
 AU  - Charney AW
-AD  - Division of Psychiatric Genomics, Department of Psychiatry, New York, NY, USA;
-      Institute for Genomics and Multiscale Biology, New York, NY, USA.
+AD  - Division of Psychiatric Genomics, Department of Psychiatry, New York, NY,
+      USA; Institute for Genomics and Multiscale Biology, New York, NY, USA.
 FAU - Readhead, Ben
 AU  - Readhead B
-AD  - Institute for Genomics and Multiscale Biology, New York, NY, USA; Department of
-      Genetics and Genomic Sciences, New York, NY, USA.
+AD  - Institute for Genomics and Multiscale Biology, New York, NY, USA;
+      Department of Genetics and Genomic Sciences, New York, NY, USA.
 FAU - Kidd, Brian A
 AU  - Kidd BA
-AD  - Institute for Genomics and Multiscale Biology, New York, NY, USA; Department of
-      Genetics and Genomic Sciences, New York, NY, USA.
+AD  - Institute for Genomics and Multiscale Biology, New York, NY, USA;
+      Department of Genetics and Genomic Sciences, New York, NY, USA.
 FAU - Kahler, Anna K
 AU  - Kahler AK
-AD  - Department of Medical Epidemiology and Biostatistics, Karolinska Institutet,
-      Stockholm, Sweden.
+AD  - Department of Medical Epidemiology and Biostatistics, Karolinska
+      Institutet, Stockholm, Sweden.
 FAU - Kenny, Paul J
 AU  - Kenny PJ
 AD  - Department of Pharmacology and Systems Therapeutics, New York, NY, USA.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
-AD  - Department of Pharmaceutical Chemistry, University of California, San Francisco, 
-      CA, USA; USA Department of Bioengineering & Therapeutic Sciences, University of
-      California, San Francisco, CA, USA; Institute of Neurodegenerative Diseases,
-      University of California, San Francisco, CA, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, CA, USA; USA Department of Bioengineering & Therapeutic
+      Sciences, University of California, San Francisco, CA, USA; Institute of
+      Neurodegenerative Diseases, University of California, San Francisco, CA,
+      USA.
 FAU - Moran, Jennifer L
 AU  - Moran JL
-AD  - Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard,
-      Cambridge, MA, USA.
+AD  - Stanley Center for Psychiatric Research, Broad Institute of MIT and
+      Harvard, Cambridge, MA, USA.
 FAU - Hultman, Christina M
 AU  - Hultman CM
-AD  - Department of Medical Epidemiology and Biostatistics, Karolinska Institutet,
-      Stockholm, Sweden.
+AD  - Department of Medical Epidemiology and Biostatistics, Karolinska
+      Institutet, Stockholm, Sweden.
 FAU - Scott, Stuart A
 AU  - Scott SA
 AD  - Department of Genetics and Genomic Sciences, New York, NY, USA.
 FAU - Sullivan, Patrick F
 AU  - Sullivan PF
-AD  - Department of Genetics, University of North Carolina, Chapel Hill, NC, USA.
+AD  - Department of Genetics, University of North Carolina, Chapel Hill, NC,
+      USA.
 FAU - Purcell, Shaun M
 AU  - Purcell SM
-AD  - Division of Psychiatric Genomics, Department of Psychiatry, New York, NY, USA;
-      Institute for Genomics and Multiscale Biology, New York, NY, USA; Department of
-      Genetics and Genomic Sciences, New York, NY, USA; Icahn School of Medicine at
-      Mount Sinai, New York, NY, USA; Stanley Center for Psychiatric Research, Broad
-      Institute of MIT and Harvard, Cambridge, MA, USA; Analytic and Translational
-      Genetics Unit, Psychiatric and Neurodevelopmental Genetics Unit, Massachusetts
-      General Hospital, Boston, MA, USA.
+AD  - Division of Psychiatric Genomics, Department of Psychiatry, New York, NY,
+      USA; Institute for Genomics and Multiscale Biology, New York, NY, USA;
+      Department of Genetics and Genomic Sciences, New York, NY, USA; Icahn
+      School of Medicine at Mount Sinai, New York, NY, USA; Stanley Center for
+      Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA,
+      USA; Analytic and Translational Genetics Unit, Psychiatric and
+      Neurodevelopmental Genetics Unit, Massachusetts General Hospital, Boston,
+      MA, USA.
 FAU - Dudley, Joel T
 AU  - Dudley JT
-AD  - Institute for Genomics and Multiscale Biology, New York, NY, USA; Department of
-      Genetics and Genomic Sciences, New York, NY, USA.
+AD  - Institute for Genomics and Multiscale Biology, New York, NY, USA;
+      Department of Genetics and Genomic Sciences, New York, NY, USA.
 FAU - Sklar, Pamela
 AU  - Sklar P
-AD  - Division of Psychiatric Genomics, Department of Psychiatry, New York, NY, USA;
-      Institute for Genomics and Multiscale Biology, New York, NY, USA; Department of
-      Genetics and Genomic Sciences, New York, NY, USA; Friedman Brain Institute, New
-      York, NY, USA.
+AD  - Division of Psychiatric Genomics, Department of Psychiatry, New York, NY,
+      USA; Institute for Genomics and Multiscale Biology, New York, NY, USA;
+      Department of Genetics and Genomic Sciences, New York, NY, USA; Friedman
+      Brain Institute, New York, NY, USA.
 LA  - eng
 GR  - R01 DK098242/DK/NIDDK NIH HHS/United States
 GR  - R01 MH095034/MH/NIMH NIH HHS/United States
@@ -1185,80 +1363,84 @@ PHST- 2017/11/03 06:00 [medline]
 AID - S2215-0366(15)00553-2 [pii]
 AID - 10.1016/S2215-0366(15)00553-2 [doi]
 PST - ppublish
-SO  - Lancet Psychiatry. 2016 Apr;3(4):350-7. doi: 10.1016/S2215-0366(15)00553-2. Epub 
-      2016 Feb 23.
+SO  - Lancet Psychiatry. 2016 Apr;3(4):350-7. doi:
+      10.1016/S2215-0366(15)00553-2. Epub 2016 Feb 23.
 
 PMID- 26335661
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20160627
-LR  - 20181113
+LR  - 20181202
 IS  - 1573-8744 (Electronic)
 IS  - 1567-567X (Linking)
 VI  - 42
 IP  - 5
 DP  - 2015 Oct
-TI  - Prediction and validation of enzyme and transporter off-targets for metformin.
+TI  - Prediction and validation of enzyme and transporter off-targets for
+      metformin.
 PG  - 463-75
 LID - 10.1007/s10928-015-9436-y [doi]
-AB  - Metformin, an established first-line treatment for patients with type 2 diabetes,
-      has been associated with gastrointestinal (GI) adverse effects that limit its
-      use. Histamine and serotonin have potent effects on the GI tract. The effects of 
-      metformin on histamine and serotonin uptake were evaluated in cell lines
-      overexpressing several amine transporters (OCT1, OCT3 and SERT). Metformin
-      inhibited histamine and serotonin uptake by OCT1, OCT3 and SERT in a
-      dose-dependent manner, with OCT1-mediated amine uptake being most potently
-      inhibited (IC50 = 1.5 mM). A chemoinformatics-based method known as Similarity
-      Ensemble Approach predicted diamine oxidase (DAO) as an additional intestinal
-      target of metformin, with an E-value of 7.4 x 10(-5). Inhibition of DAO was
-      experimentally validated using a spectrophotometric assay with putrescine as the 
-      substrate. The Ki of metformin for DAO was measured to be 8.6 +/- 3.1 mM. In this
-      study, we found that metformin inhibited intestinal amine transporters and DAO at
-      concentrations that may be achieved in the intestine after therapeutic doses.
-      Further studies are warranted to determine the relevance of these interactions to
-      the adverse effects of metformin on the gastrointestinal tract.
+AB  - Metformin, an established first-line treatment for patients with type 2
+      diabetes, has been associated with gastrointestinal (GI) adverse effects
+      that limit its use. Histamine and serotonin have potent effects on the GI
+      tract. The effects of metformin on histamine and serotonin uptake were
+      evaluated in cell lines overexpressing several amine transporters (OCT1,
+      OCT3 and SERT). Metformin inhibited histamine and serotonin uptake by
+      OCT1, OCT3 and SERT in a dose-dependent manner, with OCT1-mediated amine
+      uptake being most potently inhibited (IC50 = 1.5 mM). A chemoinformatics-
+      based method known as Similarity Ensemble Approach predicted diamine
+      oxidase (DAO) as an additional intestinal target of metformin, with an
+      E-value of 7.4 x 10(-5). Inhibition of DAO was experimentally validated
+      using a spectrophotometric assay with putrescine as the substrate. The Ki
+      of metformin for DAO was measured to be 8.6 +/- 3.1 mM. In this study, we
+      found that metformin inhibited intestinal amine transporters and DAO at
+      concentrations that may be achieved in the intestine after therapeutic
+      doses. Further studies are warranted to determine the relevance of these
+      interactions to the adverse effects of metformin on the gastrointestinal
+      tract.
 FAU - Yee, Sook Wah
 AU  - Yee SW
-AD  - Department of Bioengineering and Therapeutic Sciences, University of California
-      San Francisco, San Francisco, 94158-2911, USA.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California San Francisco, San Francisco, 94158-2911, USA.
 FAU - Lin, Lawrence
 AU  - Lin L
-AD  - Department of Bioengineering and Therapeutic Sciences, University of California
-      San Francisco, San Francisco, 94158-2911, USA.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California San Francisco, San Francisco, 94158-2911, USA.
 FAU - Merski, Matthew
 AU  - Merski M
-AD  - Department of Pharmaceutical Chemistry, University of California San Francisco,
-      San Francisco, CA, 94158-2550, USA.
-AD  - Instituto de Biologia Molecular e Celular, Universidade do Porto, 4150- 180,
-      Porto, Portugal.
+AD  - Department of Pharmaceutical Chemistry, University of California San
+      Francisco, San Francisco, CA, 94158-2550, USA.
+AD  - Instituto de Biologia Molecular e Celular, Universidade do Porto, 4150-
+      180, Porto, Portugal.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
-AD  - Department of Bioengineering and Therapeutic Sciences, University of California
-      San Francisco, San Francisco, 94158-2911, USA.
-AD  - Department of Pharmaceutical Chemistry, University of California San Francisco,
-      San Francisco, CA, 94158-2550, USA.
-AD  - Institute for Neurodegenerative Diseases, University of California San Francisco,
-      San Francisco, CA, 94143, USA.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California San Francisco, San Francisco, 94158-2911, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California San
+      Francisco, San Francisco, CA, 94158-2550, USA.
+AD  - Institute for Neurodegenerative Diseases, University of California San
+      Francisco, San Francisco, CA, 94143, USA.
 FAU - Gupta, Aakash
 AU  - Gupta A
-AD  - Department of Bioengineering and Therapeutic Sciences, University of California
-      San Francisco, San Francisco, 94158-2911, USA.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California San Francisco, San Francisco, 94158-2911, USA.
 FAU - Zhang, Youcai
 AU  - Zhang Y
-AD  - Department of Bioengineering and Therapeutic Sciences, University of California
-      San Francisco, San Francisco, 94158-2911, USA.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California San Francisco, San Francisco, 94158-2911, USA.
 FAU - Chien, Huan-Chieh
 AU  - Chien HC
-AD  - Department of Bioengineering and Therapeutic Sciences, University of California
-      San Francisco, San Francisco, 94158-2911, USA.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California San Francisco, San Francisco, 94158-2911, USA.
 FAU - Shoichet, Brian K
 AU  - Shoichet BK
-AD  - Department of Pharmaceutical Chemistry, University of California San Francisco,
-      San Francisco, CA, 94158-2550, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California San
+      Francisco, San Francisco, CA, 94158-2550, USA.
 FAU - Giacomini, Kathleen M
 AU  - Giacomini KM
-AD  - Department of Bioengineering and Therapeutic Sciences, University of California
-      San Francisco, San Francisco, 94158-2911, USA. kathy.giacomini@ucsf.edu.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California San Francisco, San Francisco, 94158-2911, USA.
+      kathy.giacomini@ucsf.edu.
 LA  - eng
 GR  - P30 DK063720/DK/NIDDK NIH HHS/United States
 GR  - R01 GM071896/GM/NIGMS NIH HHS/United States
@@ -1292,7 +1474,7 @@ MH  - Cell Line
 MH  - Diabetes Mellitus, Type 2/metabolism
 MH  - HEK293 Cells
 MH  - Humans
-MH  - Intestines/metabolism
+MH  - Intestinal Mucosa/metabolism
 MH  - Kinetics
 MH  - Membrane Transport Proteins/*metabolism
 MH  - Metformin/*metabolism
@@ -1335,26 +1517,27 @@ DP  - 2015 Feb
 TI  - Systems pharmacology augments drug safety surveillance.
 PG  - 151-8
 LID - 10.1002/cpt.2 [doi]
-AB  - Small molecule drugs are the foundation of modern medical practice, yet their use
-      is limited by the onset of unexpected and severe adverse events (AEs). Regulatory
-      agencies rely on postmarketing surveillance to monitor safety once drugs are
-      approved for clinical use. Despite advances in pharmacovigilance methods that
-      address issues of confounding bias, clinical data of AEs are inherently noisy.
-      Systems pharmacology-the integration of systems biology and chemical genomics-can
-      illuminate drug mechanisms of action. We hypothesize that these data can improve 
-      drug safety surveillance by highlighting drugs with a mechanistic connection to
-      the target phenotype (enriching true positives) and filtering those that do not
-      (depleting false positives). We present an algorithm, the modular assembly of
-      drug safety subnetworks (MADSS), to combine systems pharmacology and
-      pharmacovigilance data and significantly improve drug safety monitoring for four 
-      clinically relevant adverse drug reactions.
+AB  - Small molecule drugs are the foundation of modern medical practice, yet
+      their use is limited by the onset of unexpected and severe adverse events
+      (AEs). Regulatory agencies rely on postmarketing surveillance to monitor
+      safety once drugs are approved for clinical use. Despite advances in
+      pharmacovigilance methods that address issues of confounding bias,
+      clinical data of AEs are inherently noisy. Systems pharmacology-the
+      integration of systems biology and chemical genomics-can illuminate drug
+      mechanisms of action. We hypothesize that these data can improve drug
+      safety surveillance by highlighting drugs with a mechanistic connection
+      to the target phenotype (enriching true positives) and filtering those
+      that do not (depleting false positives). We present an algorithm, the
+      modular assembly of drug safety subnetworks (MADSS), to combine systems
+      pharmacology and pharmacovigilance data and significantly improve drug
+      safety monitoring for four clinically relevant adverse drug reactions.
 CI  - (c) 2014 American Society for Clinical Pharmacology and Therapeutics.
 FAU - Lorberbaum, T
 AU  - Lorberbaum T
-AD  - Department of Physiology and Cellular Biophysics, Columbia University, New York, 
-      New York, USA; Department of Biomedical Informatics, Columbia University, New
-      York, New York, USA; Departments of Systems Biology and Medicine, Columbia
-      University, New York, New York, USA.
+AD  - Department of Physiology and Cellular Biophysics, Columbia University,
+      New York, New York, USA; Department of Biomedical Informatics, Columbia
+      University, New York, New York, USA; Departments of Systems Biology and
+      Medicine, Columbia University, New York, New York, USA.
 FAU - Nasir, M
 AU  - Nasir M
 FAU - Keiser, M J
@@ -1408,7 +1591,8 @@ PHST- 2015/02/12 06:00 [pubmed]
 PHST- 2015/04/09 06:00 [medline]
 AID - 10.1002/cpt.2 [doi]
 PST - ppublish
-SO  - Clin Pharmacol Ther. 2015 Feb;97(2):151-8. doi: 10.1002/cpt.2. Epub 2014 Dec 20.
+SO  - Clin Pharmacol Ther. 2015 Feb;97(2):151-8. doi: 10.1002/cpt.2. Epub 2014
+      Dec 20.
 
 PMID- 24260022
 OWN - NLM
@@ -1420,38 +1604,41 @@ IS  - 1544-9173 (Linking)
 VI  - 11
 IP  - 11
 DP  - 2013 Nov
-TI  - In silico molecular comparisons of C. elegans and mammalian pharmacology identify
-      distinct targets that regulate feeding.
+TI  - In silico molecular comparisons of C. elegans and mammalian pharmacology
+      identify distinct targets that regulate feeding.
 PG  - e1001712
 LID - 10.1371/journal.pbio.1001712 [doi]
-AB  - Phenotypic screens can identify molecules that are at once penetrant and active
-      on the integrated circuitry of a whole cell or organism. These advantages are
-      offset by the need to identify the targets underlying the phenotypes.
-      Additionally, logistical considerations limit screening for certain physiological
-      and behavioral phenotypes to organisms such as zebrafish and C. elegans. This
-      further raises the challenge of elucidating whether compound-target relationships
-      found in model organisms are preserved in humans. To address these challenges we 
-      searched for compounds that affect feeding behavior in C. elegans and sought to
-      identify their molecular mechanisms of action. Here, we applied predictive
-      chemoinformatics to small molecules previously identified in a C. elegans
-      phenotypic screen likely to be enriched for feeding regulatory compounds. Based
-      on the predictions, 16 of these compounds were tested in vitro against 20
-      mammalian targets. Of these, nine were active, with affinities ranging from 9 nM 
-      to 10 microM. Four of these nine compounds were found to alter feeding. We then
-      verified the in vitro findings in vivo through genetic knockdowns, the use of
-      previously characterized compounds with high affinity for the four targets, and
-      chemical genetic epistasis, which is the effect of combined chemical and genetic 
-      perturbations on a phenotype relative to that of each perturbation in isolation. 
-      Our findings reveal four previously unrecognized pathways that regulate feeding
-      in C. elegans with strong parallels in mammals. Together, our study addresses
-      three inherent challenges in phenotypic screening: the identification of the
-      molecular targets from a phenotypic screen, the confirmation of the in vivo
-      relevance of these targets, and the evolutionary conservation and relevance of
-      these targets to their human orthologs.
+AB  - Phenotypic screens can identify molecules that are at once penetrant and
+      active on the integrated circuitry of a whole cell or organism. These
+      advantages are offset by the need to identify the targets underlying the
+      phenotypes. Additionally, logistical considerations limit screening for
+      certain physiological and behavioral phenotypes to organisms such as
+      zebrafish and C. elegans. This further raises the challenge of
+      elucidating whether compound-target relationships found in model
+      organisms are preserved in humans. To address these challenges we
+      searched for compounds that affect feeding behavior in C. elegans and
+      sought to identify their molecular mechanisms of action. Here, we applied
+      predictive chemoinformatics to small molecules previously identified in a
+      C. elegans phenotypic screen likely to be enriched for feeding regulatory
+      compounds. Based on the predictions, 16 of these compounds were tested in
+      vitro against 20 mammalian targets. Of these, nine were active, with
+      affinities ranging from 9 nM to 10 microM. Four of these nine compounds
+      were found to alter feeding. We then verified the in vitro findings in
+      vivo through genetic knockdowns, the use of previously characterized
+      compounds with high affinity for the four targets, and chemical genetic
+      epistasis, which is the effect of combined chemical and genetic
+      perturbations on a phenotype relative to that of each perturbation in
+      isolation. Our findings reveal four previously unrecognized pathways that
+      regulate feeding in C. elegans with strong parallels in mammals.
+      Together, our study addresses three inherent challenges in phenotypic
+      screening: the identification of the molecular targets from a phenotypic
+      screen, the confirmation of the in vivo relevance of these targets, and
+      the evolutionary conservation and relevance of these targets to their
+      human orthologs.
 FAU - Lemieux, George A
 AU  - Lemieux GA
-AD  - Department of Anatomy, University of California, San Francisco, California,
-      United States of America.
+AD  - Department of Anatomy, University of California, San Francisco,
+      California, United States of America.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
 FAU - Sassano, Maria F
@@ -1520,8 +1707,8 @@ PHST- 2014/07/08 06:00 [medline]
 AID - 10.1371/journal.pbio.1001712 [doi]
 AID - PBIOLOGY-D-13-01770 [pii]
 PST - ppublish
-SO  - PLoS Biol. 2013 Nov;11(11):e1001712. doi: 10.1371/journal.pbio.1001712. Epub 2013
-      Nov 19.
+SO  - PLoS Biol. 2013 Nov;11(11):e1001712. doi: 10.1371/journal.pbio.1001712.
+      Epub 2013 Nov 19.
 
 PMID- 22722194
 OWN - NLM
@@ -1533,29 +1720,32 @@ IS  - 0028-0836 (Linking)
 VI  - 486
 IP  - 7403
 DP  - 2012 Jun 10
-TI  - Large-scale prediction and testing of drug activity on side-effect targets.
+TI  - Large-scale prediction and testing of drug activity on side-effect
+      targets.
 PG  - 361-7
 LID - 10.1038/nature11159 [doi]
-AB  - Discovering the unintended 'off-targets' that predict adverse drug reactions is
-      daunting by empirical methods alone. Drugs can act on several protein targets,
-      some of which can be unrelated by conventional molecular metrics, and hundreds of
-      proteins have been implicated in side effects. Here we use a computational
-      strategy to predict the activity of 656 marketed drugs on 73 unintended
-      'side-effect' targets. Approximately half of the predictions were confirmed,
-      either from proprietary databases unknown to the method or by new experimental
-      assays. Affinities for these new off-targets ranged from 1 nM to 30 muM. To
-      explore relevance, we developed an association metric to prioritize those new
-      off-targets that explained side effects better than any known target of a given
-      drug, creating a drug-target-adverse drug reaction network. Among these new
-      associations was the prediction that the abdominal pain side effect of the
-      synthetic oestrogen chlorotrianisene was mediated through its newly discovered
-      inhibition of the enzyme cyclooxygenase-1. The clinical relevance of this
-      inhibition was borne out in whole human blood platelet aggregation assays. This
-      approach may have wide application to de-risking toxicological liabilities in
-      drug discovery.
+AB  - Discovering the unintended 'off-targets' that predict adverse drug
+      reactions is daunting by empirical methods alone. Drugs can act on
+      several protein targets, some of which can be unrelated by conventional
+      molecular metrics, and hundreds of proteins have been implicated in side
+      effects. Here we use a computational strategy to predict the activity of
+      656 marketed drugs on 73 unintended 'side-effect' targets. Approximately
+      half of the predictions were confirmed, either from proprietary databases
+      unknown to the method or by new experimental assays. Affinities for these
+      new off-targets ranged from 1 nM to 30 muM. To explore relevance, we
+      developed an association metric to prioritize those new off-targets that
+      explained side effects better than any known target of a given drug,
+      creating a drug-target-adverse drug reaction network. Among these new
+      associations was the prediction that the abdominal pain side effect of
+      the synthetic oestrogen chlorotrianisene was mediated through its newly
+      discovered inhibition of the enzyme cyclooxygenase-1. The clinical
+      relevance of this inhibition was borne out in whole human blood platelet
+      aggregation assays. This approach may have wide application to de-risking
+      toxicological liabilities in drug discovery.
 FAU - Lounkine, Eugen
 AU  - Lounkine E
-AD  - Novartis Institutes for Biomedical Research, Cambridge, Massachusetts 02139, USA.
+AD  - Novartis Institutes for Biomedical Research, Cambridge, Massachusetts
+      02139, USA.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
 FAU - Whitebread, Steven
@@ -1635,26 +1825,27 @@ PMID- 22179068
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20120529
-LR  - 20181113
+LR  - 20190302
 IS  - 1552-4469 (Electronic)
 IS  - 1552-4450 (Linking)
 VI  - 8
 IP  - 2
 DP  - 2011 Dec 18
-TI  - Chemical informatics and target identification in a zebrafish phenotypic screen.
+TI  - Chemical informatics and target identification in a zebrafish phenotypic
+      screen.
 PG  - 144-6
 LID - 10.1038/nchembio.732 [doi]
-AB  - Target identification is a core challenge in chemical genetics. Here we use
-      chemical similarity to computationally predict the targets of 586 compounds that 
-      were active in a zebrafish behavioral assay. Among 20 predictions tested, 11
-      compounds had activities ranging from 1 nM to 10,000 nM on the predicted targets.
-      The roles of two of these targets were tested in the original zebrafish
-      phenotype. Prediction of targets from chemotype is rapid and may be generally
-      applicable.
+AB  - Target identification is a core challenge in chemical genetics. Here we
+      use chemical similarity to computationally predict the targets of 586
+      compounds that were active in a zebrafish behavioral assay. Among 20
+      predictions tested, 11 compounds had activities ranging from 1 nM to
+      10,000 nM on the predicted targets. The roles of two of these targets
+      were tested in the original zebrafish phenotype. Prediction of targets
+      from chemotype is rapid and may be generally applicable.
 FAU - Laggner, Christian
 AU  - Laggner C
-AD  - Department of Pharmaceutical Chemistry, University of California, San Francisco, 
-      California, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, California, USA.
 FAU - Kokel, David
 AU  - Kokel D
 FAU - Setola, Vincent
@@ -1730,7 +1921,6 @@ GR  - MH085205/MH/NIMH NIH HHS/United States
 GR  - K01 MH091449/MH/NIMH NIH HHS/United States
 GR  - R01 NS049272-04/NS/NINDS NIH HHS/United States
 GR  - U19MH82441/MH/NIMH NIH HHS/United States
-GR  - T32 HL007208/HL/NHLBI NIH HHS/United States
 GR  - MH091449/MH/NIMH NIH HHS/United States
 GR  - R01 MH093603-01/MH/NIMH NIH HHS/United States
 GR  - R01 MH093603/MH/NIMH NIH HHS/United States
@@ -1781,31 +1971,32 @@ IS  - 0893-133X (Linking)
 VI  - 36
 IP  - 3
 DP  - 2011 Feb
-TI  - The presynaptic component of the serotonergic system is required for clozapine's 
-      efficacy.
+TI  - The presynaptic component of the serotonergic system is required for
+      clozapine's efficacy.
 PG  - 638-51
 LID - 10.1038/npp.2010.195 [doi]
-AB  - Clozapine, by virtue of its absence of extrapyramidal side effects and greater
-      efficacy, revolutionized the treatment of schizophrenia, although the mechanisms 
-      underlying this exceptional activity remain controversial. Combining an unbiased 
-      cheminformatics and physical screening approach, we evaluated clozapine's
-      activity at >2350 distinct molecular targets. Clozapine, and the closely related 
-      atypical antipsychotic drug olanzapine, interacted potently with a unique
-      spectrum of molecular targets. This distinct pattern, which was not shared with
-      the typical antipsychotic drug haloperidol, suggested that the serotonergic
-      neuronal system was a key determinant of clozapine's actions. To test this
+AB  - Clozapine, by virtue of its absence of extrapyramidal side effects and
+      greater efficacy, revolutionized the treatment of schizophrenia, although
+      the mechanisms underlying this exceptional activity remain controversial.
+      Combining an unbiased cheminformatics and physical screening approach, we
+      evaluated clozapine's activity at >2350 distinct molecular targets.
+      Clozapine, and the closely related atypical antipsychotic drug
+      olanzapine, interacted potently with a unique spectrum of molecular
+      targets. This distinct pattern, which was not shared with the typical
+      antipsychotic drug haloperidol, suggested that the serotonergic neuronal
+      system was a key determinant of clozapine's actions. To test this
       hypothesis, we used pet1(-/-) mice, which are deficient in serotonergic
-      presynaptic markers. We discovered that the antipsychotic-like properties of the 
-      atypical antipsychotic drugs clozapine and olanzapine were abolished in a
-      pharmacological model that mimics NMDA-receptor hypofunction in pet1(-/-) mice,
-      whereas haloperidol's efficacy was unaffected. These results show that
-      clozapine's ability to normalize NMDA-receptor hypofunction, which is
-      characteristic of schizophrenia, depends on an intact presynaptic serotonergic
-      neuronal system.
+      presynaptic markers. We discovered that the antipsychotic-like properties
+      of the atypical antipsychotic drugs clozapine and olanzapine were
+      abolished in a pharmacological model that mimics NMDA-receptor
+      hypofunction in pet1(-/-) mice, whereas haloperidol's efficacy was
+      unaffected. These results show that clozapine's ability to normalize
+      NMDA-receptor hypofunction, which is characteristic of schizophrenia,
+      depends on an intact presynaptic serotonergic neuronal system.
 FAU - Yadav, Prem N
 AU  - Yadav PN
-AD  - Department of Pharmacology, University of North Carolina, Chapel Hill, NC 27516, 
-      USA.
+AD  - Department of Pharmacology, University of North Carolina, Chapel Hill, NC
+      27516, USA.
 FAU - Abbas, Atheir I
 AU  - Abbas AI
 FAU - Farrell, Martilias S
@@ -1929,8 +2120,8 @@ PHST- 2011/05/10 06:00 [medline]
 AID - npp2010195 [pii]
 AID - 10.1038/npp.2010.195 [doi]
 PST - ppublish
-SO  - Neuropsychopharmacology. 2011 Feb;36(3):638-51. doi: 10.1038/npp.2010.195. Epub
-      2010 Nov 3.
+SO  - Neuropsychopharmacology. 2011 Feb;36(3):638-51. doi:
+      10.1038/npp.2010.195. Epub 2010 Nov 3.
 
 PMID- 21058655
 OWN - NLM
@@ -1945,23 +2136,24 @@ DP  - 2010 Dec 7
 TI  - The chemical basis of pharmacology.
 PG  - 10267-76
 LID - 10.1021/bi101540g [doi]
-AB  - Molecular biology now dominates pharmacology so thoroughly that it is difficult
-      to recall that only a generation ago the field was very different. To understand 
-      drug action today, we characterize the targets through which they act and new
-      drug leads are discovered on the basis of target structure and function. Until
-      the mid-1980s the information often flowed in reverse: investigators began with
-      organic molecules and sought targets, relating receptors not by sequence or
-      structure but by their ligands. Recently, investigators have returned to this
-      chemical view of biology, bringing to it systematic and quantitative methods of
-      relating targets by their ligands. This has allowed the discovery of new targets 
-      for established drugs, suggested the bases for their side effects, and predicted 
-      the molecular targets underlying phenotypic screens. The bases for these new
-      methods, some of their successes and liabilities, and new opportunities for their
-      use are described.
+AB  - Molecular biology now dominates pharmacology so thoroughly that it is
+      difficult to recall that only a generation ago the field was very
+      different. To understand drug action today, we characterize the targets
+      through which they act and new drug leads are discovered on the basis of
+      target structure and function. Until the mid-1980s the information often
+      flowed in reverse: investigators began with organic molecules and sought
+      targets, relating receptors not by sequence or structure but by their
+      ligands. Recently, investigators have returned to this chemical view of
+      biology, bringing to it systematic and quantitative methods of relating
+      targets by their ligands. This has allowed the discovery of new targets
+      for established drugs, suggested the bases for their side effects, and
+      predicted the molecular targets underlying phenotypic screens. The bases
+      for these new methods, some of their successes and liabilities, and new
+      opportunities for their use are described.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
-AD  - Department of Pharmaceutical Chemistry, University of California-San Francisco,
-      1700 4th Street, San Francisco, CA 94158-2558, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California-San
+      Francisco, 1700 4th Street, San Francisco, CA 94158-2558, USA.
 FAU - Irwin, John J
 AU  - Irwin JJ
 FAU - Shoichet, Brian K
@@ -2002,8 +2194,8 @@ PHST- 2010/11/10 06:00 [pubmed]
 PHST- 2010/12/29 06:00 [medline]
 AID - 10.1021/bi101540g [doi]
 PST - ppublish
-SO  - Biochemistry. 2010 Dec 7;49(48):10267-76. doi: 10.1021/bi101540g. Epub 2010 Nov
-      12.
+SO  - Biochemistry. 2010 Dec 7;49(48):10267-76. doi: 10.1021/bi101540g. Epub
+      2010 Nov 12.
 
 PMID- 20540517
 OWN - NLM
@@ -2015,28 +2207,30 @@ IS  - 0022-2623 (Linking)
 VI  - 53
 IP  - 13
 DP  - 2010 Jul 8
-TI  - Complementarity between a docking and a high-throughput screen in discovering new
-      cruzain inhibitors.
+TI  - Complementarity between a docking and a high-throughput screen in
+      discovering new cruzain inhibitors.
 PG  - 4891-905
 LID - 10.1021/jm100488w [doi]
-AB  - Virtual and high-throughput screens (HTS) should have complementary strengths and
-      weaknesses, but studies that prospectively and comprehensively compare them are
-      rare. We undertook a parallel docking and HTS screen of 197861 compounds against 
-      cruzain, a thiol protease target for Chagas disease, looking for reversible,
-      competitive inhibitors. On workup, 99% of the hits were eliminated as false
-      positives, yielding 146 well-behaved, competitive ligands. These fell into five
-      chemotypes: two were prioritized by scoring among the top 0.1% of the
-      docking-ranked library, two were prioritized by behavior in the HTS and by
-      clustering, and one chemotype was prioritized by both approaches. Determination
-      of an inhibitor/cruzain crystal structure and comparison of the high-scoring
-      docking hits to experiment illuminated the origins of docking false-negatives and
-      false-positives. Prioritizing molecules that are both predicted by docking and
-      are HTS-active yields well-behaved molecules, relatively unobscured by the
-      false-positives to which both techniques are individually prone.
+AB  - Virtual and high-throughput screens (HTS) should have complementary
+      strengths and weaknesses, but studies that prospectively and
+      comprehensively compare them are rare. We undertook a parallel docking
+      and HTS screen of 197861 compounds against cruzain, a thiol protease
+      target for Chagas disease, looking for reversible, competitive
+      inhibitors. On workup, 99% of the hits were eliminated as false
+      positives, yielding 146 well-behaved, competitive ligands. These fell
+      into five chemotypes: two were prioritized by scoring among the top 0.1%
+      of the docking-ranked library, two were prioritized by behavior in the
+      HTS and by clustering, and one chemotype was prioritized by both
+      approaches. Determination of an inhibitor/cruzain crystal structure and
+      comparison of the high-scoring docking hits to experiment illuminated the
+      origins of docking false-negatives and false-positives. Prioritizing
+      molecules that are both predicted by docking and are HTS-active yields
+      well-behaved molecules, relatively unobscured by the false-positives to
+      which both techniques are individually prone.
 FAU - Ferreira, Rafaela S
 AU  - Ferreira RS
-AD  - Graduate Program in Chemistry and Chemical Biology, University of California San 
-      Francisco, California 94158, USA.
+AD  - Graduate Program in Chemistry and Chemical Biology, University of
+      California San Francisco, California 94158, USA.
 FAU - Simeonov, Anton
 AU  - Simeonov A
 FAU - Jadhav, Ajit
@@ -2104,24 +2298,26 @@ IS  - 0022-2623 (Linking)
 VI  - 53
 IP  - 6
 DP  - 2010 Mar 25
-TI  - Prediction and evaluation of protein farnesyltransferase inhibition by commercial
-      drugs.
+TI  - Prediction and evaluation of protein farnesyltransferase inhibition by
+      commercial drugs.
 PG  - 2464-71
 LID - 10.1021/jm901613f [doi]
-AB  - The similarity ensemble approach (SEA) relates proteins based on the set-wise
-      chemical similarity among their ligands. It can be used to rapidly search large
-      compound databases and to build cross-target similarity maps. The emerging maps
-      relate targets in ways that reveal relationships one might not recognize based on
-      sequence or structural similarities alone. SEA has previously revealed cross talk
-      between drugs acting primarily on G-protein coupled receptors (GPCRs). Here we
-      used SEA to look for potential off-target inhibition of the enzyme protein
-      farnesyltransferase (PFTase) by commercially available drugs. The inhibition of
-      PFTase has profound consequences for oncogenesis, as well as a number of other
-      diseases. In the present study, two commercial drugs, Loratadine and Miconazole, 
-      were identified as potential ligands for PFTase and subsequently confirmed as
-      such experimentally. These results point toward the applicability of SEA for the 
-      prediction of not only GPCR-GPCR drug cross talk but also GPCR-enzyme and
-      enzyme-enzyme drug cross talk.
+AB  - The similarity ensemble approach (SEA) relates proteins based on the set-
+      wise chemical similarity among their ligands. It can be used to rapidly
+      search large compound databases and to build cross-target similarity
+      maps. The emerging maps relate targets in ways that reveal relationships
+      one might not recognize based on sequence or structural similarities
+      alone. SEA has previously revealed cross talk between drugs acting
+      primarily on G-protein coupled receptors (GPCRs). Here we used SEA to
+      look for potential off-target inhibition of the enzyme protein
+      farnesyltransferase (PFTase) by commercially available drugs. The
+      inhibition of PFTase has profound consequences for oncogenesis, as well
+      as a number of other diseases. In the present study, two commercial
+      drugs, Loratadine and Miconazole, were identified as potential ligands
+      for PFTase and subsequently confirmed as such experimentally. These
+      results point toward the applicability of SEA for the prediction of not
+      only GPCR-GPCR drug cross talk but also GPCR-enzyme and enzyme-enzyme
+      drug cross talk.
 FAU - DeGraw, Amanda J
 AU  - DeGraw AJ
 AD  - Department of Chemistry, University of Minnesota, 207 Pleasant Street SE,
@@ -2201,32 +2397,35 @@ IS  - 0048-5764 (Linking)
 VI  - 43
 IP  - 1
 DP  - 2010
-TI  - A pilot study of the pharmacodynamic impact of SSRI drug selection and beta-1
-      receptor genotype (ADRB1) on cardiac vital signs in depressed patients: a novel
-      pharmacogenetic approach.
+TI  - A pilot study of the pharmacodynamic impact of SSRI drug selection and
+      beta-1 receptor genotype (ADRB1) on cardiac vital signs in depressed
+      patients: a novel pharmacogenetic approach.
 PG  - 11-22
-AB  - OBJECTIVE: The adrenergic beta-1 receptor gene (ADRB1) Ser49Gly and Arg389Gly
-      variants differentially affect blood pressure response to beta-blocker therapy.
-      Binding site prediction results for fluoxetine and paroxetine in a bioinformatics
-      model estimated that each of these particular selective serotonin reuptake
-      inhibitors (SSRIs) have high receptor affinity as an "Adrenergic (beta) Blocker,"
-      which was confirmed in vitro. This pilot study was conducted to understand the
-      relationship between these "beta-blocking" SSRIs (fluoxetine and paroxetine) and 
-      cardiac vital signs (systolic blood pressure (SBP), diastolic blood pressure
-      (DBP) and heart rate (HR)), when subjects are stratified by ADRB1 genotype.
-      Previously ascertained DNA and clinical data was examined from 122 subjects
-      recruited for a cross-sectional study of health and well being during SSRI
-      pharmacotherapy. A multivariate linear regression analysis was used to determine 
-      which variables affected cardiac vital signs. There was a significant interaction
-      between Arg389Gly variant status and "beta-blocking" SSRIs [p = 0.0353] in
-      relation to SBP. Specifically in homozygous Arg389 subjects, those receiving
-      "beta-blocking" SSRIs had significantly lower SBP (mean 104 mmHg) compared to the
-      group taking other SSRIs (mean 122 mmHg) [p = 0.0437]. In these same homozygous
-      Arg389 subjects, those receiving "beta-blocking" SSRIs also had lower HR (mean 60
-      bpm) compared to the other SSRIs (mean 79 bpm) [p = 0.00877]. Future prospective 
-      studies of this phenomenon are necessary to identify all genetic markers that can
-      predict SSRI-associated cardiovascular effects that may be related to the SSRI
-      discontinuation syndrome and potentially influence pharmacotherapy decisions.
+AB  - OBJECTIVE: The adrenergic beta-1 receptor gene (ADRB1) Ser49Gly and
+      Arg389Gly variants differentially affect blood pressure response to beta-
+      blocker therapy. Binding site prediction results for fluoxetine and
+      paroxetine in a bioinformatics model estimated that each of these
+      particular selective serotonin reuptake inhibitors (SSRIs) have high
+      receptor affinity as an "Adrenergic (beta) Blocker," which was confirmed
+      in vitro. This pilot study was conducted to understand the relationship
+      between these "beta-blocking" SSRIs (fluoxetine and paroxetine) and
+      cardiac vital signs (systolic blood pressure (SBP), diastolic blood
+      pressure (DBP) and heart rate (HR)), when subjects are stratified by
+      ADRB1 genotype. Previously ascertained DNA and clinical data was examined
+      from 122 subjects recruited for a cross-sectional study of health and
+      well being during SSRI pharmacotherapy. A multivariate linear regression
+      analysis was used to determine which variables affected cardiac vital
+      signs. There was a significant interaction between Arg389Gly variant
+      status and "beta-blocking" SSRIs [p = 0.0353] in relation to SBP.
+      Specifically in homozygous Arg389 subjects, those receiving "beta-
+      blocking" SSRIs had significantly lower SBP (mean 104 mmHg) compared to
+      the group taking other SSRIs (mean 122 mmHg) [p = 0.0437]. In these same
+      homozygous Arg389 subjects, those receiving "beta-blocking" SSRIs also
+      had lower HR (mean 60 bpm) compared to the other SSRIs (mean 79 bpm) [p =
+      0.00877]. Future prospective studies of this phenomenon are necessary to
+      identify all genetic markers that can predict SSRI-associated
+      cardiovascular effects that may be related to the SSRI discontinuation
+      syndrome and potentially influence pharmacotherapy decisions.
 FAU - Thomas, Kelan L H
 AU  - Thomas KL
 AD  - University of Michigan, Ann Arbor, MI, USA.
@@ -2309,26 +2508,28 @@ DP  - 2009 Nov 12
 TI  - Predicting new molecular targets for known drugs.
 PG  - 175-81
 LID - 10.1038/nature08506 [doi]
-AB  - Although drugs are intended to be selective, at least some bind to several
-      physiological targets, explaining side effects and efficacy. Because many
-      drug-target combinations exist, it would be useful to explore possible
-      interactions computationally. Here we compared 3,665 US Food and Drug
-      Administration (FDA)-approved and investigational drugs against hundreds of
-      targets, defining each target by its ligands. Chemical similarities between drugs
-      and ligand sets predicted thousands of unanticipated associations. Thirty were
-      tested experimentally, including the antagonism of the beta(1) receptor by the
-      transporter inhibitor Prozac, the inhibition of the 5-hydroxytryptamine (5-HT)
-      transporter by the ion channel drug Vadilex, and antagonism of the histamine H(4)
-      receptor by the enzyme inhibitor Rescriptor. Overall, 23 new drug-target
-      associations were confirmed, five of which were potent (<100 nM). The
-      physiological relevance of one, the drug N,N-dimethyltryptamine (DMT) on
-      serotonergic receptors, was confirmed in a knockout mouse. The chemical
-      similarity approach is systematic and comprehensive, and may suggest side-effects
-      and new indications for many drugs.
+AB  - Although drugs are intended to be selective, at least some bind to
+      several physiological targets, explaining side effects and efficacy.
+      Because many drug-target combinations exist, it would be useful to
+      explore possible interactions computationally. Here we compared 3,665 US
+      Food and Drug Administration (FDA)-approved and investigational drugs
+      against hundreds of targets, defining each target by its ligands.
+      Chemical similarities between drugs and ligand sets predicted thousands
+      of unanticipated associations. Thirty were tested experimentally,
+      including the antagonism of the beta(1) receptor by the transporter
+      inhibitor Prozac, the inhibition of the 5-hydroxytryptamine (5-HT)
+      transporter by the ion channel drug Vadilex, and antagonism of the
+      histamine H(4) receptor by the enzyme inhibitor Rescriptor. Overall, 23
+      new drug-target associations were confirmed, five of which were potent
+      (<100 nM). The physiological relevance of one, the drug
+      N,N-dimethyltryptamine (DMT) on serotonergic receptors, was confirmed in
+      a knockout mouse. The chemical similarity approach is systematic and
+      comprehensive, and may suggest side-effects and new indications for many
+      drugs.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
-AD  - Department of Pharmaceutical Chemistry, University of California San Francisco,
-      1700 4th Street, San Francisco, California 94143-2550, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California San
+      Francisco, 1700 4th Street, San Francisco, California 94143-2550, USA.
 FAU - Setola, Vincent
 AU  - Setola V
 FAU - Irwin, John J
@@ -2423,7 +2624,8 @@ PHST- 2010/01/06 06:00 [medline]
 AID - nature08506 [pii]
 AID - 10.1038/nature08506 [doi]
 PST - ppublish
-SO  - Nature. 2009 Nov 12;462(7270):175-81. doi: 10.1038/nature08506. Epub 2009 Nov 1.
+SO  - Nature. 2009 Nov 12;462(7270):175-81. doi: 10.1038/nature08506. Epub 2009
+      Nov 1.
 
 PMID- 19701464
 OWN - NLM
@@ -2438,31 +2640,33 @@ DP  - 2009 Aug
 TI  - A mapping of drug space from the viewpoint of small molecule metabolism.
 PG  - e1000474
 LID - 10.1371/journal.pcbi.1000474 [doi]
-AB  - Small molecule drugs target many core metabolic enzymes in humans and pathogens, 
-      often mimicking endogenous ligands. The effects may be therapeutic or toxic, but 
-      are frequently unexpected. A large-scale mapping of the intersection between
-      drugs and metabolism is needed to better guide drug discovery. To map the
-      intersection between drugs and metabolism, we have grouped drugs and metabolites 
-      by their associated targets and enzymes using ligand-based set signatures created
-      to quantify their degree of similarity in chemical space. The results reveal the 
-      chemical space that has been explored for metabolic targets, where successful
-      drugs have been found, and what novel territory remains. To aid other researchers
-      in their drug discovery efforts, we have created an online resource of
-      interactive maps linking drugs to metabolism. These maps predict the "effect
-      space" comprising likely target enzymes for each of the 246 MDDR drug classes in 
-      humans. The online resource also provides species-specific interactive
-      drug-metabolism maps for each of the 385 model organisms and pathogens in the
-      BioCyc database collection. Chemical similarity links between drugs and
-      metabolites predict potential toxicity, suggest routes of metabolism, and reveal 
-      drug polypharmacology. The metabolic maps enable interactive navigation of the
-      vast biological data on potential metabolic drug targets and the drug chemistry
-      currently available to prosecute those targets. Thus, this work provides a
-      large-scale approach to ligand-based prediction of drug action in small molecule 
-      metabolism.
+AB  - Small molecule drugs target many core metabolic enzymes in humans and
+      pathogens, often mimicking endogenous ligands. The effects may be
+      therapeutic or toxic, but are frequently unexpected. A large-scale
+      mapping of the intersection between drugs and metabolism is needed to
+      better guide drug discovery. To map the intersection between drugs and
+      metabolism, we have grouped drugs and metabolites by their associated
+      targets and enzymes using ligand-based set signatures created to quantify
+      their degree of similarity in chemical space. The results reveal the
+      chemical space that has been explored for metabolic targets, where
+      successful drugs have been found, and what novel territory remains. To
+      aid other researchers in their drug discovery efforts, we have created an
+      online resource of interactive maps linking drugs to metabolism. These
+      maps predict the "effect space" comprising likely target enzymes for each
+      of the 246 MDDR drug classes in humans. The online resource also provides
+      species-specific interactive drug-metabolism maps for each of the 385
+      model organisms and pathogens in the BioCyc database collection. Chemical
+      similarity links between drugs and metabolites predict potential
+      toxicity, suggest routes of metabolism, and reveal drug polypharmacology.
+      The metabolic maps enable interactive navigation of the vast biological
+      data on potential metabolic drug targets and the drug chemistry currently
+      available to prosecute those targets. Thus, this work provides a large-
+      scale approach to ligand-based prediction of drug action in small
+      molecule metabolism.
 FAU - Adams, James Corey
 AU  - Adams JC
-AD  - Graduate Program in Pharmaceutical Sciences and Pharmacogenomics, University of
-      California, San Francisco, California, USA.
+AD  - Graduate Program in Pharmaceutical Sciences and Pharmacogenomics,
+      University of California, San Francisco, California, USA.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
 FAU - Basuino, Li
@@ -2517,8 +2721,8 @@ PHST- 2009/08/25 09:00 [pubmed]
 PHST- 2009/10/30 06:00 [medline]
 AID - 10.1371/journal.pcbi.1000474 [doi]
 PST - ppublish
-SO  - PLoS Comput Biol. 2009 Aug;5(8):e1000474. doi: 10.1371/journal.pcbi.1000474. Epub
-      2009 Aug 21.
+SO  - PLoS Comput Biol. 2009 Aug;5(8):e1000474. doi:
+      10.1371/journal.pcbi.1000474. Epub 2009 Aug 21.
 
 PMID- 19483698
 OWN - NLM
@@ -2533,16 +2737,17 @@ DP  - 2009 Jul
 TI  - Quantifying biogenic bias in screening libraries.
 PG  - 479-83
 LID - 10.1038/nchembio.180 [doi]
-AB  - In lead discovery, libraries of 10(6) molecules are screened for biological
-      activity. Given the over 10(60) drug-like molecules thought possible, such
-      screens might never succeed. The fact that they do, even occasionally, implies a 
-      biased selection of library molecules. We have developed a method to quantify the
-      bias in screening libraries toward biogenic molecules. With this approach, we
-      consider what is missing from screening libraries and how they can be optimized.
+AB  - In lead discovery, libraries of 10(6) molecules are screened for
+      biological activity. Given the over 10(60) drug-like molecules thought
+      possible, such screens might never succeed. The fact that they do, even
+      occasionally, implies a biased selection of library molecules. We have
+      developed a method to quantify the bias in screening libraries toward
+      biogenic molecules. With this approach, we consider what is missing from
+      screening libraries and how they can be optimized.
 FAU - Hert, Jerome
 AU  - Hert J
-AD  - Department of Pharmaceutical Chemistry, University of California, San Francisco, 
-      San Francisco, California, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, California, USA.
 FAU - Irwin, John J
 AU  - Irwin JJ
 FAU - Laggner, Christian
@@ -2631,7 +2836,8 @@ PHST- 2009/12/16 06:00 [medline]
 AID - nchembio.180 [pii]
 AID - 10.1038/nchembio.180 [doi]
 PST - ppublish
-SO  - Nat Chem Biol. 2009 Jul;5(7):479-83. doi: 10.1038/nchembio.180. Epub 2009 May 31.
+SO  - Nat Chem Biol. 2009 Jul;5(7):479-83. doi: 10.1038/nchembio.180. Epub 2009
+      May 31.
 
 PMID- 19727616
 OWN - NLM
@@ -2645,21 +2851,22 @@ DP  - 2009
 TI  - Off-target networks derived from ligand set similarity.
 PG  - 195-205
 LID - 10.1007/978-1-60761-274-2_8 [doi]
-AB  - Chemically similar drugs often bind biologically diverse protein targets, and
-      proteins with similar sequences or structures do not always recognize the same
-      ligands. How can we uncover the pharmacological relationships among proteins,
-      when drugs may bind them in defiance of bioinformatic criteria? Here we consider 
-      a technique that quantitatively relates proteins based on the chemical similarity
-      of their ligands. Starting with tens of thousands of ligands organized into sets 
-      for hundreds of drug targets, we calculated the similarity among sets using
-      ligand topology. We developed a statistical model to rank the resulting scores,
-      which were then expressed in minimum spanning trees. We have shown that
-      biologically sensible groups of targets emerged from these maps, as well as
+AB  - Chemically similar drugs often bind biologically diverse protein targets,
+      and proteins with similar sequences or structures do not always recognize
+      the same ligands. How can we uncover the pharmacological relationships
+      among proteins, when drugs may bind them in defiance of bioinformatic
+      criteria? Here we consider a technique that quantitatively relates
+      proteins based on the chemical similarity of their ligands. Starting with
+      tens of thousands of ligands organized into sets for hundreds of drug
+      targets, we calculated the similarity among sets using ligand topology.
+      We developed a statistical model to rank the resulting scores, which were
+      then expressed in minimum spanning trees. We have shown that biologically
+      sensible groups of targets emerged from these maps, as well as
       experimentally validated predictions of drug off-target effects.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
-AD  - Department of Pharmaceutical Chemistry, University of California San Francisco,
-      San Francisco, CA, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California San
+      Francisco, San Francisco, CA, USA.
 FAU - Hert, Jerome
 AU  - Hert J
 LA  - eng
@@ -2695,7 +2902,7 @@ PMID- 18335977
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20080731
-LR  - 20181113
+LR  - 20181222
 IS  - 1549-9596 (Print)
 IS  - 1549-9596 (Linking)
 VI  - 48
@@ -2704,28 +2911,31 @@ DP  - 2008 Apr
 TI  - Quantifying the relationships among drug classes.
 PG  - 755-65
 LID - 10.1021/ci8000259 [doi]
-AB  - The similarity of drug targets is typically measured using sequence or structural
-      information. Here, we consider chemo-centric approaches that measure target
-      similarity on the basis of their ligands, asking how chemoinformatics
-      similarities differ from those derived bioinformatically, how stable the ligand
-      networks are to changes in chemoinformatics metrics, and which network is the
-      most reliable for prediction of pharmacology. We calculated the similarities
-      between hundreds of drug targets and their ligands and mapped the relationship
-      between them in a formal network. Bioinformatics networks were based on the BLAST
-      similarity between sequences, while chemoinformatics networks were based on the
-      ligand-set similarities calculated with either the Similarity Ensemble Approach
-      (SEA) or a method derived from Bayesian statistics. By multiple criteria,
-      bioinformatics and chemoinformatics networks differed substantially, and only
-      occasionally did a high sequence similarity correspond to a high ligand-set
-      similarity. In contrast, the chemoinformatics networks were stable to the method 
-      used to calculate the ligand-set similarities and to the chemical representation 
-      of the ligands. Also, the chemoinformatics networks were more natural and more
-      organized, by network theory, than their bioinformatics counterparts:
-      ligand-based networks were found to be small-world and broad-scale.
+AB  - The similarity of drug targets is typically measured using sequence or
+      structural information. Here, we consider chemo-centric approaches that
+      measure target similarity on the basis of their ligands, asking how
+      chemoinformatics similarities differ from those derived
+      bioinformatically, how stable the ligand networks are to changes in
+      chemoinformatics metrics, and which network is the most reliable for
+      prediction of pharmacology. We calculated the similarities between
+      hundreds of drug targets and their ligands and mapped the relationship
+      between them in a formal network. Bioinformatics networks were based on
+      the BLAST similarity between sequences, while chemoinformatics networks
+      were based on the ligand-set similarities calculated with either the
+      Similarity Ensemble Approach (SEA) or a method derived from Bayesian
+      statistics. By multiple criteria, bioinformatics and chemoinformatics
+      networks differed substantially, and only occasionally did a high
+      sequence similarity correspond to a high ligand-set similarity. In
+      contrast, the chemoinformatics networks were stable to the method used to
+      calculate the ligand-set similarities and to the chemical representation
+      of the ligands. Also, the chemoinformatics networks were more natural and
+      more organized, by network theory, than their bioinformatics
+      counterparts: ligand-based networks were found to be small-world and
+      broad-scale.
 FAU - Hert, Jerome
 AU  - Hert J
-AD  - Department of Pharmaceutical Chemistry, University of California-San Francisco,
-      1700 4th St., San Francisco, California 94143-2550, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California-San
+      Francisco, 1700 4th St., San Francisco, California 94143-2550, USA.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
 FAU - Irwin, John J
@@ -2764,8 +2974,8 @@ PHST- 2008/08/01 09:00 [medline]
 PHST- 2008/03/14 09:00 [entrez]
 AID - 10.1021/ci8000259 [doi]
 PST - ppublish
-SO  - J Chem Inf Model. 2008 Apr;48(4):755-65. doi: 10.1021/ci8000259. Epub 2008 Mar
-      13.
+SO  - J Chem Inf Model. 2008 Apr;48(4):755-65. doi: 10.1021/ci8000259. Epub
+      2008 Mar 13.
 
 PMID- 17287757
 OWN - NLM
@@ -2779,25 +2989,26 @@ IP  - 2
 DP  - 2007 Feb
 TI  - Relating protein pharmacology by ligand chemistry.
 PG  - 197-206
-AB  - The identification of protein function based on biological information is an area
-      of intense research. Here we consider a complementary technique that
-      quantitatively groups and relates proteins based on the chemical similarity of
-      their ligands. We began with 65,000 ligands annotated into sets for hundreds of
-      drug targets. The similarity score between each set was calculated using ligand
-      topology. A statistical model was developed to rank the significance of the
-      resulting similarity scores, which are expressed as a minimum spanning tree to
-      map the sets together. Although these maps are connected solely by chemical
-      similarity, biologically sensible clusters nevertheless emerged. Links among
-      unexpected targets also emerged, among them that methadone, emetine and
-      loperamide (Imodium) may antagonize muscarinic M3, alpha2 adrenergic and
-      neurokinin NK2 receptors, respectively. These predictions were subsequently
-      confirmed experimentally. Relating receptors by ligand chemistry organizes
-      biology to reveal unexpected relationships that may be assayed using the ligands 
+AB  - The identification of protein function based on biological information is
+      an area of intense research. Here we consider a complementary technique
+      that quantitatively groups and relates proteins based on the chemical
+      similarity of their ligands. We began with 65,000 ligands annotated into
+      sets for hundreds of drug targets. The similarity score between each set
+      was calculated using ligand topology. A statistical model was developed
+      to rank the significance of the resulting similarity scores, which are
+      expressed as a minimum spanning tree to map the sets together. Although
+      these maps are connected solely by chemical similarity, biologically
+      sensible clusters nevertheless emerged. Links among unexpected targets
+      also emerged, among them that methadone, emetine and loperamide (Imodium)
+      may antagonize muscarinic M3, alpha2 adrenergic and neurokinin NK2
+      receptors, respectively. These predictions were subsequently confirmed
+      experimentally. Relating receptors by ligand chemistry organizes biology
+      to reveal unexpected relationships that may be assayed using the ligands
       themselves.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
-AD  - Department of Pharmaceutical Chemistry, University of California San Francisco,
-      1700 4th St, San Francisco California 94143-2550, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California San
+      Francisco, 1700 4th St, San Francisco California 94143-2550, USA.
 FAU - Roth, Bryan L
 AU  - Roth BL
 FAU - Armbruster, Blaine N
