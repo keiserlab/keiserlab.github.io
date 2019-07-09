@@ -3,10 +3,10 @@
 title: Jizhou Yang, MS
 author: jizhou_yang
 layout: author-bio
-jobtitle: Back End Intern
-bio: MentorInTec
+jobtitle: Bioinformatics Engineer
+bio: Genentech
 type: alumn
-excerpt: "Biographical summary for Jizhou Yang, MS, Back End Intern in the Keiser Lab at UCSF."
+excerpt: "Biographical summary for Jizhou Yang, MS, Bioinformatics Engineer in the Keiser Lab at UCSF."
 header:
   teaser: /assets/images/people/bio-yang.jpg
 papers: 
