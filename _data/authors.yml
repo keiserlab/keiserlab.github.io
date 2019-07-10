@@ -119,6 +119,18 @@ ziqi_tang:
   github: ZiqiTang919
   ncbi_id: Tang Z
   type: member
+  
+albert_young:
+  name: Albert Young
+  email: ayoung@keiserlab.org
+  bio: "medical student"
+  bio_long: "Albert is a 4th year UCSF medical student interested in dermatology and machine learning in medicine. In the Keiser Lab he is pursuing a Yearlong Research Fellowship with co-mentor Dr. Maria Wei in the Department of Dermatology, with an emphasis on the automated diagnosis of skin lesions from digital images using deep learning. He is from Fullerton, California and enjoys playing tennis and hiking in his free time."
+  avatar: /assets/images/people/bio-young.jpg
+  title: Research Fellow
+  github: ayoung01
+  ncbi_id: Young AT
+  linkedin: youngalbert
+  type: member
 
 ben_wong:
   name: Ben Wong
