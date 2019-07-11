@@ -10,7 +10,7 @@ header:
 feature_row:
   - image_path: /assets/images/lab-photo.jpg
     alt: "lab lunch"
-    title: "Welcome to the Keiser Lab at UCSF"
+    title: "Welcome to the Keiser Lab @ UCSF"
     excerpt: "Our lab combines machine learning and chemical biology methods to investigate how small molecules perturb protein networks to achieve therapeutic effects.
     
     
