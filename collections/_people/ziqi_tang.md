@@ -3,10 +3,10 @@
 title: Ziqi Tang
 author: ziqi_tang
 layout: author-bio
-jobtitle: Visiting Research Scholar
-bio: Tsinghua University
-type: member
-excerpt: "Biographical summary for Ziqi Tang, Visiting Research Scholar in the Keiser Lab at UCSF."
+jobtitle: Master's Student, Computer Science
+bio: Georgia Tech
+type: alumn
+excerpt: "Biographical summary for Ziqi Tang, Master's Student, Computer Science in the Keiser Lab at UCSF."
 header:
   teaser: /assets/images/people/bio-tang.jpg
 papers: 

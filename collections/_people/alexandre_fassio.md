@@ -3,10 +3,10 @@
 title: Alexandre Fassio
 author: alexandre_fassio
 layout: author-bio
-jobtitle: Visiting CAPES Scholar
+jobtitle: Graduate Student
 bio: Federal University of Minas Gerais
-type: member
-excerpt: "Biographical summary for Alexandre Fassio, Visiting CAPES Scholar in the Keiser Lab at UCSF."
+type: alumn
+excerpt: "Biographical summary for Alexandre Fassio, Graduate Student in the Keiser Lab at UCSF."
 header:
   teaser: /assets/images/people/bio-fassio.jpg
 papers: 

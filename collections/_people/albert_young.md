@@ -3,10 +3,10 @@
 title: Albert Young
 author: albert_young
 layout: author-bio
-jobtitle: Research Fellow
-bio: medical student
+jobtitle: Research Fellow (MS4)
+bio: medical program
 type: member
-excerpt: "Biographical summary for Albert Young, Research Fellow in the Keiser Lab at UCSF."
+excerpt: "Biographical summary for Albert Young, Research Fellow (MS4) in the Keiser Lab at UCSF."
 header:
   teaser: /assets/images/people/bio-young.jpg
 papers: 

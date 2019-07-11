@@ -55,17 +55,6 @@ edward_elhauge:
   ncbi_id: Elhauge E
   type: member
 
-alexandre_fassio:
-  name: Alexandre Fassio
-  email: afassio@keiserlab.org
-  bio: "Federal University of Minas Gerais"
-  bio_long: "Alexandre is a visiting graduate student [CAPES scholar](https://www.iie.org/Programs/CAPES) from Federal University of Minas Gerais, Brazil. He is mentored by Dr. Raquel Minardi and Dr. Rafaela Ferreira. He is developing molecular representations to visualize and perform machine learning on protein-ligand interactions."
-  avatar: /assets/images/people/bio-fassio.jpg
-  title: Visiting CAPES Scholar
-  github: alexandrefassio
-  ncbi_id: Fassio AV
-  type: member
-
 garrett_gaskins:
   name: Garrett Gaskins
   email: gaskins@keiserlab.org
@@ -109,25 +98,14 @@ jacob_pfau:
   github: JacobPfau
   ncbi_id: Pfau J
   type: member
-
-ziqi_tang:
-  name: Ziqi Tang
-  email: tang@keiserlab.org
-  bio: "Tsinghua University"
-  bio_long: "Ziqi is an undergraduate student from Tsinghua University School of Pharmaceutical Sciences, participating in the UCSF-Tsinghua University Joint Student Education Program. His interests are in polypharmacology and machine learning."
-  avatar: /assets/images/people/bio-tang.jpg
-  title: Visiting Research Scholar
-  github: ZiqiTang919
-  ncbi_id: Tang Z
-  type: member
   
 albert_young:
   name: Albert Young
   email: ayoung@keiserlab.org
-  bio: "medical student"
+  bio: "medical program"
   bio_long: "Albert is a 4th year UCSF medical student interested in dermatology and machine learning in medicine. In the Keiser Lab he is pursuing a Yearlong Research Fellowship with co-mentor Dr. Maria Wei in the Department of Dermatology, with an emphasis on the automated diagnosis of skin lesions from digital images using deep learning. He is from Fullerton, California and enjoys playing tennis and hiking in his free time."
   avatar: /assets/images/people/bio-young.jpg
-  title: Research Fellow
+  title: Research Fellow (MS4)
   github: ayoung01
   ncbi_id: Young AT
   linkedin: youngalbert
@@ -216,5 +194,27 @@ amanda_li:
   github: 8li
   linkedin: liamanda
   ncbi_id: Li A
+  type: alumn
+
+ziqi_tang:
+  name: Ziqi Tang
+  email: tang@keiserlab.org
+  bio: "Georgia Tech"
+  bio_long: "Visiting Research Scholar, 2017-2019. Ziqi was an undergraduate student from Tsinghua University School of Pharmaceutical Sciences, participating in the UCSF-Tsinghua University Joint Student Education Program. His interests are in polypharmacology and machine learning."
+  avatar: /assets/images/people/bio-tang.jpg
+  title: "Master's Student, Computer Science"
+  github: ZiqiTang919
+  ncbi_id: Tang Z
+  type: alumn
+
+alexandre_fassio:
+  name: Alexandre Fassio
+  email: afassio@keiserlab.org
+  bio: "Federal University of Minas Gerais"
+  bio_long: "Visiting CAPES Scholar, 2018-2019. Alexandre was a visiting graduate student [CAPES scholar](https://www.iie.org/Programs/CAPES) from Federal University of Minas Gerais, Brazil. He is mentored by Dr. Raquel Minardi and Dr. Rafaela Ferreira. He is developing molecular representations to visualize and perform machine learning on protein-ligand interactions."
+  avatar: /assets/images/people/bio-fassio.jpg
+  title: Graduate Student
+  github: alexandrefassio
+  ncbi_id: Fassio AV
   type: alumn
 
