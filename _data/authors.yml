@@ -88,6 +88,19 @@ nick_mew:
   ncbi_id: Mew N
   type: member
 
+jessica_mckinley:
+  name: Jessica McKinley, PhD
+  email: mckinley@keiserlab.org
+  bio: ""
+  bio_long: "Jessica graduated from UC Riverside with a PhD in Computational/Theoretical Chemistry. She is interested in applying machine learning techniques to analyze molecular dynamics trajectories. On her time off she enjoys hiking around the bay area."
+  avatar: /assets/images/people/bio-mckinley.jpg
+  title: Postdoctoral Scholar
+  github: jmcki003
+  google:
+    scholar: 1lE4L80AAAAJ
+  ncbi_id: McKinley JL
+  type: member
+
 jacob_pfau:
   name: Jacob Pfau, M1
   email: pfau@keiserlab.org
