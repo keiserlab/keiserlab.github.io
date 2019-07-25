@@ -5,7 +5,7 @@
 michael_keiser:
   name: Michael Keiser, PhD
   email: keiser@keiserlab.org
-  bio: "pharm chem; bts; ichs; ind"
+  bio: "pharm chem; bts; bchsi; ind"
   bio_long: "Michael joined the UCSF faculty in the Dept. of Pharmaceutical Chemistry and the Institute for Neurodegenerative Diseases as an Assistant Professor in 2014, with joint appointments in the Dept. of Bioengineering & Therapeutic Sciences and the Institute for Computational Health Sciences. Before this, he co-founded a startup bringing systems pharmacology methods to pharma and the US FDA. During his bioinformatics Ph.D. at UCSF as a NSF Fellow, Michael developed techniques to relate drugs and proteins from the statistical similarity of their ligands, such as the Similarity Ensemble Approach (SEA). He also holds B.Sc., B.A., and M.A. degrees from Stanford University."
   avatar: /assets/images/people/bio-keiser.jpg
   title: Assistant Professor
@@ -41,6 +41,17 @@ kangway_chuang:
   github: kangway
   linkedin: kangway-chuang-47549052
   ncbi_id: Chuang KV
+  type: member
+  
+will_connell:
+  name: Will Connell
+  email: connell@keiserlab.org
+  bio: "pspg"
+  bio_long: "Currently, clinicians practice medicine on a population level. The ability to molecularly characterize biological systems affords new opportunities in the personalization of patient treatment. Proper integration and interpretation of biological data types are necessary to deconvolute individual homeostatic imbalances. Network representation of this information most closely resembles our current models, and the application of machine learning methods to this data structure can help us understand complex interactions. Will is a student in the Pharmaceutical Sciences and Pharmacogenomics graduate degree program."
+  avatar: /assets/images/people/bio-connell.jpg
+  title: Grad Student
+  github: wconnell
+  ncbi_id: Connell W
   type: member
 
 edward_elhauge:
