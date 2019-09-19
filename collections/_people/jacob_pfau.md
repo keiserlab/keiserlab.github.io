@@ -3,10 +3,10 @@
 title: Jacob Pfau, M1
 author: jacob_pfau
 layout: author-bio
-jobtitle: Research Data Analyst
+jobtitle: Research Data Analyst; QBI Bold & Basic Fellow
 bio: 
 type: member
-excerpt: "Biographical summary for Jacob Pfau, M1, Research Data Analyst in the Keiser Lab at UCSF."
+excerpt: "Biographical summary for Jacob Pfau, M1, Research Data Analyst; QBI Bold & Basic Fellow in the Keiser Lab at UCSF."
 header:
   teaser: /assets/images/people/bio-pfau.jpg
 papers: 

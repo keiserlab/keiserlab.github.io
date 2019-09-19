@@ -3,10 +3,10 @@
 title: Kangway Chuang, PhD
 author: kangway_chuang
 layout: author-bio
-jobtitle: Postdoctoral Scholar
+jobtitle: Arnold O. Beckman Postdoctoral Fellow
 bio: 
 type: member
-excerpt: "Biographical summary for Kangway Chuang, PhD, Postdoctoral Scholar in the Keiser Lab at UCSF."
+excerpt: "Biographical summary for Kangway Chuang, PhD, Arnold O. Beckman Postdoctoral Fellow in the Keiser Lab at UCSF."
 header:
   teaser: /assets/images/people/bio-chuang.jpg
 papers: 

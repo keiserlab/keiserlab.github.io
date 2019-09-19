@@ -37,7 +37,7 @@ kangway_chuang:
   bio: ""
   bio_long: ""
   avatar: /assets/images/people/bio-chuang.jpg
-  title: Postdoctoral Scholar
+  title: Arnold O. Beckman Postdoctoral Fellow
   github: kangway
   linkedin: kangway-chuang-47549052
   ncbi_id: Chuang KV
@@ -118,7 +118,7 @@ jacob_pfau:
   bio: ""
   bio_long: "My interests span the theory and applications of machine learning models -- and deep learning in particular. I previously graduated from Ecole Polytechnique, in Paris, with an M1 (masters) in data science and a focus on NLP and machine vision. I am currently researching applications of deep learning to automated diagnosis in dermatology. My work includes everything from data wrangling to refining convolutional architectures for the medical context."
   avatar: /assets/images/people/bio-pfau.jpg
-  title: Research Data Analyst
+  title: Research Data Analyst; QBI Bold & Basic Fellow
   github: JacobPfau
   ncbi_id: Pfau J
   type: member
