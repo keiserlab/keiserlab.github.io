@@ -122,7 +122,31 @@ jacob_pfau:
   github: JacobPfau
   ncbi_id: Pfau J
   type: member
-  
+
+luca_ponzoni:
+  name: Luca Ponzoni, PhD
+  email: lponzoni@keiserlab.org
+  bio: ""
+  bio_long: "Luca obtained his PhD in Physics and Chemistry of Biological Systems at SISSA, Trieste (Italy). As a postdoc in the Bahar lab at the University of Pittsburgh, he applied machine learning to integrate the analysis of structural dynamics of proteins in the prediction of the effects of missense variants. He joined the Keiser lab in 2019, where he will be working on applying deep learning techniques to analyze molecular dynamics trajectories. He enjoys mounting biking and hiking in his free time."
+  avatar: /assets/images/people/bio-ponzoni.jpg
+  title: Postdoctoral Scholar
+  github: luponzo86
+  google:
+    scholar: 8vfPOYUAAAAJ
+  ncbi_id: Ponzoni L
+  type: member
+
+wren_saylor:
+  name: Wren Saylor
+  email: saylor@keiserlab.org
+  bio: "bioinformatics"
+  bio_long: "Wren studied general biology at Hampshire College. She is currently a graduate student in the Integrative Program for Quantitative Biology, Biomedical Informatics track pursuing a PhD."
+  avatar: /assets/images/people/bio-saylor.jpg
+  title: Grad Student
+  github: sayloren
+  ncbi_id: Saylor M
+  type: member
+
 albert_young:
   name: Albert Young
   email: ayoung@keiserlab.org

@@ -4,7 +4,7 @@ title: Michael Keiser, PhD
 author: michael_keiser
 layout: author-bio
 jobtitle: Assistant Professor
-bio: pharm chem; bts; ichs; ind
+bio: pharm chem; bts; bchsi; ind
 type: member
 excerpt: "Biographical summary for Michael Keiser, PhD, Assistant Professor in the Keiser Lab at UCSF."
 header:
