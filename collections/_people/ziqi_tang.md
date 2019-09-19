@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Master's Student, Computer Science
 bio: Georgia Tech
 type: alumn
-excerpt: "Biographical summary for Ziqi Tang, Master's Student, Computer Science in the Keiser Lab at UCSF."
+excerpt: "Visiting Research Scholar, 2017-2019. Ziqi was an undergraduate student from Tsinghua University School of Pharmaceutical Sciences, participating in the UCSF-Ts"
 header:
   teaser: /assets/images/people/bio-tang.jpg
 papers: 

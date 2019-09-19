@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Grad Student; Genentech Fellow; Hillblom Fellow
 bio: bioinformatics
 type: member
-excerpt: "Biographical summary for Garrett Gaskins, Grad Student; Genentech Fellow; Hillblom Fellow in the Keiser Lab at UCSF."
+excerpt: "High-content screening across varied cells, conditions, and chemical libraries has emerged as a key method for identifying novel compounds capable of systematic"
 header:
   teaser: /assets/images/people/bio-gaskins.jpg
 papers: 

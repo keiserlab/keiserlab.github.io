@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Grad Student
 bio: bioinformatics
 type: member
-excerpt: "Biographical summary for Wren Saylor, Grad Student in the Keiser Lab at UCSF."
+excerpt: "Wren studied general biology at Hampshire College. She is currently a graduate student in the Integrative Program for Quantitative Biology, Biomedical Informati"
 header:
   teaser: /assets/images/people/bio-saylor.jpg
 papers: 

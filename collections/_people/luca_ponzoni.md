@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Postdoctoral Scholar
 bio: 
 type: member
-excerpt: "Biographical summary for Luca Ponzoni, PhD, Postdoctoral Scholar in the Keiser Lab at UCSF."
+excerpt: "Luca obtained his PhD in Physics and Chemistry of Biological Systems at SISSA, Trieste (Italy). As a postdoc in the Bahar lab at the University of Pittsburgh, h"
 header:
   teaser: /assets/images/people/bio-ponzoni.jpg
 papers: 

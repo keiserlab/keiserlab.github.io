@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Postdoctoral Scholar
 bio: 
 type: member
-excerpt: "Biographical summary for Jessica McKinley, PhD, Postdoctoral Scholar in the Keiser Lab at UCSF."
+excerpt: "Jessica graduated from UC Riverside with a PhD in Computational/Theoretical Chemistry. She is interested in applying machine learning techniques to analyze mole"
 header:
   teaser: /assets/images/people/bio-mckinley.jpg
 papers: 

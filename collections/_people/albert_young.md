@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Research Fellow (MS4)
 bio: medical program
 type: member
-excerpt: "Biographical summary for Albert Young, Research Fellow (MS4) in the Keiser Lab at UCSF."
+excerpt: "Albert is a 4th year UCSF medical student interested in dermatology and machine learning in medicine. In the Keiser Lab he is pursuing a Yearlong Research Fello"
 header:
   teaser: /assets/images/people/bio-young.jpg
 papers: 

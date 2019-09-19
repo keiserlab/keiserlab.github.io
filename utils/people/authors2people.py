@@ -22,11 +22,13 @@ layout: author-bio
 jobtitle: %s
 bio: %s
 type: %s
-excerpt: "Biographical summary for %s, %s in the Keiser Lab at UCSF."
+excerpt: "%s"
 header:
   teaser: %s
 papers: %s
 ---"""
+
+EXCERPT_LEN = 160
 
 PAPER_TEMPLATE = """
     - title: %s
@@ -77,8 +79,9 @@ def main(fauthors, outdir, fpapers):
 
         with open(os.path.join(outdir, '%s.md' % uid), 'wb') as fo:
             fo.write(TEMPLATE % (info['name'], uid, info['title'], info['bio'], 
-                    info['type'], info['name'], info['title'], info['avatar'],
-                    paper_yml))
+                    info['type'], info.get('bio_long','')[:EXCERPT_LEN],
+                    #info['name'], info['title'], 
+                    info['avatar'], paper_yml))
     print 'wrote %d people to %s' % (len(ppl_dict), os.path.abspath(outdir))
 
 

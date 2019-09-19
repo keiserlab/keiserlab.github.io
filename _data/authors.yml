@@ -5,10 +5,11 @@
 michael_keiser:
   name: Michael Keiser, PhD
   email: keiser@keiserlab.org
-  bio: "pharm chem; bts; bchsi; ind"
-  bio_long: "Michael joined the UCSF faculty in the Dept. of Pharmaceutical Chemistry and the Institute for Neurodegenerative Diseases as an Assistant Professor in 2014, with joint appointments in the Dept. of Bioengineering & Therapeutic Sciences and the Institute for Computational Health Sciences. Before this, he co-founded a startup bringing systems pharmacology methods to pharma and the US FDA. During his bioinformatics Ph.D. at UCSF as a NSF Fellow, Michael developed techniques to relate drugs and proteins from the statistical similarity of their ligands, such as the Similarity Ensemble Approach (SEA). He also holds B.Sc., B.A., and M.A. degrees from Stanford University."
+  bio: "pharm chem; bts; bchsi; kifn; ind"
+  bio_long: "<p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and a Paul G. Allen Distinguished Investigator. Michael joined the UCSF faculty as an Assistant Professor in 2014, in the Dept. of Pharmaceutical Chemistry and the Institute for Neurodegenerative Diseases, with appointments in the Dept. of Bioengineering & Therapeutic Sciences and the Bakar Computational Health Sciences Institute. He is also a member of the Quantitative Biosciences Institute and the Kavli Institute for Fundamental Neuroscience at UCSF.</p>
+<p>Before this, he co-founded a startup bringing systems pharmacology methods for drug-target prediction to pharma and the US FDA, where they are in use today. During his bioinformatics Ph.D. at UCSF as a NSF Fellow, Michael developed techniques to relate drugs and proteins from the statistical similarity of their ligands, such as the Similarity Ensemble Approach (SEA). He holds multiple degrees from Stanford, including a BSc. in Computer Science.</p>"
   avatar: /assets/images/people/bio-keiser.jpg
-  title: Assistant Professor
+  title: Assistant Professor; CZI Ben Barres Investigator; Allen Distinguished Investigator
   github: mjke
   linkedin: keiser
   google:
@@ -92,7 +93,7 @@ nick_mew:
   name: Nick Mew, MS
   email: mew@keiserlab.org
   bio: ""
-  bio_long: "Coming from a software engineering and computer science background, I’m focused on creating research tools that combine the state of the art in machine learning, statistics and data visualization. My current research involves training artificial neural networks to answer questions related to drugs, targets and their interactions. I also work on creating interactive visualizations that help human neural networks answer similar questions."
+  bio_long: "Coming from a software engineering and computer science background, I'm focused on creating research tools that combine the state of the art in machine learning, statistics and data visualization. My current research involves training artificial neural networks to answer questions related to drugs, targets and their interactions. I also work on creating interactive visualizations that help human neural networks answer similar questions."
   avatar: /assets/images/people/bio-mew.jpg
   title: Specialist
   github: munick
@@ -259,7 +260,7 @@ alexandre_fassio:
   name: Alexandre Fassio
   email: afassio@keiserlab.org
   bio: "Federal University of Minas Gerais"
-  bio_long: "Visiting CAPES Scholar, 2018-2019. Alexandre was a visiting graduate student [CAPES scholar](https://www.iie.org/Programs/CAPES) from Federal University of Minas Gerais, Brazil. He is mentored by Dr. Raquel Minardi and Dr. Rafaela Ferreira. He is developing molecular representations to visualize and perform machine learning on protein-ligand interactions."
+  bio_long: "Visiting CAPES Scholar, 2018-2019. Alexandre was a visiting graduate student [CAPES Scholar](https://www.iie.org/Programs/CAPES) from Federal University of Minas Gerais, Brazil. He is mentored by Dr. Raquel Minardi and Dr. Rafaela Ferreira. He is developing molecular representations to visualize and perform machine learning on protein-ligand interactions."
   avatar: /assets/images/people/bio-fassio.jpg
   title: Graduate Student
   github: alexandrefassio

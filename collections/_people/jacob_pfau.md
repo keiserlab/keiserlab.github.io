@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Research Data Analyst; QBI Bold & Basic Fellow
 bio: 
 type: member
-excerpt: "Biographical summary for Jacob Pfau, M1, Research Data Analyst; QBI Bold & Basic Fellow in the Keiser Lab at UCSF."
+excerpt: "My interests span the theory and applications of machine learning models -- and deep learning in particular. I previously graduated from Ecole Polytechnique, in"
 header:
   teaser: /assets/images/people/bio-pfau.jpg
 papers: 

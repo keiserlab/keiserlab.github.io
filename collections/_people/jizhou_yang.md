@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Bioinformatics Engineer
 bio: Genentech
 type: alumn
-excerpt: "Biographical summary for Jizhou Yang, MS, Bioinformatics Engineer in the Keiser Lab at UCSF."
+excerpt: "Data science intern, 2017-2018."
 header:
   teaser: /assets/images/people/bio-yang.jpg
 papers: 

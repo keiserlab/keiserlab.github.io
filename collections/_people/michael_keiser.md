@@ -3,10 +3,10 @@
 title: Michael Keiser, PhD
 author: michael_keiser
 layout: author-bio
-jobtitle: Assistant Professor
-bio: pharm chem; bts; bchsi; ind
+jobtitle: Assistant Professor; CZI Ben Barres Investigator; Allen Distinguished Investigator
+bio: pharm chem; bts; bchsi; kifn; ind
 type: member
-excerpt: "Biographical summary for Michael Keiser, PhD, Assistant Professor in the Keiser Lab at UCSF."
+excerpt: "<p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and a Paul G. Allen Distinguished Investigator. Michael joined the UCSF faculty as an Assista"
 header:
   teaser: /assets/images/people/bio-keiser.jpg
 papers: 

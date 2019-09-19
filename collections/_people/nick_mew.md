@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Specialist
 bio: 
 type: member
-excerpt: "Biographical summary for Nick Mew, MS, Specialist in the Keiser Lab at UCSF."
+excerpt: "Coming from a software engineering and computer science background, I'm focused on creating research tools that combine the state of the art in machine learning"
 header:
   teaser: /assets/images/people/bio-mew.jpg
 papers: 

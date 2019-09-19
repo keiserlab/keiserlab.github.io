@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Grad Student
 bio: bioinformatics
 type: member
-excerpt: "Biographical summary for Daniel Wong, Grad Student in the Keiser Lab at UCSF."
+excerpt: "Daniel studied Computer Science and Biochemistry at UC Berkeley, and is currently in a PhD program within the Integrative Program in Quantitative Biology. He is"
 header:
   teaser: /assets/images/people/bio-dwong.jpg
 papers: 

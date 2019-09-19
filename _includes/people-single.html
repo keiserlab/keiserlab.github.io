@@ -43,11 +43,16 @@ mjk: derived from archive-single.html that changes:
     {% endif %}
     <p class="archive__item-excerpt">
     {% if post.jobtitle %}
-      <span itemprop="jobTitle">{{ post.jobtitle | markdownify | strip_html | truncate: 160 }}</span>
+      <strong><span itemprop="jobTitle">{{ post.jobtitle | markdownify | strip_html }}</span></strong>
     {% endif %}
     {% if post.bio %}
-      <br />&mdash; <span itemprop="description"><em>{{ post.bio | markdownify | strip_html | truncate: 160 }}</em></span>
+      // <span itemprop="description">{{ post.bio | markdownify | strip_html }}</span>
     {% endif %}
-  </p>
+    </p>
+    {% if post.excerpt.size > 0 %}
+      <p class="archive__item-excerpt">
+      &mdash; <span itemprop="description"><em>{{ post.excerpt | markdownify | strip_html | truncate: 56 }}</em></span>
+      </p>
+    {% endif %}
   </article>
 </div>

@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Graduate Student
 bio: Federal University of Minas Gerais
 type: alumn
-excerpt: "Biographical summary for Alexandre Fassio, Graduate Student in the Keiser Lab at UCSF."
+excerpt: "Visiting CAPES Scholar, 2018-2019. Alexandre was a visiting graduate student [CAPES Scholar](https://www.iie.org/Programs/CAPES) from Federal University of Mina"
 header:
   teaser: /assets/images/people/bio-fassio.jpg
 papers: 

@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Grad Student
 bio: pspg
 type: member
-excerpt: "Biographical summary for Will Connell, Grad Student in the Keiser Lab at UCSF."
+excerpt: "Currently, clinicians practice medicine on a population level. The ability to molecularly characterize biological systems affords new opportunities in the perso"
 header:
   teaser: /assets/images/people/bio-connell.jpg
 papers: 

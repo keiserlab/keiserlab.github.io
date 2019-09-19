@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Grad Student; NSF Fellow; HHMI Gilliam Fellow
 bio: bioinformatics
 type: member
-excerpt: "Biographical summary for Elena Caceres, Grad Student; NSF Fellow; HHMI Gilliam Fellow in the Keiser Lab at UCSF."
+excerpt: "Elena graduated from UCSD with a B.Sc. in molecular biology and a minor in mathematics. As of 2014, she is a graduate student in the Bioinformatics program as p"
 header:
   teaser: /assets/images/people/bio-caceres.jpg
 papers: 

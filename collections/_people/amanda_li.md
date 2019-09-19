@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Decentralized Consensus Fellow
 bio: Insight Data Science
 type: alumn
-excerpt: "Biographical summary for Amanda Li, PhD, Decentralized Consensus Fellow in the Keiser Lab at UCSF."
+excerpt: "Postdoctoral Fellow at UCSF and the [Accelerating Therapeutics for Opportunities in Medicine (ATOM) consortium](https://atomscience.org/), 2017-2019."
 header:
   teaser: /assets/images/people/bio-li.jpg
 papers: 

@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Principal Scientist
 bio: Atomwise
 type: alumn
-excerpt: "Biographical summary for Michael Mysinger, PhD, Principal Scientist in the Keiser Lab at UCSF."
+excerpt: "2015-2016."
 header:
   teaser: /assets/images/people/bio-mysinger.jpg
 papers: 
