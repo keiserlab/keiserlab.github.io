@@ -10,6 +10,10 @@ excerpt: "<p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and
 header:
   teaser: /assets/images/people/bio-keiser.jpg
 papers: 
+    - title: Zebrafish behavioural profiling identifies GABA and serotonin receptor ligands related to sedation and paradoxical excitation
+      excerpt: McCarroll MN, Gendelev L, Kinser R, Taylor J, Bruni G, Myers-Turnbull D, Helsell C, Carbajal A, Rinaldi C, Kang HJ, Gong JH, Sello JK, Tomita S, Peterson RT, <u>Keiser MJ</u>, Kokel D. __Nat Commun__. 2019 Sep 9.
+      link: "https://doi.org/10.1038/s41467-019-11936-w"
+
     - title: Interpretable classification of Alzheimer's disease pathologies with a convolutional neural network pipeline
       excerpt: Tang Z, Chuang KV, DeCarli C, Jin LW, Beckett L, <u>Keiser MJ</u>, Dugger BN. __Nat Commun__. 2019 May 15.
       link: "https://doi.org/10.1038/s41467-019-10212-1"

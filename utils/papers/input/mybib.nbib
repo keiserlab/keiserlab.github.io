@@ -1,7 +1,146 @@
-PMID- 31092819
+PMID- 31501447
 OWN - NLM
 STAT- In-Data-Review
-LR  - 20190516
+LR  - 20190918
+IS  - 2041-1723 (Electronic)
+IS  - 2041-1723 (Linking)
+VI  - 10
+IP  - 1
+DP  - 2019 Sep 9
+TI  - Zebrafish behavioural profiling identifies GABA and serotonin receptor
+      ligands related to sedation and paradoxical excitation.
+PG  - 4078
+LID - 10.1038/s41467-019-11936-w [doi]
+AB  - Anesthetics are generally associated with sedation, but some anesthetics
+      can also increase brain and motor activity-a phenomenon known as
+      paradoxical excitation. Previous studies have identified GABAA receptors
+      as the primary targets of most anesthetic drugs, but how these compounds
+      produce paradoxical excitation is poorly understood. To identify and
+      understand such compounds, we applied a behavior-based drug profiling
+      approach. Here, we show that a subset of central nervous system
+      depressants cause paradoxical excitation in zebrafish. Using this
+      behavior as a readout, we screened thousands of compounds and identified
+      dozens of hits that caused paradoxical excitation. Many hit compounds
+      modulated human GABAA receptors, while others appeared to modulate
+      different neuronal targets, including the human serotonin-6 receptor.
+      Ligands at these receptors generally decreased neuronal activity, but
+      paradoxically increased activity in the caudal hindbrain. Together, these
+      studies identify ligands, targets, and neurons affecting sedation and
+      paradoxical excitation in vivo in zebrafish.
+FAU - McCarroll, Matthew N
+AU  - McCarroll MN
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, CA, 94143, USA.
+FAU - Gendelev, Leo
+AU  - Gendelev L
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, CA, 94143, USA.
+FAU - Kinser, Reid
+AU  - Kinser R
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, CA, 94143, USA.
+FAU - Taylor, Jack
+AU  - Taylor J
+AUID- ORCID: http://orcid.org/0000-0002-6431-9956
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, CA, 94143, USA.
+FAU - Bruni, Giancarlo
+AU  - Bruni G
+AUID- ORCID: http://orcid.org/0000-0003-2850-4633
+AD  - Cardiovascular Research Center and Division of Cardiology, Department of
+      Medicine, Massachusetts General Hospital, Harvard Medical School,
+      Charlestown, MA, 02129, USA.
+AD  - Department of Systems Biology, Harvard Medical School, 149 13th Street,
+      Charlestown, MA, 02129, USA.
+FAU - Myers-Turnbull, Douglas
+AU  - Myers-Turnbull D
+AUID- ORCID: http://orcid.org/0000-0003-3610-4808
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, CA, 94143, USA.
+FAU - Helsell, Cole
+AU  - Helsell C
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, CA, 94143, USA.
+FAU - Carbajal, Amanda
+AU  - Carbajal A
+AD  - Department of Biology, San Francisco State University, San Francisco, CA,
+      USA.
+FAU - Rinaldi, Capria
+AU  - Rinaldi C
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, CA, 94143, USA.
+FAU - Kang, Hye Jin
+AU  - Kang HJ
+AD  - Department of Pharmacology and NIMH Psychoactive Drug Screening Program,
+      University of North Carolina Chapel Hill Medical School, Chapel Hill, NC,
+      27759, USA.
+FAU - Gong, Jung Ho
+AU  - Gong JH
+AD  - Department of Chemistry, Brown University, Providence, RI, 02912, USA.
+FAU - Sello, Jason K
+AU  - Sello JK
+AD  - Department of Chemistry, Brown University, Providence, RI, 02912, USA.
+FAU - Tomita, Susumu
+AU  - Tomita S
+AD  - Department of Cellular and Molecular Physiology, Department of
+      Neuroscience, Yale University School of Medicine, New Haven, CT, 06510,
+      USA.
+FAU - Peterson, Randall T
+AU  - Peterson RT
+AD  - Cardiovascular Research Center and Division of Cardiology, Department of
+      Medicine, Massachusetts General Hospital, Harvard Medical School,
+      Charlestown, MA, 02129, USA.
+AD  - Department of Pharmacology and Toxicology, College of Pharmacy,
+      University of Utah, Salt Lake City, UT, 84112, USA.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AUID- ORCID: http://orcid.org/0000-0002-1240-2192
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, CA, 94143, USA. keiser@keiserlab.org.
+AD  - Departments of Pharmaceutical Chemistry and of Bioengineering &
+      Therapeutic Sciences, University of California, San Francisco, CA, 94158,
+      USA. keiser@keiserlab.org.
+FAU - Kokel, David
+AU  - Kokel D
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, CA, 94143, USA. david.kokel@ucsf.edu.
+AD  - Department of Physiology, University of California, San Francisco, CA,
+      94158, USA. david.kokel@ucsf.edu.
+LA  - eng
+GR  - R01 MH115705/MH/NIMH NIH HHS/United States
+GR  - U01MH104984/U.S. Department of Health & Human Services | National
+      Institutes of Health (NIH)
+GR  - R01AA022583/U.S. Department of Health & Human Services | NIH | Office of
+      Extramural Research, National Institutes of Health (OER)
+GR  - R01 AA022583/AA/NIAAA NIH HHS/United States
+GR  - R01MH115705/U.S. Department of Health & Human Services | National
+      Institutes of Health (NIH)
+PT  - Journal Article
+DEP - 20190909
+PL  - England
+TA  - Nat Commun
+JT  - Nature communications
+JID - 101528555
+SB  - IM
+PMC - PMC6733874
+EDAT- 2019/09/11 06:00
+MHDA- 2019/09/11 06:00
+CRDT- 2019/09/11 06:00
+PHST- 2019/03/07 00:00 [received]
+PHST- 2019/08/13 00:00 [accepted]
+PHST- 2019/09/11 06:00 [entrez]
+PHST- 2019/09/11 06:00 [pubmed]
+PHST- 2019/09/11 06:00 [medline]
+AID - 10.1038/s41467-019-11936-w [doi]
+AID - 10.1038/s41467-019-11936-w [pii]
+PST - epublish
+SO  - Nat Commun. 2019 Sep 9;10(1):4078. doi: 10.1038/s41467-019-11936-w.
+
+PMID- 31092819
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190701
+LR  - 20190701
 IS  - 2041-1723 (Electronic)
 IS  - 2041-1723 (Linking)
 VI  - 10
@@ -31,7 +170,7 @@ AB  - Neuropathologists assess vast brain areas to identify diverse and subtly-
       ability suggests a route to neuropathologic deep phenotyping.
 FAU - Tang, Ziqi
 AU  - Tang Z
-AUID- ORCID: http://orcid.org/0000-0003-0425-0173
+AUID- ORCID: 0000-0003-0425-0173
 AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
       Therapeutic Sciences, Institute for Neurodegenerative Diseases, and Bakar
       Computational Health Sciences Institute, University of California, San
@@ -40,7 +179,7 @@ AD  - School of Pharmaceutical Sciences, Tsinghua University, 100084, Beijing,
       China.
 FAU - Chuang, Kangway V
 AU  - Chuang KV
-AUID- ORCID: http://orcid.org/0000-0002-0652-8071
+AUID- ORCID: 0000-0002-0652-8071
 AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
       Therapeutic Sciences, Institute for Neurodegenerative Diseases, and Bakar
       Computational Health Sciences Institute, University of California, San
@@ -51,18 +190,18 @@ AD  - Department of Neurology, University of California-Davis School of
       Medicine, 4860 Y Street Suite 3700, Sacramento, CA, 95817, USA.
 FAU - Jin, Lee-Way
 AU  - Jin LW
-AUID- ORCID: http://orcid.org/0000-0001-9729-1032
+AUID- ORCID: 0000-0001-9729-1032
 AD  - Department of Pathology and Laboratory Medicine, University of
       California-Davis School of Medicine, 2805 50th Street, Sacramento, CA,
       95817, USA.
 FAU - Beckett, Laurel
 AU  - Beckett L
-AUID- ORCID: http://orcid.org/0000-0002-2418-9843
+AUID- ORCID: 0000-0002-2418-9843
 AD  - Department of Public Health Sciences, University of California-Davis,
       Medical Science, 1C One Shields Avenue, Davis, CA, 95616, USA.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
-AUID- ORCID: http://orcid.org/0000-0002-1240-2192
+AUID- ORCID: 0000-0002-1240-2192
 AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
       Therapeutic Sciences, Institute for Neurodegenerative Diseases, and Bakar
       Computational Health Sciences Institute, University of California, San
@@ -70,32 +209,48 @@ AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
       keiser@keiserlab.org.
 FAU - Dugger, Brittany N
 AU  - Dugger BN
-AUID- ORCID: http://orcid.org/0000-0003-2141-8855
+AUID- ORCID: 0000-0003-2141-8855
 AD  - Department of Pathology and Laboratory Medicine, University of
       California-Davis School of Medicine, 3400A Research Building III
       Sacramento, Davis, CA, 95817, USA. bndugger@ucdavis.edu.
 LA  - eng
-GR  - N/A/China Scholarship Council (CSC)
-GR  - P30 AG010129/U.S. Department of Health & Human Services | National
-      Institutes of Health (NIH)
-GR  - P30 AG010129/U.S. Department of Health & Human Services | National
-      Institutes of Health (NIH)
-GR  - P30 AG010129/U.S. Department of Health & Human Services | National
-      Institutes of Health (NIH)
+GR  - N/A/China Scholarship Council (CSC)/International
+GR  - P30 AG010129/U.S. Department of Health &amp; Human Services | National
+      Institutes of Health (NIH)/International
+GR  - P30 AG010129/U.S. Department of Health &amp; Human Services | National
+      Institutes of Health (NIH)/International
+GR  - P30 AG010129/U.S. Department of Health &amp; Human Services | National
+      Institutes of Health (NIH)/International
 PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
 DEP - 20190515
 PL  - England
 TA  - Nat Commun
 JT  - Nature communications
 JID - 101528555
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Alzheimer Disease/*pathology
+MH  - Brain/*pathology
+MH  - Cohort Studies
+MH  - Datasets as Topic
+MH  - *Deep Learning
+MH  - Female
+MH  - Humans
+MH  - Image Processing, Computer-Assisted/*methods
+MH  - Male
+MH  - ROC Curve
+PMC - PMC6520374
 EDAT- 2019/05/17 06:00
-MHDA- 2019/05/17 06:00
+MHDA- 2019/07/02 06:00
 CRDT- 2019/05/17 06:00
 PHST- 2018/10/30 00:00 [received]
 PHST- 2019/04/24 00:00 [accepted]
 PHST- 2019/05/17 06:00 [entrez]
 PHST- 2019/05/17 06:00 [pubmed]
-PHST- 2019/05/17 06:00 [medline]
+PHST- 2019/07/02 06:00 [medline]
 AID - 10.1038/s41467-019-10212-1 [doi]
 AID - 10.1038/s41467-019-10212-1 [pii]
 PST - epublish
@@ -163,8 +318,9 @@ SO  - Science. 2018 Nov 16;362(6416). pii: 362/6416/eaat8603. doi:
 
 PMID- 30336670
 OWN - NLM
-STAT- In-Data-Review
-LR  - 20181019
+STAT- MEDLINE
+DCOM- 20190708
+LR  - 20190708
 IS  - 1554-8937 (Electronic)
 IS  - 1554-8929 (Linking)
 VI  - 13
@@ -187,7 +343,7 @@ AB  - New machine learning methods to analyze raw chemical and biological data
       that predictive performance arises from meaningful models.
 FAU - Chuang, Kangway V
 AU  - Chuang KV
-AUID- ORCID: http://orcid.org/0000-0002-0652-8071
+AUID- ORCID: 0000-0002-0652-8071
 AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
       Therapeutic Sciences, Institute for Neurodegenerative Diseases and Bakar
       Institute for Computational Health Sciences , University of California-
@@ -195,7 +351,7 @@ AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
       , United States.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
-AUID- ORCID: http://orcid.org/0000-0002-1240-2192
+AUID- ORCID: 0000-0002-1240-2192
 AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
       Therapeutic Sciences, Institute for Neurodegenerative Diseases and Bakar
       Institute for Computational Health Sciences , University of California-
@@ -203,16 +359,21 @@ AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
       , United States.
 LA  - eng
 PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
 PL  - United States
 TA  - ACS Chem Biol
 JT  - ACS chemical biology
 JID - 101282906
+SB  - IM
+MH  - Logic
+MH  - Machine Learning/*standards
+MH  - *Models, Theoretical
 EDAT- 2018/10/20 06:00
-MHDA- 2018/10/20 06:00
+MHDA- 2019/07/10 06:00
 CRDT- 2018/10/20 06:00
 PHST- 2018/10/20 06:00 [entrez]
 PHST- 2018/10/20 06:00 [pubmed]
-PHST- 2018/10/20 06:00 [medline]
+PHST- 2019/07/10 06:00 [medline]
 AID - 10.1021/acschembio.8b00881 [doi]
 PST - ppublish
 SO  - ACS Chem Biol. 2018 Oct 19;13(10):2819-2821. doi:
@@ -222,7 +383,7 @@ PMID- 30053424
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20190418
-LR  - 20190418
+LR  - 20190910
 IS  - 1097-4172 (Electronic)
 IS  - 0092-8674 (Linking)
 VI  - 174
@@ -466,13 +627,15 @@ AD  - Quantitative Biosciences Institute (QBI), University of California, San
       California, San Francisco, San Francisco, CA 94143, USA. Electronic
       address: nevan.krogan@ucsf.edu.
 LA  - eng
-GR  - R01 MH110928/MH/NIMH NIH HHS/United States
-GR  - U01 MH105575/MH/NIMH NIH HHS/United States
-GR  - UL1 TR001863/TR/NCATS NIH HHS/United States
 GR  - R01 HD081379/HD/NICHD NIH HHS/United States
 GR  - R01 MH109901/MH/NIMH NIH HHS/United States
+GR  - R01 MH110928/MH/NIMH NIH HHS/United States
 GR  - DP2 GM119139/GM/NIGMS NIH HHS/United States
-GR  - Z99 NS999999/NULL/International
+GR  - R01 DA035913/DA/NIDA NIH HHS/United States
+GR  - R01 NS083390/NS/NINDS NIH HHS/United States
+GR  - R01 MH112729/MH/NIMH NIH HHS/United States
+GR  - Z99 NS999999/ImNIH/Intramural NIH HHS/United States
+GR  - U01 MH105575/MH/NIMH NIH HHS/United States
 PT  - Journal Article
 PT  - Research Support, N.I.H., Extramural
 PT  - Research Support, N.I.H., Intramural
@@ -510,11 +673,9 @@ OT  - *systems biology
 EDAT- 2018/07/28 06:00
 MHDA- 2019/04/19 06:00
 CRDT- 2018/07/28 06:00
-PMCR- 2019/07/26 00:00
 PHST- 2018/02/13 00:00 [received]
 PHST- 2018/05/07 00:00 [revised]
 PHST- 2018/06/08 00:00 [accepted]
-PHST- 2019/07/26 00:00 [pmc-release]
 PHST- 2018/07/28 06:00 [entrez]
 PHST- 2018/07/28 06:00 [pubmed]
 PHST- 2019/04/19 06:00 [medline]
@@ -639,7 +800,7 @@ PMID- 29091768
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20180612
-LR  - 20181202
+LR  - 20190612
 IS  - 2211-1247 (Electronic)
 VI  - 21
 IP  - 5
@@ -734,6 +895,7 @@ AD  - Department of Anesthesia and Perioperative Care, University of California
       roland.bainton@ucsf.edu.
 LA  - eng
 GR  - R21 NS082856/NS/NINDS NIH HHS/United States
+GR  - R01 NS091281/NS/NINDS NIH HHS/United States
 GR  - T32 GM067547/GM/NIGMS NIH HHS/United States
 GR  - R21 ES021412/ES/NIEHS NIH HHS/United States
 GR  - R01 GM081863/GM/NIGMS NIH HHS/United States
@@ -2594,8 +2756,8 @@ RN  - 0 (Ligands)
 RN  - 0 (Pharmaceutical Preparations)
 RN  - 0 (Receptors, Serotonin)
 SB  - IM
-CIN - Int J Cancer. 2010 Nov 15;127(10):2486. PMID: 20143396
 CIN - Nature. 2009 Nov 12;462(7270):167-8. PMID: 19907483
+CIN - Int J Cancer. 2010 Nov 15;127(10):2486. PMID: 20143396
 MH  - Animals
 MH  - Computational Biology
 MH  - Databases, Factual

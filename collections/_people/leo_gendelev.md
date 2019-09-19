@@ -10,6 +10,10 @@ excerpt: "Leo came into the micro-world of molecules and cells at UCSF from the 
 header:
   teaser: /assets/images/people/bio-gendelev.jpg
 papers: 
+    - title: Zebrafish behavioural profiling identifies GABA and serotonin receptor ligands related to sedation and paradoxical excitation
+      excerpt: McCarroll MN, <u>Gendelev L</u>, Kinser R, Taylor J, Bruni G, Myers-Turnbull D, Helsell C, Carbajal A, Rinaldi C, Kang HJ, Gong JH, Sello JK, Tomita S, Peterson RT, Keiser MJ, Kokel D. __Nat Commun__. 2019 Sep 9.
+      link: "https://doi.org/10.1038/s41467-019-11936-w"
+
     - title: A Simple Representation of Three-Dimensional Molecular Structure
       excerpt: Axen SD, Huang XP, Caceres EL, <u>Gendelev L</u>, Roth BL, Keiser MJ. __J Med Chem__. 2017 Sep 14.
       link: "https://doi.org/10.1021/acs.jmedchem.7b00696"

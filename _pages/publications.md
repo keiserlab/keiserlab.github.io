@@ -11,6 +11,19 @@ intro:
     - title: Publications
 feature_row0:
 
+  - image_path: /assets/images/papers/10.1038.s41467-019-11936-w.jpg
+    alt: >-
+        Zebrafish behavioural profiling identifies GABA and serotonin receptor ligands related to sedation and paradoxical excitation
+    title: >-
+        <span itemprop="name">Zebrafish behavioural profiling identifies GABA and serotonin receptor ligands related to sedation and paradoxical excitation</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nat Commun</strong></span>. <span itemprop="datePublished">2019 Sep 9</span>. <span itemprop="author">McCarroll MN, Gendelev L, Kinser R, Taylor J, Bruni G, Myers-Turnbull D, Helsell C, Carbajal A, Rinaldi C, Kang HJ, Gong JH, Sello JK, Tomita S, Peterson RT, Keiser MJ, Kokel D</span>.
+    url: "https://doi.org/10.1038/s41467-019-11936-w"
+    doi: "10.1038/s41467-019-11936-w"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+
   - image_path: /assets/images/papers/10.1038.s41467-019-10212-1.jpg
     alt: >-
         Interpretable classification of Alzheimer's disease pathologies with a convolutional neural network pipeline
@@ -41,6 +54,8 @@ feature_row0:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row1:
+
   - image_path: /assets/images/papers/10.1021.acschembio.8b00881.jpg
     alt: >-
         Adversarial Controls for Scientific Machine Learning
@@ -53,8 +68,6 @@ feature_row0:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row1:
 
   - image_path: /assets/images/papers/10.1016.j.cell.2018.06.016.jpg
     alt: >-
@@ -86,6 +99,8 @@ feature_row1:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row2:
+
   - image_path: /assets/images/papers/10.1016.j.celrep.2017.10.026.jpg
     alt: >-
         Evolutionarily Conserved Roles for Blood-Brain Barrier Xenobiotic Transporters in Endogenous Steroid Partitioning and Behavior
@@ -102,8 +117,6 @@ feature_row1:
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
-
-feature_row2:
 
   - image_path: /assets/images/papers/10.1021.acs.jmedchem.7b00696.jpg
     alt: >-
@@ -135,6 +148,8 @@ feature_row2:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row3:
+
   - image_path: /assets/images/papers/10.1021.acschembio.5b00800.jpg
     alt: >-
         Leveraging Large-scale Behavioral Profiling in Zebrafish to Explore Neuroactive Polypharmacology
@@ -147,8 +162,6 @@ feature_row2:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row3:
 
   - image_path: /assets/images/papers/10.1016.S2215-0366(15)00553-2.jpg
     alt: >-
@@ -176,6 +189,8 @@ feature_row3:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row4:
+
   - image_path: /assets/images/papers/10.1002.cpt.2.jpg
     alt: >-
         Systems pharmacology augments drug safety surveillance
@@ -188,8 +203,6 @@ feature_row3:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row4:
 
   - image_path: /assets/images/papers/10.1371.journal.pbio.1001712.jpg
     alt: >-
@@ -217,6 +230,8 @@ feature_row4:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row5:
+
   - image_path: /assets/images/papers/10.1038.nchembio.732.jpg
     alt: >-
         Chemical informatics and target identification in a zebrafish phenotypic screen
@@ -229,8 +244,6 @@ feature_row4:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row5:
 
   - image_path: /assets/images/papers/10.1038.npp.2010.195.jpg
     alt: >-
@@ -258,6 +271,8 @@ feature_row5:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row6:
+
   - image_path: /assets/images/papers/10.1021.jm100488w.jpg
     alt: >-
         Complementarity between a docking and a high-throughput screen in discovering new cruzain inhibitors
@@ -270,8 +285,6 @@ feature_row5:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row6:
 
   - image_path: /assets/images/papers/10.1021.jm901613f.jpg
     alt: >-
@@ -299,6 +312,8 @@ feature_row6:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row7:
+
   - image_path: /assets/images/papers/10.1038.nature08506.jpg
     alt: >-
         Predicting new molecular targets for known drugs
@@ -311,8 +326,6 @@ feature_row6:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row7:
 
   - image_path: /assets/images/papers/10.1371.journal.pcbi.1000474.jpg
     alt: >-
@@ -340,6 +353,8 @@ feature_row7:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row8:
+
   - image_path: /assets/images/papers/10.1007.978-1-60761-274-2_8.jpg
     alt: >-
         Off-target networks derived from ligand set similarity
@@ -352,8 +367,6 @@ feature_row7:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row8:
 
   - image_path: /assets/images/papers/10.1021.ci8000259.jpg
     alt: >-
