@@ -88,6 +88,17 @@ leo_gendelev:
   github: lgend
   ncbi_id: Gendelev L
   type: member
+  
+laura_gunsalus:
+  name: Laura Gunsalus
+  email: lgunsalus@keiserlab.org
+  bio: "bioinformatics"
+  bio_long: "I'm a iPQB bioinformatics graduate student interested in using deep learning approaches to better understand the relationships between genetic and epigenetic variation, genome organization, and disease predisposition."
+  avatar: /assets/images/people/bio-gunsalus.jpg
+  title: Grad Student
+  github: LauraGunsalus
+  ncbi_id: Gunsalus L
+  type: member
 
 nick_mew:
   name: Nick Mew, MS
