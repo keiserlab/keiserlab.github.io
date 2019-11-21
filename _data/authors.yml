@@ -58,10 +58,15 @@ will_connell:
 edward_elhauge:
   name: Edward Elhauge, MPH
   email: eelhauge@keiserlab.org
-  bio: ""
-  bio_long: ""
+  bio: "biostatistics and epidemiology"
+  bio_long: "Edward is a computational biology researcher. Drawing on experience in epidemiology, biostatistics, and machine learning, he is interested in work that will expand knowledge of human biology and improve health outcomes. Edward worked for two years at the Keiser Lab modeling the compounds and targets that inhibit alpha-synuclein misfolding. Edward was born Eduardo, in Argentina, but now considers himself a native Californian. He lives in San Francisco and the woods of Trinity County with partners and two children (that he shares).
+
+- MPH, Epidemiology & Biostatistics, UC Berkeley
+
+- BSc, Physics & Mathematics, Carnegie Mellon University
+"
   avatar: /assets/images/people/bio-elhauge.jpg
-  title: Specialist
+  title: "Associate Specialist, Step 2"
   github: eelhauge-keiserlab
   linkedin: edwardelhauge
   ncbi_id: Elhauge E

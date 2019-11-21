@@ -3,10 +3,10 @@
 title: Edward Elhauge, MPH
 author: edward_elhauge
 layout: author-bio
-jobtitle: Specialist
-bio: 
+jobtitle: Associate Specialist, Step 2
+bio: biostatistics and epidemiology
 type: member
-excerpt: ""
+excerpt: "Edward is a computational biology researcher. Drawing on experience in epidemiology, biostatistics, and machine learning, he is interested in work that will exp"
 header:
   teaser: /assets/images/people/bio-elhauge.jpg
 papers: 
