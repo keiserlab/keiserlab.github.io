@@ -10,4 +10,8 @@ excerpt: "Albert is a 4th year UCSF medical student interested in dermatology an
 header:
   teaser: /assets/images/people/bio-young.jpg
 papers: 
+    - title: Global Saliency- Aggregating Saliency Maps to Assess Dataset Artefact Bias
+      excerpt: Pfau J, <u>Young AT</u>, Wei ML, Keiser MJ. __arXiv - NeurIPS ML4H__. 2019 Oct 16.
+      link: ""
+
 ---

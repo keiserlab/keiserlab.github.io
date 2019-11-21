@@ -11,6 +11,23 @@ intro:
     - title: Publications
 feature_row0:
 
+  - image_path: /assets/images/papers/arXiv_-_NeurIPS_ML4H.1910.07604.jpg
+    alt: >-
+        Global Saliency: Aggregating Saliency Maps to Assess Dataset Artefact Bias
+    title: >-
+        <span itemprop="name">Global Saliency: Aggregating Saliency Maps to Assess Dataset Artefact Bias</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>arXiv - NeurIPS ML4H</strong></span>. <span itemprop="datePublished">2019 Oct 16</span>. <span itemprop="author">Pfau J, Young AT, Wei ML, Keiser MJ</span>.
+    url: ""
+    doi: ""
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://arxiv.org/abs/1910.07604"
+    btn2_label: >-
+        arXiv - NeurIPS ML4H &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
   - image_path: /assets/images/papers/10.1038.s41467-019-11936-w.jpg
     alt: >-
         Zebrafish behavioural profiling identifies GABA and serotonin receptor ligands related to sedation and paradoxical excitation
@@ -41,6 +58,8 @@ feature_row0:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
+feature_row1:
+
   - image_path: /assets/images/papers/10.1126.science.aat8603.jpg
     alt: >-
         Comment on &quot;Predicting reaction performance in C-N cross-coupling using machine learning&quot;
@@ -53,8 +72,6 @@ feature_row0:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row1:
 
   - image_path: /assets/images/papers/10.1021.acschembio.8b00881.jpg
     alt: >-
@@ -86,6 +103,8 @@ feature_row1:
         pcmi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
+feature_row2:
+
   - image_path: /assets/images/papers/10.1021.acs.jcim.7b00316.jpg
     alt: >-
         Predicted Biological Activity of Purchasable Chemical Space
@@ -98,8 +117,6 @@ feature_row1:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row2:
 
   - image_path: /assets/images/papers/10.1016.j.celrep.2017.10.026.jpg
     alt: >-
@@ -135,6 +152,8 @@ feature_row2:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
+feature_row3:
+
   - image_path: /assets/images/papers/10.1038.nchembio.2097.jpg
     alt: >-
         Zebrafish behavioral profiling identifies multitarget antipsychotic-like compounds
@@ -147,8 +166,6 @@ feature_row2:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row3:
 
   - image_path: /assets/images/papers/10.1021.acschembio.5b00800.jpg
     alt: >-
@@ -176,6 +193,8 @@ feature_row3:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row4:
+
   - image_path: /assets/images/papers/10.1007.s10928-015-9436-y.jpg
     alt: >-
         Prediction and validation of enzyme and transporter off-targets for metformin
@@ -188,8 +207,6 @@ feature_row3:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row4:
 
   - image_path: /assets/images/papers/10.1002.cpt.2.jpg
     alt: >-
@@ -217,6 +234,8 @@ feature_row4:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row5:
+
   - image_path: /assets/images/papers/10.1038.nature11159.jpg
     alt: >-
         Large-scale prediction and testing of drug activity on side-effect targets
@@ -229,8 +248,6 @@ feature_row4:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row5:
 
   - image_path: /assets/images/papers/10.1038.nchembio.732.jpg
     alt: >-
@@ -258,6 +275,8 @@ feature_row5:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row6:
+
   - image_path: /assets/images/papers/10.1021.bi101540g.jpg
     alt: >-
         The chemical basis of pharmacology
@@ -270,8 +289,6 @@ feature_row5:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row6:
 
   - image_path: /assets/images/papers/10.1021.jm100488w.jpg
     alt: >-
@@ -299,6 +316,8 @@ feature_row6:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row7:
+
   - image_path: /assets/images/papers/20581797.jpg
     alt: >-
         A pilot study of the pharmacodynamic impact of SSRI drug selection and beta-1 receptor genotype (ADRB1) on cardiac vital signs in depressed patients: a novel pharmacogenetic approach
@@ -311,8 +330,6 @@ feature_row6:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row7:
 
   - image_path: /assets/images/papers/10.1038.nature08506.jpg
     alt: >-
@@ -340,6 +357,8 @@ feature_row7:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row8:
+
   - image_path: /assets/images/papers/10.1038.nchembio.180.jpg
     alt: >-
         Quantifying biogenic bias in screening libraries
@@ -352,8 +371,6 @@ feature_row7:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row8:
 
   - image_path: /assets/images/papers/10.1007.978-1-60761-274-2_8.jpg
     alt: >-
@@ -380,6 +397,8 @@ feature_row8:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
+
+feature_row9:
 
   - image_path: /assets/images/papers/10.1038.nbt1284.jpg
     alt: >-
@@ -433,3 +452,7 @@ feature_row8:
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 {% include feature_row_paper.html id="feature_row8" %}
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+{% include feature_row_paper.html id="feature_row9" %}
