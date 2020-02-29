@@ -1,6 +1,6 @@
 ---
 author: michael_keiser
-title: "Postdoc - Deep Learning and Bio/medical Pattern Recognition"
+title: "[Open] Postdoc - Deep Learning and Bio/medical Pattern Recognition"
 modified:
 categories: jobs
 excerpt:

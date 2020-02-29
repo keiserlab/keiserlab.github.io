@@ -1,6 +1,6 @@
 ---
 author: michael_keiser
-title: "Postdoc - Deep Learning and Molecular Dynamics"
+title: "[Ad Hoc] Postdoc - Deep Learning and Molecular Dynamics"
 modified:
 categories: jobs
 excerpt:
@@ -9,6 +9,7 @@ image:
   feature:
 date: 2019-02-04T00:00:00-07:00
 ---
+> ### 2020-Feb: The original project position is filled, however we have multiple related new opportunities open to applicants with these skills/interests.
 
 We're looking for highly motivated postdoctoral candidates with a background in machine learning, molecular dynamics, computational chemistry, or related fields. The candidate would work to integrate deep learning methods with molecular dynamics (MD) simulations. The project involves the design and testing of efficient computational ligand-protein interaction representations for the analysis of MD trajectories using convolutional neural networks.
 
