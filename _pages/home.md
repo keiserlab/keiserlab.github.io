@@ -14,7 +14,7 @@ feature_row:
     excerpt: "Our lab combines machine learning and chemical biology methods to investigate how small molecules perturb protein networks to achieve therapeutic effects.
     
     
-    We're part of the [Institute for Neurodegenerative Diseases](http://ind.ucsf.edu), the [Bakar Computational Health Sciences Institute](http://bakarinstitute.ucsf.edu/), the [Department of Pharmaceutical Chemistry](http://pharmchem.ucsf.edu), and the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/).
+    We're part of the [Institute for Neurodegenerative Diseases](http://ind.ucsf.edu), the [Bakar Computational Health Sciences Institute](http://bakarinstitute.ucsf.edu/), the [Kavli Institute for Fundamental Neuroscience](https://kavliifn.ucsf.edu/), the [Department of Pharmaceutical Chemistry](http://pharmchem.ucsf.edu), and the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/).
     
     
     We're located in the [Sandler Neurosciences Center](http://www.som.com/projects/university_of_california_san_francisco_sandler_neurosciences_center) at UCSF Mission Bay."
