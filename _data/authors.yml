@@ -10,8 +10,7 @@ michael_keiser:
 <p>Before this, he co-founded a startup bringing systems pharmacology methods for drug-target prediction to pharma and the US FDA, where they are in use today. During his bioinformatics Ph.D. at UCSF as a NSF Fellow, Michael developed techniques to relate drugs and proteins from the statistical similarity of their ligands, such as the Similarity Ensemble Approach (SEA). He holds multiple degrees from Stanford, including a BSc. in Computer Science.</p>"
   avatar: /assets/images/people/bio-keiser.jpg
   title: Assistant Professor; CZI Ben Barres Investigator; Allen Distinguished Investigator
-  github: mjke
-  linkedin: keiser
+  github: mjke keiser
   google:
     scholar: 6GGtbegAAAAJ
     #plus: MichaelKeiser
@@ -55,23 +54,6 @@ will_connell:
   ncbi_id: Connell W
   type: member
 
-edward_elhauge:
-  name: Edward Elhauge, MPH
-  email: eelhauge@keiserlab.org
-  bio: "biostatistics and epidemiology"
-  bio_long: "Edward is a computational biology researcher. Drawing on experience in epidemiology, biostatistics, and machine learning, he is interested in work that will expand knowledge of human biology and improve health outcomes. Edward worked for two years at the Keiser Lab modeling the compounds and targets that inhibit alpha-synuclein misfolding. Edward was born Eduardo, in Argentina, but now considers himself a native Californian. He lives in San Francisco and the woods of Trinity County with partners and two children (that he shares).
-
-- MPH, Epidemiology & Biostatistics, UC Berkeley
-
-- BSc, Physics & Mathematics, Carnegie Mellon University
-"
-  avatar: /assets/images/people/bio-elhauge.jpg
-  title: "Associate Specialist, Step 2"
-  github: eelhauge-keiserlab
-  linkedin: edwardelhauge
-  ncbi_id: Elhauge E
-  type: member
-
 garrett_gaskins:
   name: Garrett Gaskins
   email: gaskins@keiserlab.org
@@ -81,17 +63,6 @@ garrett_gaskins:
   title: Grad Student; Genentech Fellow; Hillblom Fellow
   github: gtgask
   ncbi_id: Gaskins G
-  type: member
-
-leo_gendelev:
-  name: Leo Gendelev
-  email: gendelev@keiserlab.org
-  bio: "biophysics"
-  bio_long: "Leo came into the micro-world of molecules and cells at UCSF from the macro-world of computational astrophysics at UC Santa Cruz where he obtained his B.Sc. degree running magneto-hydrodynamic simulations of star formation and analyzing pulsar gamma ray emissions. He began his adventures at UCSF with an interest in protein design and structural modeling, but since then he got even more excited about research at the intersection of deep-learning and drug discovery in the context of high-throughput phenotypic screening. Several of his projects have involved computational target deconvolution and polypharmacology in the context of specific neuroactive phenotypes in zebrafish (eg. antipsychotics, sedatives, etc...) using statistics and cheminformatics based approaches such as the Similarity Ensemble Approach (SEA). Over the last several years he has helped initiate and drive the DeepFish collaboration together with the Kokel Lab - using various deep-learning techniques such as variational autoencoders and siamese neural networks to improve our ability to extract relevant features from zebrafish behavioral videos - and build better distance metrics for drug-similarity and drug discovery. He strongly believes in deriving insights from structural biophysics and molecular biology at every step along the way, and most importantly, unraveling the \"black-box\" of deep learning - using machine learning to actually test specific biological hypothesis and derive actionable explanations."
-  avatar: /assets/images/people/bio-gendelev.jpg
-  title: Grad Student; Fletcher Jones Fellow
-  github: lgend
-  ncbi_id: Gendelev L
   type: member
   
 laura_gunsalus:
@@ -176,17 +147,6 @@ albert_young:
   linkedin: youngalbert
   type: member
 
-ben_wong:
-  name: Ben Wong
-  email: bwong@keiserlab.org
-  bio: ""
-  bio_long: "Ben keeps the trains running and the GPU fans spinning. He administers the computational infrastructures of three UCSF labs, and does it with panache."
-  avatar: /assets/images/people/bio-bwong.jpg
-  title: Systems and Infrastructure Admin
-  github: valkaben
-  ncbi_id: Wong B
-  type: member
-
 dan_wong:
   name: Daniel Wong
   email: dwong@keiserlab.org
@@ -221,7 +181,7 @@ michael_mysinger:
   avatar: /assets/images/people/bio-mysinger.jpg
   title: "Principal Scientist"
   github: mmysinger
-  linkedin: mysinger-michael-536ba5b
+  linkedin: michael-mysinger-phd-536ba5b
   github: mmysinger
   ncbi_id: Mysinger MM
   type: alumn
@@ -252,10 +212,10 @@ jizhou_yang:
 amanda_li:
   name: Amanda Li, PhD
   email: ali@keiserlab.org
-  bio: "Insight Data Science"
+  bio: "stealth biotech startup"
   bio_long: "Postdoctoral Fellow at UCSF and the [Accelerating Therapeutics for Opportunities in Medicine (ATOM) consortium](https://atomscience.org/), 2017-2019."
   avatar: /assets/images/people/bio-li.jpg
-  title: "Decentralized Consensus Fellow"
+  title: "Data Scientist"
   github: 8li
   linkedin: liamanda
   ncbi_id: Li A
@@ -276,10 +236,46 @@ alexandre_fassio:
   name: Alexandre Fassio
   email: afassio@keiserlab.org
   bio: "Federal University of Minas Gerais"
-  bio_long: "Visiting CAPES Scholar, 2018-2019. Alexandre was a visiting graduate student [CAPES Scholar](https://www.iie.org/Programs/CAPES) from Federal University of Minas Gerais, Brazil. He is mentored by Dr. Raquel Minardi and Dr. Rafaela Ferreira. He is developing molecular representations to visualize and perform machine learning on protein-ligand interactions."
+  bio_long: "Visiting CAPES Scholar, 2018-2019. Alexandre was a visiting graduate student [CAPES Scholar](https://www.iie.org/Programs/CAPES) from Federal University of Minas Gerais, Brazil. He was mentored by Dr. Raquel Minardi and Dr. Rafaela Ferreira. He is developing molecular representations to visualize and perform machine learning on protein-ligand interactions."
   avatar: /assets/images/people/bio-fassio.jpg
   title: Graduate Student
   github: alexandrefassio
   ncbi_id: Fassio AV
+  type: alumn
+
+edward_elhauge:
+  name: Edward Elhauge, MPH
+  email: eelhauge@keiserlab.org
+  bio: ""
+  bio_long: "Computational biology researcher (Specialist), 2017-2019."
+  avatar: /assets/images/people/bio-elhauge.jpg
+  title: "biostatistics and epidemiology"
+  github: eelhauge-keiserlab
+  linkedin: edwardelhauge
+  ncbi_id: Elhauge E
+  type: alumn
+
+ben_wong:
+  name: Ben Wong
+  email: bwong@keiserlab.org
+  bio: "Splunk"
+  bio_long: "Systems and Infrastructure Admin, 2016-2019. Ben keeps the trains running and the GPU fans spinning. He administered the computational infrastructures of three UCSF labs, and did it with panache."
+  avatar: /assets/images/people/bio-bwong.jpg
+  title: Cloud Operations Engineer
+  github: valkaben
+  ncbi_id: Wong B
+  linkedin: benjamin-wong-31039a5b
+  type: alumn
+
+leo_gendelev:
+  name: Leo Gendelev
+  email: gendelev@keiserlab.org
+  bio: "Genentech"
+  bio_long: "Biophysics graduate student; Fletcher Jones Fellow (2014-2019)."
+  avatar: /assets/images/people/bio-gendelev.jpg
+  title: "AI Scientist - Computational Drug Discovery"
+  github: lgend
+  ncbi_id: Gendelev L
+  linkedin: leo-gendelev-2b4886181
   type: alumn
 

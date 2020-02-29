@@ -3,10 +3,10 @@
 title: Leo Gendelev
 author: leo_gendelev
 layout: author-bio
-jobtitle: Grad Student; Fletcher Jones Fellow
-bio: biophysics
-type: member
-excerpt: "Leo came into the micro-world of molecules and cells at UCSF from the macro-world of computational astrophysics at UC Santa Cruz where he obtained his B.Sc. deg"
+jobtitle: AI Scientist - Computational Drug Discovery
+bio: Genentech
+type: alumn
+excerpt: "Biophysics graduate student; Fletcher Jones Fellow (2014-2019)."
 header:
   teaser: /assets/images/people/bio-gendelev.jpg
 papers: 

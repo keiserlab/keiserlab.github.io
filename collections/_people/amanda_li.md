@@ -3,8 +3,8 @@
 title: Amanda Li, PhD
 author: amanda_li
 layout: author-bio
-jobtitle: Decentralized Consensus Fellow
-bio: Insight Data Science
+jobtitle: Data Scientist
+bio: stealth biotech startup
 type: alumn
 excerpt: "Postdoctoral Fellow at UCSF and the [Accelerating Therapeutics for Opportunities in Medicine (ATOM) consortium](https://atomscience.org/), 2017-2019."
 header:
