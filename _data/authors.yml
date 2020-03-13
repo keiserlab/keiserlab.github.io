@@ -10,7 +10,7 @@ michael_keiser:
 <p>Before this, he co-founded a startup bringing systems pharmacology methods for drug-target prediction to pharma and the US FDA, where they are in use today. During his bioinformatics Ph.D. at UCSF as a NSF Fellow, Michael developed techniques to relate drugs and proteins from the statistical similarity of their ligands, such as the Similarity Ensemble Approach (SEA). He holds multiple degrees from Stanford, including a BSc. in Computer Science.</p>"
   avatar: /assets/images/people/bio-keiser.jpg
   title: Assistant Professor; CZI Ben Barres Investigator; Allen Distinguished Investigator
-  github: mjke keiser
+  github: mjke
   google:
     scholar: 6GGtbegAAAAJ
     #plus: MichaelKeiser
@@ -129,7 +129,7 @@ maurisa_s:
   name: Maurisa S
   email: saylor@keiserlab.org
   bio: "bioinformatics"
-  bio_long: "Wren studied general biology at Hampshire College. She is currently a graduate student in the Integrative Program for Quantitative Biology, Biomedical Informatics track pursuing a PhD."
+  bio_long: "Maurisa studied general biology at Hampshire College. She is currently a graduate student in the Integrative Program for Quantitative Biology, Biomedical Informatics track pursuing a PhD."
   avatar: /assets/images/people/bio-saylor.jpg
   title: Grad Student
   github: sayloren
