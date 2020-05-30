@@ -257,24 +257,26 @@ amanda_li:
   type: alumn
 
 ziqi_tang:
-  name: Ziqi Tang
+  name: Ziqi Tang, MS
   email: tang@keiserlab.org
-  bio: "Georgia Tech"
+  bio: "Salesforce"
   bio_long: "Visiting Research Scholar, 2017-2019. Ziqi was an undergraduate student from Tsinghua University School of Pharmaceutical Sciences, participating in the UCSF-Tsinghua University Joint Student Education Program. His interests are in polypharmacology and machine learning."
   avatar: /assets/images/people/bio-tang.jpg
-  title: "Master's Student, Computer Science"
+  title: "Software Engineer Intern"
   github: ZiqiTang919
+  linkedin: ziqi-tang-bb404a180
   ncbi_id: Tang Z
   type: alumn
 
 alexandre_fassio:
-  name: Alexandre Fassio
+  name: Alexandre Fassio, PhD
   email: afassio@keiserlab.org
-  bio: "Federal University of Minas Gerais"
-  bio_long: "Visiting CAPES Scholar, 2018-2019. Alexandre was a visiting graduate student [CAPES Scholar](https://www.iie.org/Programs/CAPES) from Federal University of Minas Gerais, Brazil. He was mentored by Dr. Raquel Minardi and Dr. Rafaela Ferreira. He is developing molecular representations to visualize and perform machine learning on protein-ligand interactions."
+  bio: ""
+  bio_long: "Visiting [CAPES Scholar](https://www.iie.org/Programs/CAPES), 2018-2019. Alexandre was a visiting scholar from the Federal University of Minas Gerais, Brazil. He was mentored by Dr. Raquel Minardi and Dr. Rafaela Ferreira. He is developing molecular representations to visualize and perform machine learning on protein-ligand interactions."
   avatar: /assets/images/people/bio-fassio.jpg
-  title: Graduate Student
+  title: Computational Biologist
   github: alexandrefassio
+  linkedin: alexandrefassio
   ncbi_id: Fassio AV
   type: alumn
 
@@ -303,7 +305,7 @@ ben_wong:
   type: alumn
 
 leo_gendelev:
-  name: Leo Gendelev
+  name: Leo Gendelev, PhD
   email: gendelev@keiserlab.org
   bio: "Genentech"
   bio_long: "Biophysics graduate student; Fletcher Jones Fellow (2014-2019)."
