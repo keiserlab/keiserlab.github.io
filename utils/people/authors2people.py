@@ -66,8 +66,11 @@ def main(fauthors, outdir, fpapers):
 
     for uid, info in ppl_dict.iteritems():
         ncbi_id = info['ncbi_id']
-        display_papers = filter(
-            lambda x: x[PCOL_AUTH].strip('.').lower().find(ncbi_id.lower()) != -1, 
+        if ncbi_id is None:
+            display_papers = []
+        else:
+            display_papers = filter(
+                lambda x: x[PCOL_AUTH].strip('.').lower().find(ncbi_id.lower()) != -1, 
             papers)
         paper_yml = ''.join([PAPER_TEMPLATE % (
             yml_sanitize(ppr[PCOL_TITLE]),
