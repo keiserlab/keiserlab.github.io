@@ -11,6 +11,7 @@ michael_keiser:
   avatar: /assets/images/people/bio-keiser.jpg
   title: Assistant Professor; CZI Ben Barres Investigator; Allen Distinguished Investigator
   github: mjke
+  linkedin: keiser
   google:
     scholar: 6GGtbegAAAAJ
     #plus: MichaelKeiser
@@ -76,6 +77,18 @@ laura_gunsalus:
   github: LauraGunsalus
   ncbi_id: Gunsalus L
   type: member
+  
+sahru_keiser:
+  name: Sahru Keiser, MPH
+  email: sahru@keiserlab.org
+  bio: ""
+  bio_long: "Sahru is a public health professional with 8+ years of project management experience. She is passionate about improving health and has a background in health education, advocacy and community organizing. She has worked with communities on various public health issues like breast cancer, homelessness, food insecurity and Alzheimer's disease and related dementias and is passionate about improving health outcomes for all. Born in New York, Sahru lives in the Bay Area with her husband and two kids."
+  avatar: /assets/images/people/bio-keiser-sahru.jpg
+  title: Project Manager
+  linkedin: sahru-keiser-mph-53563427
+  twitter: SahruKeiser
+  ncbi_id: 
+  type: member
 
 nick_mew:
   name: Nick Mew, MS
@@ -86,6 +99,17 @@ nick_mew:
   title: Specialist
   github: munick
   ncbi_id: Mew N
+  type: member
+  
+douglas_myers_turnbull:
+  name: Douglas Myers-Turnbull
+  email: douglas@keiserlab.org
+  bio: "bioinformatics"
+  bio_long: "Douglas is a PhD candidate in the Bioinformatics program. He received a B.S. in Computer Science with a Specialization in Bioinformatics (math minor) from UCSD, where he did research in structural biology. He then worked in clinical sequencing at the Stanford School of Medicine. At UCSF, he is developing biological and computational methods to discover new neuroactive compounds in vivo, using zebrafish as a model. He is interested in software design, computer vision, and bioinformatics, and in integrating diverse data types."
+  avatar: /assets/images/people/bio-myers-turnbull.jpg
+  title: Grad Student
+  github: dmyersturnbull
+  ncbi_id: Myers-Turnbull D
   type: member
 
 jessica_mckinley:
@@ -158,7 +182,17 @@ dan_wong:
   github: wongdaniel8
   ncbi_id: Wong DR
   type: member
-
+  
+michelle_wong_ng:
+  name: Michelle Wong-Ng
+  email: wong-ng@keiserlab.org
+  bio: ""
+  bio_long: "Michelle provides administrative support for Keiser Lab members."
+  avatar: /assets/images/people/bio-wong-ng.jpg
+  title: Administrative Officer
+  type: member
+  ncbi_id: 
+  
 
 # ALUMNI
 
