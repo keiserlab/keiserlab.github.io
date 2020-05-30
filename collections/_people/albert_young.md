@@ -10,6 +10,10 @@ excerpt: "Albert is a 4th year UCSF medical student interested in dermatology an
 header:
   teaser: /assets/images/people/bio-young.jpg
 papers: 
+    - title: Artificial Intelligence in Dermatology- A Primer
+      excerpt: <u>Young AT</u>, Xiong M, Pfau J, Keiser MJ, Wei ML. __J Invest Dermatol__. 2020 Mar 27.
+      link: "https://doi.org/10.1016/j.jid.2020.02.026"
+
     - title: Global Saliency- Aggregating Saliency Maps to Assess Dataset Artefact Bias
       excerpt: Pfau J, <u>Young AT</u>, Wei ML, Keiser MJ. __arXiv - NeurIPS ML4H__. 2019 Oct 16.
       link: ""

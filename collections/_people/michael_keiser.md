@@ -10,6 +10,22 @@ excerpt: "<p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and
 header:
   teaser: /assets/images/people/bio-keiser.jpg
 papers: 
+    - title: Adding stochastic negative examples into machine learning improves molecular bioactivity prediction
+      excerpt: Caceres EL, Mew NC, <u>Keiser MJ</u>. __bioRxiv__. 2020 May 22.
+      link: ""
+
+    - title: Learning Molecular Representations for Medicinal Chemistry
+      excerpt: Chuang KV, Gunsalus LM, <u>Keiser MJ</u>. __J Med Chem__. 2020 May 15.
+      link: "https://doi.org/10.1021/acs.jmedchem.0c00385"
+
+    - title: Validation of machine learning models to detect amyloid pathologies across institutions
+      excerpt: Vizcarra JC, Gearing M, <u>Keiser MJ</u>, Glass JD, Dugger BN, Gutman DA. __Acta Neuropathol Commun__. 2020 Apr 28.
+      link: "https://doi.org/10.1186/s40478-020-00927-4"
+
+    - title: Artificial Intelligence in Dermatology- A Primer
+      excerpt: Young AT, Xiong M, Pfau J, <u>Keiser MJ</u>, Wei ML. __J Invest Dermatol__. 2020 Mar 27.
+      link: "https://doi.org/10.1016/j.jid.2020.02.026"
+
     - title: Global Saliency- Aggregating Saliency Maps to Assess Dataset Artefact Bias
       excerpt: Pfau J, Young AT, Wei ML, <u>Keiser MJ</u>. __arXiv - NeurIPS ML4H__. 2019 Oct 16.
       link: ""

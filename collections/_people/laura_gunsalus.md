@@ -10,4 +10,8 @@ excerpt: "I'm a iPQB bioinformatics graduate student interested in using deep le
 header:
   teaser: /assets/images/people/bio-gunsalus.jpg
 papers: 
+    - title: Learning Molecular Representations for Medicinal Chemistry
+      excerpt: Chuang KV, <u>Gunsalus L</u>M, Keiser MJ. __J Med Chem__. 2020 May 15.
+      link: "https://doi.org/10.1021/acs.jmedchem.0c00385"
+
 ---

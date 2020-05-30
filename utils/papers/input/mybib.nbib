@@ -1,7 +1,270 @@
-PMID- 31501447
+PMID- 32366098
+OWN - NLM
+STAT- Publisher
+LR  - 20200515
+IS  - 1520-4804 (Electronic)
+IS  - 0022-2623 (Linking)
+DP  - 2020 May 15
+TI  - Learning Molecular Representations for Medicinal Chemistry.
+LID - 10.1021/acs.jmedchem.0c00385 [doi]
+AB  - The accurate modeling and prediction of small molecule properties and
+      bioactivities depend on the critical choice of molecular representation.
+      Decades of informatics-driven research have relied on expert-designed
+      molecular descriptors to establish quantitative structure-activity and
+      structure-property relationships for drug discovery. Now, advances in
+      deep learning make it possible to efficiently and compactly learn
+      molecular representations directly from data. In this review, we discuss
+      how active research in molecular deep learning can address limitations of
+      current descriptors and fingerprints while creating new opportunities in
+      cheminformatics and virtual screening. We provide a concise overview of
+      the role of representations in cheminformatics, key concepts in deep
+      learning, and argue that learning representations provides a way forward
+      to improve the predictive modeling of small molecule bioactivities and
+      properties.
+FAU - Chuang, Kangway V
+AU  - Chuang KV
+AUID- ORCID: http://orcid.org/0000-0002-0652-8071
+AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering &
+      Therapeutic Sciences, Institute for Neurodegenerative Diseases, Kavli
+      Institute for Fundamental Neuroscience, Bakar Computational Health
+      Sciences Institute, University of California, San Francisco, 675 Nelson
+      Rising Lane, San Francisco, California 94143, United States.
+FAU - Gunsalus, Laura M
+AU  - Gunsalus LM
+AUID- ORCID: http://orcid.org/0000-0003-3444-5617
+AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering &
+      Therapeutic Sciences, Institute for Neurodegenerative Diseases, Kavli
+      Institute for Fundamental Neuroscience, Bakar Computational Health
+      Sciences Institute, University of California, San Francisco, 675 Nelson
+      Rising Lane, San Francisco, California 94143, United States.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AUID- ORCID: http://orcid.org/0000-0002-1240-2192
+AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering &
+      Therapeutic Sciences, Institute for Neurodegenerative Diseases, Kavli
+      Institute for Fundamental Neuroscience, Bakar Computational Health
+      Sciences Institute, University of California, San Francisco, 675 Nelson
+      Rising Lane, San Francisco, California 94143, United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20200515
+PL  - United States
+TA  - J Med Chem
+JT  - Journal of medicinal chemistry
+JID - 9716531
+SB  - IM
+EDAT- 2020/05/06 06:00
+MHDA- 2020/05/06 06:00
+CRDT- 2020/05/06 06:00
+PHST- 2020/05/06 06:00 [pubmed]
+PHST- 2020/05/06 06:00 [medline]
+PHST- 2020/05/06 06:00 [entrez]
+AID - 10.1021/acs.jmedchem.0c00385 [doi]
+PST - aheadofprint
+SO  - J Med Chem. 2020 May 15. doi: 10.1021/acs.jmedchem.0c00385.
+
+PMID- 32345363
 OWN - NLM
 STAT- In-Data-Review
-LR  - 20190918
+LR  - 20200515
+IS  - 2051-5960 (Electronic)
+IS  - 2051-5960 (Linking)
+VI  - 8
+IP  - 1
+DP  - 2020 Apr 28
+TI  - Validation of machine learning models to detect amyloid pathologies
+      across institutions.
+PG  - 59
+LID - 10.1186/s40478-020-00927-4 [doi]
+AB  - Semi-quantitative scoring schemes like the Consortium to Establish a
+      Registry for Alzheimer's Disease (CERAD) are the most commonly used
+      method in Alzheimer's disease (AD) neuropathology practice. Computational
+      approaches based on machine learning have recently generated quantitative
+      scores for whole slide images (WSIs) that are highly correlated with
+      human derived semi-quantitative scores, such as those of CERAD, for
+      Alzheimer's disease pathology. However, the robustness of such models
+      have yet to be tested in different cohorts. To validate previously
+      published machine learning algorithms using convolutional neural networks
+      (CNNs) and determine if pathological heterogeneity may alter algorithm
+      derived measures, 40 cases from the Goizueta Emory Alzheimer's Disease
+      Center brain bank displaying an array of pathological diagnoses
+      (including AD with and without Lewy body disease (LBD), and / or
+      TDP-43-positive inclusions) and levels of Abeta pathologies were
+      evaluated. Furthermore, to provide deeper phenotyping, amyloid burden in
+      gray matter vs whole tissue were compared, and quantitative CNN scores
+      for both correlated significantly to CERAD-like scores. Quantitative
+      scores also show clear stratification based on AD pathologies with or
+      without additional diagnoses (including LBD and TDP-43 inclusions) vs
+      cases with no significant neurodegeneration (control cases) as well as
+      NIA Reagan scoring criteria. Specifically, the concomitant diagnosis
+      group of AD + TDP-43 showed significantly greater CNN-score for cored
+      plaques than the AD group. Finally, we report that whole tissue
+      computational scores correlate better with CERAD-like categories than
+      focusing on computational scores from a field of view with densest
+      pathology, which is the standard of practice in neuropathological
+      assessment per CERAD guidelines. Together these findings validate and
+      expand CNN models to be robust to cohort variations and provide
+      additional proof-of-concept for future studies to incorporate machine
+      learning algorithms into neuropathological practice.
+FAU - Vizcarra, Juan C
+AU  - Vizcarra JC
+AD  - The Wallace H. Coulter Department of Biomedical Engineering, Georgia
+      Institute of Technology and Emory University, 313 Ferst Dr NW, Atlanta,
+      GA, 30332, USA.
+FAU - Gearing, Marla
+AU  - Gearing M
+AD  - Department of Neurology, Emory University School of Medicine, 12
+      Executive Park Dr NE, Atlanta, GA, 30322, USA.
+AD  - Department of Pathology and Laboratory Medicine, Emory University School
+      of Medicine, 1364 Clifton Rd, Atlanta, GA, 30322, USA.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
+      Therapeutic Sciences, Institute for Neurodegenerative Diseases, Kavli
+      Institute for Fundamental Neuroscience, and Bakar Computational Health
+      Sciences Institute, University of California, 675 Nelson Rising Ln, Box
+      0518, San Francisco, CA, 94143, USA.
+FAU - Glass, Jonathan D
+AU  - Glass JD
+AD  - Department of Neurology, Emory University School of Medicine, 12
+      Executive Park Dr NE, Atlanta, GA, 30322, USA.
+AD  - Department of Pathology and Laboratory Medicine, Emory University School
+      of Medicine, 1364 Clifton Rd, Atlanta, GA, 30322, USA.
+AD  - Center for Neurodegenerative Disease, Emory University School of
+      Medicine, Whitehead Biomedical Research Building, 615 Michael Street, 5th
+      Floor, Suite 500, Atlanta, GA, 30322, USA.
+FAU - Dugger, Brittany N
+AU  - Dugger BN
+AD  - Department of Pathology and Laboratory Medicine, University of
+      California-Davis School of Medicine, 3400A Research Building III
+      Sacramento, Davis, CA, 95817, USA. bndugger@ucdavis.edu.
+FAU - Gutman, David A
+AU  - Gutman DA
+AD  - Department of Neurology, Emory University School of Medicine, 12
+      Executive Park Dr NE, Atlanta, GA, 30322, USA. dgutman@emory.edu.
+LA  - eng
+GR  - 2018-191905/Chan Zuckerberg Initiative DAF
+GR  - AG010129/NH/NIH HHS/United States
+GR  - AG025688/NH/NIH HHS/United States
+GR  - AG062517/NH/NIH HHS/United States
+GR  - CA194362/NH/NIH HHS/United States
+GR  - R01 AG062517/AG/NIA NIH HHS/United States
+GR  - U24 CA194362/CA/NCI NIH HHS/United States
+GR  - P30 AG010129/AG/NIA NIH HHS/United States
+GR  - MRI-19-599956/Office of the President, University of California
+GR  - P50 AG025688/AG/NIA NIH HHS/United States
+PT  - Journal Article
+DEP - 20200428
+PL  - England
+TA  - Acta Neuropathol Commun
+JT  - Acta neuropathologica communications
+JID - 101610673
+SB  - IM
+PMC - PMC7189549
+OTO - NOTNLM
+OT  - Alzheimer's disease
+OT  - Amyloid beta
+OT  - Concomitant diagnosis
+OT  - Deep learning
+OT  - Neuropathology
+OT  - Whole-slide imaging
+EDAT- 2020/04/30 06:00
+MHDA- 2020/04/30 06:00
+CRDT- 2020/04/30 06:00
+PHST- 2020/02/05 00:00 [received]
+PHST- 2020/03/31 00:00 [accepted]
+PHST- 2020/04/30 06:00 [entrez]
+PHST- 2020/04/30 06:00 [pubmed]
+PHST- 2020/04/30 06:00 [medline]
+AID - 10.1186/s40478-020-00927-4 [doi]
+AID - 10.1186/s40478-020-00927-4 [pii]
+PST - epublish
+SO  - Acta Neuropathol Commun. 2020 Apr 28;8(1):59. doi:
+      10.1186/s40478-020-00927-4.
+
+PMID- 32229141
+OWN - NLM
+STAT- Publisher
+LR  - 20200507
+IS  - 1523-1747 (Electronic)
+IS  - 0022-202X (Linking)
+DP  - 2020 Mar 27
+TI  - Artificial Intelligence in Dermatology: A Primer.
+LID - S0022-202X(20)31201-X [pii]
+LID - 10.1016/j.jid.2020.02.026 [doi]
+AB  - Artificial intelligence is becoming increasingly important in
+      dermatology, with studies reporting accuracy matching or exceeding
+      dermatologists for the diagnosis of skin lesions from clinical and
+      dermoscopic images. However, real-world clinical validation is currently
+      lacking. We review dermatological applications of deep learning, the
+      leading artificial intelligence technology for image analysis, and
+      discuss its current capabilities, potential failure modes, and challenges
+      surrounding performance assessment and interpretability. We address the
+      following three primary applications: (i) teledermatology, including
+      triage for referral to dermatologists; (ii) augmenting clinical
+      assessment during face-to-face visits; and (iii) dermatopathology. We
+      discuss equity and ethical issues related to future clinical adoption and
+      recommend specific standardization of metrics for reporting model
+      performance.
+CI  - Copyright (c) 2020 The Authors. Published by Elsevier Inc. All rights
+      reserved.
+FAU - Young, Albert T
+AU  - Young AT
+AD  - Department of Dermatology, University of California, San Francisco, San
+      Francisco, California, USA; Dermatology Service, San Francisco Veterans
+      Affairs Medical Center, San Francisco, California, USA.
+FAU - Xiong, Mulin
+AU  - Xiong M
+AD  - Michigan State University College of Human Medicine, East Lansing,
+      Michigan, USA.
+FAU - Pfau, Jacob
+AU  - Pfau J
+AD  - Department of Dermatology, University of California, San Francisco, San
+      Francisco, California, USA; Dermatology Service, San Francisco Veterans
+      Affairs Medical Center, San Francisco, California, USA.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
+      Therapeutic Sciences, Institute for Neurodegenerative Diseases, and Bakar
+      Computational Health Sciences Institute, University of California, San
+      Francisco, San Francisco, California, USA.
+FAU - Wei, Maria L
+AU  - Wei ML
+AD  - Department of Dermatology, University of California, San Francisco, San
+      Francisco, California, USA; Dermatology Service, San Francisco Veterans
+      Affairs Medical Center, San Francisco, California, USA; Helen Diller
+      Family Comprehensive Cancer Center, University of California, San
+      Francisco, San Francisco, California, USA. Electronic address:
+      maria.wei@ucsf.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200327
+PL  - United States
+TA  - J Invest Dermatol
+JT  - The Journal of investigative dermatology
+JID - 0426720
+SB  - IM
+EDAT- 2020/04/02 06:00
+MHDA- 2020/04/02 06:00
+CRDT- 2020/04/02 06:00
+PHST- 2019/12/03 00:00 [received]
+PHST- 2020/02/22 00:00 [revised]
+PHST- 2020/02/25 00:00 [accepted]
+PHST- 2020/04/02 06:00 [pubmed]
+PHST- 2020/04/02 06:00 [medline]
+PHST- 2020/04/02 06:00 [entrez]
+AID - S0022-202X(20)31201-X [pii]
+AID - 10.1016/j.jid.2020.02.026 [doi]
+PST - aheadofprint
+SO  - J Invest Dermatol. 2020 Mar 27. pii: S0022-202X(20)31201-X. doi:
+      10.1016/j.jid.2020.02.026.
+
+PMID- 31501447
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191218
+LR  - 20200516
 IS  - 2041-1723 (Electronic)
 IS  - 2041-1723 (Linking)
 VI  - 10
@@ -41,12 +304,12 @@ AD  - Institute for Neurodegenerative Diseases, University of California, San
       Francisco, CA, 94143, USA.
 FAU - Taylor, Jack
 AU  - Taylor J
-AUID- ORCID: http://orcid.org/0000-0002-6431-9956
+AUID- ORCID: 0000-0002-6431-9956
 AD  - Institute for Neurodegenerative Diseases, University of California, San
       Francisco, CA, 94143, USA.
 FAU - Bruni, Giancarlo
 AU  - Bruni G
-AUID- ORCID: http://orcid.org/0000-0003-2850-4633
+AUID- ORCID: 0000-0003-2850-4633
 AD  - Cardiovascular Research Center and Division of Cardiology, Department of
       Medicine, Massachusetts General Hospital, Harvard Medical School,
       Charlestown, MA, 02129, USA.
@@ -54,7 +317,7 @@ AD  - Department of Systems Biology, Harvard Medical School, 149 13th Street,
       Charlestown, MA, 02129, USA.
 FAU - Myers-Turnbull, Douglas
 AU  - Myers-Turnbull D
-AUID- ORCID: http://orcid.org/0000-0003-3610-4808
+AUID- ORCID: 0000-0003-3610-4808
 AD  - Institute for Neurodegenerative Diseases, University of California, San
       Francisco, CA, 94143, USA.
 FAU - Helsell, Cole
@@ -94,7 +357,7 @@ AD  - Department of Pharmacology and Toxicology, College of Pharmacy,
       University of Utah, Salt Lake City, UT, 84112, USA.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
-AUID- ORCID: http://orcid.org/0000-0002-1240-2192
+AUID- ORCID: 0000-0002-1240-2192
 AD  - Institute for Neurodegenerative Diseases, University of California, San
       Francisco, CA, 94143, USA. keiser@keiserlab.org.
 AD  - Departments of Pharmaceutical Chemistry and of Bioengineering &
@@ -108,29 +371,46 @@ AD  - Department of Physiology, University of California, San Francisco, CA,
       94158, USA. david.kokel@ucsf.edu.
 LA  - eng
 GR  - R01 MH115705/MH/NIMH NIH HHS/United States
-GR  - U01MH104984/U.S. Department of Health & Human Services | National
-      Institutes of Health (NIH)
-GR  - R01AA022583/U.S. Department of Health & Human Services | NIH | Office of
-      Extramural Research, National Institutes of Health (OER)
+GR  - U01 MH104984/MH/NIMH NIH HHS/United States
 GR  - R01 AA022583/AA/NIAAA NIH HHS/United States
-GR  - R01MH115705/U.S. Department of Health & Human Services | National
-      Institutes of Health (NIH)
+GR  - T32 GM008284/GM/NIGMS NIH HHS/United States
+GR  - T32 GM067547/GM/NIGMS NIH HHS/United States
+GR  - T32 EB009383/EB/NIBIB NIH HHS/United States
+GR  - R25 GM059298/GM/NIGMS NIH HHS/United States
 PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
 DEP - 20190909
 PL  - England
 TA  - Nat Commun
 JT  - Nature communications
 JID - 101528555
+RN  - 0 (Ligands)
+RN  - 0 (Receptors, GABA-A)
+RN  - 0 (Receptors, Serotonin)
+RN  - 0 (Serotonin Antagonists)
+RN  - 0 (Zebrafish Proteins)
 SB  - IM
+MH  - Animals
+MH  - *Behavior, Animal
+MH  - *Conscious Sedation
+MH  - Ligands
+MH  - Neural Inhibition
+MH  - Neurons/physiology
+MH  - Receptors, GABA-A/*metabolism
+MH  - Receptors, Serotonin/*metabolism
+MH  - Serotonin Antagonists/chemistry
+MH  - Zebrafish/*metabolism
+MH  - Zebrafish Proteins/metabolism
 PMC - PMC6733874
 EDAT- 2019/09/11 06:00
-MHDA- 2019/09/11 06:00
+MHDA- 2019/12/19 06:00
 CRDT- 2019/09/11 06:00
 PHST- 2019/03/07 00:00 [received]
 PHST- 2019/08/13 00:00 [accepted]
 PHST- 2019/09/11 06:00 [entrez]
 PHST- 2019/09/11 06:00 [pubmed]
-PHST- 2019/09/11 06:00 [medline]
+PHST- 2019/12/19 06:00 [medline]
 AID - 10.1038/s41467-019-11936-w [doi]
 AID - 10.1038/s41467-019-11936-w [pii]
 PST - epublish
@@ -140,7 +420,7 @@ PMID- 31092819
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20190701
-LR  - 20190701
+LR  - 20200515
 IS  - 2041-1723 (Electronic)
 IS  - 2041-1723 (Linking)
 VI  - 10
@@ -170,7 +450,7 @@ AB  - Neuropathologists assess vast brain areas to identify diverse and subtly-
       ability suggests a route to neuropathologic deep phenotyping.
 FAU - Tang, Ziqi
 AU  - Tang Z
-AUID- ORCID: 0000-0003-0425-0173
+AUID- ORCID: http://orcid.org/0000-0003-0425-0173
 AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
       Therapeutic Sciences, Institute for Neurodegenerative Diseases, and Bakar
       Computational Health Sciences Institute, University of California, San
@@ -179,7 +459,7 @@ AD  - School of Pharmaceutical Sciences, Tsinghua University, 100084, Beijing,
       China.
 FAU - Chuang, Kangway V
 AU  - Chuang KV
-AUID- ORCID: 0000-0002-0652-8071
+AUID- ORCID: http://orcid.org/0000-0002-0652-8071
 AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
       Therapeutic Sciences, Institute for Neurodegenerative Diseases, and Bakar
       Computational Health Sciences Institute, University of California, San
@@ -190,18 +470,18 @@ AD  - Department of Neurology, University of California-Davis School of
       Medicine, 4860 Y Street Suite 3700, Sacramento, CA, 95817, USA.
 FAU - Jin, Lee-Way
 AU  - Jin LW
-AUID- ORCID: 0000-0001-9729-1032
+AUID- ORCID: http://orcid.org/0000-0001-9729-1032
 AD  - Department of Pathology and Laboratory Medicine, University of
       California-Davis School of Medicine, 2805 50th Street, Sacramento, CA,
       95817, USA.
 FAU - Beckett, Laurel
 AU  - Beckett L
-AUID- ORCID: 0000-0002-2418-9843
+AUID- ORCID: http://orcid.org/0000-0002-2418-9843
 AD  - Department of Public Health Sciences, University of California-Davis,
       Medical Science, 1C One Shields Avenue, Davis, CA, 95616, USA.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
-AUID- ORCID: 0000-0002-1240-2192
+AUID- ORCID: http://orcid.org/0000-0002-1240-2192
 AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
       Therapeutic Sciences, Institute for Neurodegenerative Diseases, and Bakar
       Computational Health Sciences Institute, University of California, San
@@ -209,18 +489,14 @@ AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
       keiser@keiserlab.org.
 FAU - Dugger, Brittany N
 AU  - Dugger BN
-AUID- ORCID: 0000-0003-2141-8855
+AUID- ORCID: http://orcid.org/0000-0003-2141-8855
 AD  - Department of Pathology and Laboratory Medicine, University of
       California-Davis School of Medicine, 3400A Research Building III
       Sacramento, Davis, CA, 95817, USA. bndugger@ucdavis.edu.
 LA  - eng
+GR  - P30 AG010129/AG/NIA NIH HHS/United States
 GR  - N/A/China Scholarship Council (CSC)/International
-GR  - P30 AG010129/U.S. Department of Health &amp; Human Services | National
-      Institutes of Health (NIH)/International
-GR  - P30 AG010129/U.S. Department of Health &amp; Human Services | National
-      Institutes of Health (NIH)/International
-GR  - P30 AG010129/U.S. Department of Health &amp; Human Services | National
-      Institutes of Health (NIH)/International
+GR  - P30 AG010129/AG/NIA NIH HHS/United States
 PT  - Journal Article
 PT  - Research Support, N.I.H., Extramural
 PT  - Research Support, Non-U.S. Gov't
@@ -383,7 +659,7 @@ PMID- 30053424
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20190418
-LR  - 20190910
+LR  - 20191101
 IS  - 1097-4172 (Electronic)
 IS  - 0092-8674 (Linking)
 VI  - 174
@@ -627,15 +903,17 @@ AD  - Quantitative Biosciences Institute (QBI), University of California, San
       California, San Francisco, San Francisco, CA 94143, USA. Electronic
       address: nevan.krogan@ucsf.edu.
 LA  - eng
+GR  - R01 MH110928/MH/NIMH NIH HHS/United States
+GR  - U01 MH105575/MH/NIMH NIH HHS/United States
+GR  - R01 DA035913/DA/NIDA NIH HHS/United States
+GR  - R01 MH112729/MH/NIMH NIH HHS/United States
+GR  - R01 NS083390/NS/NINDS NIH HHS/United States
+GR  - R35 NS097212/NS/NINDS NIH HHS/United States
 GR  - R01 HD081379/HD/NICHD NIH HHS/United States
 GR  - R01 MH109901/MH/NIMH NIH HHS/United States
-GR  - R01 MH110928/MH/NIMH NIH HHS/United States
 GR  - DP2 GM119139/GM/NIGMS NIH HHS/United States
-GR  - R01 DA035913/DA/NIDA NIH HHS/United States
-GR  - R01 NS083390/NS/NINDS NIH HHS/United States
-GR  - R01 MH112729/MH/NIMH NIH HHS/United States
-GR  - Z99 NS999999/ImNIH/Intramural NIH HHS/United States
-GR  - U01 MH105575/MH/NIMH NIH HHS/United States
+GR  - R01 MH109904/MH/NIMH NIH HHS/United States
+GR  - Z99 NS999999/Intramural NIH HHS/United States
 PT  - Journal Article
 PT  - Research Support, N.I.H., Extramural
 PT  - Research Support, N.I.H., Intramural
@@ -3143,7 +3421,7 @@ PMID- 17287757
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20070424
-LR  - 20071203
+LR  - 20191210
 IS  - 1087-0156 (Print)
 IS  - 1087-0156 (Linking)
 VI  - 25
@@ -3185,7 +3463,7 @@ LA  - eng
 GR  - F32-GM074554/GM/NIGMS NIH HHS/United States
 GR  - GM67547/GM/NIGMS NIH HHS/United States
 GR  - GM71896/GM/NIGMS NIH HHS/United States
-PT  - Evaluation Studies
+PT  - Evaluation Study
 PT  - Journal Article
 PT  - Research Support, N.I.H., Extramural
 PT  - Research Support, U.S. Gov't, Non-P.H.S.

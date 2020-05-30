@@ -10,4 +10,8 @@ excerpt: "Coming from a software engineering and computer science background, I'
 header:
   teaser: /assets/images/people/bio-mew.jpg
 papers: 
+    - title: Adding stochastic negative examples into machine learning improves molecular bioactivity prediction
+      excerpt: Caceres EL, <u>Mew N</u>C, Keiser MJ. __bioRxiv__. 2020 May 22.
+      link: ""
+
 ---

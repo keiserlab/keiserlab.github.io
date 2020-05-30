@@ -10,6 +10,10 @@ excerpt: ""
 header:
   teaser: /assets/images/people/bio-chuang.jpg
 papers: 
+    - title: Learning Molecular Representations for Medicinal Chemistry
+      excerpt: <u>Chuang KV</u>, Gunsalus LM, Keiser MJ. __J Med Chem__. 2020 May 15.
+      link: "https://doi.org/10.1021/acs.jmedchem.0c00385"
+
     - title: Interpretable classification of Alzheimer's disease pathologies with a convolutional neural network pipeline
       excerpt: Tang Z, <u>Chuang KV</u>, DeCarli C, Jin LW, Beckett L, Keiser MJ, Dugger BN. __Nat Commun__. 2019 May 15.
       link: "https://doi.org/10.1038/s41467-019-10212-1"

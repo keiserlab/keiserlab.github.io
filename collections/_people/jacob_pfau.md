@@ -10,6 +10,10 @@ excerpt: "My interests span the theory and applications of machine learning mode
 header:
   teaser: /assets/images/people/bio-pfau.jpg
 papers: 
+    - title: Artificial Intelligence in Dermatology- A Primer
+      excerpt: Young AT, Xiong M, <u>Pfau J</u>, Keiser MJ, Wei ML. __J Invest Dermatol__. 2020 Mar 27.
+      link: "https://doi.org/10.1016/j.jid.2020.02.026"
+
     - title: Global Saliency- Aggregating Saliency Maps to Assess Dataset Artefact Bias
       excerpt: <u>Pfau J</u>, Young AT, Wei ML, Keiser MJ. __arXiv - NeurIPS ML4H__. 2019 Oct 16.
       link: ""
