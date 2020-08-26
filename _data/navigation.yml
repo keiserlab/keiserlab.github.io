@@ -5,6 +5,8 @@ main:
   url: /publications/
 - title: people
   url: /people/
+- title: dei
+  url: /dei/
 - title: news
   url: /news/
 - title: jobs
