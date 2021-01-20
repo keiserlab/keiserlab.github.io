@@ -82,7 +82,7 @@ def main(fauthors, outdir, fpapers):
 
         with open(os.path.join(outdir, '%s.md' % uid), 'wb') as fo:
             fo.write(TEMPLATE % (info['name'], uid, info['title'], info['bio'], 
-                    info['type'], info.get('bio_long','')[:EXCERPT_LEN],
+                    info['type'], info.get('bio_long','').encode('utf-8')[:EXCERPT_LEN],
                     #info['name'], info['title'], 
                     info['avatar'], paper_yml))
     print 'wrote %d people to %s' % (len(ppl_dict), os.path.abspath(outdir))
