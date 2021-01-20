@@ -10,8 +10,12 @@ excerpt: ""
 header:
   teaser: /assets/images/people/bio-chuang.jpg
 papers: 
+    - title: Attention-Based Learning on Molecular Ensembles
+      excerpt: <u>Chuang KV</u>, Keiser MJ. __arXiv - NeurIPS ML4Molecules__. 2020 Nov 25.
+      link: ""
+
     - title: Learning Molecular Representations for Medicinal Chemistry
-      excerpt: <u>Chuang KV</u>, Gunsalus LM, Keiser MJ. __J Med Chem__. 2020 May 15.
+      excerpt: <u>Chuang KV</u>, Gunsalus LM, Keiser MJ. __J Med Chem__. 2020 Aug 27.
       link: "https://doi.org/10.1021/acs.jmedchem.0c00385"
 
     - title: Interpretable classification of Alzheimer's disease pathologies with a convolutional neural network pipeline

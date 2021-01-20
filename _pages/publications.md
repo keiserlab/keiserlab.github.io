@@ -11,15 +11,32 @@ intro:
     - title: Publications
 feature_row0:
 
-  - image_path: /assets/images/papers/bioRxiv.2020.05.21.107748v1.jpg
+  - image_path: /assets/images/papers/bioRxiv.2021.01.08.425973.jpg
     alt: >-
-        Adding stochastic negative examples into machine learning improves molecular bioactivity prediction
+        Trans-channel fluorescence learning improves high-content screening for Alzheimer's disease therapeutics
     title: >-
-        <span itemprop="name">Adding stochastic negative examples into machine learning improves molecular bioactivity prediction</span>
+        <span itemprop="name">Trans-channel fluorescence learning improves high-content screening for Alzheimer's disease therapeutics</span>
     excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2020 May 22</span>. <span itemprop="author">Caceres EL, Mew NC, Keiser MJ</span>.
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2021 Jan 09</span>. <span itemprop="author">Wong DR, Conrad J, Johnson N, Ayers JI, Laeremans A, Lee JC, Lee J, Prusiner SB, Bandyopadhyay S, Butte AJ, Paras NA, Keiser MJ</span>.
     url: ""
-    doi: "10.1101/2020.05.21.107748"
+    doi: "10.1101/2021.01.08.425973"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.1101/2021.01.08.425973"
+    btn2_label: >-
+        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
+  - image_path: /assets/images/papers/10.1021.acs.jcim.0c00565.jpg
+    alt: >-
+        Adding Stochastic Negative Examples into Machine Learning Improves Molecular Bioactivity Prediction
+    title: >-
+        <span itemprop="name">Adding Stochastic Negative Examples into Machine Learning Improves Molecular Bioactivity Prediction</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>J Chem Inf Model</strong></span>. <span itemprop="datePublished">2020 Dec 28</span>. <span itemprop="author">Caceres EL, Mew NC, Keiser MJ</span>.
+    url: "https://doi.org/10.1021/acs.jcim.0c00565"
+    doi: "10.1021/acs.jcim.0c00565"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -28,18 +45,86 @@ feature_row0:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
+  - image_path: /assets/images/papers/NeurIPS_LMRL.LMRL_Connell.jpg
+    alt: >-
+        Predicting Cellular Drug Sensitivity using Conditional Modulation of Gene Expression
+    title: >-
+        <span itemprop="name">Predicting Cellular Drug Sensitivity using Conditional Modulation of Gene Expression</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>NeurIPS LMRL</strong></span>. <span itemprop="datePublished">2020 Dec 11</span>. <span itemprop="author">Connell W, Keiser MJ</span>.
+    url: ""
+    doi: ""
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://www.lmrl.org/papers"
+    btn2_label: >-
+        NeurIPS LMRL &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
+feature_row1:
+
+  - image_path: /assets/images/papers/arXiv_-_NeurIPS_ML4Molecules.2011.1282.jpg
+    alt: >-
+        Attention-Based Learning on Molecular Ensembles
+    title: >-
+        <span itemprop="name">Attention-Based Learning on Molecular Ensembles</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>arXiv - NeurIPS ML4Molecules</strong></span>. <span itemprop="datePublished">2020 Nov 25</span>. <span itemprop="author">Chuang KV, Keiser MJ</span>.
+    url: ""
+    doi: ""
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://arxiv.org/abs/2011.12820"
+    btn2_label: >-
+        arXiv - NeurIPS ML4Molecules &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
   - image_path: /assets/images/papers/10.1021.acs.jmedchem.0c00385.jpg
     alt: >-
         Learning Molecular Representations for Medicinal Chemistry
     title: >-
         <span itemprop="name">Learning Molecular Representations for Medicinal Chemistry</span>
     excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>J Med Chem</strong></span>. <span itemprop="datePublished">2020 May 15</span>. <span itemprop="author">Chuang KV, Gunsalus LM, Keiser MJ</span>.
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>J Med Chem</strong></span>. <span itemprop="datePublished">2020 Aug 27</span>. <span itemprop="author">Chuang KV, Gunsalus LM, Keiser MJ</span>.
     url: "https://doi.org/10.1021/acs.jmedchem.0c00385"
     doi: "10.1021/acs.jmedchem.0c00385"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
+
+  - image_path: /assets/images/papers/10.1016.j.jid.2020.02.026.jpg
+    alt: >-
+        Artificial Intelligence in Dermatology: A Primer
+    title: >-
+        <span itemprop="name">Artificial Intelligence in Dermatology: A Primer</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>J Invest Dermatol</strong></span>. <span itemprop="datePublished">2020 Aug</span>. <span itemprop="author">Young AT, Xiong M, Pfau J, Keiser MJ, Wei ML</span>.
+    url: "https://doi.org/10.1016/j.jid.2020.02.026"
+    doi: "10.1016/j.jid.2020.02.026"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+
+feature_row2:
+
+  - image_path: /assets/images/papers/ICML_-_WHI.ICML_Pfau.jpg
+    alt: >-
+        Robust Semantic Interpretability: Revisiting Concept Activation Vectors
+    title: >-
+        <span itemprop="name">Robust Semantic Interpretability: Revisiting Concept Activation Vectors</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>ICML - WHI</strong></span>. <span itemprop="datePublished">2020 Jul 17</span>. <span itemprop="author">Pfau J, Young AT, Wei J, Wei ML, Keiser MJ</span>.
+    url: ""
+    doi: ""
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "http://whi2020.online/poster_13.html"
+    btn2_label: >-
+        ICML - WHI &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
 
   - image_path: /assets/images/papers/10.1186.s40478-020-00927-4.jpg
     alt: >-
@@ -50,21 +135,6 @@ feature_row0:
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Acta Neuropathol Commun</strong></span>. <span itemprop="datePublished">2020 Apr 28</span>. <span itemprop="author">Vizcarra JC, Gearing M, Keiser MJ, Glass JD, Dugger BN, Gutman DA</span>.
     url: "https://doi.org/10.1186/s40478-020-00927-4"
     doi: "10.1186/s40478-020-00927-4"
-    btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
-
-feature_row1:
-
-  - image_path: /assets/images/papers/10.1016.j.jid.2020.02.026.jpg
-    alt: >-
-        Artificial Intelligence in Dermatology: A Primer
-    title: >-
-        <span itemprop="name">Artificial Intelligence in Dermatology: A Primer</span>
-    excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>J Invest Dermatol</strong></span>. <span itemprop="datePublished">2020 Mar 27</span>. <span itemprop="author">Young AT, Xiong M, Pfau J, Keiser MJ, Wei ML</span>.
-    url: "https://doi.org/10.1016/j.jid.2020.02.026"
-    doi: "10.1016/j.jid.2020.02.026"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -86,6 +156,8 @@ feature_row1:
         arXiv - NeurIPS ML4H &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
+feature_row3:
+
   - image_path: /assets/images/papers/10.1038.s41467-019-11936-w.jpg
     alt: >-
         Zebrafish behavioural profiling identifies GABA and serotonin receptor ligands related to sedation and paradoxical excitation
@@ -98,8 +170,6 @@ feature_row1:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row2:
 
   - image_path: /assets/images/papers/10.1038.s41467-019-10212-1.jpg
     alt: >-
@@ -131,6 +201,8 @@ feature_row2:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row4:
+
   - image_path: /assets/images/papers/10.1021.acschembio.8b00881.jpg
     alt: >-
         Adversarial Controls for Scientific Machine Learning
@@ -143,8 +215,6 @@ feature_row2:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row3:
 
   - image_path: /assets/images/papers/10.1016.j.cell.2018.06.016.jpg
     alt: >-
@@ -176,6 +246,8 @@ feature_row3:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row5:
+
   - image_path: /assets/images/papers/10.1016.j.celrep.2017.10.026.jpg
     alt: >-
         Evolutionarily Conserved Roles for Blood-Brain Barrier Xenobiotic Transporters in Endogenous Steroid Partitioning and Behavior
@@ -192,8 +264,6 @@ feature_row3:
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
-
-feature_row4:
 
   - image_path: /assets/images/papers/10.1021.acs.jmedchem.7b00696.jpg
     alt: >-
@@ -225,6 +295,8 @@ feature_row4:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row6:
+
   - image_path: /assets/images/papers/10.1021.acschembio.5b00800.jpg
     alt: >-
         Leveraging Large-scale Behavioral Profiling in Zebrafish to Explore Neuroactive Polypharmacology
@@ -237,8 +309,6 @@ feature_row4:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row5:
 
   - image_path: /assets/images/papers/10.1016.S2215-0366(15)00553-2.jpg
     alt: >-
@@ -266,6 +336,8 @@ feature_row5:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row7:
+
   - image_path: /assets/images/papers/10.1002.cpt.2.jpg
     alt: >-
         Systems pharmacology augments drug safety surveillance
@@ -278,8 +350,6 @@ feature_row5:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row6:
 
   - image_path: /assets/images/papers/10.1371.journal.pbio.1001712.jpg
     alt: >-
@@ -307,6 +377,8 @@ feature_row6:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row8:
+
   - image_path: /assets/images/papers/10.1038.nchembio.732.jpg
     alt: >-
         Chemical informatics and target identification in a zebrafish phenotypic screen
@@ -319,8 +391,6 @@ feature_row6:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row7:
 
   - image_path: /assets/images/papers/10.1038.npp.2010.195.jpg
     alt: >-
@@ -348,6 +418,8 @@ feature_row7:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row9:
+
   - image_path: /assets/images/papers/10.1021.jm100488w.jpg
     alt: >-
         Complementarity between a docking and a high-throughput screen in discovering new cruzain inhibitors
@@ -360,8 +432,6 @@ feature_row7:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row8:
 
   - image_path: /assets/images/papers/10.1021.jm901613f.jpg
     alt: >-
@@ -389,6 +459,8 @@ feature_row8:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row10:
+
   - image_path: /assets/images/papers/10.1038.nature08506.jpg
     alt: >-
         Predicting new molecular targets for known drugs
@@ -401,8 +473,6 @@ feature_row8:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row9:
 
   - image_path: /assets/images/papers/10.1371.journal.pcbi.1000474.jpg
     alt: >-
@@ -430,6 +500,8 @@ feature_row9:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row11:
+
   - image_path: /assets/images/papers/10.1007.978-1-60761-274-2_8.jpg
     alt: >-
         Off-target networks derived from ligand set similarity
@@ -442,8 +514,6 @@ feature_row9:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row10:
 
   - image_path: /assets/images/papers/10.1021.ci8000259.jpg
     alt: >-
@@ -518,3 +588,7 @@ feature_row10:
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 {% include feature_row_paper.html id="feature_row10" %}
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+{% include feature_row_paper.html id="feature_row11" %}

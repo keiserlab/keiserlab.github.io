@@ -10,9 +10,9 @@ excerpt: "Elena graduated from UCSD with a B.Sc. in molecular biology and a mino
 header:
   teaser: /assets/images/people/bio-caceres.jpg
 papers: 
-    - title: Adding stochastic negative examples into machine learning improves molecular bioactivity prediction
-      excerpt: <u>Caceres EL</u>, Mew NC, Keiser MJ. __bioRxiv__. 2020 May 22.
-      link: ""
+    - title: Adding Stochastic Negative Examples into Machine Learning Improves Molecular Bioactivity Prediction
+      excerpt: <u>Caceres EL</u>, Mew NC, Keiser MJ. __J Chem Inf Model__. 2020 Dec 28.
+      link: "https://doi.org/10.1021/acs.jcim.0c00565"
 
     - title: A Simple Representation of Three-Dimensional Molecular Structure
       excerpt: Axen SD, Huang XP, <u>Caceres EL</u>, Gendelev L, Roth BL, Keiser MJ. __J Med Chem__. 2017 Sep 14.

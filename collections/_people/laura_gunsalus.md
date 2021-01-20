@@ -11,7 +11,7 @@ header:
   teaser: /assets/images/people/bio-gunsalus.jpg
 papers: 
     - title: Learning Molecular Representations for Medicinal Chemistry
-      excerpt: Chuang KV, <u>Gunsalus L</u>M, Keiser MJ. __J Med Chem__. 2020 May 15.
+      excerpt: Chuang KV, <u>Gunsalus L</u>M, Keiser MJ. __J Med Chem__. 2020 Aug 27.
       link: "https://doi.org/10.1021/acs.jmedchem.0c00385"
 
 ---

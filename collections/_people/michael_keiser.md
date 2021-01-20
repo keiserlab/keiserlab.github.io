@@ -10,21 +10,37 @@ excerpt: "<p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and
 header:
   teaser: /assets/images/people/bio-keiser.jpg
 papers: 
-    - title: Adding stochastic negative examples into machine learning improves molecular bioactivity prediction
-      excerpt: Caceres EL, Mew NC, <u>Keiser MJ</u>. __bioRxiv__. 2020 May 22.
+    - title: Trans-channel fluorescence learning improves high-content screening for Alzheimer's disease therapeutics
+      excerpt: Wong DR, Conrad J, Johnson N, Ayers JI, Laeremans A, Lee JC, Lee J, Prusiner SB, Bandyopadhyay S, Butte AJ, Paras NA, <u>Keiser MJ</u>. __bioRxiv__. 2021 Jan 09.
+      link: ""
+
+    - title: Adding Stochastic Negative Examples into Machine Learning Improves Molecular Bioactivity Prediction
+      excerpt: Caceres EL, Mew NC, <u>Keiser MJ</u>. __J Chem Inf Model__. 2020 Dec 28.
+      link: "https://doi.org/10.1021/acs.jcim.0c00565"
+
+    - title: Predicting Cellular Drug Sensitivity using Conditional Modulation of Gene Expression
+      excerpt: Connell W, <u>Keiser MJ</u>. __NeurIPS LMRL__. 2020 Dec 11.
+      link: ""
+
+    - title: Attention-Based Learning on Molecular Ensembles
+      excerpt: Chuang KV, <u>Keiser MJ</u>. __arXiv - NeurIPS ML4Molecules__. 2020 Nov 25.
       link: ""
 
     - title: Learning Molecular Representations for Medicinal Chemistry
-      excerpt: Chuang KV, Gunsalus LM, <u>Keiser MJ</u>. __J Med Chem__. 2020 May 15.
+      excerpt: Chuang KV, Gunsalus LM, <u>Keiser MJ</u>. __J Med Chem__. 2020 Aug 27.
       link: "https://doi.org/10.1021/acs.jmedchem.0c00385"
+
+    - title: Artificial Intelligence in Dermatology- A Primer
+      excerpt: Young AT, Xiong M, Pfau J, <u>Keiser MJ</u>, Wei ML. __J Invest Dermatol__. 2020 Aug.
+      link: "https://doi.org/10.1016/j.jid.2020.02.026"
+
+    - title: Robust Semantic Interpretability- Revisiting Concept Activation Vectors
+      excerpt: Pfau J, Young AT, Wei J, Wei ML, <u>Keiser MJ</u>. __ICML - WHI__. 2020 Jul 17.
+      link: ""
 
     - title: Validation of machine learning models to detect amyloid pathologies across institutions
       excerpt: Vizcarra JC, Gearing M, <u>Keiser MJ</u>, Glass JD, Dugger BN, Gutman DA. __Acta Neuropathol Commun__. 2020 Apr 28.
       link: "https://doi.org/10.1186/s40478-020-00927-4"
-
-    - title: Artificial Intelligence in Dermatology- A Primer
-      excerpt: Young AT, Xiong M, Pfau J, <u>Keiser MJ</u>, Wei ML. __J Invest Dermatol__. 2020 Mar 27.
-      link: "https://doi.org/10.1016/j.jid.2020.02.026"
 
     - title: Global Saliency- Aggregating Saliency Maps to Assess Dataset Artefact Bias
       excerpt: Pfau J, Young AT, Wei ML, <u>Keiser MJ</u>. __arXiv - NeurIPS ML4H__. 2019 Oct 16.

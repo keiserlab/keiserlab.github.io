@@ -10,4 +10,8 @@ excerpt: "Daniel studied Computer Science and Biochemistry at UC Berkeley, and i
 header:
   teaser: /assets/images/people/bio-dwong.jpg
 papers: 
+    - title: Trans-channel fluorescence learning improves high-content screening for Alzheimer's disease therapeutics
+      excerpt: <u>Wong DR</u>, Conrad J, Johnson N, Ayers JI, Laeremans A, Lee JC, Lee J, Prusiner SB, Bandyopadhyay S, Butte AJ, Paras NA, Keiser MJ. __bioRxiv__. 2021 Jan 09.
+      link: ""
+
 ---
