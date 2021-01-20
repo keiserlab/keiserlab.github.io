@@ -3,10 +3,10 @@
 title: Albert Young
 author: albert_young
 layout: author-bio
-jobtitle: Research Fellow (MS4)
-bio: medical program
-type: member
-excerpt: "Albert is a 4th year UCSF medical student interested in dermatology and machine learning in medicine. In the Keiser Lab he is pursuing a Yearlong Research Fello"
+jobtitle: MD candidate
+bio: UCSF
+type: alumn
+excerpt: "Albert was a 4th year Research Fellow and UCSF medical student interested in dermatology and machine learning in medicine. In the Keiser Lab he pursued a Yearlo"
 header:
   teaser: /assets/images/people/bio-young.jpg
 papers: 

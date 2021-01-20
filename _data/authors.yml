@@ -6,10 +6,10 @@ michael_keiser:
   name: Michael Keiser, PhD
   email: keiser@keiserlab.org
   bio: "pharm chem; bts; bchsi; kifn; ind"
-  bio_long: "<p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and a Paul G. Allen Distinguished Investigator. Michael joined the UCSF faculty as an Assistant Professor in 2014, in the Dept. of Pharmaceutical Chemistry and the Institute for Neurodegenerative Diseases, with appointments in the Dept. of Bioengineering & Therapeutic Sciences and the Bakar Computational Health Sciences Institute. He is also a member of the Quantitative Biosciences Institute and the Kavli Institute for Fundamental Neuroscience at UCSF.</p>
+  bio_long: "<p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and a Paul G. Allen Distinguished Investigator. Michael joined the UCSF faculty in 2014, in the Dept. of Pharmaceutical Chemistry and the Institute for Neurodegenerative Diseases, with appointments in the Dept. of Bioengineering & Therapeutic Sciences and the Bakar Computational Health Sciences Institute. He is also a member of the Quantitative Biosciences Institute and the Kavli Institute for Fundamental Neuroscience at UCSF.</p>
 <p>Before this, he co-founded a startup bringing systems pharmacology methods for drug-target prediction to pharma and the US FDA, where they are in use today. During his bioinformatics Ph.D. at UCSF as a NSF Fellow, Michael developed techniques to relate drugs and proteins from the statistical similarity of their ligands, such as the Similarity Ensemble Approach (SEA). He holds multiple degrees from Stanford, including a BSc. in Computer Science.</p>"
   avatar: /assets/images/people/bio-keiser.jpg
-  title: Assistant Professor; CZI Ben Barres Investigator; Allen Distinguished Investigator
+  title: Associate Professor; CZI Ben Barres Investigator; Allen Distinguished Investigator
   github: mjke
   linkedin: keiser
   google:
@@ -96,11 +96,33 @@ nick_mew:
   bio: ""
   bio_long: "Coming from a software engineering and computer science background, I'm focused on creating research tools that combine the state of the art in machine learning, statistics and data visualization. My current research involves training artificial neural networks to answer questions related to drugs, targets and their interactions. I also work on creating interactive visualizations that help human neural networks answer similar questions."
   avatar: /assets/images/people/bio-mew.jpg
-  title: Specialist
+  title: Computational Research Specialist
   github: munick
   ncbi_id: Mew N
   type: member
-  
+
+lise_minaud:
+  name: Lise Minaud, M2
+  email: minaud@keiserlab.org
+  bio: ""
+  bio_long: "Lise graduated from Université Paris-Saclay with a Master 2 in Bioinformatics and Biostatistics. She is interested in developing machine learning methodologies in the field of neurodegenerative diseases and is currently working on digital images. In her free time, she enjoys hiking and cycling."
+  avatar: /assets/images/people/bio-minaud.jpg
+  title: Data Scientist
+  github: lise-minaud
+  ncbi_id: Minaud L
+  type: member
+
+laura_shub:
+  name: Laura Shub
+  email: lshub@keiserlab.org
+  bio: "bioinformatics"
+  bio_long: "Laura studied biochemistry and computer science at the University of Texas at Austin. She is currently a graduate student in the bioinformatics program at UCSF. She is interested in applying deep learning techniques to drug discovery to better understand and predict protein-ligand interactions."
+  avatar: /assets/images/people/bio-shub.jpg
+  title: Grad Student
+  github: laurashub
+  ncbi_id: Shub L
+  type: member
+
 douglas_myers_turnbull:
   name: Douglas Myers-Turnbull
   email: douglas@keiserlab.org
@@ -118,22 +140,11 @@ jessica_mckinley:
   bio: ""
   bio_long: "Jessica graduated from UC Riverside with a PhD in Computational/Theoretical Chemistry. She is interested in applying machine learning techniques to analyze molecular dynamics trajectories. On her time off she enjoys hiking around the bay area."
   avatar: /assets/images/people/bio-mckinley.jpg
-  title: Postdoctoral Scholar
+  title: CTSI TL1 Postdoctoral Fellow
   github: jmcki003
   google:
     scholar: 1lE4L80AAAAJ
   ncbi_id: McKinley JL
-  type: member
-
-jacob_pfau:
-  name: Jacob Pfau, M1
-  email: pfau@keiserlab.org
-  bio: ""
-  bio_long: "My interests span the theory and applications of machine learning models -- and deep learning in particular. I previously graduated from Ecole Polytechnique, in Paris, with an M1 (masters) in data science and a focus on NLP and machine vision. I am currently researching applications of deep learning to automated diagnosis in dermatology. My work includes everything from data wrangling to refining convolutional architectures for the medical context."
-  avatar: /assets/images/people/bio-pfau.jpg
-  title: Research Data Analyst; QBI Bold & Basic Fellow
-  github: JacobPfau
-  ncbi_id: Pfau J
   type: member
 
 luca_ponzoni:
@@ -160,18 +171,6 @@ maurisa_s:
   ncbi_id: Saylor M
   type: member
 
-albert_young:
-  name: Albert Young
-  email: ayoung@keiserlab.org
-  bio: "medical program"
-  bio_long: "Albert is a 4th year UCSF medical student interested in dermatology and machine learning in medicine. In the Keiser Lab he is pursuing a Yearlong Research Fellowship with co-mentor Dr. Maria Wei in the Department of Dermatology, with an emphasis on the automated diagnosis of skin lesions from digital images using deep learning. He is from Fullerton, California and enjoys playing tennis and hiking in his free time."
-  avatar: /assets/images/people/bio-young.jpg
-  title: Research Fellow (MS4)
-  github: ayoung01
-  ncbi_id: Young AT
-  linkedin: youngalbert
-  type: member
-
 dan_wong:
   name: Daniel Wong
   email: dwong@keiserlab.org
@@ -182,16 +181,6 @@ dan_wong:
   github: wongdaniel8
   ncbi_id: Wong DR
   type: member
-  
-michelle_wong_ng:
-  name: Michelle Wong-Ng
-  email: wong-ng@keiserlab.org
-  bio: ""
-  bio_long: "Michelle provides administrative support for Keiser Lab members."
-  avatar: /assets/images/people/bio-wong-ng.jpg
-  title: Administrative Officer
-  type: member
-  ncbi_id: 
   
 
 # ALUMNI
@@ -271,10 +260,10 @@ ziqi_tang:
 alexandre_fassio:
   name: Alexandre Fassio, PhD
   email: afassio@keiserlab.org
-  bio: ""
+  bio: "IFSC/USP"
   bio_long: "Visiting [CAPES Scholar](https://www.iie.org/Programs/CAPES), 2018-2019. Alexandre was a visiting scholar from the Federal University of Minas Gerais, Brazil. He was mentored by Dr. Raquel Minardi and Dr. Rafaela Ferreira. He is developing molecular representations to visualize and perform machine learning on protein-ligand interactions."
   avatar: /assets/images/people/bio-fassio.jpg
-  title: Computational Biologist
+  title: Postdoctoral Researcher
   github: alexandrefassio
   linkedin: alexandrefassio
   ncbi_id: Fassio AV
@@ -316,3 +305,36 @@ leo_gendelev:
   linkedin: leo-gendelev-2b4886181
   type: alumn
 
+jacob_pfau:
+  name: Jacob Pfau, M1
+  email: pfau@keiserlab.org
+  bio: ""
+  bio_long: "Research Data Analyst; QBI Bold & Basic Fellow (2019-2020). Jacob's interests span the theory and applications of machine learning models -- and deep learning in particular. He previously graduated from Ecole Polytechnique, in Paris, with an M1 (masters) in data science and a focus on NLP and machine vision. He was researching applications of deep learning to automated diagnosis in dermatology. His work included everything from data wrangling to refining convolutional architectures for the medical context."
+  avatar: /assets/images/people/bio-pfau.jpg
+  title: "Machine Learning Researcher"
+  github: JacobPfau
+  ncbi_id: Pfau J
+  linkedin: jacob-pfau
+  type: alumn
+  
+michelle_wong_ng:
+  name: Michelle Wong-Ng
+  email: wong-ng@keiserlab.org
+  bio: "UCSF Insitute for Health and Aging"
+  bio_long: "Administrative Officer (2020-2020). Michelle provided administrative support for Keiser Lab members."
+  avatar: /assets/images/people/bio-wong-ng.jpg
+  title: Administrative Officer
+  ncbi_id: 
+  type: alumn
+
+albert_young:
+  name: Albert Young
+  email: ayoung@keiserlab.org
+  bio: "UCSF"
+  bio_long: "Albert was a 4th year Research Fellow and UCSF medical student interested in dermatology and machine learning in medicine. In the Keiser Lab he pursued a Yearlong Research Fellowship with co-mentor Dr. Maria Wei in the Department of Dermatology, with an emphasis on the automated diagnosis of skin lesions from digital images using deep learning. He is from Fullerton, California and enjoys playing tennis and hiking in his free time."
+  avatar: /assets/images/people/bio-young.jpg
+  title: MD candidate
+  github: ayoung01
+  ncbi_id: Young AT
+  linkedin: youngalbert
+  type: alumn

@@ -3,10 +3,10 @@
 title: Jacob Pfau, M1
 author: jacob_pfau
 layout: author-bio
-jobtitle: Research Data Analyst; QBI Bold & Basic Fellow
+jobtitle: Machine Learning Researcher
 bio: 
-type: member
-excerpt: "My interests span the theory and applications of machine learning models -- and deep learning in particular. I previously graduated from Ecole Polytechnique, in"
+type: alumn
+excerpt: "Research Data Analyst; QBI Bold & Basic Fellow (2019-2020). Jacob's interests span the theory and applications of machine learning models -- and deep learning i"
 header:
   teaser: /assets/images/people/bio-pfau.jpg
 papers: 

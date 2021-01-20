@@ -4,9 +4,9 @@ title: Michelle Wong-Ng
 author: michelle_wong_ng
 layout: author-bio
 jobtitle: Administrative Officer
-bio: 
-type: member
-excerpt: "Michelle provides administrative support for Keiser Lab members."
+bio: UCSF Insitute for Health and Aging
+type: alumn
+excerpt: "Administrative Officer (2020-2020). Michelle provided administrative support for Keiser Lab members."
 header:
   teaser: /assets/images/people/bio-wong-ng.jpg
 papers: 
