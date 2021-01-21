@@ -90,6 +90,18 @@ sahru_keiser:
   ncbi_id: 
   type: member
 
+yannah_melle:
+  name: Yannah Melle
+  email: yannah@umich.edu
+  bio: "SRTP 2019"
+  bio_long: "Yannah is a 4th year undergraduate student studying Chemical Engineering at the University of Michigan. In the Keiser lab, she is investigating ligand-based drug discovery with cheminformatics and machine learning, using deep neural networks to predict the bioactivity of ligands for protein targets. She is excited about pursuing research and a career in biotechnology. Outside of academia Yannah is a foodie who loves to experience different cultures and do anything outdoors. "
+  avatar: /assets/images/people/bio-melle.jpg
+  title: "Visiting Scholar"
+  linkedin: 
+  github: JYang25
+  ncbi_id: Melle Y
+  type: member
+
 nick_mew:
   name: Nick Mew, MS
   email: mew@keiserlab.org
