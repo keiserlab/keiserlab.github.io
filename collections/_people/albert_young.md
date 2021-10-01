@@ -3,8 +3,8 @@
 title: Albert Young
 author: albert_young
 layout: author-bio
-jobtitle: MD candidate
-bio: UCSF
+jobtitle: Medical Resident
+bio: Henry Ford Health System
 type: alumn
 excerpt: "Albert was a 4th year Research Fellow and UCSF medical student interested in dermatology and machine learning in medicine. In the Keiser Lab he pursued a Yearlo"
 header:

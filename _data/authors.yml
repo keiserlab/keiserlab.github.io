@@ -22,6 +22,16 @@ michael_keiser:
   twitter: keiser_lab
   type: member
 
+fedelle_austria:
+  name: Fedelle Austria
+  email: faustria@keiserlab.org
+  bio: ""
+  bio_long: "Fedelle studied anthropology and film studies at UCLA and is currently a 2nd year master's student in East Asian Studies at Stanford University. Her current academic research focuses on health tourism in Korea. In her spare time, she enjoys traveling solo and spending time with her beloved Maltese-mix, Pan."
+  avatar: /assets/images/people/bio-austria.jpg
+  title: Administrative Officer
+  ncbi_id: 
+  type: member
+
 elena_caceres:
   name: Elena Caceres
   email: ecaceres@keiserlab.org
@@ -31,18 +41,6 @@ elena_caceres:
   title: Grad Student; NSF Fellow; HHMI Gilliam Fellow
   github: elcaceres
   ncbi_id: Caceres EL
-  type: member
-
-kangway_chuang:
-  name: Kangway Chuang, PhD
-  email: kangway@keiserlab.org
-  bio: ""
-  bio_long: ""
-  avatar: /assets/images/people/bio-chuang.jpg
-  title: Arnold O. Beckman Postdoctoral Fellow
-  github: kangway
-  linkedin: kangway-chuang-47549052
-  ncbi_id: Chuang KV
   type: member
   
 will_connell:
@@ -56,15 +54,15 @@ will_connell:
   ncbi_id: Connell W
   type: member
 
-garrett_gaskins:
-  name: Garrett Gaskins
-  email: gaskins@keiserlab.org
+parker_grosjean:
+  name: Parker Grosjean
+  email: pgrosjean@keiserlab.org
   bio: "bioinformatics"
-  bio_long: "High-content screening across varied cells, conditions, and chemical libraries has emerged as a key method for identifying novel compounds capable of systematically perturbing a biological network to induce a phenotype. The molecular targets (proteins, receptors, etc.) through which these compounds act to achieve their phenotype(s) are typically unknown. I am currently developing a chemoinformatic approach using aspects of image processing, machine learning, and SEA to identify the targets of novel compounds via their phenotypic signature."
-  avatar: /assets/images/people/bio-gaskins.jpg
-  title: Grad Student; Genentech Fellow; Hillblom Fellow
-  github: gtgask
-  ncbi_id: Gaskins G
+  bio_long: "As an undergraduate student Parker studied Bioengineering and Applied Mathematics at the University of Washington. He is currently a PhD student in the Bioinformatics Program at UCSF and is co-mentored in the [Kampmann Lab](https://kampmannlab.ucsf.edu/). His research interests lie at the intersection of deep learning, functional genomics, and high-content screening to investigate the underlying mechanisms of tauopathies and subsequent therapeutic perturbations in disease variant neurons."
+  avatar: /assets/images/people/bio-grosjean.jpg
+  title: Grad Student
+  github: pgrosjean
+  ncbi_id: Grosjean P
   type: member
   
 laura_gunsalus:
@@ -90,16 +88,16 @@ sahru_keiser:
   ncbi_id: 
   type: member
 
-yannah_melle:
-  name: Yannah Melle
-  email: yannah@umich.edu
-  bio: "SRTP 2019"
-  bio_long: "Yannah is a 4th year undergraduate student studying Chemical Engineering at the University of Michigan. In the Keiser lab, she is investigating ligand-based drug discovery with cheminformatics and machine learning, using deep neural networks to predict the bioactivity of ligands for protein targets. She is excited about pursuing research and a career in biotechnology. Outside of academia Yannah is a foodie who loves to experience different cultures and do anything outdoors. "
-  avatar: /assets/images/people/bio-melle.jpg
-  title: "Visiting Scholar"
-  linkedin: 
-  github: JYang25
-  ncbi_id: Melle Y
+taline_mardirossian:
+  name: Taline Mardirossian
+  email: talinemard@keiserlab.org
+  bio: ""
+  bio_long: "Taline graduated from UC Berkeley with a B.A. in Data Science, concentrated in applied mathematics and modeling. She has been a member of the Keiser Lab since 2021. Taline is currently working on the [SPOKE](https://spoke.ucsf.edu/) network project and is interested in the applications of machine learning in healthcare and medicine."
+  avatar: /assets/images/people/bio-mardirossian.jpg
+  title: "Research Data Analyst"
+  github: talinemardi
+  ncbi_id: Mardirossian T
+  linkedin: taline-mardirossian-a96152133
   type: member
 
 nick_mew:
@@ -124,6 +122,17 @@ lise_minaud:
   ncbi_id: Minaud L
   type: member
 
+ben_orr:
+  name: Ben Orr
+  email: orr@keiserlab.org
+  bio: "biophysics"
+  bio_long: "Ben graduated from Tufts in 2018 with a B.S. in Biochemistry and minor in Studio Art. As an undergraduate, he worked in Joshua Kritzer’s lab, designing cyclic peptide inhibitors of protein-protein interactions. He then worked as a Research Assistant in Jue Chen’s lab at Rockefeller U., studying membrane transporter proteins. He is now in the Biophysics PhD program and is interested in improving de novo protein design protocols with machine learning techniques. He is co-mentored with [Tanja Kortemme](http://kortemmelab.ucsf.edu/)."
+  avatar: /assets/images/people/bio-orr.jpg
+  title: Grad Student
+  github: bendorr
+  ncbi_id: Orr B
+  type: member
+
 laura_shub:
   name: Laura Shub
   email: lshub@keiserlab.org
@@ -135,6 +144,18 @@ laura_shub:
   ncbi_id: Shub L
   type: member
 
+mikio_tada:
+  name: Mikio Tada, MS
+  email: mtada@keiserlab.org
+  bio: ""
+  bio_long: "Mikio received a B.S. in Mathematics and M.S. in Data Science. He is currently researching the applications of deep learning in dermatology as a Research Data Analyst at UCSF. In addition, he is interested in deep learning techniques for broad computer vision problems"
+  avatar: /assets/images/people/bio-tada.jpg
+  title: "Research Data Analyst"
+  github: mikiotada
+  ncbi_id: Tada M
+  linkedin: mikiotada
+  type: member
+
 douglas_myers_turnbull:
   name: Douglas Myers-Turnbull
   email: douglas@keiserlab.org
@@ -144,19 +165,6 @@ douglas_myers_turnbull:
   title: Grad Student
   github: dmyersturnbull
   ncbi_id: Myers-Turnbull D
-  type: member
-
-jessica_mckinley:
-  name: Jessica McKinley, PhD
-  email: mckinley@keiserlab.org
-  bio: ""
-  bio_long: "Jessica graduated from UC Riverside with a PhD in Computational/Theoretical Chemistry. She is interested in applying machine learning techniques to analyze molecular dynamics trajectories. On her time off she enjoys hiking around the bay area."
-  avatar: /assets/images/people/bio-mckinley.jpg
-  title: CTSI TL1 Postdoctoral Fellow
-  github: jmcki003
-  google:
-    scholar: 1lE4L80AAAAJ
-  ncbi_id: McKinley JL
   type: member
 
 luca_ponzoni:
@@ -181,6 +189,18 @@ maurisa_s:
   title: Grad Student
   github: sayloren
   ncbi_id: Saylor M
+  type: member
+
+rish_sharma:
+  name: Rish Sharma
+  email: rish@keiserlab.org
+  bio: ""
+  bio_long: "I am a Research Data Analyst interested in generative modeling and property prediction of molecules using machine learning approaches."
+  avatar: /assets/images/people/bio-rsharma.jpg
+  title: "Research Data Analyst"
+  github: rish647
+  ncbi_id: Sharma R
+  linkedin: rishabhsharm
   type: member
 
 dan_wong:
@@ -227,7 +247,7 @@ teague_sterling:
   email: sterling@keiserlab.org
   bio: "BioMarin Pharmaceutical"
   avatar: /assets/images/people/bio-sterling.jpg
-  title: "Principal Engineer, Research Informatics"
+  title: "Associate Director, Research Informatics"
   linkedin: teaguesterling
   github: teaguesterling
   ncbi_id: Sterling T
@@ -236,10 +256,10 @@ teague_sterling:
 jizhou_yang:
   name: Jizhou Yang, MS
   email: jyang15@mail.sfsu.edu
-  bio: "Genentech"
+  bio: "Geltor Inc"
   bio_long: "Data science intern, 2017-2018."
   avatar: /assets/images/people/bio-yang.jpg
-  title: "Bioinformatics Engineer"
+  title: "Application Analyst"
   linkedin: jizhou-yang-43082a55
   github: JYang25
   ncbi_id: Yang J
@@ -263,7 +283,7 @@ ziqi_tang:
   bio: "Salesforce"
   bio_long: "Visiting Research Scholar, 2017-2019. Ziqi was an undergraduate student from Tsinghua University School of Pharmaceutical Sciences, participating in the UCSF-Tsinghua University Joint Student Education Program. His interests are in polypharmacology and machine learning."
   avatar: /assets/images/people/bio-tang.jpg
-  title: "Software Engineer Intern"
+  title: "AMTS Software Engineer"
   github: ZiqiTang919
   linkedin: ziqi-tang-bb404a180
   ncbi_id: Tang Z
@@ -284,10 +304,10 @@ alexandre_fassio:
 edward_elhauge:
   name: Edward Elhauge, MPH
   email: eelhauge@keiserlab.org
-  bio: ""
+  bio: "Freenome"
   bio_long: "Computational biology researcher (Specialist), 2017-2019."
   avatar: /assets/images/people/bio-elhauge.jpg
-  title: "biostatistics and epidemiology"
+  title: "Senior Biostatistician"
   github: eelhauge-keiserlab
   linkedin: edwardelhauge
   ncbi_id: Elhauge E
@@ -342,11 +362,74 @@ michelle_wong_ng:
 albert_young:
   name: Albert Young
   email: ayoung@keiserlab.org
-  bio: "UCSF"
+  bio: "Henry Ford Health System"
   bio_long: "Albert was a 4th year Research Fellow and UCSF medical student interested in dermatology and machine learning in medicine. In the Keiser Lab he pursued a Yearlong Research Fellowship with co-mentor Dr. Maria Wei in the Department of Dermatology, with an emphasis on the automated diagnosis of skin lesions from digital images using deep learning. He is from Fullerton, California and enjoys playing tennis and hiking in his free time."
   avatar: /assets/images/people/bio-young.jpg
-  title: MD candidate
+  title: "Medical Resident"
   github: ayoung01
   ncbi_id: Young AT
   linkedin: youngalbert
+  type: alumn
+
+yannah_melle:
+  name: Yannah Melle
+  email: yannah@umich.edu
+  bio: "Sutro Biopharma"
+  bio_long: "Visiting Scholar (2020), SRTP Intern (2019). Yannah was a 4th year undergraduate student studying Chemical Engineering at the University of Michigan. In the Keiser lab, she investigated ligand-based drug discovery with cheminformatics and machine learning, using deep neural networks to predict the bioactivity of ligands for protein targets. She is excited about pursuing research and a career in biotechnology. Outside of academia Yannah is a foodie who loves to experience different cultures and do anything outdoors. "
+  avatar: /assets/images/people/bio-melle.jpg
+  title: "Engineering Intern"
+  linkedin: 
+  github: JYang25
+  ncbi_id: Melle Y
+  linkedin: yjumelle
+  type: alumn
+
+jessica_mckinley:
+  name: Jessica McKinley, PhD
+  email: mckinley@keiserlab.org
+  bio: "Gilead Sciences"
+  bio_long: "CTSI TL1 Postdoctoral Fellow (2019-2021). Jessica graduated from UC Riverside with a PhD in Computational/Theoretical Chemistry. She applied machine learning techniques to analyze molecular dynamics trajectories. On her time off she enjoys hiking around the bay area."
+  avatar: /assets/images/people/bio-mckinley.jpg
+  title: "Research Scientist"
+  github: jmcki003
+  google:
+    scholar: 1lE4L80AAAAJ
+  ncbi_id: McKinley JL
+  linkedin: jessica-mckinley-195448196
+  type: alumn
+
+varun_sharma:
+  name: Varun Sharma, MSc
+  email: vsharma@keiserlab.org
+  bio: "CeMM (Bock and Menche Lab)"
+  bio_long: "Research Data Analyst (2020-2021). Varun studied Biology at Williams College (BA) and Systems Biology at ETH Zurich (MSc), and was a research data analyst in the Keiser lab. Previously he worked on using NLP and machine learning to predict the function of new protein complexes in the Aebersold Lab for his MSc thesis at ETH Zurich. He pursuined the application of machine/deep learning methodologies for systems pharmacological interrogation of complex biological systems in the context of high content imaging drug screens. Broadly he looks to leverage machine learning for a variety of therapeutic discovery and systems biology problems in areas such as neurodegeneration, cancer, gut microbiomics, and metabolic disorders."
+  avatar: /assets/images/people/bio-vsharma.jpg
+  title: "PhD student"
+  github: sharmavaruns
+  ncbi_id: Sharma V
+  linkedin: varun-sharma-32352974
+  type: alumn
+
+garrett_gaskins:
+  name: Garrett Gaskins, PhD
+  email: gaskins@keiserlab.org
+  bio: "Genentech"
+  bio_long: "Grad Student; Genentech Fellow; Hillblom Fellow (2014-2021). High-content screening across varied cells, conditions, and chemical libraries has emerged as a key method for identifying novel compounds capable of systematically perturbing a biological network to induce a phenotype. The molecular targets (proteins, receptors, etc.) through which these compounds act to achieve their phenotype(s) are typically unknown. Garrett developed a chemoinformatic approach using aspects of image processing, machine learning, and SEA to identify the targets of novel compounds via their phenotypic signature."
+  avatar: /assets/images/people/bio-gaskins.jpg
+  title: "AI Scientist"
+  github: gtgask
+  ncbi_id: Gaskins G
+  linkedin: gtgask
+  type: alumn
+
+kangway_chuang:
+  name: Kangway Chuang, PhD
+  email: kangway@keiserlab.org
+  bio: "Genentech"
+  bio_long: "Arnold O. Beckman Postdoctoral Fellow (2017-2021)"
+  avatar: /assets/images/people/bio-chuang.jpg
+  title: "AI/ML Senior Scientist"
+  github: kangway
+  linkedin: kangway
+  ncbi_id: Chuang KV
   type: alumn

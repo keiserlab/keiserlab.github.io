@@ -3,10 +3,10 @@
 title: Yannah Melle
 author: yannah_melle
 layout: author-bio
-jobtitle: Visiting Scholar
-bio: SRTP 2019
-type: member
-excerpt: "Yannah is a 4th year undergraduate student studying Chemical Engineering at the University of Michigan. In the Keiser lab, she is investigating ligand-based dru"
+jobtitle: Engineering Intern
+bio: Sutro Biopharma
+type: alumn
+excerpt: "Visiting Scholar (2020), SRTP Intern (2019). Yannah was a 4th year undergraduate student studying Chemical Engineering at the University of Michigan. In the Kei"
 header:
   teaser: /assets/images/people/bio-melle.jpg
 papers: 

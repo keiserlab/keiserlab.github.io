@@ -3,10 +3,10 @@
 title: Jessica McKinley, PhD
 author: jessica_mckinley
 layout: author-bio
-jobtitle: CTSI TL1 Postdoctoral Fellow
-bio: 
-type: member
-excerpt: "Jessica graduated from UC Riverside with a PhD in Computational/Theoretical Chemistry. She is interested in applying machine learning techniques to analyze mole"
+jobtitle: Research Scientist
+bio: Gilead Sciences
+type: alumn
+excerpt: "CTSI TL1 Postdoctoral Fellow (2019-2021). Jessica graduated from UC Riverside with a PhD in Computational/Theoretical Chemistry. She applied machine learning te"
 header:
   teaser: /assets/images/people/bio-mckinley.jpg
 papers: 

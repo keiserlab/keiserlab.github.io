@@ -3,8 +3,8 @@
 title: Edward Elhauge, MPH
 author: edward_elhauge
 layout: author-bio
-jobtitle: biostatistics and epidemiology
-bio: 
+jobtitle: Senior Biostatistician
+bio: Freenome
 type: alumn
 excerpt: "Computational biology researcher (Specialist), 2017-2019."
 header:

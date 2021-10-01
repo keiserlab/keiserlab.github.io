@@ -3,8 +3,8 @@
 title: Jizhou Yang, MS
 author: jizhou_yang
 layout: author-bio
-jobtitle: Bioinformatics Engineer
-bio: Genentech
+jobtitle: Application Analyst
+bio: Geltor Inc
 type: alumn
 excerpt: "Data science intern, 2017-2018."
 header:
