@@ -1,6 +1,6 @@
 ---
 author: michael_keiser
-title: "[Ongoing] Postdoc - Deep Learning and Pharmacology"
+title: "Postdoc - Deep Learning and Pharmacology"
 modified:
 categories: jobs
 excerpt:
@@ -9,14 +9,16 @@ image:
   feature:
 date: 2016-08-01T00:00:00-07:00
 ---
-> ### 2020-Feb: We have several open positions in this area of ongoing lab interest.
-> Qualifications update: We now prefer PyTorch in place of the previously listed deep learning frameworks.
+> ### 2021-Oct: The original project position is filled. However, several new projects are currently available in this ongoing area of research, so please contact us under this posting if you'd like to learn more.
 
 We're looking for highly motivated postdoctoral candidates with a background in machine learning, systems pharmacology, computational chemistry, bioinformatics, or related fields. The candidate would work to integrate deep learning with pharmacology. The project involves the design of deep neural networks for the prediction of small molecule binding activities and their role in phenotypic screens.
 
 ### Qualifications
 
-Desired, but not strictly required, skills include experience with theano, lasagne/keras, TensorFlow, pandas, rdkit, and sklearn. Expertise with CUDA and/or massive dataset analysis (e.g., NoSQL, AWS, Google Cloud) is a plus. A productive track record with at least one major first-author publication is required. We seek a driven individual who will lead his/her research independently and communicate frequently and clearly to the field.
+- Desired, but not strictly required, skills include experience with Pytorch, pandas, rdkit, and sklearn
+- Expertise with massive dataset analysis (e.g., NoSQL, AWS, Google Cloud) is a plus
+
+A productive track record with at least one major first-author publication is required. We seek a driven individual who will lead his/her research independently and communicate frequently and clearly to the field.
 
 ### Environment
 

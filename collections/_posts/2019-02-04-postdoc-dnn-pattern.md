@@ -1,6 +1,6 @@
 ---
 author: michael_keiser
-title: "[Open] Postdoc - Deep Learning and Bio/medical Pattern Recognition"
+title: "Postdoc - Deep Learning and Bio/medicine"
 modified:
 categories: jobs
 excerpt:
@@ -14,7 +14,9 @@ We're looking for highly motivated postdoctoral candidates with a background in 
 
 ### Qualifications
 
-Python expertise required. Desired, but not strictly required, skills include experience with PyTorch, Chainer, pandas, and sklearn. Expertise with containers (e.g., NGC, singularity), AI-ops (e.g., CI/CD for ML), rapid caching, and/or distributed dataset/model analysis is a plus.
+- Python expertise required
+- Desired, but not strictly required, skills include experience with PyTorch, pandas, and sklearn
+- Expertise with containers (e.g., singularity), AI-ops (e.g., CI/CD for ML), rapid caching, and/or distributed dataset/model analysis is a plus
 
 A productive track record with at least one first-author publication is required. We seek a driven individual who will lead her/his research independently and communicate frequently and clearly to the field.
 
