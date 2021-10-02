@@ -91,7 +91,7 @@ PAPER_TEMPLATE = '<span itemprop="isPartOf" itemscope itemtype="http://schema.or
                  '<span itemprop="datePublished">%s</span>. ' +\
                  '<span itemprop="author">%s</span>.'
 
-CSV_HEADER = ['id', 'title', 'journal', 'date', 'authors', 'link', 
+CSV_HEADER = ['id', 'title', 'journal', 'date', 'authors', 'link', 'doi_suffix',
     'preprint_url', 'preprint_journal', 'jekyll_date','type']
 
 def make_htmlsafe(txt):
@@ -232,12 +232,14 @@ def main(fmedline, fpreprint, outfile, datafile):
             writer = unicodecsv.writer(fo, encoding='utf-8')
             writer.writerow(CSV_HEADER)
             for row in publications:
-                row1 = row[:6]
-                row2 = row[7:]
-                pp = row[6]
+                row1 = row[:7]
+                row2 = row[8:]
+                pp = row[7]
                 if pp is not None:
-                    pp = list(row[6])
+                    # unpack pprint url from pprint journal
+                    pp = list(row[PCOL_DOI])
                 else:
+                    # populate pprint info with blanks
                     pp = ['','']
                 writer.writerow(row1 + pp + row2)
 # end main
