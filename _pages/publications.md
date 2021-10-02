@@ -139,21 +139,21 @@ feature_row2:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/papers/ICML_-_WHI.ICML_Pfau.jpg
+  - image_path: /assets/images/papers/arxiv_-_ICML_-_WHI.2104.02768.jpg
     alt: >-
         Robust Semantic Interpretability: Revisiting Concept Activation Vectors
     title: >-
         <span itemprop="name">Robust Semantic Interpretability: Revisiting Concept Activation Vectors</span>
     excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>ICML - WHI</strong></span>. <span itemprop="datePublished">2020 Jul 17</span>. <span itemprop="author">Pfau J, Young AT, Wei J, Wei ML, Keiser MJ</span>.
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>arxiv - ICML - WHI</strong></span>. <span itemprop="datePublished">2020 Jul 17</span>. <span itemprop="author">Pfau J, Young AT, Wei J, Wei ML, Keiser MJ</span>.
     url: ""
     doi: ""
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-    url2: "http://whi2020.online/poster_13.html"
+    url2: "https://arxiv.org/abs/2104.02768"
     btn2_label: >-
-        ICML - WHI &nbsp; <i class="fas fa-external-link-alt"></i>
+        arxiv - ICML - WHI &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
 feature_row3:

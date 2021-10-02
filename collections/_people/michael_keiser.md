@@ -43,7 +43,7 @@ papers:
       link: "https://doi.org/10.1016/j.jid.2020.02.026"
 
     - title: Robust Semantic Interpretability- Revisiting Concept Activation Vectors
-      excerpt: Pfau J, Young AT, Wei J, Wei ML, <u>Keiser MJ</u>. __ICML - WHI__. 2020 Jul 17.
+      excerpt: Pfau J, Young AT, Wei J, Wei ML, <u>Keiser MJ</u>. __arxiv - ICML - WHI__. 2020 Jul 17.
       link: ""
 
     - title: Validation of machine learning models to detect amyloid pathologies across institutions
