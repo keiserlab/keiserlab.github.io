@@ -108,7 +108,7 @@ nick_mew:
   avatar: /assets/images/people/bio-mew.jpg
   title: Computational Research Specialist
   github: munick
-  ncbi_id: Mew N
+  ncbi_id: Mew NC
   type: member
 
 lise_minaud:
@@ -207,11 +207,16 @@ dan_wong:
   name: Daniel Wong
   email: dwong@keiserlab.org
   bio: "bioinformatics"
-  bio_long: "Daniel studied Computer Science and Biochemistry at UC Berkeley, and is currently in a PhD program within the Integrative Program in Quantitative Biology. He is interested in developing machine learning methodologies in improving human health, particularly in the fields of neurodegeneration and pharmacology. Daniel is co-mentored in the [Butte Lab](http://buttelab.ucsf.edu/)."
+  bio_long: "Daniel studied Computer Science and Biochemistry at UC Berkeley, and is currently in a PhD program within the Integrative Program in Quantitative Biology. He is interested in developing machine learning methodologies in improving human health, particularly in the fields of neurodegeneration and pharmacology. Daniel is co-mentored in the [Butte Lab](http://buttelab.ucsf.edu/).
+
+  - [Prototype of running clinical trials in an untrustworthy environment using blockchain](https://doi.org/10.1038/s41467-019-08874-y). <ins>Wong DR</ins>, Bhattacharya S, Butte, AJ. **Nat Commun**. 2019 Feb 22. 
+  
+  - [Robust Sequence Determinants of α-Synuclein Toxicity in Yeast Implicate Membrane Binding](https://pubmed.ncbi.nlm.nih.gov/32786289/). Newberry RW, Arhar T, Costello J, ... <ins>Wong DR</ins>, Wong G, Redding S, Chow ED, DeGrado WF, Kampmann M. **ACS Chem Biol**. 2020 Aug 21."
   avatar: /assets/images/people/bio-dwong.jpg
   title: Grad Student
   github: wongdaniel8
   ncbi_id: Wong DR
+  linkedin: daniel-wong-b0a9ba1ba
   type: member
   
 

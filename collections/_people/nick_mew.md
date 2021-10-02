@@ -11,7 +11,7 @@ header:
   teaser: /assets/images/people/bio-mew.jpg
 papers: 
     - title: Adding Stochastic Negative Examples into Machine Learning Improves Molecular Bioactivity Prediction
-      excerpt: Caceres EL, <u>Mew N</u>C, Keiser MJ. __J Chem Inf Model__. 2020 Dec 28.
+      excerpt: Caceres EL, <u>Mew NC</u>, Keiser MJ. __J Chem Inf Model__. 2020 Dec 28.
       link: "https://doi.org/10.1021/acs.jcim.0c00565"
 
 ---
