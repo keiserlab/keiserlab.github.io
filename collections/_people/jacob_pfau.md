@@ -10,6 +10,10 @@ excerpt: "Research Data Analyst; QBI Bold & Basic Fellow (2019-2020). Jacob's in
 header:
   teaser: /assets/images/people/bio-pfau.jpg
 papers: 
+    - title: Stress testing reveals gaps in clinic readiness of image-based diagnostic artificial intelligence models
+      excerpt: Young AT, Fernandez K, <u>Pfau J</u>, Reddy R, Cao NA, von Franque MY, Johal A, Wu BV, Wu RR, Chen JY, Fadadu RP, Vasquez JA, Tam A, Keiser MJ, Wei ML. __NPJ Digit Med__. 2021 Jan 21.
+      link: "https://doi.org/10.1038/s41746-020-00380-6"
+
     - title: Artificial Intelligence in Dermatology- A Primer
       excerpt: Young AT, Xiong M, <u>Pfau J</u>, Keiser MJ, Wei ML. __J Invest Dermatol__. 2020 Aug.
       link: "https://doi.org/10.1016/j.jid.2020.02.026"

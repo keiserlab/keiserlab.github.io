@@ -11,6 +11,36 @@ intro:
     - title: Publications
 feature_row0:
 
+  - image_path: /assets/images/papers/bioRxiv.2021.03.12.435050.jpg
+    alt: >-
+        Deep learning from multiple experts improves identification of amyloid neuropathologies
+    title: >-
+        <span itemprop="name">Deep learning from multiple experts improves identification of amyloid neuropathologies</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2021 Mar 12</span>. <span itemprop="author">Wong DR, Tang Z, Mew NC, Das S, Athey J, McAleese KE, Kofler JK, Flanagan ME, Borys E, White CL, Butte AJ, Dugger BN, Keiser MJ</span>.
+    url: ""
+    doi: ""
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.1101/2021.03.12.435050"
+    btn2_label: >-
+        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
+  - image_path: /assets/images/papers/10.1038.s41746-020-00380-6.jpg
+    alt: >-
+        Stress testing reveals gaps in clinic readiness of image-based diagnostic artificial intelligence models
+    title: >-
+        <span itemprop="name">Stress testing reveals gaps in clinic readiness of image-based diagnostic artificial intelligence models</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>NPJ Digit Med</strong></span>. <span itemprop="datePublished">2021 Jan 21</span>. <span itemprop="author">Young AT, Fernandez K, Pfau J, Reddy R, Cao NA, von Franque MY, Johal A, Wu BV, Wu RR, Chen JY, Fadadu RP, Vasquez JA, Tam A, Keiser MJ, Wei ML</span>.
+    url: "https://doi.org/10.1038/s41746-020-00380-6"
+    doi: "10.1038/s41746-020-00380-6"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+
   - image_path: /assets/images/papers/bioRxiv.2021.01.08.425973.jpg
     alt: >-
         Trans-channel fluorescence learning improves high-content screening for Alzheimer's disease therapeutics
@@ -27,6 +57,8 @@ feature_row0:
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
+
+feature_row1:
 
   - image_path: /assets/images/papers/10.1021.acs.jcim.0c00565.jpg
     alt: >-
@@ -62,8 +94,6 @@ feature_row0:
         NeurIPS LMRL &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row1:
-
   - image_path: /assets/images/papers/arXiv_-_NeurIPS_ML4Molecules.2011.1282.jpg
     alt: >-
         Attention-Based Learning on Molecular Ensembles
@@ -80,6 +110,8 @@ feature_row1:
     btn2_label: >-
         arXiv - NeurIPS ML4Molecules &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
+
+feature_row2:
 
   - image_path: /assets/images/papers/10.1021.acs.jmedchem.0c00385.jpg
     alt: >-
@@ -107,8 +139,6 @@ feature_row1:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row2:
-
   - image_path: /assets/images/papers/ICML_-_WHI.ICML_Pfau.jpg
     alt: >-
         Robust Semantic Interpretability: Revisiting Concept Activation Vectors
@@ -125,6 +155,8 @@ feature_row2:
     btn2_label: >-
         ICML - WHI &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
+
+feature_row3:
 
   - image_path: /assets/images/papers/10.1186.s40478-020-00927-4.jpg
     alt: >-
@@ -156,8 +188,6 @@ feature_row2:
         arXiv - NeurIPS ML4H &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row3:
-
   - image_path: /assets/images/papers/10.1038.s41467-019-11936-w.jpg
     alt: >-
         Zebrafish behavioural profiling identifies GABA and serotonin receptor ligands related to sedation and paradoxical excitation
@@ -170,6 +200,8 @@ feature_row3:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
+
+feature_row4:
 
   - image_path: /assets/images/papers/10.1038.s41467-019-10212-1.jpg
     alt: >-
@@ -201,8 +233,6 @@ feature_row3:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row4:
-
   - image_path: /assets/images/papers/10.1021.acschembio.8b00881.jpg
     alt: >-
         Adversarial Controls for Scientific Machine Learning
@@ -215,6 +245,8 @@ feature_row4:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
+
+feature_row5:
 
   - image_path: /assets/images/papers/10.1016.j.cell.2018.06.016.jpg
     alt: >-
@@ -246,8 +278,6 @@ feature_row4:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row5:
-
   - image_path: /assets/images/papers/10.1016.j.celrep.2017.10.026.jpg
     alt: >-
         Evolutionarily Conserved Roles for Blood-Brain Barrier Xenobiotic Transporters in Endogenous Steroid Partitioning and Behavior
@@ -264,6 +294,8 @@ feature_row5:
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
+
+feature_row6:
 
   - image_path: /assets/images/papers/10.1021.acs.jmedchem.7b00696.jpg
     alt: >-
@@ -295,8 +327,6 @@ feature_row5:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row6:
-
   - image_path: /assets/images/papers/10.1021.acschembio.5b00800.jpg
     alt: >-
         Leveraging Large-scale Behavioral Profiling in Zebrafish to Explore Neuroactive Polypharmacology
@@ -309,6 +339,8 @@ feature_row6:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
+
+feature_row7:
 
   - image_path: /assets/images/papers/10.1016.S2215-0366(15)00553-2.jpg
     alt: >-
@@ -336,8 +368,6 @@ feature_row6:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row7:
-
   - image_path: /assets/images/papers/10.1002.cpt.2.jpg
     alt: >-
         Systems pharmacology augments drug safety surveillance
@@ -350,6 +380,8 @@ feature_row7:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
+
+feature_row8:
 
   - image_path: /assets/images/papers/10.1371.journal.pbio.1001712.jpg
     alt: >-
@@ -377,8 +409,6 @@ feature_row7:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row8:
-
   - image_path: /assets/images/papers/10.1038.nchembio.732.jpg
     alt: >-
         Chemical informatics and target identification in a zebrafish phenotypic screen
@@ -391,6 +421,8 @@ feature_row8:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
+
+feature_row9:
 
   - image_path: /assets/images/papers/10.1038.npp.2010.195.jpg
     alt: >-
@@ -418,8 +450,6 @@ feature_row8:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row9:
-
   - image_path: /assets/images/papers/10.1021.jm100488w.jpg
     alt: >-
         Complementarity between a docking and a high-throughput screen in discovering new cruzain inhibitors
@@ -432,6 +462,8 @@ feature_row9:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
+
+feature_row10:
 
   - image_path: /assets/images/papers/10.1021.jm901613f.jpg
     alt: >-
@@ -459,8 +491,6 @@ feature_row9:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row10:
-
   - image_path: /assets/images/papers/10.1038.nature08506.jpg
     alt: >-
         Predicting new molecular targets for known drugs
@@ -473,6 +503,8 @@ feature_row10:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
+
+feature_row11:
 
   - image_path: /assets/images/papers/10.1371.journal.pcbi.1000474.jpg
     alt: >-
@@ -500,8 +532,6 @@ feature_row10:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row11:
-
   - image_path: /assets/images/papers/10.1007.978-1-60761-274-2_8.jpg
     alt: >-
         Off-target networks derived from ligand set similarity
@@ -514,6 +544,8 @@ feature_row11:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
+
+feature_row12:
 
   - image_path: /assets/images/papers/10.1021.ci8000259.jpg
     alt: >-
@@ -592,3 +624,7 @@ feature_row11:
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 {% include feature_row_paper.html id="feature_row11" %}
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+{% include feature_row_paper.html id="feature_row12" %}

@@ -10,6 +10,14 @@ excerpt: "<p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and
 header:
   teaser: /assets/images/people/bio-keiser.jpg
 papers: 
+    - title: Deep learning from multiple experts improves identification of amyloid neuropathologies
+      excerpt: Wong DR, Tang Z, Mew NC, Das S, Athey J, McAleese KE, Kofler JK, Flanagan ME, Borys E, White CL, Butte AJ, Dugger BN, <u>Keiser MJ</u>. __bioRxiv__. 2021 Mar 12.
+      link: ""
+
+    - title: Stress testing reveals gaps in clinic readiness of image-based diagnostic artificial intelligence models
+      excerpt: Young AT, Fernandez K, Pfau J, Reddy R, Cao NA, von Franque MY, Johal A, Wu BV, Wu RR, Chen JY, Fadadu RP, Vasquez JA, Tam A, <u>Keiser MJ</u>, Wei ML. __NPJ Digit Med__. 2021 Jan 21.
+      link: "https://doi.org/10.1038/s41746-020-00380-6"
+
     - title: Trans-channel fluorescence learning improves high-content screening for Alzheimer's disease therapeutics
       excerpt: Wong DR, Conrad J, Johnson N, Ayers JI, Laeremans A, Lee JC, Lee J, Prusiner SB, Bandyopadhyay S, Butte AJ, Paras NA, <u>Keiser MJ</u>. __bioRxiv__. 2021 Jan 09.
       link: ""

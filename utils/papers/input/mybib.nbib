@@ -1,7 +1,144 @@
+PMID- 33479460
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210130
+IS  - 2398-6352 (Electronic)
+IS  - 2398-6352 (Linking)
+VI  - 4
+IP  - 1
+DP  - 2021 Jan 21
+TI  - Stress testing reveals gaps in clinic readiness of image-based diagnostic
+      artificial intelligence models.
+PG  - 10
+LID - 10.1038/s41746-020-00380-6 [doi]
+AB  - Artificial intelligence models match or exceed dermatologists in melanoma
+      image classification. Less is known about their robustness against real-
+      world variations, and clinicians may incorrectly assume that a model with
+      an acceptable area under the receiver operating characteristic curve or
+      related performance metric is ready for clinical use. Here, we
+      systematically assessed the performance of dermatologist-level
+      convolutional neural networks (CNNs) on real-world non-curated images by
+      applying computational "stress tests". Our goal was to create a proxy
+      environment in which to comprehensively test the generalizability of off-
+      the-shelf CNNs developed without training or evaluation protocols
+      specific to individual clinics. We found inconsistent predictions on
+      images captured repeatedly in the same setting or subjected to simple
+      transformations (e.g., rotation). Such transformations resulted in false
+      positive or negative predictions for 6.5-22% of skin lesions across test
+      datasets. Our findings indicate that models meeting conventionally
+      reported metrics need further validation with computational stress tests
+      to assess clinic readiness.
+FAU - Young, Albert T
+AU  - Young AT
+AUID- ORCID: http://orcid.org/0000-0002-4088-2488
+AD  - Dermatology Service, San Francisco VA Health Care System, San Francisco,
+      CA, USA.
+AD  - Department of Dermatology, University of California, San Francisco, San
+      Francisco, CA, USA.
+FAU - Fernandez, Kristen
+AU  - Fernandez K
+AD  - Dermatology Service, San Francisco VA Health Care System, San Francisco,
+      CA, USA.
+AD  - Department of Dermatology, University of California, San Francisco, San
+      Francisco, CA, USA.
+FAU - Pfau, Jacob
+AU  - Pfau J
+AD  - Dermatology Service, San Francisco VA Health Care System, San Francisco,
+      CA, USA.
+AD  - Department of Dermatology, University of California, San Francisco, San
+      Francisco, CA, USA.
+FAU - Reddy, Rasika
+AU  - Reddy R
+AD  - Dermatology Service, San Francisco VA Health Care System, San Francisco,
+      CA, USA.
+AD  - Department of Dermatology, University of California, San Francisco, San
+      Francisco, CA, USA.
+FAU - Cao, Nhat Anh
+AU  - Cao NA
+AD  - Dermatology Service, San Francisco VA Health Care System, San Francisco,
+      CA, USA.
+FAU - von Franque, Max Y
+AU  - von Franque MY
+AD  - Dermatology Service, San Francisco VA Health Care System, San Francisco,
+      CA, USA.
+FAU - Johal, Arjun
+AU  - Johal A
+AD  - Dermatology Service, San Francisco VA Health Care System, San Francisco,
+      CA, USA.
+AD  - Department of Dermatology, University of California, San Francisco, San
+      Francisco, CA, USA.
+FAU - Wu, Benjamin V
+AU  - Wu BV
+AD  - Dermatology Service, San Francisco VA Health Care System, San Francisco,
+      CA, USA.
+FAU - Wu, Rachel R
+AU  - Wu RR
+AD  - Dermatology Service, San Francisco VA Health Care System, San Francisco,
+      CA, USA.
+FAU - Chen, Jennifer Y
+AU  - Chen JY
+AD  - Dermatology Service, San Francisco VA Health Care System, San Francisco,
+      CA, USA.
+FAU - Fadadu, Raj P
+AU  - Fadadu RP
+AUID- ORCID: http://orcid.org/0000-0002-7163-9237
+AD  - Dermatology Service, San Francisco VA Health Care System, San Francisco,
+      CA, USA.
+AD  - Department of Dermatology, University of California, San Francisco, San
+      Francisco, CA, USA.
+FAU - Vasquez, Juan A
+AU  - Vasquez JA
+AD  - Dermatology Service, San Francisco VA Health Care System, San Francisco,
+      CA, USA.
+FAU - Tam, Andrew
+AU  - Tam A
+AD  - Dermatology Service, San Francisco VA Health Care System, San Francisco,
+      CA, USA.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AUID- ORCID: http://orcid.org/0000-0002-1240-2192
+AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
+      Therapeutic Sciences, Institute for Neurodegenerative Diseases, and Bakar
+      Computational Health Sciences Institute, University of California, San
+      Francisco, USA. keiser@keiserlab.org.
+FAU - Wei, Maria L
+AU  - Wei ML
+AUID- ORCID: http://orcid.org/0000-0002-3568-1921
+AD  - Dermatology Service, San Francisco VA Health Care System, San Francisco,
+      CA, USA. maria.wei@ucsf.edu.
+AD  - Department of Dermatology, University of California, San Francisco, San
+      Francisco, CA, USA. maria.wei@ucsf.edu.
+AD  - Helen Diller Family Comprehensive Cancer Center, University of
+      California, San Francisco, San Francisco, CA, USA. maria.wei@ucsf.edu.
+LA  - eng
+GR  - R01 AG062517/AG/NIA NIH HHS/United States
+GR  - TL1 TR001871/TR/NCATS NIH HHS/United States
+GR  - 622732/Melanoma Research Alliance (MRA)
+PT  - Journal Article
+DEP - 20210121
+PL  - England
+TA  - NPJ Digit Med
+JT  - NPJ digital medicine
+JID - 101731738
+PMC - PMC7820258
+EDAT- 2021/01/23 06:00
+MHDA- 2021/01/23 06:01
+CRDT- 2021/01/22 06:22
+PHST- 2020/08/26 00:00 [received]
+PHST- 2020/12/09 00:00 [accepted]
+PHST- 2021/01/22 06:22 [entrez]
+PHST- 2021/01/23 06:00 [pubmed]
+PHST- 2021/01/23 06:01 [medline]
+AID - 10.1038/s41746-020-00380-6 [doi]
+AID - 10.1038/s41746-020-00380-6 [pii]
+PST - epublish
+SO  - NPJ Digit Med. 2021 Jan 21;4(1):10. doi: 10.1038/s41746-020-00380-6.
+
 PMID- 33245237
 OWN - NLM
-STAT- In-Data-Review
-LR  - 20201231
+STAT- MEDLINE
+DCOM- 20210617
+LR  - 20210617
 IS  - 1549-960X (Electronic)
 IS  - 1549-9596 (Linking)
 VI  - 60
@@ -28,7 +165,7 @@ AB  - Multitask deep neural networks learn to predict ligand-target binding by
       into training improves predictions of drug-target relationships.
 FAU - Caceres, Elena L
 AU  - Caceres EL
-AUID- ORCID: http://orcid.org/0000-0002-2353-4350
+AUID- ORCID: 0000-0002-2353-4350
 AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
       Therapeutic Sciences, Bakar Computational Health Sciences Institute,
       Kavli Institute for Fundamental Neuroscience, Institute for
@@ -43,25 +180,30 @@ AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
       Nelson Rising Ln NS 416A, San Francisco, California 94143, United States.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
-AUID- ORCID: http://orcid.org/0000-0002-1240-2192
+AUID- ORCID: 0000-0002-1240-2192
 AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
       Therapeutic Sciences, Bakar Computational Health Sciences Institute,
       Kavli Institute for Fundamental Neuroscience, Institute for
       Neurodegenerative Diseases, University of California, San Francisco, 675
       Nelson Rising Ln NS 416A, San Francisco, California 94143, United States.
 LA  - eng
+GR  - HHMI/Howard Hughes Medical Institute/United States
 PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
 DEP - 20201127
 PL  - United States
 TA  - J Chem Inf Model
 JT  - Journal of chemical information and modeling
 JID - 101230060
 SB  - IM
+MH  - *Machine Learning
+MH  - *Neural Networks, Computer
 EDAT- 2020/11/28 06:00
-MHDA- 2020/11/28 06:00
+MHDA- 2021/06/22 06:00
 CRDT- 2020/11/27 12:07
 PHST- 2020/11/28 06:00 [pubmed]
-PHST- 2020/11/28 06:00 [medline]
+PHST- 2021/06/22 06:00 [medline]
 PHST- 2020/11/27 12:07 [entrez]
 AID - 10.1021/acs.jcim.0c00565 [doi]
 PST - ppublish
@@ -151,8 +293,9 @@ SO  - J Med Chem. 2020 Aug 27;63(16):8705-8722. doi:
 
 PMID- 32229141
 OWN - NLM
-STAT- In-Data-Review
-LR  - 20200727
+STAT- MEDLINE
+DCOM- 20210308
+LR  - 20210308
 IS  - 1523-1747 (Electronic)
 IS  - 0022-202X (Linking)
 VI  - 140
@@ -207,7 +350,10 @@ AD  - Department of Dermatology, University of California, San Francisco, San
       Francisco, San Francisco, California, USA. Electronic address:
       maria.wei@ucsf.edu.
 LA  - eng
+GR  - TL1 TR001871/TR/NCATS NIH HHS/United States
 PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
 PT  - Review
 DEP - 20200327
 PL  - United States
@@ -215,14 +361,23 @@ TA  - J Invest Dermatol
 JT  - The Journal of investigative dermatology
 JID - 0426720
 SB  - IM
+MH  - Deep Learning/*ethics
+MH  - Dermatology/ethics/*methods
+MH  - Humans
+MH  - Image Processing, Computer-Assisted/ethics/*methods
+MH  - Referral and Consultation
+MH  - Skin/*diagnostic imaging/pathology
+MH  - Skin Diseases/*diagnosis/pathology
+MH  - Telemedicine/ethics/methods
+MH  - Triage/ethics/methods
 EDAT- 2020/04/02 06:00
-MHDA- 2020/04/02 06:00
+MHDA- 2021/03/09 06:00
 CRDT- 2020/04/02 06:00
 PHST- 2019/12/03 00:00 [received]
 PHST- 2020/02/22 00:00 [revised]
 PHST- 2020/02/25 00:00 [accepted]
 PHST- 2020/04/02 06:00 [pubmed]
-PHST- 2020/04/02 06:00 [medline]
+PHST- 2021/03/09 06:00 [medline]
 PHST- 2020/04/02 06:00 [entrez]
 AID - S0022-202X(20)31201-X [pii]
 AID - 10.1016/j.jid.2020.02.026 [doi]
@@ -232,8 +387,9 @@ SO  - J Invest Dermatol. 2020 Aug;140(8):1504-1512. doi:
 
 PMID- 32345363
 OWN - NLM
-STAT- In-Process
-LR  - 20200729
+STAT- MEDLINE
+DCOM- 20210531
+LR  - 20210531
 IS  - 2051-5960 (Electronic)
 IS  - 2051-5960 (Linking)
 VI  - 8
@@ -317,12 +473,23 @@ GR  - P50 AG025688/AG/NIA NIH HHS/United States
 PT  - Journal Article
 PT  - Research Support, N.I.H., Extramural
 PT  - Research Support, Non-U.S. Gov't
+PT  - Validation Study
 DEP - 20200428
 PL  - England
 TA  - Acta Neuropathol Commun
 JT  - Acta neuropathologica communications
 JID - 101610673
+RN  - 0 (Amyloid beta-Peptides)
 SB  - IM
+MH  - Alzheimer Disease/*diagnosis/pathology
+MH  - Amyloid beta-Peptides
+MH  - Humans
+MH  - Image Interpretation, Computer-Assisted
+MH  - Lewy Body Disease/diagnosis/pathology
+MH  - *Machine Learning
+MH  - *Neural Networks, Computer
+MH  - Neurodegenerative Diseases/*diagnosis/pathology
+MH  - TDP-43 Proteinopathies/diagnosis/pathology
 PMC - PMC7189549
 OTO - NOTNLM
 OT  - *Alzheimer's disease
@@ -332,13 +499,13 @@ OT  - *Deep learning
 OT  - *Neuropathology
 OT  - *Whole-slide imaging
 EDAT- 2020/04/30 06:00
-MHDA- 2020/04/30 06:00
+MHDA- 2021/06/01 06:00
 CRDT- 2020/04/30 06:00
 PHST- 2020/02/05 00:00 [received]
 PHST- 2020/03/31 00:00 [accepted]
 PHST- 2020/04/30 06:00 [entrez]
 PHST- 2020/04/30 06:00 [pubmed]
-PHST- 2020/04/30 06:00 [medline]
+PHST- 2021/06/01 06:00 [medline]
 AID - 10.1186/s40478-020-00927-4 [doi]
 AID - 10.1186/s40478-020-00927-4 [pii]
 PST - epublish
