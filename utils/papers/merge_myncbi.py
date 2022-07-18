@@ -140,7 +140,7 @@ def convert_date(datestr):
 # end convert_date
 
 
-def main(fmedline, fpreprint, outfile, datafile):
+def main(fmedline, fpreprint, outfile, datafile, fmanual):
 
     with open(fpreprint) as fi:
         reader = csv.reader(fi)
@@ -158,6 +158,9 @@ def main(fmedline, fpreprint, outfile, datafile):
 
     with open(fmedline) as fi:
         m_records = list(Medline.parse(fi))
+    if fmanual is not None:
+        with open(fmanual) as fm:
+            m_records.extend(list(Medline.parse(fm)))
 
     publications = []
     # read preprints/manual, and add first
@@ -246,13 +249,16 @@ def main(fmedline, fpreprint, outfile, datafile):
 
 
 if __name__ == '__main__':
-    usage = 'usage: %prog [options] myncbi.bib preprints.csv'
+    usage = 'usage: %prog [options] myncbi.nbib preprints.csv'
     parser = OptionParser(usage)
     parser.add_option('-o','--outfile',dest='outfile',metavar='FILE',
                       help='Output to FILE (default %default)',
                       action='store',default=DEF_OUTFILE)
     parser.add_option('-d','--datafile',dest='datafile',metavar='FILE',
                       help='Output copy of structured data to FILE (csv) (default %default)',
+                      action='store',default=None)
+    parser.add_option('-m','--manual',dest='manualfile',metavar='FILE',
+                      help='Provide manual MEDLINE/nbib file to include published articles not indexed by PubMed (default %default)',
                       action='store',default=None)
     options,args = parser.parse_args()
 
@@ -261,5 +267,5 @@ if __name__ == '__main__':
     except:
         parser.error("Incorrect number of arguments")
 
-    main(arg1, arg2, options.outfile, options.datafile)
+    main(arg1, arg2, options.outfile, options.datafile, options.manualfile)
 # end __main__
