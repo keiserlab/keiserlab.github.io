@@ -31,17 +31,6 @@ fedelle_austria:
   title: Administrative Officer
   ncbi_id: 
   type: member
-
-elena_caceres:
-  name: Elena Caceres
-  email: ecaceres@keiserlab.org
-  bio: "bioinformatics"
-  bio_long: "Elena graduated from UCSD with a B.Sc. in molecular biology and a minor in mathematics. As of 2014, she is a graduate student in the Bioinformatics program as part of the iPQB program at UCSF. She is interested in applying techniques from statistics and machine learning to better understand and predict features underlying drug-target interactions."
-  avatar: /assets/images/people/bio-caceres.jpg
-  title: Grad Student; NSF Fellow; HHMI Gilliam Fellow
-  github: elcaceres
-  ncbi_id: Caceres EL
-  type: member
   
 will_connell:
   name: Will Connell
@@ -86,18 +75,6 @@ sahru_keiser:
   linkedin: sahru-keiser-mph-53563427
   twitter: SahruKeiser
   ncbi_id: 
-  type: member
-
-taline_mardirossian:
-  name: Taline Mardirossian
-  email: talinemard@keiserlab.org
-  bio: ""
-  bio_long: "Taline graduated from UC Berkeley with a B.A. in Data Science, concentrated in applied mathematics and modeling. She has been a member of the Keiser Lab since 2021. Taline is currently working on the [SPOKE](https://spoke.ucsf.edu/) network project and is interested in the applications of machine learning in healthcare and medicine."
-  avatar: /assets/images/people/bio-mardirossian.jpg
-  title: "Research Data Analyst"
-  github: talinemardi
-  ncbi_id: Mardirossian T
-  linkedin: taline-mardirossian-a96152133
   type: member
 
 nick_mew:
@@ -160,9 +137,9 @@ douglas_myers_turnbull:
   name: Douglas Myers-Turnbull
   email: douglas@keiserlab.org
   bio: "bioinformatics"
-  bio_long: "Douglas is a PhD candidate in the Bioinformatics program. He received a B.S. in Computer Science with a Specialization in Bioinformatics (math minor) from UCSD, where he did research in structural biology. He then worked in clinical sequencing at the Stanford School of Medicine. At UCSF, he is developing biological and computational methods to discover new neuroactive compounds in vivo, using zebrafish as a model. He is interested in software design, computer vision, and bioinformatics, and in integrating diverse data types."
+  bio_long: "Douglas was a PhD candidate in the Bioinformatics program. He received a B.S. in Computer Science with a Specialization in Bioinformatics (math minor) from UCSD, where he did research in structural biology. He then worked in clinical sequencing at the Stanford School of Medicine. At UCSF, he is developing biological and computational methods to discover new neuroactive compounds in vivo, using zebrafish as a model. He is interested in software design, computer vision, and bioinformatics, and in integrating diverse data types."
   avatar: /assets/images/people/bio-myers-turnbull.jpg
-  title: Grad Student
+  title: Postdoctoral Scholar
   github: dmyersturnbull
   ncbi_id: Myers-Turnbull D
   type: member
@@ -202,22 +179,6 @@ rish_sharma:
   ncbi_id: Sharma R
   linkedin: rishabhsharm
   type: member
-
-dan_wong:
-  name: Daniel Wong
-  email: dwong@keiserlab.org
-  bio: "bioinformatics"
-  bio_long: "Daniel studied Computer Science and Biochemistry at UC Berkeley, and is currently in a PhD program within the Integrative Program in Quantitative Biology. He is interested in developing machine learning methodologies in improving human health, particularly in the fields of neurodegeneration and pharmacology. Daniel is co-mentored in the [Butte Lab](http://buttelab.ucsf.edu/).
-
-  - [Prototype of running clinical trials in an untrustworthy environment using blockchain](https://doi.org/10.1038/s41467-019-08874-y). <ins>Wong DR</ins>, Bhattacharya S, Butte, AJ. **Nat Commun**. 2019 Feb 22. 
-  
-  - [Robust Sequence Determinants of α-Synuclein Toxicity in Yeast Implicate Membrane Binding](https://pubmed.ncbi.nlm.nih.gov/32786289/). Newberry RW, Arhar T, Costello J, ... <ins>Wong DR</ins>, Wong G, Redding S, Chow ED, DeGrado WF, Kampmann M. **ACS Chem Biol**. 2020 Aug 21."
-  avatar: /assets/images/people/bio-dwong.jpg
-  title: Grad Student
-  github: wongdaniel8
-  ncbi_id: Wong DR
-  linkedin: daniel-wong-b0a9ba1ba
-  type: member
   
 
 # ALUMNI
@@ -252,19 +213,19 @@ teague_sterling:
   email: sterling@keiserlab.org
   bio: "BioMarin Pharmaceutical"
   avatar: /assets/images/people/bio-sterling.jpg
-  title: "Associate Director, Research Informatics"
+  title: "Director, Head of Computational Biology"
   linkedin: teaguesterling
   github: teaguesterling
   ncbi_id: Sterling T
   type: alumn
 
 jizhou_yang:
-  name: Jizhou Yang, MS
+  name: Jason (Jizhou) Yang, MS
   email: jyang15@mail.sfsu.edu
-  bio: "Geltor Inc"
-  bio_long: "Data science intern, 2017-2018."
+  bio: "Illumina"
+  bio_long: "Data science intern (2017-2018)."
   avatar: /assets/images/people/bio-yang.jpg
-  title: "Application Analyst"
+  title: "Software Engineer In Test"
   linkedin: jizhou-yang-43082a55
   github: JYang25
   ncbi_id: Yang J
@@ -273,10 +234,10 @@ jizhou_yang:
 amanda_li:
   name: Amanda Li, PhD
   email: ali@keiserlab.org
-  bio: "stealth biotech startup"
+  bio: "Ultima Genomics"
   bio_long: "Postdoctoral Fellow at UCSF and the [Accelerating Therapeutics for Opportunities in Medicine (ATOM) consortium](https://atomscience.org/), 2017-2019."
   avatar: /assets/images/people/bio-li.jpg
-  title: "Data Scientist"
+  title: "Senior Data Engineer"
   github: 8li
   linkedin: liamanda
   ncbi_id: Li A
@@ -288,7 +249,7 @@ ziqi_tang:
   bio: "Salesforce"
   bio_long: "Visiting Research Scholar, 2017-2019. Ziqi was an undergraduate student from Tsinghua University School of Pharmaceutical Sciences, participating in the UCSF-Tsinghua University Joint Student Education Program. His interests are in polypharmacology and machine learning."
   avatar: /assets/images/people/bio-tang.jpg
-  title: "AMTS Software Engineer"
+  title: "MTS Software Engineer"
   github: ZiqiTang919
   linkedin: ziqi-tang-bb404a180
   ncbi_id: Tang Z
@@ -336,7 +297,7 @@ leo_gendelev:
   bio: "Genentech"
   bio_long: "Biophysics graduate student; Fletcher Jones Fellow (2014-2019)."
   avatar: /assets/images/people/bio-gendelev.jpg
-  title: "AI Scientist - Computational Drug Discovery"
+  title: "Senior AI Scientist - Computational Drug Discovery"
   github: lgend
   ncbi_id: Gendelev L
   linkedin: leo-gendelev-2b4886181
@@ -345,10 +306,10 @@ leo_gendelev:
 jacob_pfau:
   name: Jacob Pfau, M1
   email: pfau@keiserlab.org
-  bio: ""
+  bio: "NYU"
   bio_long: "Research Data Analyst; QBI Bold & Basic Fellow (2019-2020). Jacob's interests span the theory and applications of machine learning models -- and deep learning in particular. He previously graduated from Ecole Polytechnique, in Paris, with an M1 (masters) in data science and a focus on NLP and machine vision. He was researching applications of deep learning to automated diagnosis in dermatology. His work included everything from data wrangling to refining convolutional architectures for the medical context."
   avatar: /assets/images/people/bio-pfau.jpg
-  title: "Machine Learning Researcher"
+  title: "PhD Candidate working on NLP and AI Safety"
   github: JacobPfau
   ncbi_id: Pfau J
   linkedin: jacob-pfau
@@ -379,10 +340,10 @@ albert_young:
 yannah_melle:
   name: Yannah Melle
   email: yannah@umich.edu
-  bio: "Sutro Biopharma"
+  bio: "Octant
   bio_long: "Visiting Scholar (2020), SRTP Intern (2019). Yannah was a 4th year undergraduate student studying Chemical Engineering at the University of Michigan. In the Keiser lab, she investigated ligand-based drug discovery with cheminformatics and machine learning, using deep neural networks to predict the bioactivity of ligands for protein targets. She is excited about pursuing research and a career in biotechnology. Outside of academia Yannah is a foodie who loves to experience different cultures and do anything outdoors. "
   avatar: /assets/images/people/bio-melle.jpg
-  title: "Engineering Intern"
+  title: "Cheminformatics Engineer"
   linkedin: 
   github: JYang25
   ncbi_id: Melle Y
@@ -421,7 +382,7 @@ garrett_gaskins:
   bio: "Genentech"
   bio_long: "Grad Student; Genentech Fellow; Hillblom Fellow (2014-2021). High-content screening across varied cells, conditions, and chemical libraries has emerged as a key method for identifying novel compounds capable of systematically perturbing a biological network to induce a phenotype. The molecular targets (proteins, receptors, etc.) through which these compounds act to achieve their phenotype(s) are typically unknown. Garrett developed a chemoinformatic approach using aspects of image processing, machine learning, and SEA to identify the targets of novel compounds via their phenotypic signature."
   avatar: /assets/images/people/bio-gaskins.jpg
-  title: "AI Scientist"
+  title: "AI/ML Scientist"
   github: gtgask
   ncbi_id: Gaskins G
   linkedin: gtgask
@@ -433,8 +394,48 @@ kangway_chuang:
   bio: "Genentech"
   bio_long: "Arnold O. Beckman Postdoctoral Fellow (2017-2021)"
   avatar: /assets/images/people/bio-chuang.jpg
-  title: "AI/ML Senior Scientist"
+  title: "Senior AI Scientist and Group Lead"
   github: kangway
   linkedin: kangway
   ncbi_id: Chuang KV
+  type: alumn
+
+elena_caceres:
+  name: Elena Caceres, PhD
+  email: ecaceres@keiserlab.org
+  bio: "Nurix Therapeutics"
+  bio_long: "Grad Student, bioinformatics; NSF Fellow; HHMI Gilliam Fellow (2015-2021). Elena graduated from UCSD with a B.Sc. in molecular biology and a minor in mathematics. As of 2014, she was a graduate student in the Bioinformatics program as part of the iPQB program at UCSF. She is interested in applying techniques from statistics and machine learning to better understand and predict features underlying drug-target interactions."
+  avatar: /assets/images/people/bio-caceres.jpg
+  title: "Scientist Machine Learning"
+  github: elcaceres
+  linkedin: elenacaceres
+  ncbi_id: Caceres EL
+  type: alumn
+
+taline_mardirossian:
+  name: Taline Mardirossian
+  email: talinemard@keiserlab.org
+  bio: "Terray Therapeutics"
+  bio_long: "Research Data Analyst (2021-2022). Taline graduated from UC Berkeley with a B.A. in Data Science, concentrated in applied mathematics and modeling. Taline worked on the [SPOKE](https://spoke.ucsf.edu/) network project and is interested in the applications of machine learning in healthcare and medicine."
+  avatar: /assets/images/people/bio-mardirossian.jpg
+  title: "Associate Data Scientist"
+  github: talinemardi
+  ncbi_id: Mardirossian T
+  linkedin: taline-mardirossian-a96152133
+  type: alumn
+
+dan_wong:
+  name: Daniel Wong, PhD
+  email: dwong@keiserlab.org
+  bio: "Pfizer"
+  bio_long: "Grad Student, bioinformatics (2018-2022). Daniel studied Computer Science and Biochemistry at UC Berkeley, and was in a PhD program within the Integrative Program in Quantitative Biology. He is interested in developing machine learning methodologies in improving human health, particularly in the fields of neurodegeneration and pharmacology. Daniel was co-mentored in the [Butte Lab](http://buttelab.ucsf.edu/).
+
+  - [Prototype of running clinical trials in an untrustworthy environment using blockchain](https://doi.org/10.1038/s41467-019-08874-y). <ins>Wong DR</ins>, Bhattacharya S, Butte, AJ. **Nat Commun**. 2019 Feb 22. 
+  
+  - [Robust Sequence Determinants of α-Synuclein Toxicity in Yeast Implicate Membrane Binding](https://pubmed.ncbi.nlm.nih.gov/32786289/). Newberry RW, Arhar T, Costello J, ... <ins>Wong DR</ins>, Wong G, Redding S, Chow ED, DeGrado WF, Kampmann M. **ACS Chem Biol**. 2020 Aug 21."
+  avatar: /assets/images/people/bio-dwong.jpg
+  title: "Senior Machine Learning Scientist"
+  github: wongdaniel8
+  ncbi_id: Wong DR
+  linkedin: daniel-wong-b0a9ba1ba
   type: alumn
