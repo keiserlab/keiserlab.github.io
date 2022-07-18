@@ -11,8 +11,8 @@ header:
   teaser: /assets/images/people/bio-mew.jpg
 papers: 
     - title: Deep learning from multiple experts improves identification of amyloid neuropathologies
-      excerpt: Wong DR, Tang Z, <u>Mew NC</u>, Das S, Athey J, McAleese KE, Kofler JK, Flanagan ME, Borys E, White CL, Butte AJ, Dugger BN, Keiser MJ. __bioRxiv__. 2021 Mar 12.
-      link: ""
+      excerpt: Wong DR, Tang Z, <u>Mew NC</u>, Das S, Athey J, McAleese KE, Kofler JK, Flanagan ME, Borys E, White CL 3rd, Butte AJ, Dugger BN, Keiser MJ. __Acta Neuropathol Commun__. 2022 Apr 28.
+      link: "https://doi.org/10.1186/s40478-022-01365-0"
 
     - title: Adding Stochastic Negative Examples into Machine Learning Improves Molecular Bioactivity Prediction
       excerpt: Caceres EL, <u>Mew NC</u>, Keiser MJ. __J Chem Inf Model__. 2020 Dec 28.

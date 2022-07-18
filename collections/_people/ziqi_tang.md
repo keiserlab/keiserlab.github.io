@@ -11,8 +11,8 @@ header:
   teaser: /assets/images/people/bio-tang.jpg
 papers: 
     - title: Deep learning from multiple experts improves identification of amyloid neuropathologies
-      excerpt: Wong DR, <u>Tang Z</u>, Mew NC, Das S, Athey J, McAleese KE, Kofler JK, Flanagan ME, Borys E, White CL, Butte AJ, Dugger BN, Keiser MJ. __bioRxiv__. 2021 Mar 12.
-      link: ""
+      excerpt: Wong DR, <u>Tang Z</u>, Mew NC, Das S, Athey J, McAleese KE, Kofler JK, Flanagan ME, Borys E, White CL 3rd, Butte AJ, Dugger BN, Keiser MJ. __Acta Neuropathol Commun__. 2022 Apr 28.
+      link: "https://doi.org/10.1186/s40478-022-01365-0"
 
     - title: Interpretable classification of Alzheimer's disease pathologies with a convolutional neural network pipeline
       excerpt: <u>Tang Z</u>, Chuang KV, DeCarli C, Jin LW, Beckett L, Keiser MJ, Dugger BN. __Nat Commun__. 2019 May 15.

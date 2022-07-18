@@ -10,4 +10,8 @@ excerpt: "Luca obtained his PhD in Physics and Chemistry of Biological Systems a
 header:
   teaser: /assets/images/people/bio-ponzoni.jpg
 papers: 
+    - title: Prioritizing virtual screening with interpretable interaction fingerprints
+      excerpt: Fassio AV, Shub L, <u>Ponzoni L</u>, McKinley J, O'Meara MJ, Ferreira RS, Keiser MJ, de Melo Minardi RC. __bioRxiv__. 2022 May 29.
+      link: ""
+
 ---

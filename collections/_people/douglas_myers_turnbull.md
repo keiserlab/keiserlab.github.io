@@ -10,6 +10,10 @@ excerpt: "Douglas was a PhD candidate in the Bioinformatics program. He received
 header:
   teaser: /assets/images/people/bio-myers-turnbull.jpg
 papers: 
+    - title: Simultaneous analysis of neuroactive compounds in zebrafish
+      excerpt: <u>Myers-Turnbull D</u>, Taylor JC, Helsell C, McCarroll MN, Ki CS, Tummino TA, Ravikumar S, Kinser R, Gendelev L, Alexander R, Keiser MJ, Kokel D. __bioRxiv__. 2022 Jun 15.
+      link: ""
+
     - title: Zebrafish behavioural profiling identifies GABA and serotonin receptor ligands related to sedation and paradoxical excitation
       excerpt: McCarroll MN, Gendelev L, Kinser R, Taylor J, Bruni G, <u>Myers-Turnbull D</u>, Helsell C, Carbajal A, Rinaldi C, Kang HJ, Gong JH, Sello JK, Tomita S, Peterson RT, Keiser MJ, Kokel D. __Nat Commun__. 2019 Sep 9.
       link: "https://doi.org/10.1038/s41467-019-11936-w"

@@ -10,12 +10,12 @@ excerpt: "Grad Student, bioinformatics (2018-2022). Daniel studied Computer Scie
 header:
   teaser: /assets/images/people/bio-dwong.jpg
 papers: 
-    - title: Deep learning from multiple experts improves identification of amyloid neuropathologies
-      excerpt: <u>Wong DR</u>, Tang Z, Mew NC, Das S, Athey J, McAleese KE, Kofler JK, Flanagan ME, Borys E, White CL, Butte AJ, Dugger BN, Keiser MJ. __bioRxiv__. 2021 Mar 12.
-      link: ""
-
     - title: Trans-channel fluorescence learning improves high-content screening for Alzheimer's disease therapeutics
-      excerpt: <u>Wong DR</u>, Conrad J, Johnson N, Ayers JI, Laeremans A, Lee JC, Lee J, Prusiner SB, Bandyopadhyay S, Butte AJ, Paras NA, Keiser MJ. __bioRxiv__. 2021 Jan 09.
-      link: ""
+      excerpt: <u>Wong DR</u>, Conrad J, Johnson N, Ayers JI, Laeremans A, Lee JC, Lee J, Prusiner SB, Bandyopadhyay S, Butte AJ, Paras NA, Keiser MJ. __Nat Mach Intell__. 2022 May 30.
+      link: "https://doi.org/10.1038/s42256-022-00490-8"
+
+    - title: Deep learning from multiple experts improves identification of amyloid neuropathologies
+      excerpt: <u>Wong DR</u>, Tang Z, Mew NC, Das S, Athey J, McAleese KE, Kofler JK, Flanagan ME, Borys E, White CL 3rd, Butte AJ, Dugger BN, Keiser MJ. __Acta Neuropathol Commun__. 2022 Apr 28.
+      link: "https://doi.org/10.1186/s40478-022-01365-0"
 
 ---

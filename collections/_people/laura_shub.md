@@ -10,4 +10,8 @@ excerpt: "Laura studied biochemistry and computer science at the University of T
 header:
   teaser: /assets/images/people/bio-shub.jpg
 papers: 
+    - title: Prioritizing virtual screening with interpretable interaction fingerprints
+      excerpt: Fassio AV, <u>Shub L</u>, Ponzoni L, McKinley J, O'Meara MJ, Ferreira RS, Keiser MJ, de Melo Minardi RC. __bioRxiv__. 2022 May 29.
+      link: ""
+
 ---

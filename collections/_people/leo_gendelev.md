@@ -10,6 +10,10 @@ excerpt: "Biophysics graduate student; Fletcher Jones Fellow (2014-2019)."
 header:
   teaser: /assets/images/people/bio-gendelev.jpg
 papers: 
+    - title: Simultaneous analysis of neuroactive compounds in zebrafish
+      excerpt: Myers-Turnbull D, Taylor JC, Helsell C, McCarroll MN, Ki CS, Tummino TA, Ravikumar S, Kinser R, <u>Gendelev L</u>, Alexander R, Keiser MJ, Kokel D. __bioRxiv__. 2022 Jun 15.
+      link: ""
+
     - title: Zebrafish behavioural profiling identifies GABA and serotonin receptor ligands related to sedation and paradoxical excitation
       excerpt: McCarroll MN, <u>Gendelev L</u>, Kinser R, Taylor J, Bruni G, Myers-Turnbull D, Helsell C, Carbajal A, Rinaldi C, Kang HJ, Gong JH, Sello JK, Tomita S, Peterson RT, Keiser MJ, Kokel D. __Nat Commun__. 2019 Sep 9.
       link: "https://doi.org/10.1038/s41467-019-11936-w"

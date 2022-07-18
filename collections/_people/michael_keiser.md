@@ -10,17 +10,25 @@ excerpt: "<p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and
 header:
   teaser: /assets/images/people/bio-keiser.jpg
 papers: 
-    - title: Deep learning from multiple experts improves identification of amyloid neuropathologies
-      excerpt: Wong DR, Tang Z, Mew NC, Das S, Athey J, McAleese KE, Kofler JK, Flanagan ME, Borys E, White CL, Butte AJ, Dugger BN, <u>Keiser MJ</u>. __bioRxiv__. 2021 Mar 12.
+    - title: Simultaneous analysis of neuroactive compounds in zebrafish
+      excerpt: Myers-Turnbull D, Taylor JC, Helsell C, McCarroll MN, Ki CS, Tummino TA, Ravikumar S, Kinser R, Gendelev L, Alexander R, <u>Keiser MJ</u>, Kokel D. __bioRxiv__. 2022 Jun 15.
       link: ""
+
+    - title: Trans-channel fluorescence learning improves high-content screening for Alzheimer's disease therapeutics
+      excerpt: Wong DR, Conrad J, Johnson N, Ayers JI, Laeremans A, Lee JC, Lee J, Prusiner SB, Bandyopadhyay S, Butte AJ, Paras NA, <u>Keiser MJ</u>. __Nat Mach Intell__. 2022 May 30.
+      link: "https://doi.org/10.1038/s42256-022-00490-8"
+
+    - title: Prioritizing virtual screening with interpretable interaction fingerprints
+      excerpt: Fassio AV, Shub L, Ponzoni L, McKinley J, O'Meara MJ, Ferreira RS, <u>Keiser MJ</u>, de Melo Minardi RC. __bioRxiv__. 2022 May 29.
+      link: ""
+
+    - title: Deep learning from multiple experts improves identification of amyloid neuropathologies
+      excerpt: Wong DR, Tang Z, Mew NC, Das S, Athey J, McAleese KE, Kofler JK, Flanagan ME, Borys E, White CL 3rd, Butte AJ, Dugger BN, <u>Keiser MJ</u>. __Acta Neuropathol Commun__. 2022 Apr 28.
+      link: "https://doi.org/10.1186/s40478-022-01365-0"
 
     - title: Stress testing reveals gaps in clinic readiness of image-based diagnostic artificial intelligence models
       excerpt: Young AT, Fernandez K, Pfau J, Reddy R, Cao NA, von Franque MY, Johal A, Wu BV, Wu RR, Chen JY, Fadadu RP, Vasquez JA, Tam A, <u>Keiser MJ</u>, Wei ML. __NPJ Digit Med__. 2021 Jan 21.
       link: "https://doi.org/10.1038/s41746-020-00380-6"
-
-    - title: Trans-channel fluorescence learning improves high-content screening for Alzheimer's disease therapeutics
-      excerpt: Wong DR, Conrad J, Johnson N, Ayers JI, Laeremans A, Lee JC, Lee J, Prusiner SB, Bandyopadhyay S, Butte AJ, Paras NA, <u>Keiser MJ</u>. __bioRxiv__. 2021 Jan 09.
-      link: ""
 
     - title: Adding Stochastic Negative Examples into Machine Learning Improves Molecular Bioactivity Prediction
       excerpt: Caceres EL, Mew NC, <u>Keiser MJ</u>. __J Chem Inf Model__. 2020 Dec 28.

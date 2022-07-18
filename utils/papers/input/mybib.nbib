@@ -1,3 +1,170 @@
+PMID- 35484610
+OWN - NLM
+STAT- MEDLINE
+LR  - 20220716
+IS  - 2051-5960 (Electronic)
+IS  - 2051-5960 (Linking)
+VI  - 10
+IP  - 1
+DP  - 2022 Apr 28
+TI  - Deep learning from multiple experts improves identification of amyloid
+      neuropathologies.
+PG  - 66
+LID - 10.1186/s40478-022-01365-0 [doi]
+AB  - Pathologists can label pathologies differently, making it challenging to
+      yield consistent assessments in the absence of one ground truth. To
+      address this problem, we present a deep learning (DL) approach that draws
+      on a cohort of experts, weighs each contribution, and is robust to noisy
+      labels. We collected 100,495 annotations on 20,099 candidate amyloid beta
+      neuropathologies (cerebral amyloid angiopathy (CAA), and cored and
+      diffuse plaques) from three institutions, independently annotated by five
+      experts. DL methods trained on a consensus-of-two strategy yielded
+      12.6-26% improvements by area under the precision recall curve (AUPRC)
+      when compared to those that learned individualized annotations. This
+      strategy surpassed individual-expert models, even when unfairly assessed
+      on benchmarks favoring them. Moreover, ensembling over individual models
+      was robust to hidden random annotators. In blind prospective tests of
+      52,555 subsequent expert-annotated images, the models labeled pathologies
+      like their human counterparts (consensus model AUPRC = 0.74 cored; 0.69
+      CAA). This study demonstrates a means to combine multiple ground truths
+      into a common-ground DL model that yields consistent diagnoses informed
+      by multiple and potentially variable expert opinions.
+CI  - (c) 2022. The Author(s).
+FAU - Wong, Daniel R
+AU  - Wong DR
+AUID- ORCID: 0000-0003-3642-7674
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, CA, 94158, USA.
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, CA, 94158, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, CA, 94158, USA.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco, CA, 94158, USA.
+AD  - Department of Pediatrics, University of California, San Francisco, CA,
+      94158, USA.
+FAU - Tang, Ziqi
+AU  - Tang Z
+AUID- ORCID: 0000-0003-0425-0173
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, CA, 94158, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, CA, 94158, USA.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco, CA, 94158, USA.
+FAU - Mew, Nicholas C
+AU  - Mew NC
+AUID- ORCID: 0000-0001-9848-0396
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, CA, 94158, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, CA, 94158, USA.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco, CA, 94158, USA.
+FAU - Das, Sakshi
+AU  - Das S
+AD  - Department of Pathology and Laboratory Medicine, School of Medicine,
+      University of California, Davis, Sacramento, CA, 95817, USA.
+FAU - Athey, Justin
+AU  - Athey J
+AD  - Department of Pathology and Laboratory Medicine, School of Medicine,
+      University of California, Davis, Sacramento, CA, 95817, USA.
+FAU - McAleese, Kirsty E
+AU  - McAleese KE
+AUID- ORCID: 0000-0002-0212-9823
+AD  - Translation and Clinical Research Institute, Newcastle University,
+      Newcastle, UK.
+FAU - Kofler, Julia K
+AU  - Kofler JK
+AD  - Department of Pathology, University of Pittsburgh Medical Center,
+      Pittsburgh, PA, 15260, USA.
+FAU - Flanagan, Margaret E
+AU  - Flanagan ME
+AD  - Department of Pathology, Northwestern University, Evanston, IL, 60208,
+      USA.
+AD  - Mesulam Center for Cognitive Neurology and Alzheimer's Disease,
+      Northwestern Medicine, Chicago, IL, 60611, USA.
+FAU - Borys, Ewa
+AU  - Borys E
+AD  - Department of Pathology, Loyola University Medical Center, Maywood, IL,
+      60153, USA.
+FAU - White, Charles L 3rd
+AU  - White CL 3rd
+AUID- ORCID: 0000-0002-3870-2804
+AD  - Department of Pathology, University of Texas Southwestern Medical Center,
+      Dallas, TX, 75390, USA.
+FAU - Butte, Atul J
+AU  - Butte AJ
+AUID- ORCID: 0000-0002-7433-2740
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, CA, 94158, USA.
+AD  - Department of Pediatrics, University of California, San Francisco, CA,
+      94158, USA.
+AD  - Center for Data-Driven Insights and Innovation, University of California,
+      Office of the President, Oakland, CA, 94607, USA.
+FAU - Dugger, Brittany N
+AU  - Dugger BN
+AUID- ORCID: 0000-0003-2141-8855
+AD  - Department of Pathology and Laboratory Medicine, School of Medicine,
+      University of California, Davis, Sacramento, CA, 95817, USA.
+      bndugger@ucdavis.edu.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AUID- ORCID: 0000-0002-1240-2192
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, CA, 94158, USA. keiser@keiserlab.org.
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, CA, 94158, USA. keiser@keiserlab.org.
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, CA, 94158, USA. keiser@keiserlab.org.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco, CA, 94158, USA. keiser@keiserlab.org.
+LA  - eng
+GR  - P30 AG010129/AG/NIA NIH HHS/United States
+GR  - P30 AG013854/AG/NIA NIH HHS/United States
+GR  - P30 AG066468/AG/NIA NIH HHS/United States
+GR  - P50 AG005133/AG/NIA NIH HHS/United States
+GR  - P30 AG072972/AG/NIA NIH HHS/United States
+GR  - K08 AG065463/AG/NIA NIH HHS/United States
+GR  - P30 AG012300/AG/NIA NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, N.I.H., Extramural
+DEP - 20220428
+PL  - England
+TA  - Acta Neuropathol Commun
+JT  - Acta neuropathologica communications
+JID - 101610673
+RN  - 0 (Amyloid beta-Peptides)
+SB  - IM
+MH  - Amyloid beta-Peptides
+MH  - *Cerebral Amyloid Angiopathy/diagnosis
+MH  - *Deep Learning
+MH  - Humans
+MH  - Neuropathology
+MH  - Prospective Studies
+PMC - PMC9052651
+OTO - NOTNLM
+OT  - *Algorithms
+OT  - *Amyloid beta
+OT  - *Consensus
+OT  - *Deep learning
+OT  - *Expert annotators
+OT  - *Histopathology
+EDAT- 2022/04/29 06:00
+MHDA- 2022/05/03 06:00
+CRDT- 2022/04/28 23:50
+PHST- 2022/04/10 00:00 [received]
+PHST- 2022/04/11 00:00 [accepted]
+PHST- 2022/04/28 23:50 [entrez]
+PHST- 2022/04/29 06:00 [pubmed]
+PHST- 2022/05/03 06:00 [medline]
+AID - 10.1186/s40478-022-01365-0 [doi]
+AID - 10.1186/s40478-022-01365-0 [pii]
+PST - epublish
+SO  - Acta Neuropathol Commun. 2022 Apr 28;10(1):66. doi:
+      10.1186/s40478-022-01365-0.
+
 PMID- 33479460
 OWN - NLM
 STAT- PubMed-not-MEDLINE
@@ -138,7 +305,7 @@ PMID- 33245237
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20210617
-LR  - 20210617
+LR  - 20211113
 IS  - 1549-960X (Electronic)
 IS  - 1549-9596 (Linking)
 VI  - 60
@@ -909,7 +1076,7 @@ PMID- 30053424
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20190418
-LR  - 20210109
+LR  - 20220331
 IS  - 1097-4172 (Electronic)
 IS  - 0092-8674 (Linking)
 VI  - 174
@@ -2258,7 +2425,6 @@ PL  - United States
 TA  - Clin Pharmacol Ther
 JT  - Clinical pharmacology and therapeutics
 JID - 0372741
-SB  - AIM
 SB  - IM
 MH  - Algorithms
 MH  - Drug-Related Side Effects and Adverse Reactions/*prevention & control
@@ -2288,7 +2454,7 @@ PMID- 24260022
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20140707
-LR  - 20201218
+LR  - 20211021
 IS  - 1545-7885 (Electronic)
 IS  - 1544-9173 (Linking)
 VI  - 11
@@ -2411,7 +2577,7 @@ PMID- 22722194
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20120814
-LR  - 20181113
+LR  - 20211021
 IS  - 1476-4687 (Electronic)
 IS  - 0028-0836 (Linking)
 VI  - 486
@@ -2468,11 +2634,11 @@ AU  - Urban L
 LA  - eng
 GR  - AG002132/AG/NIA NIH HHS/United States
 GR  - P01 AG002132/AG/NIA NIH HHS/United States
-GR  - R43 GM093456/GM/NIGMS NIH HHS/United States
-GR  - R01 GM071896/GM/NIGMS NIH HHS/United States
 GR  - R44 GM093456/GM/NIGMS NIH HHS/United States
 GR  - GM71896/GM/NIGMS NIH HHS/United States
 GR  - GM93456/GM/NIGMS NIH HHS/United States
+GR  - R43 GM093456/GM/NIGMS NIH HHS/United States
+GR  - R01 GM071896/GM/NIGMS NIH HHS/United States
 PT  - Journal Article
 PT  - Research Support, N.I.H., Extramural
 PT  - Research Support, Non-U.S. Gov't
@@ -2522,7 +2688,7 @@ PMID- 22179068
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20120529
-LR  - 20190302
+LR  - 20211021
 IS  - 1552-4469 (Electronic)
 IS  - 1552-4450 (Linking)
 VI  - 8
@@ -2611,21 +2777,21 @@ SI  - PubChem-Substance/126722922
 SI  - PubChem-Substance/126722923
 GR  - R21 MH085205/MH/NIMH NIH HHS/United States
 GR  - P01 AG002132/AG/NIA NIH HHS/United States
-GR  - R01 GM071896/GM/NIGMS NIH HHS/United States
-GR  - U19 MH082441/MH/NIMH NIH HHS/United States
-GR  - R01 NS049272/NS/NINDS NIH HHS/United States
 GR  - MH085205/MH/NIMH NIH HHS/United States
 GR  - K01 MH091449/MH/NIMH NIH HHS/United States
 GR  - R01 NS049272-04/NS/NINDS NIH HHS/United States
 GR  - U19MH82441/MH/NIMH NIH HHS/United States
 GR  - MH091449/MH/NIMH NIH HHS/United States
 GR  - R01 MH093603-01/MH/NIMH NIH HHS/United States
-GR  - R01 MH093603/MH/NIMH NIH HHS/United States
-GR  - R01 MH086867/MH/NIMH NIH HHS/United States
 GR  - GM71896/GM/NIGMS NIH HHS/United States
 GR  - R01 NS49272/NS/NINDS NIH HHS/United States
 GR  - MH086867/MH/NIMH NIH HHS/United States
 GR  - AG02132/AG/NIA NIH HHS/United States
+GR  - R01 GM071896/GM/NIGMS NIH HHS/United States
+GR  - U19 MH082441/MH/NIMH NIH HHS/United States
+GR  - R01 NS049272/NS/NINDS NIH HHS/United States
+GR  - R01 MH093603/MH/NIMH NIH HHS/United States
+GR  - R01 MH086867/MH/NIMH NIH HHS/United States
 PT  - Journal Article
 PT  - Research Support, N.I.H., Extramural
 PT  - Research Support, Non-U.S. Gov't
@@ -2662,7 +2828,7 @@ PMID- 21048700
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20110509
-LR  - 20181113
+LR  - 20211203
 IS  - 1740-634X (Electronic)
 IS  - 0893-133X (Linking)
 VI  - 36
@@ -2725,21 +2891,21 @@ AU  - Beck SG
 FAU - Roth, Bryan L
 AU  - Roth BL
 LA  - eng
+GR  - RC1 MH089800/MH/NIMH NIH HHS/United States
+GR  - U19MH82441/MH/NIMH NIH HHS/United States
+GR  - R01 MH075047/MH/NIMH NIH HHS/United States
+GR  - MH075047/MH/NIMH NIH HHS/United States
+GR  - R01 MH061887/MH/NIMH NIH HHS/United States
+GR  - T32 GM007250/GM/NIGMS NIH HHS/United States
 GR  - R01 GM071896/GM/NIGMS NIH HHS/United States
 GR  - U19 MH082441/MH/NIMH NIH HHS/United States
 GR  - MH082611/MH/NIMH NIH HHS/United States
 GR  - P01 MH048125/MH/NIMH NIH HHS/United States
-GR  - RC1 MH089800/MH/NIMH NIH HHS/United States
 GR  - R21 MH099488/MH/NIMH NIH HHS/United States
 GR  - F31 MH082611/MH/NIMH NIH HHS/United States
-GR  - U19MH82441/MH/NIMH NIH HHS/United States
-GR  - R01 MH075047/MH/NIMH NIH HHS/United States
-GR  - MH075047/MH/NIMH NIH HHS/United States
 GR  - GM71896/GM/NIGMS NIH HHS/United States
 GR  - R01MH61887/MH/NIMH NIH HHS/United States
 GR  - R01MH075047/MH/NIMH NIH HHS/United States
-GR  - R01 MH061887/MH/NIMH NIH HHS/United States
-GR  - T32 GM007250/GM/NIGMS NIH HHS/United States
 PT  - Journal Article
 PT  - Research Support, N.I.H., Extramural
 PT  - Research Support, Non-U.S. Gov't
@@ -2762,7 +2928,7 @@ RN  - 97F9DE4CT4 (Ketanserin)
 RN  - EC 1.14.16.4 (Tryptophan Hydroxylase)
 RN  - EC 2.7.1.11 (Checkpoint Kinase 2)
 RN  - EC 2.7.11.1 (Chek2 protein, mouse)
-RN  - EC 2.7.11.1 (Protein-Serine-Threonine Kinases)
+RN  - EC 2.7.11.1 (Protein Serine-Threonine Kinases)
 RN  - EC 2.7.11.24 (Mitogen-Activated Protein Kinase 3)
 RN  - G6D6147J22 (biocytin)
 RN  - J1DOI7UV76 (Phencyclidine)
@@ -2796,7 +2962,7 @@ MH  - Patch-Clamp Techniques/methods
 MH  - Phencyclidine/pharmacology
 MH  - Presynaptic Terminals/*drug effects
 MH  - Protein Binding/drug effects
-MH  - Protein-Serine-Threonine Kinases/metabolism
+MH  - Protein Serine-Threonine Kinases/metabolism
 MH  - Proto-Oncogene Proteins/deficiency
 MH  - Radioligand Assay/methods
 MH  - Raphe Nuclei/cytology
@@ -2824,7 +2990,7 @@ PMID- 21058655
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20101228
-LR  - 20181113
+LR  - 20211020
 IS  - 1520-4995 (Electronic)
 IS  - 0006-2960 (Linking)
 VI  - 49
@@ -2898,7 +3064,7 @@ PMID- 20540517
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20100722
-LR  - 20181113
+LR  - 20211020
 IS  - 1520-4804 (Electronic)
 IS  - 0022-2623 (Linking)
 VI  - 53
@@ -2950,7 +3116,7 @@ LA  - eng
 GR  - R01 GM059957/GM/NIGMS NIH HHS/United States
 GR  - R01 GM071630/GM/NIGMS NIH HHS/United States
 GR  - GM59957/GM/NIGMS NIH HHS/United States
-GR  - Intramural NIH HHS/United States
+GR  - ImNIH/Intramural NIH HHS/United States
 PT  - Comparative Study
 PT  - Journal Article
 PT  - Research Support, N.I.H., Extramural
@@ -2989,7 +3155,7 @@ PMID- 20180535
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20100504
-LR  - 20181113
+LR  - 20211020
 IS  - 1520-4804 (Electronic)
 IS  - 0022-2623 (Linking)
 VI  - 53
@@ -3032,10 +3198,10 @@ GR  - R01 GM058842/GM/NIGMS NIH HHS/United States
 GR  - R01 GM071896/GM/NIGMS NIH HHS/United States
 GR  - T32 GM008700/GM/NIGMS NIH HHS/United States
 GR  - GM58442/GM/NIGMS NIH HHS/United States
-GR  - R01 GM058842-10/GM/NIGMS NIH HHS/United States
-GR  - R01 GM058842-11/GM/NIGMS NIH HHS/United States
 GR  - GM71896/GM/NIGMS NIH HHS/United States
 GR  - GM000347/GM/NIGMS NIH HHS/United States
+GR  - R01 GM058842-10/GM/NIGMS NIH HHS/United States
+GR  - R01 GM058842-11/GM/NIGMS NIH HHS/United States
 PT  - Journal Article
 PT  - Research Support, N.I.H., Extramural
 PT  - Research Support, U.S. Gov't, Non-P.H.S.
@@ -3088,7 +3254,7 @@ PMID- 20581797
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20120302
-LR  - 20181113
+LR  - 20211020
 IS  - 0048-5764 (Print)
 IS  - 0048-5764 (Linking)
 VI  - 43
@@ -3196,7 +3362,7 @@ PMID- 19881490
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20100105
-LR  - 20181113
+LR  - 20220409
 IS  - 1476-4687 (Electronic)
 IS  - 0028-0836 (Linking)
 VI  - 462
@@ -3260,22 +3426,22 @@ AU  - Shoichet BK
 FAU - Roth, Bryan L
 AU  - Roth BL
 LA  - eng
-GR  - R01 DA017204-04/DA/NIDA NIH HHS/United States
-GR  - R01 DA017204-05/DA/NIDA NIH HHS/United States
 GR  - U19 MH082441-029002/MH/NIMH NIH HHS/United States
 GR  - U19 MH082441/MH/NIMH NIH HHS/United States
 GR  - R01 MH061887-09/MH/NIMH NIH HHS/United States
-GR  - U19 MH082441-01/MH/NIMH NIH HHS/United States
-GR  - U19 MH082441-020001/MH/NIMH NIH HHS/United States
 GR  - U19 MH082441-019003/MH/NIMH NIH HHS/United States
-GR  - U19 MH082441-019002/MH/NIMH NIH HHS/United States
-GR  - R01 DA017204/DA/NIDA NIH HHS/United States
 GR  - U19 MH082441-03/MH/NIMH NIH HHS/United States
 GR  - U19 MH082441-039002/MH/NIMH NIH HHS/United States
 GR  - U19 MH082441-030001/MH/NIMH NIH HHS/United States
 GR  - U19 MH082441-010001/MH/NIMH NIH HHS/United States
 GR  - U19 MH082441-02/MH/NIMH NIH HHS/United States
 GR  - R01 MH061887/MH/NIMH NIH HHS/United States
+GR  - R01 DA017204-04/DA/NIDA NIH HHS/United States
+GR  - R01 DA017204-05/DA/NIDA NIH HHS/United States
+GR  - U19 MH082441-01/MH/NIMH NIH HHS/United States
+GR  - U19 MH082441-020001/MH/NIMH NIH HHS/United States
+GR  - U19 MH082441-019002/MH/NIMH NIH HHS/United States
+GR  - R01 DA017204/DA/NIDA NIH HHS/United States
 GR  - T32 GM007250/GM/NIGMS NIH HHS/United States
 GR  - R01 MH061887-10/MH/NIMH NIH HHS/United States
 PT  - Journal Article
@@ -3328,7 +3494,7 @@ PMID- 19701464
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20091029
-LR  - 20181113
+LR  - 20220317
 IS  - 1553-7358 (Electronic)
 IS  - 1553-734X (Linking)
 VI  - 5
@@ -3381,9 +3547,9 @@ GR  - U01-AI070499/AI/NIAID NIH HHS/United States
 GR  - T32 GM067547/GM/NIGMS NIH HHS/United States
 GR  - U01 AI070499/AI/NIAID NIH HHS/United States
 GR  - P41 RR-01081/RR/NCRR NIH HHS/United States
+GR  - GA1070499-01/PHS HHS/United States
 GR  - R01 GM060595/GM/NIGMS NIH HHS/United States
 GR  - GM60595/GM/NIGMS NIH HHS/United States
-GR  - GA1070499-01/PHS HHS/United States
 GR  - P41 RR001081/RR/NCRR NIH HHS/United States
 GR  - GM67547/GM/NIGMS NIH HHS/United States
 PT  - Journal Article
@@ -3425,7 +3591,7 @@ PMID- 19483698
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20091214
-LR  - 20181113
+LR  - 20211020
 IS  - 1552-4469 (Electronic)
 IS  - 1552-4450 (Linking)
 VI  - 5
@@ -3599,7 +3765,7 @@ PMID- 18335977
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20080731
-LR  - 20181222
+LR  - 20211020
 IS  - 1549-9596 (Print)
 IS  - 1549-9596 (Linking)
 VI  - 48
@@ -3678,7 +3844,7 @@ PMID- 17287757
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20070424
-LR  - 20191210
+LR  - 20220409
 IS  - 1087-0156 (Print)
 IS  - 1087-0156 (Linking)
 VI  - 25
