@@ -6,3 +6,4 @@ gem 'github-pages', group: :jekyll_plugins
 
 # https://mmistakes.github.io/minimal-mistakes/docs/installation/
 gem 'jekyll-include-cache'
+gem "webrick", "~> 1.7"
