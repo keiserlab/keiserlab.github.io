@@ -3,7 +3,7 @@
 title: Leo Gendelev, PhD
 author: leo_gendelev
 layout: author-bio
-jobtitle: AI Scientist - Computational Drug Discovery
+jobtitle: Senior AI Scientist - Computational Drug Discovery
 bio: Genentech
 type: alumn
 excerpt: "Biophysics graduate student; Fletcher Jones Fellow (2014-2019)."

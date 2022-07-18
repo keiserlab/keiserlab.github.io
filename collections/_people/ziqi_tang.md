@@ -3,7 +3,7 @@
 title: Ziqi Tang, MS
 author: ziqi_tang
 layout: author-bio
-jobtitle: AMTS Software Engineer
+jobtitle: MTS Software Engineer
 bio: Salesforce
 type: alumn
 excerpt: "Visiting Research Scholar, 2017-2019. Ziqi was an undergraduate student from Tsinghua University School of Pharmaceutical Sciences, participating in the UCSF-Ts"

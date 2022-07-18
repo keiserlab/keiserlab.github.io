@@ -3,7 +3,7 @@
 title: Kangway Chuang, PhD
 author: kangway_chuang
 layout: author-bio
-jobtitle: AI/ML Senior Scientist
+jobtitle: Senior AI Scientist and Group Lead
 bio: Genentech
 type: alumn
 excerpt: "Arnold O. Beckman Postdoctoral Fellow (2017-2021)"

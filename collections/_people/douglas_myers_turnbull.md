@@ -3,10 +3,10 @@
 title: Douglas Myers-Turnbull
 author: douglas_myers_turnbull
 layout: author-bio
-jobtitle: Grad Student
+jobtitle: Postdoctoral Scholar
 bio: bioinformatics
 type: member
-excerpt: "Douglas is a PhD candidate in the Bioinformatics program. He received a B.S. in Computer Science with a Specialization in Bioinformatics (math minor) from UCSD,"
+excerpt: "Douglas was a PhD candidate in the Bioinformatics program. He received a B.S. in Computer Science with a Specialization in Bioinformatics (math minor) from UCSD"
 header:
   teaser: /assets/images/people/bio-myers-turnbull.jpg
 papers: 

@@ -22,6 +22,42 @@ michael_keiser:
   twitter: keiser_lab
   type: member
 
+john_gallias:
+  name: John Gallias
+  email: jgallias@keiserlab.org
+  bio: ""
+  bio_long: "John is an IT professional with 8+ years of academic research computing experience. He is passionate about solving complex technical problems for the greatest possible benefit to people. He has worked with communities on various Digital Privacy & Security issues like Banning Facial Recognition and Free Public Education Training and Events. Born in Las Vegas, Nevada, John will be living in the Bay Area with his partner and two Siberian cats. For more information, see [John's website](https://johngallias.com)."
+  avatar: /assets/images/people/bio-gallias.jpg
+  title: System Administrator
+  github: jgallias
+  linkedin: jgallias
+  ncbi_id: 
+  type: member
+
+noah_weber:
+  name: Noah Weber
+  email: nwweber@keiserlab.org
+  bio: ""
+  bio_long: "Noah is a Research Data Analyst whose primary research interests are in model robustness, transparency, and structured data representation. Prior to joining UCSF, Noah worked as a researcher at Johns Hopkins University and Stony Brook University, where he conducted research in machine learning, language understanding, and causality."
+  avatar: /assets/images/people/bio-weber.jpg
+  title: Research Data Analyst
+  github: weberna
+  linkedin: 
+  ncbi_id: 
+  type: member
+
+sina_ghandian:
+  name: Sina Ghandian
+  email: sina@keiserlab.org
+  bio: ""
+  bio_long: "Sina graduated from UC Berkeley with a B.S. in Bioengineering and a concentration in data science. As an undergraduate, his research laid in the field of clinical informatics, where he developed models to predict the onset of different medical conditions using patient data. In the Keiser lab, he is interested in exploring different applications of deep learning in biology; his current research focus is in neuropathology. In his free time, he enjoys exploring the Bay Area food scene, cooking new recipes, and trying new board games with friends."
+  avatar: /assets/images/people/bio-ghandian.jpg
+  title: Research Data Analyst
+  github: sghandian
+  linkedin: sina-ghandian
+  ncbi_id: 
+  type: member
+
 fedelle_austria:
   name: Fedelle Austria
   email: faustria@keiserlab.org
@@ -340,8 +376,8 @@ albert_young:
 yannah_melle:
   name: Yannah Melle
   email: yannah@umich.edu
-  bio: "Octant
-  bio_long: "Visiting Scholar (2020), SRTP Intern (2019). Yannah was a 4th year undergraduate student studying Chemical Engineering at the University of Michigan. In the Keiser lab, she investigated ligand-based drug discovery with cheminformatics and machine learning, using deep neural networks to predict the bioactivity of ligands for protein targets. She is excited about pursuing research and a career in biotechnology. Outside of academia Yannah is a foodie who loves to experience different cultures and do anything outdoors. "
+  bio: "Octant"
+  bio_long: "Visiting Scholar (2020), SRTP Intern (2019). Yannah was a 4th year undergraduate student studying Chemical Engineering at the University of Michigan. In the Keiser lab, she investigated ligand-based drug discovery with cheminformatics and machine learning, using deep neural networks to predict the bioactivity of ligands for protein targets. She is excited about pursuing research and a career in biotechnology. Outside of academia Yannah is a foodie who loves to experience different cultures and do anything outdoors."
   avatar: /assets/images/people/bio-melle.jpg
   title: "Cheminformatics Engineer"
   linkedin: 

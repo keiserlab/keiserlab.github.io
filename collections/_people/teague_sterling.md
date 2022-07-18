@@ -3,7 +3,7 @@
 title: Teague Sterling, MS
 author: teague_sterling
 layout: author-bio
-jobtitle: Associate Director, Research Informatics
+jobtitle: Director, Head of Computational Biology
 bio: BioMarin Pharmaceutical
 type: alumn
 excerpt: ""

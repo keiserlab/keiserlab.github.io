@@ -3,8 +3,8 @@
 title: Yannah Melle
 author: yannah_melle
 layout: author-bio
-jobtitle: Engineering Intern
-bio: Sutro Biopharma
+jobtitle: Cheminformatics Engineer
+bio: Octant
 type: alumn
 excerpt: "Visiting Scholar (2020), SRTP Intern (2019). Yannah was a 4th year undergraduate student studying Chemical Engineering at the University of Michigan. In the Kei"
 header:

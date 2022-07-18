@@ -3,8 +3,8 @@
 title: Jacob Pfau, M1
 author: jacob_pfau
 layout: author-bio
-jobtitle: Machine Learning Researcher
-bio: 
+jobtitle: PhD Candidate working on NLP and AI Safety
+bio: NYU
 type: alumn
 excerpt: "Research Data Analyst; QBI Bold & Basic Fellow (2019-2020). Jacob's interests span the theory and applications of machine learning models -- and deep learning i"
 header:
