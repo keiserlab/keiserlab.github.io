@@ -3,7 +3,7 @@
 title: Ben Orr
 author: ben_orr
 layout: author-bio
-jobtitle: Grad Student
+jobtitle: Grad Student; NSF Fellow
 bio: biophysics
 type: member
 excerpt: "Ben graduated from Tufts in 2018 with a B.S. in Biochemistry and minor in Studio Art. As an undergraduate, he worked in Joshua Kritzer’s lab, designing cyclic"

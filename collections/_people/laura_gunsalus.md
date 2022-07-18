@@ -3,7 +3,7 @@
 title: Laura Gunsalus
 author: laura_gunsalus
 layout: author-bio
-jobtitle: Grad Student
+jobtitle: Grad Student; ARCS Scholar
 bio: bioinformatics
 type: member
 excerpt: "I'm a iPQB bioinformatics graduate student interested in using deep learning approaches to better understand the relationships between genetic and epigenetic va"

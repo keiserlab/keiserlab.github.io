@@ -96,7 +96,7 @@ laura_gunsalus:
   bio: "bioinformatics"
   bio_long: "I'm a iPQB bioinformatics graduate student interested in using deep learning approaches to better understand the relationships between genetic and epigenetic variation, genome organization, and disease predisposition."
   avatar: /assets/images/people/bio-gunsalus.jpg
-  title: Grad Student
+  title: Grad Student; ARCS Scholar
   github: LauraGunsalus
   ncbi_id: Gunsalus L
   type: member
@@ -141,7 +141,7 @@ ben_orr:
   bio: "biophysics"
   bio_long: "Ben graduated from Tufts in 2018 with a B.S. in Biochemistry and minor in Studio Art. As an undergraduate, he worked in Joshua Kritzer’s lab, designing cyclic peptide inhibitors of protein-protein interactions. He then worked as a Research Assistant in Jue Chen’s lab at Rockefeller U., studying membrane transporter proteins. He is now in the Biophysics PhD program and is interested in improving de novo protein design protocols with machine learning techniques. He is co-mentored with [Tanja Kortemme](http://kortemmelab.ucsf.edu/)."
   avatar: /assets/images/people/bio-orr.jpg
-  title: Grad Student
+  title: Grad Student; NSF Fellow
   github: bendorr
   ncbi_id: Orr B
   type: member
