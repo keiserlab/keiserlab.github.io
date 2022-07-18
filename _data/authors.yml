@@ -170,7 +170,7 @@ mikio_tada:
   type: member
 
 douglas_myers_turnbull:
-  name: Douglas Myers-Turnbull
+  name: Douglas Myers-Turnbull, PhD
   email: douglas@keiserlab.org
   bio: "bioinformatics"
   bio_long: "Douglas was a PhD candidate in the Bioinformatics program. He received a B.S. in Computer Science with a Specialization in Bioinformatics (math minor) from UCSD, where he did research in structural biology. He then worked in clinical sequencing at the Stanford School of Medicine. At UCSF, he is developing biological and computational methods to discover new neuroactive compounds in vivo, using zebrafish as a model. He is interested in software design, computer vision, and bioinformatics, and in integrating diverse data types."
