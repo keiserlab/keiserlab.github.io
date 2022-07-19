@@ -21,6 +21,17 @@ michael_keiser:
   orc_id: 0000-0002-1240-2192
   twitter: keiser_lab
   type: member
+  
+brendan_hall:
+  name: Brendan Hall
+  email: brendan.hall@ucsf.edu
+  bio: "biophysics"
+  bio_long: "Brendan graduated in 2021 from Williams College with a B.A in Physics and Math. While there he did research in Daniel Aalberts' lab analyzing ribosome profiling data to study the kinetics of translation elongation. He is now enrolled in the Biophysics PhD program at UCSF."
+  avatar: /assets/images/people/bio-hall.jpg
+  title: Grad Student
+  github: bwhall61
+  ncbi_id: Hall B
+  type: member
 
 john_gallias:
   name: John Gallias
@@ -43,7 +54,7 @@ noah_weber:
   title: Research Data Analyst
   github: weberna
   linkedin: 
-  ncbi_id: 
+  ncbi_id: Weber N
   type: member
 
 sina_ghandian:
@@ -55,7 +66,7 @@ sina_ghandian:
   title: Research Data Analyst
   github: sghandian
   linkedin: sina-ghandian
-  ncbi_id: 
+  ncbi_id: Ghandian S
   type: member
 
 fedelle_austria:
@@ -172,8 +183,8 @@ mikio_tada:
 douglas_myers_turnbull:
   name: Douglas Myers-Turnbull, PhD
   email: douglas@keiserlab.org
-  bio: "bioinformatics"
-  bio_long: "Douglas was a PhD candidate in the Bioinformatics program. He received a B.S. in Computer Science with a Specialization in Bioinformatics (math minor) from UCSD, where he did research in structural biology. He then worked in clinical sequencing at the Stanford School of Medicine. At UCSF, he is developing biological and computational methods to discover new neuroactive compounds in vivo, using zebrafish as a model. He is interested in software design, computer vision, and bioinformatics, and in integrating diverse data types."
+  bio: ""
+  bio_long: "Douglas has a PhD in Bioinformatics. He received a B.S. in Computer Science with a Specialization in Bioinformatics (math minor) from UCSD, where he did research in structural biology. He then worked in clinical sequencing at the Stanford School of Medicine. At UCSF, he is developing biological and computational methods to discover new neuroactive compounds in vivo, using zebrafish as a model. He is interested in software design, computer vision, and bioinformatics, and in integrating diverse data types."
   avatar: /assets/images/people/bio-myers-turnbull.jpg
   title: Postdoctoral Scholar
   github: dmyersturnbull
