@@ -24,13 +24,25 @@ michael_keiser:
   
 brendan_hall:
   name: Brendan Hall
-  email: brendan.hall@ucsf.edu
+  email: bhall@keiserlab.org
   bio: "biophysics"
   bio_long: "Brendan graduated in 2021 from Williams College with a B.A in Physics and Math. While there he did research in Daniel Aalberts' lab analyzing ribosome profiling data to study the kinetics of translation elongation. He is now enrolled in the Biophysics PhD program at UCSF."
   avatar: /assets/images/people/bio-hall.jpg
   title: Grad Student
   github: bwhall61
   ncbi_id: Hall B
+  type: member
+  
+duncan_muir:
+  name: Duncan Muir
+  email: dmuir@keiserlab.org
+  bio: "biophysics"
+  bio_long: "Duncan completed his B.S. in Data Science and Biochemistry at Northeastern University. Before starting graduate school, he worked in the Structural Biology group at Relay Therapeutics in Cambridge, Massachusetts. There he supported medicinal chemistry efforts through crystallographic fragment screening and developed tools to store and track crystallographic data. As a part of the UCSF Biophysics PhD program he is interested in using high-throughput microfluidic biochemical assays to assemble rich datasets that probe and model the effects of mutations on enzyme activity and stability. He is co-advised by [Margaux Pinney](https://www.pinneylabucsf.com/)."
+  avatar: /assets/images/people/bio-muir.jpg
+  title: Grad Student
+  github: duncan-muir
+  linkedin: duncan-muir-79637a14a
+  ncbi_id: Muir D
   type: member
 
 john_gallias:
