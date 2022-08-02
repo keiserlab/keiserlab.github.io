@@ -11,7 +11,7 @@ header:
   teaser: /assets/images/people/bio-connell.jpg
 papers: 
     - title: Predicting Cellular Drug Sensitivity using Conditional Modulation of Gene Expression
-      excerpt: <u>Connell W</u>, Keiser MJ. __NeurIPS LMRL__. 2020 Dec 11.
+      excerpt: <u>Connell W</u>, Keiser MJ. __bioRxiv - NeurIPS LMRL__. 2020 Dec 11.
       link: ""
 
 ---

@@ -35,7 +35,7 @@ papers:
       link: "https://doi.org/10.1021/acs.jcim.0c00565"
 
     - title: Predicting Cellular Drug Sensitivity using Conditional Modulation of Gene Expression
-      excerpt: Connell W, <u>Keiser MJ</u>. __NeurIPS LMRL__. 2020 Dec 11.
+      excerpt: Connell W, <u>Keiser MJ</u>. __bioRxiv - NeurIPS LMRL__. 2020 Dec 11.
       link: ""
 
     - title: Attention-Based Learning on Molecular Ensembles
@@ -51,7 +51,7 @@ papers:
       link: "https://doi.org/10.1016/j.jid.2020.02.026"
 
     - title: Robust Semantic Interpretability- Revisiting Concept Activation Vectors
-      excerpt: Pfau J, Young AT, Wei J, Wei ML, <u>Keiser MJ</u>. __arxiv - ICML - WHI__. 2020 Jul 17.
+      excerpt: Pfau J, Young AT, Wei J, Wei ML, <u>Keiser MJ</u>. __arXiv - ICML - WHI__. 2020 Jul 17.
       link: ""
 
     - title: Validation of machine learning models to detect amyloid pathologies across institutions

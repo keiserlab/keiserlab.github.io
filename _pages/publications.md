@@ -113,21 +113,21 @@ feature_row1:
 
 feature_row2:
 
-  - image_path: /assets/images/papers/NeurIPS_LMRL.LMRL_Connell.jpg
+  - image_path: /assets/images/papers/bioRxiv_-_NeurIPS_LMRL.2021.03.15.435529.jpg
     alt: >-
         Predicting Cellular Drug Sensitivity using Conditional Modulation of Gene Expression
     title: >-
         <span itemprop="name">Predicting Cellular Drug Sensitivity using Conditional Modulation of Gene Expression</span>
     excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>NeurIPS LMRL</strong></span>. <span itemprop="datePublished">2020 Dec 11</span>. <span itemprop="author">Connell W, Keiser MJ</span>.
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv - NeurIPS LMRL</strong></span>. <span itemprop="datePublished">2020 Dec 11</span>. <span itemprop="author">Connell W, Keiser MJ</span>.
     url: ""
     doi: ""
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-    url2: "https://www.lmrl.org/papers"
+    url2: "https://www.biorxiv.org/content/10.1101/2021.03.15.435529"
     btn2_label: >-
-        NeurIPS LMRL &nbsp; <i class="fas fa-external-link-alt"></i>
+        bioRxiv - NeurIPS LMRL &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
   - image_path: /assets/images/papers/arXiv_-_NeurIPS_ML4Molecules.2011.1282.jpg
@@ -175,13 +175,13 @@ feature_row3:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/papers/arxiv_-_ICML_-_WHI.2104.02768.jpg
+  - image_path: /assets/images/papers/arXiv_-_ICML_-_WHI.2104.02768.jpg
     alt: >-
         Robust Semantic Interpretability: Revisiting Concept Activation Vectors
     title: >-
         <span itemprop="name">Robust Semantic Interpretability: Revisiting Concept Activation Vectors</span>
     excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>arxiv - ICML - WHI</strong></span>. <span itemprop="datePublished">2020 Jul 17</span>. <span itemprop="author">Pfau J, Young AT, Wei J, Wei ML, Keiser MJ</span>.
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>arXiv - ICML - WHI</strong></span>. <span itemprop="datePublished">2020 Jul 17</span>. <span itemprop="author">Pfau J, Young AT, Wei J, Wei ML, Keiser MJ</span>.
     url: ""
     doi: ""
     btn_label: >-
@@ -189,7 +189,7 @@ feature_row3:
     btn_class: "btn--primary"
     url2: "https://arxiv.org/abs/2104.02768"
     btn2_label: >-
-        arxiv - ICML - WHI &nbsp; <i class="fas fa-external-link-alt"></i>
+        arXiv - ICML - WHI &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
   - image_path: /assets/images/papers/10.1186.s40478-020-00927-4.jpg
