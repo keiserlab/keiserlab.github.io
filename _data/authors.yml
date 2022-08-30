@@ -21,6 +21,20 @@ michael_keiser:
   orc_id: 0000-0002-1240-2192
   twitter: keiser_lab
   type: member
+
+mahdi_ghorbani:
+  name: Mahdi Ghorbani, PhD
+  email: mahdi.ghorbani@keiserlab.org
+  bio: ""
+  bio_long: "Mahdi received his PhD in Chemical and Biomolecular Engineering from University of Maryland College Park (UMD). During his PhD, he applied machine learning and Markov state modeling on molecular dynamics trajectories to better understand kinetics of protein folding. He joined Keiser Lab in 2022, where he will be applying deep learning models for drug discovery and protein-ligand interactions."
+  avatar: /assets/images/people/bio-ghorbani.jpg
+  title: Postdoctoral Scholar
+  github: ghorbanimahdi73
+  google:
+    scholar: IUKI5m0AAAAJ
+  linkedin: mahdi-ghorbani
+  ncbi_id: Ghorbani M
+  type: member
   
 brendan_hall:
   name: Brendan Hall
