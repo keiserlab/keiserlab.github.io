@@ -11,6 +11,23 @@ intro:
     - title: Publications
 feature_row0:
 
+  - image_path: /assets/images/papers/bioRxiv.2022.08.11.503410.jpg
+    alt: >-
+        In silico discovery of repetitive elements as key sequence determinants of 3D genome folding
+    title: >-
+        <span itemprop="name">In silico discovery of repetitive elements as key sequence determinants of 3D genome folding</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2022 Aug 12</span>. <span itemprop="author">Gunsalus LM, Keiser MJ, Pollard KS</span>.
+    url: ""
+    doi: "10.1101/2022.08.11.503410"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.1101/2022.08.11.503410"
+    btn2_label: >-
+        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
   - image_path: /assets/images/papers/bioRxiv.2020.01.01.891432.jpg
     alt: >-
         Simultaneous analysis of neuroactive compounds in zebrafish
@@ -45,6 +62,8 @@ feature_row0:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
+feature_row1:
+
   - image_path: /assets/images/papers/bioRxiv.2022.05.25.493419.jpg
     alt: >-
         Prioritizing virtual screening with interpretable interaction fingerprints
@@ -61,8 +80,6 @@ feature_row0:
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
-
-feature_row1:
 
   - image_path: /assets/images/papers/10.1186.s40478-022-01365-0.jpg
     alt: >-
@@ -94,6 +111,8 @@ feature_row1:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row2:
+
   - image_path: /assets/images/papers/10.1021.acs.jcim.0c00565.jpg
     alt: >-
         Adding Stochastic Negative Examples into Machine Learning Improves Molecular Bioactivity Prediction
@@ -110,8 +129,6 @@ feature_row1:
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
-
-feature_row2:
 
   - image_path: /assets/images/papers/bioRxiv_-_NeurIPS_LMRL.2021.03.15.435529.jpg
     alt: >-
@@ -147,6 +164,8 @@ feature_row2:
         arXiv - NeurIPS ML4Molecules &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
+feature_row3:
+
   - image_path: /assets/images/papers/10.1021.acs.jmedchem.0c00385.jpg
     alt: >-
         Learning Molecular Representations for Medicinal Chemistry
@@ -159,8 +178,6 @@ feature_row2:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row3:
 
   - image_path: /assets/images/papers/10.1016.j.jid.2020.02.026.jpg
     alt: >-
@@ -192,6 +209,8 @@ feature_row3:
         arXiv - ICML - WHI &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
+feature_row4:
+
   - image_path: /assets/images/papers/10.1186.s40478-020-00927-4.jpg
     alt: >-
         Validation of machine learning models to detect amyloid pathologies across institutions
@@ -204,8 +223,6 @@ feature_row3:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row4:
 
   - image_path: /assets/images/papers/arXiv_-_NeurIPS_ML4H.1910.07604.jpg
     alt: >-
@@ -237,6 +254,8 @@ feature_row4:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row5:
+
   - image_path: /assets/images/papers/10.1038.s41467-019-10212-1.jpg
     alt: >-
         Interpretable classification of Alzheimer's disease pathologies with a convolutional neural network pipeline
@@ -253,8 +272,6 @@ feature_row4:
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
-
-feature_row5:
 
   - image_path: /assets/images/papers/10.1126.science.aat8603.jpg
     alt: >-
@@ -282,6 +299,8 @@ feature_row5:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row6:
+
   - image_path: /assets/images/papers/10.1016.j.cell.2018.06.016.jpg
     alt: >-
         The Psychiatric Cell Map Initiative: A Convergent Systems Biological Approach to Illuminating Key Molecular Pathways in Neuropsychiatric Disorders
@@ -298,8 +317,6 @@ feature_row5:
     btn2_label: >-
         pcmi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
-
-feature_row6:
 
   - image_path: /assets/images/papers/10.1021.acs.jcim.7b00316.jpg
     alt: >-
@@ -331,6 +348,8 @@ feature_row6:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
+feature_row7:
+
   - image_path: /assets/images/papers/10.1021.acs.jmedchem.7b00696.jpg
     alt: >-
         A Simple Representation of Three-Dimensional Molecular Structure
@@ -347,8 +366,6 @@ feature_row6:
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
-
-feature_row7:
 
   - image_path: /assets/images/papers/10.1038.nchembio.2097.jpg
     alt: >-
@@ -376,6 +393,8 @@ feature_row7:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row8:
+
   - image_path: /assets/images/papers/10.1016.S2215-0366(15)00553-2.jpg
     alt: >-
         Polygenic overlap between schizophrenia risk and antipsychotic response: a genomic medicine approach
@@ -388,8 +407,6 @@ feature_row7:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row8:
 
   - image_path: /assets/images/papers/10.1007.s10928-015-9436-y.jpg
     alt: >-
@@ -417,6 +434,8 @@ feature_row8:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row9:
+
   - image_path: /assets/images/papers/10.1371.journal.pbio.1001712.jpg
     alt: >-
         In silico molecular comparisons of C. elegans and mammalian pharmacology identify distinct targets that regulate feeding
@@ -429,8 +448,6 @@ feature_row8:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row9:
 
   - image_path: /assets/images/papers/10.1038.nature11159.jpg
     alt: >-
@@ -458,6 +475,8 @@ feature_row9:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row10:
+
   - image_path: /assets/images/papers/10.1038.npp.2010.195.jpg
     alt: >-
         The presynaptic component of the serotonergic system is required for clozapine's efficacy
@@ -470,8 +489,6 @@ feature_row9:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row10:
 
   - image_path: /assets/images/papers/10.1021.bi101540g.jpg
     alt: >-
@@ -499,6 +516,8 @@ feature_row10:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row11:
+
   - image_path: /assets/images/papers/10.1021.jm901613f.jpg
     alt: >-
         Prediction and evaluation of protein farnesyltransferase inhibition by commercial drugs
@@ -511,8 +530,6 @@ feature_row10:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row11:
 
   - image_path: /assets/images/papers/20581797.jpg
     alt: >-
@@ -540,6 +557,8 @@ feature_row11:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row12:
+
   - image_path: /assets/images/papers/10.1371.journal.pcbi.1000474.jpg
     alt: >-
         A mapping of drug space from the viewpoint of small molecule metabolism
@@ -552,8 +571,6 @@ feature_row11:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row12:
 
   - image_path: /assets/images/papers/10.1038.nchembio.180.jpg
     alt: >-
@@ -581,6 +598,8 @@ feature_row12:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row13:
+
   - image_path: /assets/images/papers/10.1021.ci8000259.jpg
     alt: >-
         Quantifying the relationships among drug classes
@@ -593,8 +612,6 @@ feature_row12:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row13:
 
   - image_path: /assets/images/papers/10.1038.nbt1284.jpg
     alt: >-

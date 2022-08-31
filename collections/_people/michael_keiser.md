@@ -10,6 +10,10 @@ excerpt: "<p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and
 header:
   teaser: /assets/images/people/bio-keiser.jpg
 papers: 
+    - title: In silico discovery of repetitive elements as key sequence determinants of 3D genome folding
+      excerpt: Gunsalus LM, <u>Keiser MJ</u>, Pollard KS. __bioRxiv__. 2022 Aug 12.
+      link: ""
+
     - title: Simultaneous analysis of neuroactive compounds in zebrafish
       excerpt: Myers-Turnbull D, Taylor JC, Helsell C, McCarroll MN, Ki CS, Tummino TA, Ravikumar S, Kinser R, Gendelev L, Alexander R, <u>Keiser MJ</u>, Kokel D. __bioRxiv__. 2022 Jun 15.
       link: ""
