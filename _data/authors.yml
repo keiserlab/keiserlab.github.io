@@ -22,6 +22,14 @@ michael_keiser:
   twitter: keiser_lab
   type: member
 
+victor.rabesquine:
+  name: Victor Rabesquine, MSc
+  email: victor.rabesquine@keiserlab.org
+  bio: ""
+  bio_long: "Visiting CAPES scholar.  Victor is a biomolecular physicist who comes from the University of São Paulo, Brazil. Mentored by Prof. Dr. Rafael Guido and Dr. Alexandre Fassio, Victor is currently interested in using generative models to find new molecules that have activity against infectious diseases."
+  title: Visiting Graduate
+  type: member
+
 mahdi_ghorbani:
   name: Mahdi Ghorbani, PhD
   email: mahdi.ghorbani@keiserlab.org
