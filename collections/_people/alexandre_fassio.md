@@ -10,8 +10,8 @@ excerpt: "Visiting [CAPES Scholar](https://www.iie.org/Programs/CAPES), 2018-201
 header:
   teaser: /assets/images/people/bio-fassio.jpg
 papers: 
-    - title: Prioritizing virtual screening with interpretable interaction fingerprints
-      excerpt: <u>Fassio AV</u>, Shub L, Ponzoni L, McKinley J, O'Meara MJ, Ferreira RS, Keiser MJ, de Melo Minardi RC. __bioRxiv__. 2022 May 29.
-      link: ""
+    - title: Prioritizing Virtual Screening with Interpretable Interaction Fingerprints
+      excerpt: <u>Fassio AV</u>, Shub L, Ponzoni L, McKinley J, O'Meara MJ, Ferreira RS, Keiser MJ, de Melo Minardi RC. __J Chem Inf Model__. 2022 Sep 26.
+      link: "https://doi.org/10.1021/acs.jcim.2c00695"
 
 ---
