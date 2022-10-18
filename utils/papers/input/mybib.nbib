@@ -1,7 +1,117 @@
+PMID- 36102784
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220928
+LR  - 20220928
+IS  - 1549-960X (Electronic)
+IS  - 1549-9596 (Linking)
+VI  - 62
+IP  - 18
+DP  - 2022 Sep 26
+TI  - Prioritizing Virtual Screening with Interpretable Interaction
+      Fingerprints.
+PG  - 4300-4318
+LID - 10.1021/acs.jcim.2c00695 [doi]
+AB  - Machine learning-based drug discovery success depends on molecular
+      representation. Yet traditional molecular fingerprints omit both the
+      protein and pointers back to structural information that would enable
+      better model interpretability. Therefore, we propose LUNA, a Python 3
+      toolkit that calculates and encodes protein-ligand interactions into new
+      hashed fingerprints inspired by Extended Connectivity FingerPrint (ECFP):
+      EIFP (Extended Interaction FingerPrint), FIFP (Functional Interaction
+      FingerPrint), and Hybrid Interaction FingerPrint (HIFP). LUNA also
+      provides visual strategies to make the fingerprints interpretable. We
+      performed three major experiments exploring the fingerprints' use. First,
+      we trained machine learning models to reproduce DOCK3.7 scores using 1
+      million docked Dopamine D4 complexes. We found that EIFP-4,096 performed
+      (R(2) = 0.61) superior to related molecular and interaction fingerprints.
+      Second, we used LUNA to support interpretable machine learning models.
+      Finally, we demonstrate that interaction fingerprints can accurately
+      identify similarities across molecular complexes that other fingerprints
+      overlook. Hence, we envision LUNA and its interface fingerprints as
+      promising methods for machine learning-based virtual screening campaigns.
+      LUNA is freely available at https://github.com/keiserlab/LUNA.
+FAU - Fassio, Alexandre V
+AU  - Fassio AV
+AUID- ORCID: 0000-0002-2182-4709
+AD  - Sao Carlos Institute of Physics, University of Sao Paulo, Sao Carlos, Sao
+      Paulo 13563-120, Brazil.
+AD  - Department of Biochemistry and Immunology, Federal University of Minas
+      Gerais, Belo Horizonte, Minas Gerais 31270-901, Brazil.
+FAU - Shub, Laura
+AU  - Shub L
+AUID- ORCID: 0000-0003-0211-0396
+AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering &
+      Therapeutic Sciences, Institute for Neurodegenerative Diseases, Kavli
+      Institute for Fundamental Neuroscience, Bakar Computational Health
+      Sciences Institute, University of California, San Francisco, San
+      Francisco, California 94143, United States.
+FAU - Ponzoni, Luca
+AU  - Ponzoni L
+AUID- ORCID: 0000-0001-8125-582X
+AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering &
+      Therapeutic Sciences, Institute for Neurodegenerative Diseases, Kavli
+      Institute for Fundamental Neuroscience, Bakar Computational Health
+      Sciences Institute, University of California, San Francisco, San
+      Francisco, California 94143, United States.
+FAU - McKinley, Jessica
+AU  - McKinley J
+AUID- ORCID: 0000-0002-8786-915X
+AD  - Gilead Sciences, Inc., Foster City, California 94404, United States.
+FAU - O'Meara, Matthew J
+AU  - O'Meara MJ
+AUID- ORCID: 0000-0002-3128-5331
+AD  - Department of Computational Medicine and Bioinformatics, University of
+      Michigan, Ann Arbor, Michigan 48109, United States.
+FAU - Ferreira, Rafaela S
+AU  - Ferreira RS
+AD  - Department of Biochemistry and Immunology, Federal University of Minas
+      Gerais, Belo Horizonte, Minas Gerais 31270-901, Brazil.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AUID- ORCID: 0000-0002-1240-2192
+AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering &
+      Therapeutic Sciences, Institute for Neurodegenerative Diseases, Kavli
+      Institute for Fundamental Neuroscience, Bakar Computational Health
+      Sciences Institute, University of California, San Francisco, San
+      Francisco, California 94143, United States.
+FAU - de Melo Minardi, Raquel C
+AU  - de Melo Minardi RC
+AUID- ORCID: 0000-0001-5190-100X
+AD  - Department of Computer Science, Federal University of Minas Gerais, Belo
+      Horizonte, Minas Gerais 31270-901, Brazil.
+LA  - eng
+PT  - Journal Article
+DEP - 20220914
+PL  - United States
+TA  - J Chem Inf Model
+JT  - Journal of chemical information and modeling
+JID - 101230060
+RN  - 0 (Ligands)
+RN  - 0 (Proteins)
+RN  - VTD58H1Z2X (Dopamine)
+SB  - IM
+MH  - *Dopamine
+MH  - Drug Discovery/methods
+MH  - Ligands
+MH  - Machine Learning
+MH  - *Proteins/chemistry
+EDAT- 2022/09/15 06:00
+MHDA- 2022/09/28 06:00
+CRDT- 2022/09/14 09:53
+PHST- 2022/09/15 06:00 [pubmed]
+PHST- 2022/09/28 06:00 [medline]
+PHST- 2022/09/14 09:53 [entrez]
+AID - 10.1021/acs.jcim.2c00695 [doi]
+PST - ppublish
+SO  - J Chem Inf Model. 2022 Sep 26;62(18):4300-4318. doi:
+      10.1021/acs.jcim.2c00695. Epub 2022 Sep 14.
+
 PMID- 35484610
 OWN - NLM
 STAT- MEDLINE
-LR  - 20220716
+DCOM- 20220502
+LR  - 20220924
 IS  - 2051-5960 (Electronic)
 IS  - 2051-5960 (Linking)
 VI  - 10
@@ -120,13 +230,14 @@ AD  - Department of Pharmaceutical Chemistry, University of California, San
 AD  - Department of Bioengineering and Therapeutic Sciences, University of
       California, San Francisco, CA, 94158, USA. keiser@keiserlab.org.
 LA  - eng
-GR  - P30 AG010129/AG/NIA NIH HHS/United States
 GR  - P30 AG013854/AG/NIA NIH HHS/United States
+GR  - K08 AG065463/AG/NIA NIH HHS/United States
+GR  - R01 AG062517/AG/NIA NIH HHS/United States
+GR  - P30 AG012300/AG/NIA NIH HHS/United States
 GR  - P30 AG066468/AG/NIA NIH HHS/United States
 GR  - P50 AG005133/AG/NIA NIH HHS/United States
+GR  - P30 AG010129/AG/NIA NIH HHS/United States
 GR  - P30 AG072972/AG/NIA NIH HHS/United States
-GR  - K08 AG065463/AG/NIA NIH HHS/United States
-GR  - P30 AG012300/AG/NIA NIH HHS/United States
 PT  - Journal Article
 PT  - Research Support, Non-U.S. Gov't
 PT  - Research Support, N.I.H., Extramural
@@ -145,12 +256,12 @@ MH  - Neuropathology
 MH  - Prospective Studies
 PMC - PMC9052651
 OTO - NOTNLM
-OT  - *Algorithms
-OT  - *Amyloid beta
-OT  - *Consensus
-OT  - *Deep learning
-OT  - *Expert annotators
-OT  - *Histopathology
+OT  - Algorithms
+OT  - Amyloid beta
+OT  - Consensus
+OT  - Deep learning
+OT  - Expert annotators
+OT  - Histopathology
 EDAT- 2022/04/29 06:00
 MHDA- 2022/05/03 06:00
 CRDT- 2022/04/28 23:50
