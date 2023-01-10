@@ -11,6 +11,23 @@ intro:
     - title: Publications
 feature_row0:
 
+  - image_path: /assets/images/papers/10.1021.acs.jcim.2c00695.jpg
+    alt: >-
+        Prioritizing Virtual Screening with Interpretable Interaction Fingerprints
+    title: >-
+        <span itemprop="name">Prioritizing Virtual Screening with Interpretable Interaction Fingerprints</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>J Chem Inf Model</strong></span>. <span itemprop="datePublished">2022 Sep 26</span>. <span itemprop="author">Fassio AV, Shub L, Ponzoni L, McKinley J, O'Meara MJ, Ferreira RS, Keiser MJ, de Melo Minardi RC</span>.
+    url: "https://doi.org/10.1021/acs.jcim.2c00695"
+    doi: "10.1021/acs.jcim.2c00695"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.1101/2022.05.25.493419"
+    btn2_label: >-
+        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
   - image_path: /assets/images/papers/bioRxiv.2022.08.11.503410.jpg
     alt: >-
         In silico discovery of repetitive elements as key sequence determinants of 3D genome folding
@@ -45,6 +62,8 @@ feature_row0:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
+feature_row1:
+
   - image_path: /assets/images/papers/10.1038.s42256-022-00490-8.jpg
     alt: >-
         Trans-channel fluorescence learning improves high-content screening for Alzheimer's disease therapeutics
@@ -58,25 +77,6 @@ feature_row0:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
     url2: "https://doi.org/10.1101/2021.01.08.425973"
-    btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
-
-feature_row1:
-
-  - image_path: /assets/images/papers/bioRxiv.2022.05.25.493419.jpg
-    alt: >-
-        Prioritizing virtual screening with interpretable interaction fingerprints
-    title: >-
-        <span itemprop="name">Prioritizing virtual screening with interpretable interaction fingerprints</span>
-    excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2022 May 29</span>. <span itemprop="author">Fassio AV, Shub L, Ponzoni L, McKinley J, O'Meara MJ, Ferreira RS, Keiser MJ, de Melo Minardi RC</span>.
-    url: ""
-    doi: "10.1101/2022.05.25.493419"
-    btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
-    url2: "https://doi.org/10.1101/2022.05.25.493419"
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"

@@ -10,6 +10,10 @@ excerpt: "<p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and
 header:
   teaser: /assets/images/people/bio-keiser.jpg
 papers: 
+    - title: Prioritizing Virtual Screening with Interpretable Interaction Fingerprints
+      excerpt: Fassio AV, Shub L, Ponzoni L, McKinley J, O'Meara MJ, Ferreira RS, <u>Keiser MJ</u>, de Melo Minardi RC. __J Chem Inf Model__. 2022 Sep 26.
+      link: "https://doi.org/10.1021/acs.jcim.2c00695"
+
     - title: In silico discovery of repetitive elements as key sequence determinants of 3D genome folding
       excerpt: Gunsalus LM, <u>Keiser MJ</u>, Pollard KS. __bioRxiv__. 2022 Aug 12.
       link: ""
@@ -21,10 +25,6 @@ papers:
     - title: Trans-channel fluorescence learning improves high-content screening for Alzheimer's disease therapeutics
       excerpt: Wong DR, Conrad J, Johnson N, Ayers JI, Laeremans A, Lee JC, Lee J, Prusiner SB, Bandyopadhyay S, Butte AJ, Paras NA, <u>Keiser MJ</u>. __Nat Mach Intell__. 2022 May 30.
       link: "https://doi.org/10.1038/s42256-022-00490-8"
-
-    - title: Prioritizing virtual screening with interpretable interaction fingerprints
-      excerpt: Fassio AV, Shub L, Ponzoni L, McKinley J, O'Meara MJ, Ferreira RS, <u>Keiser MJ</u>, de Melo Minardi RC. __bioRxiv__. 2022 May 29.
-      link: ""
 
     - title: Deep learning from multiple experts improves identification of amyloid neuropathologies
       excerpt: Wong DR, Tang Z, Mew NC, Das S, Athey J, McAleese KE, Kofler JK, Flanagan ME, Borys E, White CL 3rd, Butte AJ, Dugger BN, <u>Keiser MJ</u>. __Acta Neuropathol Commun__. 2022 Apr 28.
