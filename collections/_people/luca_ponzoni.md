@@ -5,7 +5,7 @@ author: luca_ponzoni
 layout: author-bio
 jobtitle: Postdoctoral Scholar
 bio: 
-type: member
+type: alumn
 excerpt: "Luca obtained his PhD in Physics and Chemistry of Biological Systems at SISSA, Trieste (Italy). As a postdoc in the Bahar lab at the University of Pittsburgh, h"
 header:
   teaser: /assets/images/people/bio-ponzoni.jpg
