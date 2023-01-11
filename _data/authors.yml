@@ -22,6 +22,35 @@ michael_keiser:
   twitter: keiser_lab
   type: member
 
+umair_khan:
+  name: Umair Khan
+  email: ukhan@keiserlab.org
+  bio: "bioinformatics"
+  bio_long: "Umair majored in Computer Science and Mathematics at Portland State University before coming to the Biological and Medical Informatics graduate program at UCSF. He is co-advised by [Marina Sirota](https://sirotalab.ucsf.edu/) and is interested in developing and applying new computational techniques to better understand disease."
+  avatar: /assets/images/people/bio-khan.jpg
+  title: Grad Student
+  github: khanu263
+  google:
+    scholar: 4Q3ctqUAAAAJ
+  linkedin: umair-khan-ucsf
+  ncbi_id: Khan U
+  orc_id: 0000-0002-6361-4996
+  type: member
+
+victor_rabesquine:
+  name: Victor Rabesquine, MSc
+  email: victor.rabesquine@keiserlab.org
+  bio: "IFSC-USP"
+  bio_long: "Victor is a biomolecular physicist who comes from University of São Paulo, Brazil. Mentored by Prof. Dr. Rafael Guido and Dr. Alexandre Fassio, Victor is currently interested in using generative models to find new molecules that have activity against infectious diseases."
+  avatar: /assets/images/people/bio-victor.jpg
+  title: Visiting Graduate
+  github: Victor-Rabesquine
+  google:
+    scholar: 
+  linkedin: 
+  ncbi_id: Rabesquine V
+  type: member
+
 mahdi_ghorbani:
   name: Mahdi Ghorbani, PhD
   email: mahdi.ghorbani@keiserlab.org
@@ -71,18 +100,6 @@ john_gallias:
   ncbi_id: 
   type: member
 
-noah_weber:
-  name: Noah Weber
-  email: nwweber@keiserlab.org
-  bio: ""
-  bio_long: "Noah is a Research Data Analyst whose primary research interests are in model robustness, transparency, and structured data representation. Prior to joining UCSF, Noah worked as a researcher at Johns Hopkins University and Stony Brook University, where he conducted research in machine learning, language understanding, and causality."
-  avatar: /assets/images/people/bio-weber.jpg
-  title: Research Data Analyst
-  github: weberna
-  linkedin: 
-  ncbi_id: Weber N
-  type: member
-
 sina_ghandian:
   name: Sina Ghandian
   email: sina@keiserlab.org
@@ -105,17 +122,6 @@ fedelle_austria:
   ncbi_id: 
   type: member
   
-will_connell:
-  name: Will Connell
-  email: connell@keiserlab.org
-  bio: "pspg"
-  bio_long: "Currently, clinicians practice medicine on a population level. The ability to molecularly characterize biological systems affords new opportunities in the personalization of patient treatment. Proper integration and interpretation of biological data types are necessary to deconvolute individual homeostatic imbalances. Network representation of this information most closely resembles our current models, and the application of machine learning methods to this data structure can help us understand complex interactions. Will is a student in the Pharmaceutical Sciences and Pharmacogenomics graduate degree program."
-  avatar: /assets/images/people/bio-connell.jpg
-  title: Grad Student
-  github: wconnell
-  ncbi_id: Connell W
-  type: member
-
 parker_grosjean:
   name: Parker Grosjean
   email: pgrosjean@keiserlab.org
@@ -148,17 +154,6 @@ sahru_keiser:
   linkedin: sahru-keiser-mph-53563427
   twitter: SahruKeiser
   ncbi_id: 
-  type: member
-
-nick_mew:
-  name: Nick Mew, MS
-  email: mew@keiserlab.org
-  bio: ""
-  bio_long: "Coming from a software engineering and computer science background, I'm focused on creating research tools that combine the state of the art in machine learning, statistics and data visualization. My current research involves training artificial neural networks to answer questions related to drugs, targets and their interactions. I also work on creating interactive visualizations that help human neural networks answer similar questions."
-  avatar: /assets/images/people/bio-mew.jpg
-  title: Computational Research Specialist
-  github: munick
-  ncbi_id: Mew NC
   type: member
 
 lise_minaud:
@@ -217,19 +212,6 @@ douglas_myers_turnbull:
   ncbi_id: Myers-Turnbull D
   type: member
 
-luca_ponzoni:
-  name: Luca Ponzoni, PhD
-  email: lponzoni@keiserlab.org
-  bio: ""
-  bio_long: "Luca obtained his PhD in Physics and Chemistry of Biological Systems at SISSA, Trieste (Italy). As a postdoc in the Bahar lab at the University of Pittsburgh, he applied machine learning to integrate the analysis of structural dynamics of proteins in the prediction of the effects of missense variants. He joined the Keiser lab in 2019, where he will be working on applying deep learning techniques to analyze molecular dynamics trajectories. He enjoys mounting biking and hiking in his free time."
-  avatar: /assets/images/people/bio-ponzoni.jpg
-  title: Postdoctoral Scholar
-  github: luponzo86
-  google:
-    scholar: 8vfPOYUAAAAJ
-  ncbi_id: Ponzoni L
-  type: member
-
 maurisa_s:
   name: Maurisa S
   email: saylor@keiserlab.org
@@ -255,6 +237,53 @@ rish_sharma:
   
 
 # ALUMNI
+
+luca_ponzoni:
+  name: Luca Ponzoni, PhD
+  email: lponzoni@keiserlab.org
+  bio: ""
+  bio_long: "Luca obtained his PhD in Physics and Chemistry of Biological Systems at SISSA, Trieste (Italy). As a postdoc in the Bahar lab at the University of Pittsburgh, he applied machine learning to integrate the analysis of structural dynamics of proteins in the prediction of the effects of missense variants. He joined the Keiser lab in 2019, where he worked on applying deep learning techniques to analyze molecular dynamics trajectories. He enjoys mounting biking and hiking in his free time."
+  avatar: /assets/images/people/bio-ponzoni.jpg
+  title: Postdoctoral Scholar
+  github: luponzo86
+  google:
+    scholar: 8vfPOYUAAAAJ
+  ncbi_id: Ponzoni L
+  type: alumn
+
+noah_weber:
+  name: Noah Weber
+  email: nwweber@keiserlab.org
+  bio: ""
+  bio_long: "Noah was a Research Data Analyst whose primary research interests are in model robustness, transparency, and structured data representation. Prior to joining UCSF, Noah worked as a researcher at Johns Hopkins University and Stony Brook University, where he conducted research in machine learning, language understanding, and causality."
+  avatar: /assets/images/people/bio-weber.jpg
+  title: Research Data Analyst
+  github: weberna
+  linkedin: 
+  ncbi_id: Weber N
+  type: alumn
+
+nick_mew:
+  name: Nick Mew, MS
+  email: mew@keiserlab.org
+  bio: ""
+  bio_long: "Coming from a software engineering and computer science background, I'm focused on creating research tools that combine the state of the art in machine learning, statistics and data visualization. My research involved training artificial neural networks to answer questions related to drugs, targets and their interactions. I also worked on creating interactive visualizations that help human neural networks answer similar questions."
+  avatar: /assets/images/people/bio-mew.jpg
+  title: Computational Research Specialist
+  github: munick
+  ncbi_id: Mew NC
+  type: alumn
+
+will_connell:
+  name: Will Connell
+  email: connell@keiserlab.org
+  bio: "pspg"
+  bio_long: "Currently, clinicians practice medicine on a population level. The ability to molecularly characterize biological systems affords new opportunities in the personalization of patient treatment. Proper integration and interpretation of biological data types are necessary to deconvolute individual homeostatic imbalances. Network representation of this information most closely resembles our current models, and the application of machine learning methods to this data structure can help us understand complex interactions. Will was a student in the Pharmaceutical Sciences and Pharmacogenomics graduate degree program."
+  avatar: /assets/images/people/bio-connell.jpg
+  title: Grad Student
+  github: wconnell
+  ncbi_id: Connell W
+  type: alumn
 
 cristina_melero:
   name: Cristina Melero, MS

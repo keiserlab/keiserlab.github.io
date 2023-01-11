@@ -5,8 +5,8 @@ author: noah_weber
 layout: author-bio
 jobtitle: Research Data Analyst
 bio: 
-type: member
-excerpt: "Noah is a Research Data Analyst whose primary research interests are in model robustness, transparency, and structured data representation. Prior to joining UCS"
+type: alumn
+excerpt: "Noah was a Research Data Analyst whose primary research interests are in model robustness, transparency, and structured data representation. Prior to joining UC"
 header:
   teaser: /assets/images/people/bio-weber.jpg
 papers: 
