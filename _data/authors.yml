@@ -41,9 +41,9 @@ victor_rabesquine:
   name: Victor Rabesquine, MSc
   email: victor.rabesquine@keiserlab.org
   bio: "IFSC-USP"
-  bio_long: "Victor is a biomolecular physicist who comes from University of São Paulo, Brazil. Mentored by Prof. Dr. Rafael Guido and Dr. Alexandre Fassio, Victor is currently interested in using generative models to find new molecules that have activity against infectious diseases."
-  avatar: /assets/images/people/bio-victor.jpg
-  title: Visiting Graduate
+  bio_long: "Victor is a biomolecular physicist and [CAPES Scholar](https://www.iie.org/Programs/CAPES) who comes from University of São Paulo, Brazil. Mentored by Prof. Dr. Rafael Guido and Dr. Alexandre Fassio, Victor is currently interested in using generative models to find new molecules that have activity against infectious diseases."
+  avatar: /assets/images/people/bio-rabesquine.jpg
+  title: Visiting CAPES Scholar
   github: Victor-Rabesquine
   google:
     scholar: 
@@ -254,12 +254,12 @@ luca_ponzoni:
 noah_weber:
   name: Noah Weber
   email: nwweber@keiserlab.org
-  bio: ""
-  bio_long: "Noah was a Research Data Analyst whose primary research interests are in model robustness, transparency, and structured data representation. Prior to joining UCSF, Noah worked as a researcher at Johns Hopkins University and Stony Brook University, where he conducted research in machine learning, language understanding, and causality."
+  bio: "Microsoft"
+  bio_long: "Research Data Analyst (2022). Primary research interests in model robustness, transparency, and structured data representation. Prior to joining UCSF, Noah worked as a researcher at Johns Hopkins University and Stony Brook University, where he conducted research in machine learning, language understanding, and causality."
   avatar: /assets/images/people/bio-weber.jpg
-  title: Research Data Analyst
+  title: Data & Applied Scientist
   github: weberna
-  linkedin: 
+  linkedin: noah-weber-1a37a0a1
   ncbi_id: Weber N
   type: alumn
 
@@ -277,10 +277,11 @@ nick_mew:
 will_connell:
   name: Will Connell
   email: connell@keiserlab.org
-  bio: "pspg"
-  bio_long: "Currently, clinicians practice medicine on a population level. The ability to molecularly characterize biological systems affords new opportunities in the personalization of patient treatment. Proper integration and interpretation of biological data types are necessary to deconvolute individual homeostatic imbalances. Network representation of this information most closely resembles our current models, and the application of machine learning methods to this data structure can help us understand complex interactions. Will was a student in the Pharmaceutical Sciences and Pharmacogenomics graduate degree program."
+  bio: "Vevo Therapeutics"
+  bio_long: "PSPG Grad student (2019-2022). Currently, clinicians practice medicine on a population level. The ability to molecularly characterize biological systems affords new opportunities in the personalization of patient treatment. Proper integration and interpretation of biological data types are necessary to deconvolute individual homeostatic imbalances. Network representation of this information most closely resembles our current models, and the application of machine learning methods to this data structure can help us understand complex interactions. Will was a student in the Pharmaceutical Sciences and Pharmacogenomics graduate degree program."
   avatar: /assets/images/people/bio-connell.jpg
-  title: Grad Student
+  title: Machine Learning Research Scientist
+  linkedin: will-connell-26412352
   github: wconnell
   ncbi_id: Connell W
   type: alumn
