@@ -3,10 +3,10 @@
 title: Will Connell
 author: will_connell
 layout: author-bio
-jobtitle: Grad Student
-bio: pspg
+jobtitle: Machine Learning Research Scientist
+bio: Vevo Therapeutics
 type: alumn
-excerpt: "Currently, clinicians practice medicine on a population level. The ability to molecularly characterize biological systems affords new opportunities in the perso"
+excerpt: "PSPG Grad student (2019-2022). Currently, clinicians practice medicine on a population level. The ability to molecularly characterize biological systems affords"
 header:
   teaser: /assets/images/people/bio-connell.jpg
 papers: 

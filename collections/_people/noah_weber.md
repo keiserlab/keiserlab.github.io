@@ -3,10 +3,10 @@
 title: Noah Weber
 author: noah_weber
 layout: author-bio
-jobtitle: Research Data Analyst
-bio: 
+jobtitle: Data & Applied Scientist
+bio: Microsoft
 type: alumn
-excerpt: "Noah was a Research Data Analyst whose primary research interests are in model robustness, transparency, and structured data representation. Prior to joining UC"
+excerpt: "Research Data Analyst (2022). Primary research interests in model robustness, transparency, and structured data representation. Prior to joining UCSF, Noah work"
 header:
   teaser: /assets/images/people/bio-weber.jpg
 papers: 
