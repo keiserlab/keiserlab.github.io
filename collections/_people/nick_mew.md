@@ -5,7 +5,7 @@ author: nick_mew
 layout: author-bio
 jobtitle: Computational Research Specialist
 bio: 
-type: member
+type: alumn
 excerpt: "Coming from a software engineering and computer science background, I'm focused on creating research tools that combine the state of the art in machine learning"
 header:
   teaser: /assets/images/people/bio-mew.jpg
