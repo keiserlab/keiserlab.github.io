@@ -26,7 +26,7 @@ halimat_afolabi:
   name: Halimat Afolabi, MBBS
   email: halimat@keiserlab.org 
   bio: "AI; ML; Computer Vision; Precision Medicine; Translational Medicine"
-  bio_long: "Halimat is a physician scientist from the UK. After obtaining clinical experience in the National Health Service she completed a Master's in Data Science, followed by a rersearch fellowship in clinical data science at Stanford University. Currently she is researching self-supervised methods to improve the generalisability of computer vision models across histopathology and clinical image datasets."
+  bio_long: "Halimat is a physician scientist from the UK. After obtaining clinical experience in the National Health Service she completed a Master's in Data Science, followed by a research fellowship in clinical data science at Stanford University. Currently she is researching self-supervised methods to improve the generalisability of computer vision models across histopathology and clinical image datasets."
   avatar: /assets/images/people/bio-halimat.png
   title: Applied Scientist
   linkedin: halimat-afolabi
