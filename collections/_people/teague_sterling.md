@@ -3,8 +3,8 @@
 title: Teague Sterling, MS
 author: teague_sterling
 layout: author-bio
-jobtitle: Director, Head of Computational Biology
-bio: BioMarin Pharmaceutical
+jobtitle: Director of Computational Biology Systems
+bio: 23andMe
 type: alumn
 excerpt: ""
 header:

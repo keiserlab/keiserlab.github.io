@@ -3,7 +3,7 @@
 title: Taline Mardirossian
 author: taline_mardirossian
 layout: author-bio
-jobtitle: Associate Data Scientist
+jobtitle: Senior Associate Data Scientist
 bio: Terray Therapeutics
 type: alumn
 excerpt: "Research Data Analyst (2021-2022). Taline graduated from UC Berkeley with a B.A. in Data Science, concentrated in applied mathematics and modeling. Taline worke"
