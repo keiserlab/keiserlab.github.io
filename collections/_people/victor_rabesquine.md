@@ -3,10 +3,10 @@
 title: Victor Rabesquine, MSc
 author: victor_rabesquine
 layout: author-bio
-jobtitle: Visiting CAPES Scholar
+jobtitle: Grad Student
 bio: IFSC-USP
-type: member
-excerpt: "Victor is a biomolecular physicist and [CAPES Scholar](https://www.iie.org/Programs/CAPES) who comes from University of São Paulo, Brazil. Mentored by Prof. Dr"
+type: alumn
+excerpt: "Visiting [CAPES Scholar](https://www.iie.org/Programs/CAPES) (2022-2023). Victor is a biomolecular physicist who comes from University of São Paulo, Brazil. Me"
 header:
   teaser: /assets/images/people/bio-rabesquine.jpg
 papers: 

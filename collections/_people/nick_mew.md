@@ -3,7 +3,7 @@
 title: Nick Mew, MS
 author: nick_mew
 layout: author-bio
-jobtitle: Computational Research Specialist
+jobtitle: Computational ML Research Specialist
 bio: 
 type: alumn
 excerpt: "Coming from a software engineering and computer science background, I'm focused on creating research tools that combine the state of the art in machine learning"

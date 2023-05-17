@@ -3,10 +3,10 @@
 title: Luca Ponzoni, PhD
 author: luca_ponzoni
 layout: author-bio
-jobtitle: Postdoctoral Scholar
-bio: 
+jobtitle: Machine Learning Scientist
+bio: Relay Therapeutics
 type: alumn
-excerpt: "Luca obtained his PhD in Physics and Chemistry of Biological Systems at SISSA, Trieste (Italy). As a postdoc in the Bahar lab at the University of Pittsburgh, h"
+excerpt: "Postdoctoral Scholar (2019-2022). Luca obtained his PhD in Physics and Chemistry of Biological Systems at SISSA, Trieste (Italy). As a postdoc in the Bahar lab "
 header:
   teaser: /assets/images/people/bio-ponzoni.jpg
 papers: 
