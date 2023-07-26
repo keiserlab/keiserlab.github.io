@@ -1,8 +1,145 @@
+PMID- 37355729
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230626
+LR  - 20230701
+IS  - 2399-3642 (Electronic)
+IS  - 2399-3642 (Linking)
+VI  - 6
+IP  - 1
+DP  - 2023 Jun 24
+TI  - Learning fast and fine-grained detection of amyloid neuropathologies from
+      coarse-grained expert labels.
+PG  - 668
+LID - 10.1038/s42003-023-05031-6 [doi]
+AB  - Precise, scalable, and quantitative evaluation of whole slide images is
+      crucial in neuropathology. We release a deep learning model for rapid
+      object detection and precise information on the identification, locality,
+      and counts of cored plaques and cerebral amyloid angiopathy (CAA). We
+      trained this object detector using a repurposed image-tile dataset
+      without any human-drawn bounding boxes. We evaluated the detector on a
+      new manually-annotated dataset of whole slide images (WSIs) from three
+      institutions, four staining procedures, and four human experts. The
+      detector matched the cohort of neuropathology experts, achieving 0.64
+      (model) vs. 0.64 (cohort) average precision (AP) for cored plaques and
+      0.75 vs. 0.51 AP for CAAs at a 0.5 IOU threshold. It provided count and
+      locality predictions that approximately correlated with gold-standard
+      human CERAD-like WSI scoring (p = 0.07 +/- 0.10). The openly-available
+      model can quickly score WSIs in minutes without a GPU on a standard
+      workstation.
+CI  - (c) 2023. The Author(s).
+FAU - Wong, Daniel R
+AU  - Wong DR
+AUID- ORCID: http://orcid.org/0000-0003-3642-7674
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA, 94158, USA.
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, CA, 94158, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, CA, 94158, USA.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco, San Francisco, CA, 94158, USA.
+AD  - Kavli Institute for Fundamental Neuroscience, University of California,
+      San Francisco, San Francisco, CA, 94158, USA.
+FAU - Magaki, Shino D
+AU  - Magaki SD
+AD  - Department of Pathology and Laboratory Medicine, University of
+      California, Los Angeles, Los Angeles, CA, 90095, USA.
+FAU - Vinters, Harry V
+AU  - Vinters HV
+AD  - Department of Pathology and Laboratory Medicine, University of
+      California, Los Angeles, Los Angeles, CA, 90095, USA.
+AD  - Department of Neurology, David Geffen School of Medicine at University of
+      California, Los Angeles, Los Angeles, CA, 90095, USA.
+FAU - Yong, William H
+AU  - Yong WH
+AD  - Department of Pathology & Laboratory Medicine, University of California,
+      Irvine, CA, 92697, USA.
+FAU - Monuki, Edwin S
+AU  - Monuki ES
+AD  - Department of Pathology & Laboratory Medicine, University of California,
+      Irvine, CA, 92697, USA.
+FAU - Williams, Christopher K
+AU  - Williams CK
+AD  - Department of Pathology and Laboratory Medicine, University of
+      California, Los Angeles, Los Angeles, CA, 90095, USA.
+FAU - Martini, Alessandra C
+AU  - Martini AC
+AUID- ORCID: http://orcid.org/0000-0002-8447-6756
+AD  - Department of Pathology & Laboratory Medicine, University of California,
+      Irvine, CA, 92697, USA.
+FAU - DeCarli, Charles
+AU  - DeCarli C
+AUID- ORCID: http://orcid.org/0000-0003-1914-2693
+AD  - Department of Neurology, School of Medicine, University of California-
+      Davis, Davis, CA, 95817, USA.
+FAU - Khacherian, Chris
+AU  - Khacherian C
+AD  - Department of Pathology & Laboratory Medicine, University of California,
+      Irvine, CA, 92697, USA.
+FAU - Graff, John P
+AU  - Graff JP
+AUID- ORCID: http://orcid.org/0000-0002-1247-2588
+AD  - Department of Pathology and Laboratory Medicine, School of Medicine,
+      University of California, Davis, Sacramento, CA, 95817, USA.
+FAU - Dugger, Brittany N
+AU  - Dugger BN
+AUID- ORCID: http://orcid.org/0000-0003-2141-8855
+AD  - Department of Pathology and Laboratory Medicine, School of Medicine,
+      University of California, Davis, Sacramento, CA, 95817, USA.
+      bndugger@ucdavis.edu.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AUID- ORCID: http://orcid.org/0000-0002-1240-2192
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA, 94158, USA. keiser@keiserlab.org.
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, CA, 94158, USA. keiser@keiserlab.org.
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, CA, 94158, USA. keiser@keiserlab.org.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco, San Francisco, CA, 94158, USA.
+      keiser@keiserlab.org.
+AD  - Kavli Institute for Fundamental Neuroscience, University of California,
+      San Francisco, San Francisco, CA, 94158, USA. keiser@keiserlab.org.
+LA  - eng
+GR  - P30 AG010129/AG/NIA NIH HHS/United States
+GR  - P30 AG072972/AG/NIA NIH HHS/United States
+GR  - R01 AG062517/AG/NIA NIH HHS/United States
+PT  - Journal Article
+DEP - 20230624
+PL  - England
+TA  - Commun Biol
+JT  - Communications biology
+JID - 101719179
+RN  - 0 (Amyloidogenic Proteins)
+SB  - IM
+UOF - bioRxiv. 2023 Jan 17;:. PMID: 36711704
+MH  - Humans
+MH  - *Amyloidogenic Proteins
+MH  - *Plaque, Amyloid
+MH  - Records
+MH  - Staining and Labeling
+MH  - Virion
+PMC - PMC10290693
+EDAT- 2023/06/25 01:08
+MHDA- 2023/06/26 06:42
+CRDT- 2023/06/24 23:27
+PHST- 2023/01/25 00:00 [received]
+PHST- 2023/06/08 00:00 [accepted]
+PHST- 2023/06/26 06:42 [medline]
+PHST- 2023/06/25 01:08 [pubmed]
+PHST- 2023/06/24 23:27 [entrez]
+AID - 10.1038/s42003-023-05031-6 [doi]
+AID - 10.1038/s42003-023-05031-6 [pii]
+PST - epublish
+SO  - Commun Biol. 2023 Jun 24;6(1):668. doi: 10.1038/s42003-023-05031-6.
+
 PMID- 36102784
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20220928
-LR  - 20220928
+LR  - 20221018
 IS  - 1549-960X (Electronic)
 IS  - 1549-9596 (Linking)
 VI  - 62
@@ -81,7 +218,10 @@ AUID- ORCID: 0000-0001-5190-100X
 AD  - Department of Computer Science, Federal University of Minas Gerais, Belo
       Horizonte, Minas Gerais 31270-901, Brazil.
 LA  - eng
+GR  - T32 GM067547/GM/NIGMS NIH HHS/United States
 PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
 DEP - 20220914
 PL  - United States
 TA  - J Chem Inf Model
@@ -107,11 +247,151 @@ PST - ppublish
 SO  - J Chem Inf Model. 2022 Sep 26;62(18):4300-4318. doi:
       10.1021/acs.jcim.2c00695. Epub 2022 Sep 14.
 
+PMID- 36276634
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20221202
+IS  - 2522-5839 (Electronic)
+IS  - 2522-5839 (Linking)
+VI  - 4
+IP  - 6
+DP  - 2022 Jun
+TI  - Trans-channel fluorescence learning improves high-content screening for
+      Alzheimer's disease therapeutics.
+PG  - 583-595
+LID - 10.1038/s42256-022-00490-8 [doi]
+AB  - In microscopy-based drug screens, fluorescent markers carry critical
+      information on how compounds affect different biological processes.
+      However, practical considerations, such as the labor and preparation
+      formats needed to produce different image channels, hinders the use of
+      certain fluorescent markers. Consequently, completed screens may lack
+      biologically informative but experimentally impractical markers. Here, we
+      present a deep learning method for overcoming these limitations. We
+      accurately generated predicted fluorescent signals from other related
+      markers and validated this new machine learning (ML) method on two
+      biologically distinct datasets. We used the ML method to improve the
+      selection of biologically active compounds for Alzheimer's disease (AD)
+      from a completed high-content high-throughput screen (HCS) that had only
+      contained the original markers. The ML method identified novel compounds
+      that effectively blocked tau aggregation, which had been missed by
+      traditional screening approaches unguided by ML. The method improved
+      triaging efficiency of compound rankings over conventional rankings by
+      raw image channels. We reproduced this ML pipeline on a biologically
+      independent cancer-based dataset, demonstrating its generalizability. The
+      approach is disease-agnostic and applicable across diverse fluorescence
+      microscopy datasets.
+FAU - Wong, Daniel R
+AU  - Wong DR
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, CA, 94158, USA.
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, CA, 94158, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, CA, 94158, USA.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco, San Francisco, CA, 94158, USA.
+AD  - Kavli Institute for Fundamental Neuroscience, University of California,
+      San Francisco, San Francisco, CA, 94158, USA.
+AD  - Department of Pediatrics, University of California, San Francisco, CA,
+      94158, USA.
+AD  - Center for Data-Driven Insights and Innovation, University of California,
+      Office of the President, Oakland, CA, 94607, USA.
+FAU - Conrad, Jay
+AU  - Conrad J
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, CA, 94158, USA.
+FAU - Johnson, Noah
+AU  - Johnson N
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, CA, 94158, USA.
+AD  - University of Colorado Alzheimer's and Cognition Center, Linda Crnic
+      Institute for Down Syndrome, University of Colorado, Anschutz Medical
+      Campus, Aurora, CO, 80045, USA.
+AD  - Department of Neurology, University of Colorado, Anschutz Medical Campus,
+      Aurora, CO, 80045, USA.
+FAU - Ayers, Jacob
+AU  - Ayers J
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, CA, 94158, USA.
+FAU - Laeremans, Annelies
+AU  - Laeremans A
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco, San Francisco, CA, 94158, USA.
+AD  - Helen Diller Family Comprehensive Cancer Center, University of
+      California, San Francisco, San Francisco, CA, 94158, USA.
+FAU - Lee, Joanne C
+AU  - Lee JC
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, CA, 94158, USA.
+FAU - Lee, Jisoo
+AU  - Lee J
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, CA, 94158, USA.
+FAU - Prusiner, Stanley B
+AU  - Prusiner SB
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, CA, 94158, USA.
+FAU - Bandyopadhyay, Sourav
+AU  - Bandyopadhyay S
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco, San Francisco, CA, 94158, USA.
+AD  - Helen Diller Family Comprehensive Cancer Center, University of
+      California, San Francisco, San Francisco, CA, 94158, USA.
+FAU - Butte, Atul J
+AU  - Butte AJ
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, CA, 94158, USA.
+AD  - Department of Pediatrics, University of California, San Francisco, CA,
+      94158, USA.
+AD  - Center for Data-Driven Insights and Innovation, University of California,
+      Office of the President, Oakland, CA, 94607, USA.
+FAU - Paras, Nick A
+AU  - Paras NA
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, CA, 94158, USA.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, CA, 94158, USA.
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, CA, 94158, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, CA, 94158, USA.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco, San Francisco, CA, 94158, USA.
+AD  - Kavli Institute for Fundamental Neuroscience, University of California,
+      San Francisco, San Francisco, CA, 94158, USA.
+LA  - eng
+GR  - P01 AG002132/AG/NIA NIH HHS/United States
+PT  - Journal Article
+DEP - 20220530
+PL  - England
+TA  - Nat Mach Intell
+JT  - Nature machine intelligence
+JID - 101740243
+PMC - PMC9585544
+MID - NIHMS1800036
+COIS- Competing Interests Statement The authors declare no competing interests.
+      Stanley B. Prusiner is a member of the Scientific Advisory Board of
+      ViewPoint Therapeutics and a member of the Board of Directors of Trizell,
+      Ltd., neither of which have contributed financial or any other support to
+      the studies discussed here.
+EDAT- 2022/10/25 06:00
+MHDA- 2022/10/25 06:01
+CRDT- 2022/10/24 04:19
+PHST- 2022/10/24 04:19 [entrez]
+PHST- 2022/10/25 06:00 [pubmed]
+PHST- 2022/10/25 06:01 [medline]
+AID - 10.1038/s42256-022-00490-8 [doi]
+PST - ppublish
+SO  - Nat Mach Intell. 2022 Jun;4(6):583-595. doi: 10.1038/s42256-022-00490-8.
+      Epub 2022 May 30.
+
 PMID- 35484610
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20220502
-LR  - 20220924
+LR  - 20230428
 IS  - 2051-5960 (Electronic)
 IS  - 2051-5960 (Linking)
 VI  - 10
@@ -234,10 +514,11 @@ GR  - P30 AG013854/AG/NIA NIH HHS/United States
 GR  - K08 AG065463/AG/NIA NIH HHS/United States
 GR  - R01 AG062517/AG/NIA NIH HHS/United States
 GR  - P30 AG012300/AG/NIA NIH HHS/United States
-GR  - P30 AG066468/AG/NIA NIH HHS/United States
 GR  - P50 AG005133/AG/NIA NIH HHS/United States
-GR  - P30 AG010129/AG/NIA NIH HHS/United States
+GR  - P30 AG072977/AG/NIA NIH HHS/United States
 GR  - P30 AG072972/AG/NIA NIH HHS/United States
+GR  - P30 AG066468/AG/NIA NIH HHS/United States
+GR  - P30 AG010129/AG/NIA NIH HHS/United States
 PT  - Journal Article
 PT  - Research Support, Non-U.S. Gov't
 PT  - Research Support, N.I.H., Extramural
@@ -770,12 +1051,12 @@ MH  - Neurodegenerative Diseases/*diagnosis/pathology
 MH  - TDP-43 Proteinopathies/diagnosis/pathology
 PMC - PMC7189549
 OTO - NOTNLM
-OT  - *Alzheimer's disease
-OT  - *Amyloid beta
-OT  - *Concomitant diagnosis
-OT  - *Deep learning
-OT  - *Neuropathology
-OT  - *Whole-slide imaging
+OT  - Alzheimer's disease
+OT  - Amyloid beta
+OT  - Concomitant diagnosis
+OT  - Deep learning
+OT  - Neuropathology
+OT  - Whole-slide imaging
 EDAT- 2020/04/30 06:00
 MHDA- 2021/06/01 06:00
 CRDT- 2020/04/30 06:00
@@ -1465,17 +1746,17 @@ MH  - Systems Biology/*methods
 PMC - PMC6247911
 MID - NIHMS1510441
 OTO - NOTNLM
-OT  - *convergence
-OT  - *genetics
-OT  - *interactome
-OT  - *network
-OT  - *neurodevelopmental disorder
-OT  - *pathway
-OT  - *proteomics
-OT  - *psychiatric cell map initiative
-OT  - *psychiatric disorder
-OT  - *psychiatry
-OT  - *systems biology
+OT  - convergence
+OT  - genetics
+OT  - interactome
+OT  - network
+OT  - neurodevelopmental disorder
+OT  - pathway
+OT  - proteomics
+OT  - psychiatric cell map initiative
+OT  - psychiatric disorder
+OT  - psychiatry
+OT  - systems biology
 EDAT- 2018/07/28 06:00
 MHDA- 2019/04/19 06:00
 CRDT- 2018/07/28 06:00
@@ -3365,7 +3646,7 @@ PMID- 20581797
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20120302
-LR  - 20211020
+LR  - 20221207
 IS  - 0048-5764 (Print)
 IS  - 0048-5764 (Linking)
 VI  - 43
@@ -3456,7 +3737,7 @@ MH  - Receptors, Adrenergic, beta-1/*drug effects/*genetics
 MH  - Retrospective Studies
 MH  - Risk Assessment
 MH  - Risk Factors
-MH  - Serotonin Uptake Inhibitors/adverse effects/*therapeutic use
+MH  - Selective Serotonin Reuptake Inhibitors/adverse effects/*therapeutic use
 MH  - Young Adult
 PMC - PMC3807824
 MID - NIHMS518156

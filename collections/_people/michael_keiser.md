@@ -10,6 +10,10 @@ excerpt: "<p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and
 header:
   teaser: /assets/images/people/bio-keiser.jpg
 papers: 
+    - title: Learning fast and fine-grained detection of amyloid neuropathologies from coarse-grained expert labels
+      excerpt: Wong DR, Magaki SD, Vinters HV, Yong WH, Monuki ES, Williams CK, Martini AC, DeCarli C, Khacherian C, Graff JP, Dugger BN, <u>Keiser MJ</u>. __Commun Biol__. 2023 Jun 24.
+      link: "https://doi.org/10.1038/s42003-023-05031-6"
+
     - title: Prioritizing Virtual Screening with Interpretable Interaction Fingerprints
       excerpt: Fassio AV, Shub L, Ponzoni L, McKinley J, O'Meara MJ, Ferreira RS, <u>Keiser MJ</u>, de Melo Minardi RC. __J Chem Inf Model__. 2022 Sep 26.
       link: "https://doi.org/10.1021/acs.jcim.2c00695"
@@ -23,7 +27,7 @@ papers:
       link: ""
 
     - title: Trans-channel fluorescence learning improves high-content screening for Alzheimer's disease therapeutics
-      excerpt: Wong DR, Conrad J, Johnson N, Ayers JI, Laeremans A, Lee JC, Lee J, Prusiner SB, Bandyopadhyay S, Butte AJ, Paras NA, <u>Keiser MJ</u>. __Nat Mach Intell__. 2022 May 30.
+      excerpt: Wong DR, Conrad J, Johnson N, Ayers J, Laeremans A, Lee JC, Lee J, Prusiner SB, Bandyopadhyay S, Butte AJ, Paras NA, <u>Keiser MJ</u>. __Nat Mach Intell__. 2022 Jun.
       link: "https://doi.org/10.1038/s42256-022-00490-8"
 
     - title: Deep learning from multiple experts improves identification of amyloid neuropathologies
