@@ -22,6 +22,18 @@ michael_keiser:
   twitter: keiser_lab
   type: member
 
+liane_albarghouthi:
+  name: Liane Albarghouthi
+  email: lianeb@keiserlab.org 
+  bio: ""
+  bio_long: "Liane received a B.S. in Bioengineering with a focus in Data Science, and is interested in machine learning applications related to computer vision tasks. In the Keiser lab, she is interested in implementing cutting-edge deep learning methods to neuropathology and histopathology datasets."
+  avatar: /assets/images/people/bio-lianeb.jpg
+  title: Research Data Analyst
+  github: lianealbarghouthi
+  linkedin: liane-albarghouthi
+  ncbi_id: Albarghouthi L
+  type: member
+
 halimat_afolabi:
   name: Halimat Afolabi, MBBS
   email: halimat@keiserlab.org 
