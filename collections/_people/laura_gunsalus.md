@@ -10,12 +10,12 @@ excerpt: "I'm a iPQB bioinformatics graduate student interested in using deep le
 header:
   teaser: /assets/images/people/bio-gunsalus.jpg
 papers: 
-    - title: In silico discovery of repetitive elements as key sequence determinants of 3D genome folding
-      excerpt: <u>Gunsalus L</u>M, Keiser MJ, Pollard KS. __bioRxiv__. 2022 Aug 12.
-      link: ""
+    - title: <em>In silico</em> discovery of repetitive elements as key sequence determinants of 3D genome folding
+      excerpt: <u>Gunsalus LM</u>, Keiser MJ, Pollard KS. __Cell Genomics__. 2023 Oct 06.
+      link: "https://doi.org/10.1016/j.xgen.2023.100410"
 
     - title: Learning Molecular Representations for Medicinal Chemistry
-      excerpt: Chuang KV, <u>Gunsalus L</u>M, Keiser MJ. __J Med Chem__. 2020 Aug 27.
+      excerpt: Chuang KV, <u>Gunsalus LM</u>, Keiser MJ. __J Med Chem__. 2020 Aug 27.
       link: "https://doi.org/10.1021/acs.jmedchem.0c00385"
 
 ---

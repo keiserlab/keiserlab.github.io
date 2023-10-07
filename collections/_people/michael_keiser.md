@@ -10,6 +10,14 @@ excerpt: "<p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and
 header:
   teaser: /assets/images/people/bio-keiser.jpg
 papers: 
+    - title: <em>In silico</em> discovery of repetitive elements as key sequence determinants of 3D genome folding
+      excerpt: Gunsalus LM, <u>Keiser MJ</u>, Pollard KS. __Cell Genomics__. 2023 Oct 06.
+      link: "https://doi.org/10.1016/j.xgen.2023.100410"
+
+    - title: Learning chemical sensitivity reveals mechanisms of cellular response
+      excerpt: Connell W, Garcia K, Goodarzi H, <u>Keiser MJ</u>. __bioRxiv__. 2023 Aug 28.
+      link: ""
+
     - title: Learning fast and fine-grained detection of amyloid neuropathologies from coarse-grained expert labels
       excerpt: Wong DR, Magaki SD, Vinters HV, Yong WH, Monuki ES, Williams CK, Martini AC, DeCarli C, Khacherian C, Graff JP, Dugger BN, <u>Keiser MJ</u>. __Commun Biol__. 2023 Jun 24.
       link: "https://doi.org/10.1038/s42003-023-05031-6"
@@ -17,10 +25,6 @@ papers:
     - title: Prioritizing Virtual Screening with Interpretable Interaction Fingerprints
       excerpt: Fassio AV, Shub L, Ponzoni L, McKinley J, O'Meara MJ, Ferreira RS, <u>Keiser MJ</u>, de Melo Minardi RC. __J Chem Inf Model__. 2022 Sep 26.
       link: "https://doi.org/10.1021/acs.jcim.2c00695"
-
-    - title: In silico discovery of repetitive elements as key sequence determinants of 3D genome folding
-      excerpt: Gunsalus LM, <u>Keiser MJ</u>, Pollard KS. __bioRxiv__. 2022 Aug 12.
-      link: ""
 
     - title: Simultaneous analysis of neuroactive compounds in zebrafish
       excerpt: Myers-Turnbull D, Taylor JC, Helsell C, McCarroll MN, Ki CS, Tummino TA, Ravikumar S, Kinser R, Gendelev L, Alexander R, <u>Keiser MJ</u>, Kokel D. __bioRxiv__. 2022 Jun 15.
