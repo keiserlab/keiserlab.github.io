@@ -10,6 +10,10 @@ excerpt: "PSPG Grad student (2019-2022). Currently, clinicians practice medicine
 header:
   teaser: /assets/images/people/bio-connell.jpg
 papers: 
+    - title: Learning chemical sensitivity reveals mechanisms of cellular response
+      excerpt: <u>Connell W</u>, Garcia K, Goodarzi H, Keiser MJ. __bioRxiv__. 2023 Aug 28.
+      link: ""
+
     - title: Predicting Cellular Drug Sensitivity using Conditional Modulation of Gene Expression
       excerpt: <u>Connell W</u>, Keiser MJ. __bioRxiv - NeurIPS LMRL__. 2020 Dec 11.
       link: ""
