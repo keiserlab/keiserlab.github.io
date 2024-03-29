@@ -10,6 +10,14 @@ excerpt: "Biophysics graduate student; Fletcher Jones Fellow (2014-2019)."
 header:
   teaser: /assets/images/people/bio-gendelev.jpg
 papers: 
+    - title: Deep phenotypic profiling of neuroactive drugs in larval zebrafish
+      excerpt: <u>Gendelev L</u>, Taylor J, Myers-Turnbull D, Chen S, McCarroll MN, Arkin MR, Kokel D, Keiser MJ. __bioRxiv__. 2024 Feb 25.
+      link: ""
+
+    - title: Autoregressive fragment-based diffusion for pocket-aware ligand design
+      excerpt: Ghorbani M, <u>Gendelev L</u>, Beroza P, Keiser MJ. __arXiv - NeurIPS GenBio__. 2023 Nov 2.
+      link: ""
+
     - title: Simultaneous analysis of neuroactive compounds in zebrafish
       excerpt: Myers-Turnbull D, Taylor JC, Helsell C, McCarroll MN, Ki CS, Tummino TA, Ravikumar S, Kinser R, <u>Gendelev L</u>, Alexander R, Keiser MJ, Kokel D. __bioRxiv__. 2022 Jun 15.
       link: ""

@@ -10,4 +10,8 @@ excerpt: "Mahdi received his PhD in Chemical and Biomolecular Engineering from U
 header:
   teaser: /assets/images/people/bio-ghorbani.jpg
 papers: 
+    - title: Autoregressive fragment-based diffusion for pocket-aware ligand design
+      excerpt: <u>Ghorbani M</u>, Gendelev L, Beroza P, Keiser MJ. __arXiv - NeurIPS GenBio__. 2023 Nov 2.
+      link: ""
+
 ---

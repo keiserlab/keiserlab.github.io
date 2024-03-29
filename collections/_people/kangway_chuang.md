@@ -10,6 +10,10 @@ excerpt: "Arnold O. Beckman Postdoctoral Fellow (2017-2021)"
 header:
   teaser: /assets/images/people/bio-chuang.jpg
 papers: 
+    - title: Proximity Graph Networks- Predicting Ligand Affinity with Message Passing Neural Networks
+      excerpt: Galey-Day ZJ, Shub L, <u>Chuang KV</u>, Keiser MJ. __chemRxiv__. 2024 Feb 23.
+      link: ""
+
     - title: Attention-Based Learning on Molecular Ensembles
       excerpt: <u>Chuang KV</u>, Keiser MJ. __arXiv - NeurIPS ML4Molecules__. 2020 Nov 25.
       link: ""
