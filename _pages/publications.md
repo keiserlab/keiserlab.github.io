@@ -174,11 +174,11 @@ feature_row3:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>arXiv - NeurIPS LMRL</strong></span>. <span itemprop="datePublished">2022 Oct 25</span>. <span itemprop="author">Connell W, Khan U, Keiser MJ</span>.
     url: ""
-    doi: ""
+    doi: "10.48550/arXiv.2210.14330"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-    url2: "https://arxiv.org/abs/2210.14330"
+    url2: "https://doi.org/10.48550/arXiv.2210.14330"
     btn2_label: >-
         arXiv - NeurIPS LMRL &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
@@ -293,11 +293,11 @@ feature_row5:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv - NeurIPS LMRL</strong></span>. <span itemprop="datePublished">2020 Dec 11</span>. <span itemprop="author">Connell W, Keiser MJ</span>.
     url: ""
-    doi: ""
+    doi: "10.1101/2021.03.15.435529"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-    url2: "https://www.biorxiv.org/content/10.1101/2021.03.15.435529"
+    url2: "https://doi.org/10.1101/2021.03.15.435529"
     btn2_label: >-
         bioRxiv - NeurIPS LMRL &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
@@ -310,11 +310,11 @@ feature_row5:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>arXiv - NeurIPS ML4Molecules</strong></span>. <span itemprop="datePublished">2020 Nov 25</span>. <span itemprop="author">Chuang KV, Keiser MJ</span>.
     url: ""
-    doi: ""
+    doi: "10.48550/arXiv.2011.12820"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-    url2: "https://arxiv.org/abs/2011.12820"
+    url2: "https://doi.org/10.48550/arXiv.2011.12820"
     btn2_label: >-
         arXiv - NeurIPS ML4Molecules &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
@@ -355,11 +355,11 @@ feature_row6:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>arXiv - ICML - WHI</strong></span>. <span itemprop="datePublished">2020 Jul 17</span>. <span itemprop="author">Pfau J, Young AT, Wei J, Wei ML, Keiser MJ</span>.
     url: ""
-    doi: ""
+    doi: "10.48550/arXiv.2104.02768"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-    url2: "https://arxiv.org/abs/2104.02768"
+    url2: "https://doi.org/10.48550/arXiv.2104.02768"
     btn2_label: >-
         arXiv - ICML - WHI &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
@@ -387,11 +387,11 @@ feature_row7:
     excerpt: >-
         <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>arXiv - NeurIPS ML4H</strong></span>. <span itemprop="datePublished">2019 Oct 16</span>. <span itemprop="author">Pfau J, Young AT, Wei ML, Keiser MJ</span>.
     url: ""
-    doi: ""
+    doi: "10.48550/arXiv.1910.07604"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-    url2: "https://arxiv.org/abs/1910.07604"
+    url2: "https://doi.org/10.48550/arXiv.1910.07604"
     btn2_label: >-
         arXiv - NeurIPS ML4H &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
