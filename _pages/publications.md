@@ -11,13 +11,115 @@ intro:
     - title: Publications
 feature_row0:
 
+  - image_path: /assets/images/papers/bioRxiv.024.03.18.585639.jpg
+    alt: >-
+        Metric Ion Classification (MIC): A deep learning tool for assigning ions and waters in cryo-EM and x-ray crystallography structures
+    title: >-
+        <span itemprop="name">Metric Ion Classification (MIC): A deep learning tool for assigning ions and waters in cryo-EM and x-ray crystallography structures</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2024 Mar 19</span>. <span itemprop="author">Shub L, Liu W, Skiniotis G, Keiser MJ, Robertson MJ</span>.
+    url: ""
+    doi: "10.1101/2024.03.18.585639"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.1101/2024.03.18.585639"
+    btn2_label: >-
+        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
+  - image_path: /assets/images/papers/bioRxiv.2024.02.22.581657.jpg
+    alt: >-
+        Deep phenotypic profiling of neuroactive drugs in larval zebrafish
+    title: >-
+        <span itemprop="name">Deep phenotypic profiling of neuroactive drugs in larval zebrafish</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2024 Feb 25</span>. <span itemprop="author">Gendelev L, Taylor J, Myers-Turnbull D, Chen S, McCarroll MN, Arkin MR, Kokel D, Keiser MJ</span>.
+    url: ""
+    doi: "10.1101/2024.02.22.581657"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.1101/2024.02.22.581657"
+    btn2_label: >-
+        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
+  - image_path: /assets/images/papers/chemRxiv.chemrxiv-2024-hznxh.jpg
+    alt: >-
+        Proximity Graph Networks: Predicting Ligand Affinity with Message Passing Neural Networks
+    title: >-
+        <span itemprop="name">Proximity Graph Networks: Predicting Ligand Affinity with Message Passing Neural Networks</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>chemRxiv</strong></span>. <span itemprop="datePublished">2024 Feb 23</span>. <span itemprop="author">Galey-Day ZJ, Shub L, Chuang KV, Keiser MJ</span>.
+    url: ""
+    doi: "10.26434/chemrxiv-2024-hznxh"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.26434/chemrxiv-2024-hznxh"
+    btn2_label: >-
+        chemRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
+feature_row1:
+
+  - image_path: /assets/images/papers/10.1186.s40478-023-01691-x.jpg
+    alt: >-
+        Toward a generalizable machine learning workflow for neurodegenerative disease staging with focus on neurofibrillary tangles
+    title: >-
+        <span itemprop="name">Toward a generalizable machine learning workflow for neurodegenerative disease staging with focus on neurofibrillary tangles</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Acta Neuropathol Commun</strong></span>. <span itemprop="datePublished">2023 Dec 18</span>. <span itemprop="author">Vizcarra JC, Pearce TM, Dugger BN, Keiser MJ, Gearing M, Crary JF, Kiely EJ, Morris M, White B, Glass JD, Farrell K, Gutman DA</span>.
+    url: "https://doi.org/10.1186/s40478-023-01691-x"
+    doi: "10.1186/s40478-023-01691-x"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/papers/bioRxiv.2023.11.22.568268.jpg
+    alt: >-
+        ChromaFactor: deconvolution of single-molecule chromatin organization with non-negative matrix factorization
+    title: >-
+        <span itemprop="name">ChromaFactor: deconvolution of single-molecule chromatin organization with non-negative matrix factorization</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2023 Nov 22</span>. <span itemprop="author">Gunsalus LM, Keiser MJ, Pollard KS</span>.
+    url: ""
+    doi: "10.1101/2023.11.22.568268"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.1101/2023.11.22.568268"
+    btn2_label: >-
+        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
+  - image_path: /assets/images/papers/arXiv_-_NeurIPS_GenBio.2401.05370.jpg
+    alt: >-
+        Autoregressive fragment-based diffusion for pocket-aware ligand design
+    title: >-
+        <span itemprop="name">Autoregressive fragment-based diffusion for pocket-aware ligand design</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>arXiv - NeurIPS GenBio</strong></span>. <span itemprop="datePublished">2023 Nov 2</span>. <span itemprop="author">Ghorbani M, Gendelev L, Beroza P, Keiser MJ</span>.
+    url: ""
+    doi: "10.48550/arXiv.2401.05370"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://arxiv.org/abs/2401.05370"
+    btn2_label: >-
+        arXiv - NeurIPS GenBio &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
+feature_row2:
+
   - image_path: /assets/images/papers/10.1016.j.xgen.2023.100410.jpg
     alt: >-
-        <em>In silico</em> discovery of repetitive elements as key sequence determinants of 3D genome folding
+        In silico discovery of repetitive elements as key sequence determinants of 3D genome folding
     title: >-
-        <span itemprop="name"><em>In silico</em> discovery of repetitive elements as key sequence determinants of 3D genome folding</span>
+        <span itemprop="name">In silico discovery of repetitive elements as key sequence determinants of 3D genome folding</span>
     excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Cell Genomics</strong></span>. <span itemprop="datePublished">2023 Oct 06</span>. <span itemprop="author">Gunsalus LM, Keiser MJ, Pollard KS</span>.
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Cell Genom</strong></span>. <span itemprop="datePublished">2023 Oct 11</span>. <span itemprop="author">Gunsalus LM, Keiser MJ, Pollard KS</span>.
     url: "https://doi.org/10.1016/j.xgen.2023.100410"
     doi: "10.1016/j.xgen.2023.100410"
     btn_label: >-
@@ -62,7 +164,24 @@ feature_row0:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row1:
+feature_row3:
+
+  - image_path: /assets/images/papers/arXiv_-_NeurIPS_LMRL.2210.14330.jpg
+    alt: >-
+        A single-cell gene expression language model
+    title: >-
+        <span itemprop="name">A single-cell gene expression language model</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>arXiv - NeurIPS LMRL</strong></span>. <span itemprop="datePublished">2022 Oct 25</span>. <span itemprop="author">Connell W, Khan U, Keiser MJ</span>.
+    url: ""
+    doi: ""
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://arxiv.org/abs/2210.14330"
+    btn2_label: >-
+        arXiv - NeurIPS LMRL &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
 
   - image_path: /assets/images/papers/10.1021.acs.jcim.2c00695.jpg
     alt: >-
@@ -98,6 +217,8 @@ feature_row1:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
+feature_row4:
+
   - image_path: /assets/images/papers/10.1038.s42256-022-00490-8.jpg
     alt: >-
         Trans-channel fluorescence learning improves high-content screening for Alzheimer's disease therapeutics
@@ -114,8 +235,6 @@ feature_row1:
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
-
-feature_row2:
 
   - image_path: /assets/images/papers/10.1186.s40478-022-01365-0.jpg
     alt: >-
@@ -147,6 +266,8 @@ feature_row2:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row5:
+
   - image_path: /assets/images/papers/10.1021.acs.jcim.0c00565.jpg
     alt: >-
         Adding Stochastic Negative Examples into Machine Learning Improves Molecular Bioactivity Prediction
@@ -163,8 +284,6 @@ feature_row2:
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
-
-feature_row3:
 
   - image_path: /assets/images/papers/bioRxiv_-_NeurIPS_LMRL.2021.03.15.435529.jpg
     alt: >-
@@ -200,6 +319,8 @@ feature_row3:
         arXiv - NeurIPS ML4Molecules &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
+feature_row6:
+
   - image_path: /assets/images/papers/10.1021.acs.jmedchem.0c00385.jpg
     alt: >-
         Learning Molecular Representations for Medicinal Chemistry
@@ -212,8 +333,6 @@ feature_row3:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row4:
 
   - image_path: /assets/images/papers/10.1016.j.jid.2020.02.026.jpg
     alt: >-
@@ -245,6 +364,8 @@ feature_row4:
         arXiv - ICML - WHI &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
+feature_row7:
+
   - image_path: /assets/images/papers/10.1186.s40478-020-00927-4.jpg
     alt: >-
         Validation of machine learning models to detect amyloid pathologies across institutions
@@ -257,8 +378,6 @@ feature_row4:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row5:
 
   - image_path: /assets/images/papers/arXiv_-_NeurIPS_ML4H.1910.07604.jpg
     alt: >-
@@ -290,6 +409,8 @@ feature_row5:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row8:
+
   - image_path: /assets/images/papers/10.1038.s41467-019-10212-1.jpg
     alt: >-
         Interpretable classification of Alzheimer's disease pathologies with a convolutional neural network pipeline
@@ -306,8 +427,6 @@ feature_row5:
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
-
-feature_row6:
 
   - image_path: /assets/images/papers/10.1126.science.aat8603.jpg
     alt: >-
@@ -335,6 +454,8 @@ feature_row6:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row9:
+
   - image_path: /assets/images/papers/10.1016.j.cell.2018.06.016.jpg
     alt: >-
         The Psychiatric Cell Map Initiative: A Convergent Systems Biological Approach to Illuminating Key Molecular Pathways in Neuropsychiatric Disorders
@@ -351,8 +472,6 @@ feature_row6:
     btn2_label: >-
         pcmi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
-
-feature_row7:
 
   - image_path: /assets/images/papers/10.1021.acs.jcim.7b00316.jpg
     alt: >-
@@ -384,6 +503,8 @@ feature_row7:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
+feature_row10:
+
   - image_path: /assets/images/papers/10.1021.acs.jmedchem.7b00696.jpg
     alt: >-
         A Simple Representation of Three-Dimensional Molecular Structure
@@ -400,8 +521,6 @@ feature_row7:
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
-
-feature_row8:
 
   - image_path: /assets/images/papers/10.1038.nchembio.2097.jpg
     alt: >-
@@ -429,6 +548,8 @@ feature_row8:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row11:
+
   - image_path: /assets/images/papers/10.1016.S2215-0366(15)00553-2.jpg
     alt: >-
         Polygenic overlap between schizophrenia risk and antipsychotic response: a genomic medicine approach
@@ -441,8 +562,6 @@ feature_row8:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row9:
 
   - image_path: /assets/images/papers/10.1007.s10928-015-9436-y.jpg
     alt: >-
@@ -470,6 +589,8 @@ feature_row9:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row12:
+
   - image_path: /assets/images/papers/10.1371.journal.pbio.1001712.jpg
     alt: >-
         In silico molecular comparisons of C. elegans and mammalian pharmacology identify distinct targets that regulate feeding
@@ -482,8 +603,6 @@ feature_row9:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row10:
 
   - image_path: /assets/images/papers/10.1038.nature11159.jpg
     alt: >-
@@ -511,6 +630,8 @@ feature_row10:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row13:
+
   - image_path: /assets/images/papers/10.1038.npp.2010.195.jpg
     alt: >-
         The presynaptic component of the serotonergic system is required for clozapine's efficacy
@@ -523,8 +644,6 @@ feature_row10:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row11:
 
   - image_path: /assets/images/papers/10.1021.bi101540g.jpg
     alt: >-
@@ -552,6 +671,8 @@ feature_row11:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row14:
+
   - image_path: /assets/images/papers/10.1021.jm901613f.jpg
     alt: >-
         Prediction and evaluation of protein farnesyltransferase inhibition by commercial drugs
@@ -564,8 +685,6 @@ feature_row11:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row12:
 
   - image_path: /assets/images/papers/20581797.jpg
     alt: >-
@@ -593,6 +712,8 @@ feature_row12:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row15:
+
   - image_path: /assets/images/papers/10.1371.journal.pcbi.1000474.jpg
     alt: >-
         A mapping of drug space from the viewpoint of small molecule metabolism
@@ -605,8 +726,6 @@ feature_row12:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row13:
 
   - image_path: /assets/images/papers/10.1038.nchembio.180.jpg
     alt: >-
@@ -634,6 +753,8 @@ feature_row13:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
+feature_row16:
+
   - image_path: /assets/images/papers/10.1021.ci8000259.jpg
     alt: >-
         Quantifying the relationships among drug classes
@@ -646,8 +767,6 @@ feature_row13:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row14:
 
   - image_path: /assets/images/papers/10.1038.nbt1284.jpg
     alt: >-
@@ -725,3 +844,11 @@ feature_row14:
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 {% include feature_row_paper.html id="feature_row14" %}
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+{% include feature_row_paper.html id="feature_row15" %}
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+{% include feature_row_paper.html id="feature_row16" %}

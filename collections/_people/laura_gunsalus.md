@@ -10,8 +10,12 @@ excerpt: "I'm a iPQB bioinformatics graduate student interested in using deep le
 header:
   teaser: /assets/images/people/bio-gunsalus.jpg
 papers: 
-    - title: <em>In silico</em> discovery of repetitive elements as key sequence determinants of 3D genome folding
-      excerpt: <u>Gunsalus LM</u>, Keiser MJ, Pollard KS. __Cell Genomics__. 2023 Oct 06.
+    - title: ChromaFactor- deconvolution of single-molecule chromatin organization with non-negative matrix factorization
+      excerpt: <u>Gunsalus LM</u>, Keiser MJ, Pollard KS. __bioRxiv__. 2023 Nov 22.
+      link: ""
+
+    - title: In silico discovery of repetitive elements as key sequence determinants of 3D genome folding
+      excerpt: <u>Gunsalus LM</u>, Keiser MJ, Pollard KS. __Cell Genom__. 2023 Oct 11.
       link: "https://doi.org/10.1016/j.xgen.2023.100410"
 
     - title: Learning Molecular Representations for Medicinal Chemistry

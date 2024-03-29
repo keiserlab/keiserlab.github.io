@@ -1,8 +1,256 @@
+PMID- 38110981
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20231220
+LR  - 20240210
+IS  - 2051-5960 (Electronic)
+IS  - 2051-5960 (Linking)
+VI  - 11
+IP  - 1
+DP  - 2023 Dec 18
+TI  - Toward a generalizable machine learning workflow for neurodegenerative
+      disease staging with focus on neurofibrillary tangles.
+PG  - 202
+LID - 10.1186/s40478-023-01691-x [doi]
+AB  - Machine learning (ML) has increasingly been used to assist and expand
+      current practices in neuropathology. However, generating large imaging
+      datasets with quality labels is challenging in fields which demand high
+      levels of expertise. Further complicating matters is the often seen
+      disagreement between experts in neuropathology-related tasks, both at the
+      case level and at a more granular level. Neurofibrillary tangles (NFTs)
+      are a hallmark pathological feature of Alzheimer disease, and are
+      associated with disease progression which warrants further investigation
+      and granular quantification at a scale not currently accessible in
+      routine human assessment. In this work, we first provide a baseline of
+      annotator/rater agreement for the tasks of Braak NFT staging between
+      experts and NFT detection using both experts and novices in
+      neuropathology. We use a whole-slide-image (WSI) cohort of neuropathology
+      cases from Emory University Hospital immunohistochemically stained for
+      Tau. We develop a workflow for gathering annotations of the early stage
+      formation of NFTs (Pre-NFTs) and mature intracellular (iNFTs) and show ML
+      models can be trained to learn annotator nuances for the task of NFT
+      detection in WSIs. We utilize a model-assisted-labeling approach and
+      demonstrate ML models can be used to aid in labeling large datasets
+      efficiently. We also show these models can be used to extract case-level
+      features, which predict Braak NFT stages comparable to expert human
+      raters, and do so at scale. This study provides a generalizable workflow
+      for various pathology and related fields, and also provides a technique
+      for accomplishing a high-level neuropathology task with limited human
+      annotations.
+CI  - (c) 2023. The Author(s).
+FAU - Vizcarra, Juan C
+AU  - Vizcarra JC
+AD  - The Wallace H. Coulter Department of Biomedical Engineering, Georgia
+      Institute of Technology and Emory University, 313 Ferst Dr NW, Atlanta,
+      GA, 30332, USA.
+FAU - Pearce, Thomas M
+AU  - Pearce TM
+AD  - Department of Pathology, Division of Neuropathology, University of
+      Pittsburgh Medical Center, Room S701 Scaife Hall 3550 Terrace Street,
+      Pittsburgh, PA, 15261, USA.
+FAU - Dugger, Brittany N
+AU  - Dugger BN
+AD  - Department of Pathology and Laboratory Medicine, University of
+      California-Davis School of Medicine, 3400A Research Building III
+      Sacramento, Davis, CA, 95817, USA.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
+      Therapeutic Sciences, Institute for Neurodegenerative Diseases, Kavli
+      Institute for Fundamental Neuroscience, and Bakar Computational Health
+      Sciences Institute, University of California, 675 Nelson Rising Ln, Box
+      0518, San Francisco, CA, 94143, USA.
+FAU - Gearing, Marla
+AU  - Gearing M
+AD  - Department of Neurology, Emory University School of Medicine, 12
+      Executive Park Dr NE, Atlanta, GA, 30322, USA.
+AD  - Department of Pathology and Laboratory Medicine, Emory University School
+      of Medicine, 1364 Clifton Rd, Atlanta, GA, 30322, USA.
+FAU - Crary, John F
+AU  - Crary JF
+AD  - Departments of Pathology, Neuroscience, and Artificial Intelligence and
+      Human Health, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+AD  - Neuropathology Brain Bank and Research Core, Friedman Brain Institute,
+      Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+AD  - Ronald M. Loeb Center for Alzheimer's Disease, Icahn School of Medicine
+      at Mount Sinai, New York, NY, USA.
+AD  - Department of Pathology, Icahn School of Medicine at Mount Sinai, Icahn
+      Building 9th Floor, Room 20A, 1425 Madison Avenue, New York, NY, 10029,
+      USA.
+FAU - Kiely, Evan J
+AU  - Kiely EJ
+AD  - Department of Pathology and Laboratory Medicine, Emory University School
+      of Medicine, 1364 Clifton Rd, Atlanta, GA, 30322, USA.
+FAU - Morris, Meaghan
+AU  - Morris M
+AD  - Department of Pathology, Johns Hopkins School of Medicine, Baltimore, MD,
+      21218, USA.
+FAU - White, Bartholomew
+AU  - White B
+AD  - Department of Pathology, Beth Israel Deaconess Medical Center, 330
+      Brookline Avenue, Boston, MA, 02215, USA.
+FAU - Glass, Jonathan D
+AU  - Glass JD
+AD  - Department of Neurology, Emory University School of Medicine, 12
+      Executive Park Dr NE, Atlanta, GA, 30322, USA.
+AD  - Department of Pathology and Laboratory Medicine, Emory University School
+      of Medicine, 1364 Clifton Rd, Atlanta, GA, 30322, USA.
+AD  - Center for Neurodegenerative Disease, Emory University School of
+      Medicine, Whitehead Biomedical Research Building, 615 Michael Street, 5th
+      Floor, Suite 500, Atlanta, GA, 30322, USA.
+FAU - Farrell, Kurt
+AU  - Farrell K
+AD  - Departments of Pathology, Neuroscience, and Artificial Intelligence and
+      Human Health, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+AD  - Neuropathology Brain Bank and Research Core, Friedman Brain Institute,
+      Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+AD  - Ronald M. Loeb Center for Alzheimer's Disease, Icahn School of Medicine
+      at Mount Sinai, New York, NY, USA.
+AD  - Department of Pathology, Icahn School of Medicine at Mount Sinai, Icahn
+      Building 9th Floor, L9-02C, 1425 Madison, Avenue, New York, NY, USA.
+FAU - Gutman, David A
+AU  - Gutman DA
+AUID- ORCID: http://orcid.org/0000-0002-1386-8701
+AD  - Department of Pathology and Laboratory Medicine, Emory University School
+      of Medicine, 1364 Clifton Rd, Atlanta, GA, 30322, USA. dgutman@emory.edu.
+LA  - eng
+GR  - P30AG072972/AG/NIA NIH HHS/United States
+GR  - R01AG056519/AG/NIA NIH HHS/United States
+GR  - U24 NS133949/NS/NINDS NIH HHS/United States
+GR  - R01AG062517/AG/NIA NIH HHS/United States
+GR  - R01 AG056519/AG/NIA NIH HHS/United States
+GR  - K01AG070326/AG/NIA NIH HHS/United States
+GR  - 1U24NS133949-01/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+DEP - 20231218
+PL  - England
+TA  - Acta Neuropathol Commun
+JT  - Acta neuropathologica communications
+JID - 101610673
+RN  - 0 (tau Proteins)
+SB  - IM
+MH  - Humans
+MH  - Neurofibrillary Tangles/pathology
+MH  - *Neurodegenerative Diseases/pathology
+MH  - tau Proteins/metabolism
+MH  - Workflow
+MH  - Brain/pathology
+MH  - *Alzheimer Disease/pathology
+MH  - Machine Learning
+PMC - PMC10726581
+OTO - NOTNLM
+OT  - Alzheimer's disease
+OT  - Braak NFT staging
+OT  - Machine learning
+OT  - Model-assisted-labeling
+OT  - Neurofibrillary tangles
+OT  - Neuropathology
+OT  - Whole-slide-images
+EDAT- 2023/12/19 06:41
+MHDA- 2023/12/20 06:43
+CRDT- 2023/12/19 00:35
+PHST- 2023/09/11 00:00 [received]
+PHST- 2023/11/19 00:00 [accepted]
+PHST- 2023/12/20 06:43 [medline]
+PHST- 2023/12/19 06:41 [pubmed]
+PHST- 2023/12/19 00:35 [entrez]
+AID - 10.1186/s40478-023-01691-x [doi]
+AID - 10.1186/s40478-023-01691-x [pii]
+PST - epublish
+SO  - Acta Neuropathol Commun. 2023 Dec 18;11(1):202. doi:
+      10.1186/s40478-023-01691-x.
+
+PMID- 37868032
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240210
+IS  - 2666-979X (Electronic)
+IS  - 2666-979X (Linking)
+VI  - 3
+IP  - 10
+DP  - 2023 Oct 11
+TI  - In silico discovery of repetitive elements as key sequence determinants
+      of 3D genome folding.
+PG  - 100410
+LID - 10.1016/j.xgen.2023.100410 [doi]
+AB  - Natural and experimental genetic variants can modify DNA loops and
+      insulating boundaries to tune transcription, but it is unknown how
+      sequence perturbations affect chromatin organization genome wide. We
+      developed a deep-learning strategy to quantify the effect of any
+      insertion, deletion, or substitution on chromatin contacts and
+      systematically scored millions of synthetic variants. While most genetic
+      manipulations have little impact, regions with CTCF motifs and active
+      transcription are highly sensitive, as expected. Our unbiased screen and
+      subsequent targeted experiments also point to noncoding RNA genes and
+      several families of repetitive elements as CTCF-motif-free DNA sequences
+      with particularly large effects on nearby chromatin interactions,
+      sometimes exceeding the effects of CTCF sites and explaining interactions
+      that lack CTCF. We anticipate that our disruption tracks may be of broad
+      interest and utility as a measure of 3D genome sensitivity, and our
+      computational strategies may serve as a template for biological inquiry
+      with deep learning.
+CI  - (c) 2023 The Authors.
+FAU - Gunsalus, Laura M
+AU  - Gunsalus LM
+AD  - Gladstone Institutes, San Francisco, CA, USA.
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA, USA.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA, USA.
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA, USA.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco, San Francisco, CA, USA.
+AD  - Kavli Institute for Fundamental Neuroscience, University of California,
+      San Francisco, San Francisco, CA, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, CA, USA.
+FAU - Pollard, Katherine S
+AU  - Pollard KS
+AD  - Gladstone Institutes, San Francisco, CA, USA.
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA, USA.
+AD  - Chan Zuckerberg Biohub, San Francisco, CA, USA.
+AD  - Department of Epidemiology & Biostatistics, University of California, San
+      Francisco, San Francisco, CA, USA.
+LA  - eng
+GR  - U01 HL157989/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+DEP - 20230925
+PL  - United States
+TA  - Cell Genom
+JT  - Cell genomics
+JID - 9918284260106676
+PMC - PMC10589630
+OTO - NOTNLM
+OT  - 3D genome
+OT  - CTCF
+OT  - chromatin
+OT  - machine learning
+OT  - repetitive elements
+COIS- The authors declare no competing interests.
+EDAT- 2023/10/23 06:46
+MHDA- 2023/10/23 06:47
+CRDT- 2023/10/23 04:31
+PHST- 2022/10/12 00:00 [received]
+PHST- 2022/11/08 00:00 [revised]
+PHST- 2023/08/31 00:00 [accepted]
+PHST- 2023/10/23 06:47 [medline]
+PHST- 2023/10/23 06:46 [pubmed]
+PHST- 2023/10/23 04:31 [entrez]
+AID - 10.1016/j.xgen.2023.100410 [doi]
+AID - S2666-979X(23)00224-0 [pii]
+PST - epublish
+SO  - Cell Genom. 2023 Sep 25;3(10):100410. doi: 10.1016/j.xgen.2023.100410.
+      eCollection 2023 Oct 11.
+
 PMID- 37355729
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20230626
-LR  - 20230701
+LR  - 20231119
 IS  - 2399-3642 (Electronic)
 IS  - 2399-3642 (Linking)
 VI  - 6
@@ -30,7 +278,7 @@ AB  - Precise, scalable, and quantitative evaluation of whole slide images is
 CI  - (c) 2023. The Author(s).
 FAU - Wong, Daniel R
 AU  - Wong DR
-AUID- ORCID: http://orcid.org/0000-0003-3642-7674
+AUID- ORCID: 0000-0003-3642-7674
 AD  - Institute for Neurodegenerative Diseases, University of California, San
       Francisco, San Francisco, CA, 94158, USA.
 AD  - Bakar Computational Health Sciences Institute, University of California,
@@ -65,12 +313,12 @@ AD  - Department of Pathology and Laboratory Medicine, University of
       California, Los Angeles, Los Angeles, CA, 90095, USA.
 FAU - Martini, Alessandra C
 AU  - Martini AC
-AUID- ORCID: http://orcid.org/0000-0002-8447-6756
+AUID- ORCID: 0000-0002-8447-6756
 AD  - Department of Pathology & Laboratory Medicine, University of California,
       Irvine, CA, 92697, USA.
 FAU - DeCarli, Charles
 AU  - DeCarli C
-AUID- ORCID: http://orcid.org/0000-0003-1914-2693
+AUID- ORCID: 0000-0003-1914-2693
 AD  - Department of Neurology, School of Medicine, University of California-
       Davis, Davis, CA, 95817, USA.
 FAU - Khacherian, Chris
@@ -79,18 +327,18 @@ AD  - Department of Pathology & Laboratory Medicine, University of California,
       Irvine, CA, 92697, USA.
 FAU - Graff, John P
 AU  - Graff JP
-AUID- ORCID: http://orcid.org/0000-0002-1247-2588
+AUID- ORCID: 0000-0002-1247-2588
 AD  - Department of Pathology and Laboratory Medicine, School of Medicine,
       University of California, Davis, Sacramento, CA, 95817, USA.
 FAU - Dugger, Brittany N
 AU  - Dugger BN
-AUID- ORCID: http://orcid.org/0000-0003-2141-8855
+AUID- ORCID: 0000-0003-2141-8855
 AD  - Department of Pathology and Laboratory Medicine, School of Medicine,
       University of California, Davis, Sacramento, CA, 95817, USA.
       bndugger@ucdavis.edu.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
-AUID- ORCID: http://orcid.org/0000-0002-1240-2192
+AUID- ORCID: 0000-0002-1240-2192
 AD  - Institute for Neurodegenerative Diseases, University of California, San
       Francisco, San Francisco, CA, 94158, USA. keiser@keiserlab.org.
 AD  - Bakar Computational Health Sciences Institute, University of California,
@@ -107,6 +355,8 @@ GR  - P30 AG010129/AG/NIA NIH HHS/United States
 GR  - P30 AG072972/AG/NIA NIH HHS/United States
 GR  - R01 AG062517/AG/NIA NIH HHS/United States
 PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
 DEP - 20230624
 PL  - England
 TA  - Commun Biol
@@ -1468,7 +1718,7 @@ PMID- 30053424
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20190418
-LR  - 20220331
+LR  - 20231004
 IS  - 1097-4172 (Electronic)
 IS  - 0092-8674 (Linking)
 VI  - 174
@@ -2165,7 +2415,7 @@ PMID- 27239787
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20170515
-LR  - 20181113
+LR  - 20240213
 IS  - 1552-4469 (Electronic)
 IS  - 1552-4450 (Linking)
 VI  - 12
@@ -2307,15 +2557,15 @@ AD  - Department of Physiology, University of California, San Francisco, San
 AD  - Institute for Neurodegenerative Disease, University of California, San
       Francisco, San Francisco, California, USA.
 LA  - eng
+GR  - R21 MH085205/MH/NIMH NIH HHS/United States
 GR  - T32 GM008284/GM/NIGMS NIH HHS/United States
 GR  - K01 MH091449/MH/NIMH NIH HHS/United States
-GR  - U01 MH105027/MH/NIMH NIH HHS/United States
-GR  - T32 HL007208/HL/NHLBI NIH HHS/United States
-GR  - R01 AA022583/AA/NIAAA NIH HHS/United States
 GR  - R44 GM093456/GM/NIGMS NIH HHS/United States
 GR  - T32 EB009383/EB/NIBIB NIH HHS/United States
+GR  - U01 MH105027/MH/NIMH NIH HHS/United States
+GR  - T32 HL007208/HL/NHLBI NIH HHS/United States
 GR  - R01 MH086867/MH/NIMH NIH HHS/United States
-GR  - R21 MH085205/MH/NIMH NIH HHS/United States
+GR  - R01 AA022583/AA/NIAAA NIH HHS/United States
 PT  - Journal Article
 PT  - Research Support, N.I.H., Extramural
 PT  - Research Support, Non-U.S. Gov't
@@ -3886,7 +4136,7 @@ PMID- 19701464
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20091029
-LR  - 20220317
+LR  - 20240323
 IS  - 1553-7358 (Electronic)
 IS  - 1553-734X (Linking)
 VI  - 5
@@ -4236,7 +4486,7 @@ PMID- 17287757
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20070424
-LR  - 20220409
+LR  - 20240109
 IS  - 1087-0156 (Print)
 IS  - 1087-0156 (Linking)
 VI  - 25

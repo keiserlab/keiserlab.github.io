@@ -14,6 +14,10 @@ papers:
       excerpt: <u>Connell W</u>, Garcia K, Goodarzi H, Keiser MJ. __bioRxiv__. 2023 Aug 28.
       link: ""
 
+    - title: A single-cell gene expression language model
+      excerpt: <u>Connell W</u>, Khan U, Keiser MJ. __arXiv - NeurIPS LMRL__. 2022 Oct 25.
+      link: ""
+
     - title: Predicting Cellular Drug Sensitivity using Conditional Modulation of Gene Expression
       excerpt: <u>Connell W</u>, Keiser MJ. __bioRxiv - NeurIPS LMRL__. 2020 Dec 11.
       link: ""

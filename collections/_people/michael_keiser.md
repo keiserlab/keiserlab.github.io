@@ -10,8 +10,32 @@ excerpt: "<p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and
 header:
   teaser: /assets/images/people/bio-keiser.jpg
 papers: 
-    - title: <em>In silico</em> discovery of repetitive elements as key sequence determinants of 3D genome folding
-      excerpt: Gunsalus LM, <u>Keiser MJ</u>, Pollard KS. __Cell Genomics__. 2023 Oct 06.
+    - title: Metric Ion Classification (MIC)- A deep learning tool for assigning ions and waters in cryo-EM and x-ray crystallography structures
+      excerpt: Shub L, Liu W, Skiniotis G, <u>Keiser MJ</u>, Robertson MJ. __bioRxiv__. 2024 Mar 19.
+      link: ""
+
+    - title: Deep phenotypic profiling of neuroactive drugs in larval zebrafish
+      excerpt: Gendelev L, Taylor J, Myers-Turnbull D, Chen S, McCarroll MN, Arkin MR, Kokel D, <u>Keiser MJ</u>. __bioRxiv__. 2024 Feb 25.
+      link: ""
+
+    - title: Proximity Graph Networks- Predicting Ligand Affinity with Message Passing Neural Networks
+      excerpt: Galey-Day ZJ, Shub L, Chuang KV, <u>Keiser MJ</u>. __chemRxiv__. 2024 Feb 23.
+      link: ""
+
+    - title: Toward a generalizable machine learning workflow for neurodegenerative disease staging with focus on neurofibrillary tangles
+      excerpt: Vizcarra JC, Pearce TM, Dugger BN, <u>Keiser MJ</u>, Gearing M, Crary JF, Kiely EJ, Morris M, White B, Glass JD, Farrell K, Gutman DA. __Acta Neuropathol Commun__. 2023 Dec 18.
+      link: "https://doi.org/10.1186/s40478-023-01691-x"
+
+    - title: ChromaFactor- deconvolution of single-molecule chromatin organization with non-negative matrix factorization
+      excerpt: Gunsalus LM, <u>Keiser MJ</u>, Pollard KS. __bioRxiv__. 2023 Nov 22.
+      link: ""
+
+    - title: Autoregressive fragment-based diffusion for pocket-aware ligand design
+      excerpt: Ghorbani M, Gendelev L, Beroza P, <u>Keiser MJ</u>. __arXiv - NeurIPS GenBio__. 2023 Nov 2.
+      link: ""
+
+    - title: In silico discovery of repetitive elements as key sequence determinants of 3D genome folding
+      excerpt: Gunsalus LM, <u>Keiser MJ</u>, Pollard KS. __Cell Genom__. 2023 Oct 11.
       link: "https://doi.org/10.1016/j.xgen.2023.100410"
 
     - title: Learning chemical sensitivity reveals mechanisms of cellular response
@@ -21,6 +45,10 @@ papers:
     - title: Learning fast and fine-grained detection of amyloid neuropathologies from coarse-grained expert labels
       excerpt: Wong DR, Magaki SD, Vinters HV, Yong WH, Monuki ES, Williams CK, Martini AC, DeCarli C, Khacherian C, Graff JP, Dugger BN, <u>Keiser MJ</u>. __Commun Biol__. 2023 Jun 24.
       link: "https://doi.org/10.1038/s42003-023-05031-6"
+
+    - title: A single-cell gene expression language model
+      excerpt: Connell W, Khan U, <u>Keiser MJ</u>. __arXiv - NeurIPS LMRL__. 2022 Oct 25.
+      link: ""
 
     - title: Prioritizing Virtual Screening with Interpretable Interaction Fingerprints
       excerpt: Fassio AV, Shub L, Ponzoni L, McKinley J, O'Meara MJ, Ferreira RS, <u>Keiser MJ</u>, de Melo Minardi RC. __J Chem Inf Model__. 2022 Sep 26.
