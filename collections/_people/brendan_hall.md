@@ -12,6 +12,6 @@ header:
 papers: 
     - title: Retrieval augmented docking using hierarchical navigable small worlds
       excerpt: <u>Hall BW</u>, Keiser MJ. __chemRxiv__. 2024 Apr 24.
-      link: ""
+      link: "https://doi.org/10.26434/chemrxiv-2024-qsdd1"
 
 ---

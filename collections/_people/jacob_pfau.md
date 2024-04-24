@@ -20,10 +20,10 @@ papers:
 
     - title: Robust Semantic Interpretability- Revisiting Concept Activation Vectors
       excerpt: <u>Pfau J</u>, Young AT, Wei J, Wei ML, Keiser MJ. __arXiv - ICML - WHI__. 2020 Jul 17.
-      link: ""
+      link: "https://doi.org/10.48550/arXiv.2104.02768"
 
     - title: Global Saliency- Aggregating Saliency Maps to Assess Dataset Artefact Bias
       excerpt: <u>Pfau J</u>, Young AT, Wei ML, Keiser MJ. __arXiv - NeurIPS ML4H__. 2019 Oct 16.
-      link: ""
+      link: "https://doi.org/10.48550/arXiv.1910.07604"
 
 ---

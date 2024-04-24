@@ -12,6 +12,6 @@ header:
 papers: 
     - title: A single-cell gene expression language model
       excerpt: Connell W, <u>Khan U</u>, Keiser MJ. __arXiv - NeurIPS LMRL__. 2022 Oct 25.
-      link: ""
+      link: "https://doi.org/10.48550/arXiv.2210.14330"
 
 ---

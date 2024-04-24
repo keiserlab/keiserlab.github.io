@@ -12,15 +12,15 @@ header:
 papers: 
     - title: Deep phenotypic profiling of neuroactive drugs in larval zebrafish
       excerpt: <u>Gendelev L</u>, Taylor J, Myers-Turnbull D, Chen S, McCarroll MN, Arkin MR, Kokel D, Keiser MJ. __bioRxiv__. 2024 Feb 25.
-      link: ""
+      link: "https://doi.org/10.1101/2024.02.22.581657"
 
     - title: Autoregressive fragment-based diffusion for pocket-aware ligand design
       excerpt: Ghorbani M, <u>Gendelev L</u>, Beroza P, Keiser MJ. __arXiv - NeurIPS GenBio__. 2023 Nov 2.
-      link: ""
+      link: "https://arxiv.org/abs/2401.05370"
 
     - title: Simultaneous analysis of neuroactive compounds in zebrafish
       excerpt: Myers-Turnbull D, Taylor JC, Helsell C, McCarroll MN, Ki CS, Tummino TA, Ravikumar S, Kinser R, <u>Gendelev L</u>, Alexander R, Keiser MJ, Kokel D. __bioRxiv__. 2022 Jun 15.
-      link: ""
+      link: "https://doi.org/10.1101/2020.01.01.891432"
 
     - title: Zebrafish behavioural profiling identifies GABA and serotonin receptor ligands related to sedation and paradoxical excitation
       excerpt: McCarroll MN, <u>Gendelev L</u>, Kinser R, Taylor J, Bruni G, Myers-Turnbull D, Helsell C, Carbajal A, Rinaldi C, Kang HJ, Gong JH, Sello JK, Tomita S, Peterson RT, Keiser MJ, Kokel D. __Nat Commun__. 2019 Sep 9.

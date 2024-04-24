@@ -42,6 +42,7 @@ PCOL_JOUR = 2
 PCOL_DATE = 3
 PCOL_AUTH = 4
 PCOL_LINK = 5
+PCOL_PPRINT_LINK = 7
 
 
 def underline_author(authors, ncbi_id):
@@ -77,7 +78,7 @@ def main(fauthors, outdir, fpapers):
             yml_sanitize('%s. __%s__. %s.' % \
                 (underline_author(ppr[PCOL_AUTH], ncbi_id),
                  ppr[PCOL_JOUR], ppr[PCOL_DATE])), # this is "excerpt"
-            ppr[PCOL_LINK],
+            ppr[PCOL_LINK] if ppr[PCOL_LINK] != '' else ppr[PCOL_PPRINT_LINK],
             ) for ppr in display_papers])
 
         with open(os.path.join(outdir, '%s.md' % uid), 'wb') as fo:

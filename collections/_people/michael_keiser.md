@@ -12,19 +12,19 @@ header:
 papers: 
     - title: Retrieval augmented docking using hierarchical navigable small worlds
       excerpt: Hall BW, <u>Keiser MJ</u>. __chemRxiv__. 2024 Apr 24.
-      link: ""
+      link: "https://doi.org/10.26434/chemrxiv-2024-qsdd1"
 
     - title: Metric Ion Classification (MIC)- A deep learning tool for assigning ions and waters in cryo-EM and x-ray crystallography structures
       excerpt: Shub L, Liu W, Skiniotis G, <u>Keiser MJ</u>, Robertson MJ. __bioRxiv__. 2024 Mar 19.
-      link: ""
+      link: "https://doi.org/10.1101/2024.03.18.585639"
 
     - title: Deep phenotypic profiling of neuroactive drugs in larval zebrafish
       excerpt: Gendelev L, Taylor J, Myers-Turnbull D, Chen S, McCarroll MN, Arkin MR, Kokel D, <u>Keiser MJ</u>. __bioRxiv__. 2024 Feb 25.
-      link: ""
+      link: "https://doi.org/10.1101/2024.02.22.581657"
 
     - title: Proximity Graph Networks- Predicting Ligand Affinity with Message Passing Neural Networks
       excerpt: Gale-Day ZJ, Shub L, Chuang KV, <u>Keiser MJ</u>. __chemRxiv__. 2024 Feb 23.
-      link: ""
+      link: "https://doi.org/10.26434/chemrxiv-2024-hznxh"
 
     - title: Toward a generalizable machine learning workflow for neurodegenerative disease staging with focus on neurofibrillary tangles
       excerpt: Vizcarra JC, Pearce TM, Dugger BN, <u>Keiser MJ</u>, Gearing M, Crary JF, Kiely EJ, Morris M, White B, Glass JD, Farrell K, Gutman DA. __Acta Neuropathol Commun__. 2023 Dec 18.
@@ -32,11 +32,11 @@ papers:
 
     - title: ChromaFactor- deconvolution of single-molecule chromatin organization with non-negative matrix factorization
       excerpt: Gunsalus LM, <u>Keiser MJ</u>, Pollard KS. __bioRxiv__. 2023 Nov 22.
-      link: ""
+      link: "https://doi.org/10.1101/2023.11.22.568268"
 
     - title: Autoregressive fragment-based diffusion for pocket-aware ligand design
       excerpt: Ghorbani M, Gendelev L, Beroza P, <u>Keiser MJ</u>. __arXiv - NeurIPS GenBio__. 2023 Nov 2.
-      link: ""
+      link: "https://arxiv.org/abs/2401.05370"
 
     - title: In silico discovery of repetitive elements as key sequence determinants of 3D genome folding
       excerpt: Gunsalus LM, <u>Keiser MJ</u>, Pollard KS. __Cell Genom__. 2023 Oct 11.
@@ -44,7 +44,7 @@ papers:
 
     - title: Learning chemical sensitivity reveals mechanisms of cellular response
       excerpt: Connell W, Garcia K, Goodarzi H, <u>Keiser MJ</u>. __bioRxiv__. 2023 Aug 28.
-      link: ""
+      link: "https://doi.org/10.1101/2023.08.26.554851"
 
     - title: Learning fast and fine-grained detection of amyloid neuropathologies from coarse-grained expert labels
       excerpt: Wong DR, Magaki SD, Vinters HV, Yong WH, Monuki ES, Williams CK, Martini AC, DeCarli C, Khacherian C, Graff JP, Dugger BN, <u>Keiser MJ</u>. __Commun Biol__. 2023 Jun 24.
@@ -52,7 +52,7 @@ papers:
 
     - title: A single-cell gene expression language model
       excerpt: Connell W, Khan U, <u>Keiser MJ</u>. __arXiv - NeurIPS LMRL__. 2022 Oct 25.
-      link: ""
+      link: "https://doi.org/10.48550/arXiv.2210.14330"
 
     - title: Prioritizing Virtual Screening with Interpretable Interaction Fingerprints
       excerpt: Fassio AV, Shub L, Ponzoni L, McKinley J, O'Meara MJ, Ferreira RS, <u>Keiser MJ</u>, de Melo Minardi RC. __J Chem Inf Model__. 2022 Sep 26.
@@ -60,7 +60,7 @@ papers:
 
     - title: Simultaneous analysis of neuroactive compounds in zebrafish
       excerpt: Myers-Turnbull D, Taylor JC, Helsell C, McCarroll MN, Ki CS, Tummino TA, Ravikumar S, Kinser R, Gendelev L, Alexander R, <u>Keiser MJ</u>, Kokel D. __bioRxiv__. 2022 Jun 15.
-      link: ""
+      link: "https://doi.org/10.1101/2020.01.01.891432"
 
     - title: Trans-channel fluorescence learning improves high-content screening for Alzheimer's disease therapeutics
       excerpt: Wong DR, Conrad J, Johnson N, Ayers J, Laeremans A, Lee JC, Lee J, Prusiner SB, Bandyopadhyay S, Butte AJ, Paras NA, <u>Keiser MJ</u>. __Nat Mach Intell__. 2022 Jun.
@@ -80,11 +80,11 @@ papers:
 
     - title: Predicting Cellular Drug Sensitivity using Conditional Modulation of Gene Expression
       excerpt: Connell W, <u>Keiser MJ</u>. __bioRxiv - NeurIPS LMRL__. 2020 Dec 11.
-      link: ""
+      link: "https://doi.org/10.1101/2021.03.15.435529"
 
     - title: Attention-Based Learning on Molecular Ensembles
       excerpt: Chuang KV, <u>Keiser MJ</u>. __arXiv - NeurIPS ML4Molecules__. 2020 Nov 25.
-      link: ""
+      link: "https://doi.org/10.48550/arXiv.2011.12820"
 
     - title: Learning Molecular Representations for Medicinal Chemistry
       excerpt: Chuang KV, Gunsalus LM, <u>Keiser MJ</u>. __J Med Chem__. 2020 Aug 27.
@@ -96,7 +96,7 @@ papers:
 
     - title: Robust Semantic Interpretability- Revisiting Concept Activation Vectors
       excerpt: Pfau J, Young AT, Wei J, Wei ML, <u>Keiser MJ</u>. __arXiv - ICML - WHI__. 2020 Jul 17.
-      link: ""
+      link: "https://doi.org/10.48550/arXiv.2104.02768"
 
     - title: Validation of machine learning models to detect amyloid pathologies across institutions
       excerpt: Vizcarra JC, Gearing M, <u>Keiser MJ</u>, Glass JD, Dugger BN, Gutman DA. __Acta Neuropathol Commun__. 2020 Apr 28.
@@ -104,7 +104,7 @@ papers:
 
     - title: Global Saliency- Aggregating Saliency Maps to Assess Dataset Artefact Bias
       excerpt: Pfau J, Young AT, Wei ML, <u>Keiser MJ</u>. __arXiv - NeurIPS ML4H__. 2019 Oct 16.
-      link: ""
+      link: "https://doi.org/10.48550/arXiv.1910.07604"
 
     - title: Zebrafish behavioural profiling identifies GABA and serotonin receptor ligands related to sedation and paradoxical excitation
       excerpt: McCarroll MN, Gendelev L, Kinser R, Taylor J, Bruni G, Myers-Turnbull D, Helsell C, Carbajal A, Rinaldi C, Kang HJ, Gong JH, Sello JK, Tomita S, Peterson RT, <u>Keiser MJ</u>, Kokel D. __Nat Commun__. 2019 Sep 9.

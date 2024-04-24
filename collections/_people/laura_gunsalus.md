@@ -12,7 +12,7 @@ header:
 papers: 
     - title: ChromaFactor- deconvolution of single-molecule chromatin organization with non-negative matrix factorization
       excerpt: <u>Gunsalus LM</u>, Keiser MJ, Pollard KS. __bioRxiv__. 2023 Nov 22.
-      link: ""
+      link: "https://doi.org/10.1101/2023.11.22.568268"
 
     - title: In silico discovery of repetitive elements as key sequence determinants of 3D genome folding
       excerpt: <u>Gunsalus LM</u>, Keiser MJ, Pollard KS. __Cell Genom__. 2023 Oct 11.
