@@ -22,6 +22,17 @@ michael_keiser:
   twitter: keiser_lab
   type: member
 
+chimno_nnadi:
+  name: Chimno Nnadi, MD, PhD
+  email: cnnadi@keiserlab.org
+  bio: "DPBS"
+  bio_long: "Chimno received her PhD in Chemistry and Chemical Biology in Kevan Shokat's lab before joining the Keiser lab in 2022 as a psychiatry resident on the research track. She is currently using deep learning to aid phenotypic drug discovery."
+  avatar: /assets/images/people/bio-nnadi.jpg
+  title: "Postdoctoral Scholar; Resident Physician"
+  github: chiminoacid
+  ncbi_id: Nnadi CI
+  type: member
+
 liane_albarghouthi:
   name: Liane Albarghouthi
   email: lianeb@keiserlab.org 
