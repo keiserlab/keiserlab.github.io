@@ -12,11 +12,11 @@ header:
 papers: 
     - title: Metric Ion Classification (MIC)- A deep learning tool for assigning ions and waters in cryo-EM and x-ray crystallography structures
       excerpt: <u>Shub L</u>, Liu W, Skiniotis G, Keiser MJ, Robertson MJ. __bioRxiv__. 2024 Mar 19.
-      link: ""
+      link: "https://doi.org/10.1101/2024.03.18.585639"
 
     - title: Proximity Graph Networks- Predicting Ligand Affinity with Message Passing Neural Networks
       excerpt: Gale-Day ZJ, <u>Shub L</u>, Chuang KV, Keiser MJ. __chemRxiv__. 2024 Feb 23.
-      link: ""
+      link: "https://doi.org/10.26434/chemrxiv-2024-hznxh"
 
     - title: Prioritizing Virtual Screening with Interpretable Interaction Fingerprints
       excerpt: Fassio AV, <u>Shub L</u>, Ponzoni L, McKinley J, O'Meara MJ, Ferreira RS, Keiser MJ, de Melo Minardi RC. __J Chem Inf Model__. 2022 Sep 26.

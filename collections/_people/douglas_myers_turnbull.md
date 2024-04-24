@@ -12,11 +12,11 @@ header:
 papers: 
     - title: Deep phenotypic profiling of neuroactive drugs in larval zebrafish
       excerpt: Gendelev L, Taylor J, <u>Myers-Turnbull D</u>, Chen S, McCarroll MN, Arkin MR, Kokel D, Keiser MJ. __bioRxiv__. 2024 Feb 25.
-      link: ""
+      link: "https://doi.org/10.1101/2024.02.22.581657"
 
     - title: Simultaneous analysis of neuroactive compounds in zebrafish
       excerpt: <u>Myers-Turnbull D</u>, Taylor JC, Helsell C, McCarroll MN, Ki CS, Tummino TA, Ravikumar S, Kinser R, Gendelev L, Alexander R, Keiser MJ, Kokel D. __bioRxiv__. 2022 Jun 15.
-      link: ""
+      link: "https://doi.org/10.1101/2020.01.01.891432"
 
     - title: Zebrafish behavioural profiling identifies GABA and serotonin receptor ligands related to sedation and paradoxical excitation
       excerpt: McCarroll MN, Gendelev L, Kinser R, Taylor J, Bruni G, <u>Myers-Turnbull D</u>, Helsell C, Carbajal A, Rinaldi C, Kang HJ, Gong JH, Sello JK, Tomita S, Peterson RT, Keiser MJ, Kokel D. __Nat Commun__. 2019 Sep 9.

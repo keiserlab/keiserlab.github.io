@@ -12,11 +12,11 @@ header:
 papers: 
     - title: Proximity Graph Networks- Predicting Ligand Affinity with Message Passing Neural Networks
       excerpt: Gale-Day ZJ, Shub L, <u>Chuang KV</u>, Keiser MJ. __chemRxiv__. 2024 Feb 23.
-      link: ""
+      link: "https://doi.org/10.26434/chemrxiv-2024-hznxh"
 
     - title: Attention-Based Learning on Molecular Ensembles
       excerpt: <u>Chuang KV</u>, Keiser MJ. __arXiv - NeurIPS ML4Molecules__. 2020 Nov 25.
-      link: ""
+      link: "https://doi.org/10.48550/arXiv.2011.12820"
 
     - title: Learning Molecular Representations for Medicinal Chemistry
       excerpt: <u>Chuang KV</u>, Gunsalus LM, Keiser MJ. __J Med Chem__. 2020 Aug 27.

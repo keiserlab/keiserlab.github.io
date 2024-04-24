@@ -12,14 +12,14 @@ header:
 papers: 
     - title: Learning chemical sensitivity reveals mechanisms of cellular response
       excerpt: <u>Connell W</u>, Garcia K, Goodarzi H, Keiser MJ. __bioRxiv__. 2023 Aug 28.
-      link: ""
+      link: "https://doi.org/10.1101/2023.08.26.554851"
 
     - title: A single-cell gene expression language model
       excerpt: <u>Connell W</u>, Khan U, Keiser MJ. __arXiv - NeurIPS LMRL__. 2022 Oct 25.
-      link: ""
+      link: "https://doi.org/10.48550/arXiv.2210.14330"
 
     - title: Predicting Cellular Drug Sensitivity using Conditional Modulation of Gene Expression
       excerpt: <u>Connell W</u>, Keiser MJ. __bioRxiv - NeurIPS LMRL__. 2020 Dec 11.
-      link: ""
+      link: "https://doi.org/10.1101/2021.03.15.435529"
 
 ---
