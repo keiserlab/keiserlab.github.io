@@ -10,4 +10,8 @@ excerpt: "Brendan graduated in 2021 from Williams College with a B.A in Physics 
 header:
   teaser: /assets/images/people/bio-hall.jpg
 papers: 
+    - title: Retrieval augmented docking using hierarchical navigable small worlds
+      excerpt: <u>Hall BW</u>, Keiser MJ. __chemRxiv__. 2024 Apr 24.
+      link: ""
+
 ---

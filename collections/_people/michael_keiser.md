@@ -10,6 +10,10 @@ excerpt: "<p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and
 header:
   teaser: /assets/images/people/bio-keiser.jpg
 papers: 
+    - title: Retrieval augmented docking using hierarchical navigable small worlds
+      excerpt: Hall BW, <u>Keiser MJ</u>. __chemRxiv__. 2024 Apr 24.
+      link: ""
+
     - title: Metric Ion Classification (MIC)- A deep learning tool for assigning ions and waters in cryo-EM and x-ray crystallography structures
       excerpt: Shub L, Liu W, Skiniotis G, <u>Keiser MJ</u>, Robertson MJ. __bioRxiv__. 2024 Mar 19.
       link: ""
@@ -19,7 +23,7 @@ papers:
       link: ""
 
     - title: Proximity Graph Networks- Predicting Ligand Affinity with Message Passing Neural Networks
-      excerpt: Galey-Day ZJ, Shub L, Chuang KV, <u>Keiser MJ</u>. __chemRxiv__. 2024 Feb 23.
+      excerpt: Gale-Day ZJ, Shub L, Chuang KV, <u>Keiser MJ</u>. __chemRxiv__. 2024 Feb 23.
       link: ""
 
     - title: Toward a generalizable machine learning workflow for neurodegenerative disease staging with focus on neurofibrillary tangles
