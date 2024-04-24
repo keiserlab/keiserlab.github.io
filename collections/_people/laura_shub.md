@@ -15,7 +15,7 @@ papers:
       link: ""
 
     - title: Proximity Graph Networks- Predicting Ligand Affinity with Message Passing Neural Networks
-      excerpt: Galey-Day ZJ, <u>Shub L</u>, Chuang KV, Keiser MJ. __chemRxiv__. 2024 Feb 23.
+      excerpt: Gale-Day ZJ, <u>Shub L</u>, Chuang KV, Keiser MJ. __chemRxiv__. 2024 Feb 23.
       link: ""
 
     - title: Prioritizing Virtual Screening with Interpretable Interaction Fingerprints
