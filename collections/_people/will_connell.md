@@ -11,8 +11,8 @@ header:
   teaser: /assets/images/people/bio-connell.jpg
 papers: 
     - title: Learning chemical sensitivity reveals mechanisms of cellular response
-      excerpt: <u>Connell W</u>, Garcia K, Goodarzi H, Keiser MJ. __bioRxiv__. 2023 Aug 28.
-      link: "https://doi.org/10.1101/2023.08.26.554851"
+      excerpt: <u>Connell W</u>, Garcia K, Goodarzi H, Keiser MJ. __Commun Biol__. 2024 Sep 15.
+      link: "https://doi.org/10.1038/s42003-024-06865-4"
 
     - title: A single-cell gene expression language model
       excerpt: <u>Connell W</u>, Khan U, Keiser MJ. __arXiv - NeurIPS LMRL__. 2022 Oct 25.

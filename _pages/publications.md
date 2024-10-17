@@ -11,15 +11,15 @@ intro:
     - title: Publications
 feature_row0:
 
-  - image_path: /assets/images/papers/chemRxiv.chemrxiv-2024-qsdd1.jpg
+  - image_path: /assets/images/papers/10.1021.acs.jcim.4c00683.jpg
     alt: >-
-        Retrieval augmented docking using hierarchical navigable small worlds
+        Retrieval Augmented Docking Using Hierarchical Navigable Small Worlds
     title: >-
-        <span itemprop="name">Retrieval augmented docking using hierarchical navigable small worlds</span>
+        <span itemprop="name">Retrieval Augmented Docking Using Hierarchical Navigable Small Worlds</span>
     excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>chemRxiv</strong></span>. <span itemprop="datePublished">2024 Apr 24</span>. <span itemprop="author">Hall BW, Keiser MJ</span>.
-    url: ""
-    doi: "10.26434/chemrxiv-2024-qsdd1"
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>J Chem Inf Model</strong></span>. <span itemprop="datePublished">2024 Oct 14</span>. <span itemprop="author">Hall BW, Keiser MJ</span>.
+    url: "https://doi.org/10.1021/acs.jcim.4c00683"
+    doi: "10.1021/acs.jcim.4c00683"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
@@ -27,6 +27,42 @@ feature_row0:
     btn2_label: >-
         chemRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
+
+  - image_path: /assets/images/papers/10.1038.s42003-024-06865-4.jpg
+    alt: >-
+        Learning chemical sensitivity reveals mechanisms of cellular response
+    title: >-
+        <span itemprop="name">Learning chemical sensitivity reveals mechanisms of cellular response</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Commun Biol</strong></span>. <span itemprop="datePublished">2024 Sep 15</span>. <span itemprop="author">Connell W, Garcia K, Goodarzi H, Keiser MJ</span>.
+    url: "https://doi.org/10.1038/s42003-024-06865-4"
+    doi: "10.1038/s42003-024-06865-4"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.1101/2023.08.26.554851"
+    btn2_label: >-
+        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
+  - image_path: /assets/images/papers/10.1021.acs.jcim.4c00311.jpg
+    alt: >-
+        Proximity Graph Networks: Predicting Ligand Affinity with Message Passing Neural Networks
+    title: >-
+        <span itemprop="name">Proximity Graph Networks: Predicting Ligand Affinity with Message Passing Neural Networks</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>J Chem Inf Model</strong></span>. <span itemprop="datePublished">2024 Jul 22</span>. <span itemprop="author">Gale-Day ZJ, Shub L, Chuang KV, Keiser MJ</span>.
+    url: "https://doi.org/10.1021/acs.jcim.4c00311"
+    doi: "10.1021/acs.jcim.4c00311"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.26434/chemrxiv-2024-hznxh"
+    btn2_label: >-
+        chemRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
+feature_row1:
 
   - image_path: /assets/images/papers/bioRxiv.024.03.18.585639.jpg
     alt: >-
@@ -62,25 +98,6 @@ feature_row0:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row1:
-
-  - image_path: /assets/images/papers/chemRxiv.chemrxiv-2024-hznxh.jpg
-    alt: >-
-        Proximity Graph Networks: Predicting Ligand Affinity with Message Passing Neural Networks
-    title: >-
-        <span itemprop="name">Proximity Graph Networks: Predicting Ligand Affinity with Message Passing Neural Networks</span>
-    excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>chemRxiv</strong></span>. <span itemprop="datePublished">2024 Feb 23</span>. <span itemprop="author">Gale-Day ZJ, Shub L, Chuang KV, Keiser MJ</span>.
-    url: ""
-    doi: "10.26434/chemrxiv-2024-hznxh"
-    btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
-    url2: "https://doi.org/10.26434/chemrxiv-2024-hznxh"
-    btn2_label: >-
-        chemRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
-
   - image_path: /assets/images/papers/10.1186.s40478-023-01691-x.jpg
     alt: >-
         Toward a generalizable machine learning workflow for neurodegenerative disease staging with focus on neurofibrillary tangles
@@ -93,6 +110,8 @@ feature_row1:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
+
+feature_row2:
 
   - image_path: /assets/images/papers/bioRxiv.2023.11.22.568268.jpg
     alt: >-
@@ -110,8 +129,6 @@ feature_row1:
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
-
-feature_row2:
 
   - image_path: /assets/images/papers/arXiv_-_NeurIPS_GenBio.2401.05370.jpg
     alt: >-
@@ -143,23 +160,6 @@ feature_row2:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
     url2: "https://doi.org/10.1101/2022.08.11.503410"
-    btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
-
-  - image_path: /assets/images/papers/bioRxiv.2023.08.26.554851.jpg
-    alt: >-
-        Learning chemical sensitivity reveals mechanisms of cellular response
-    title: >-
-        <span itemprop="name">Learning chemical sensitivity reveals mechanisms of cellular response</span>
-    excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2023 Aug 28</span>. <span itemprop="author">Connell W, Garcia K, Goodarzi H, Keiser MJ</span>.
-    url: ""
-    doi: "10.1101/2023.08.26.554851"
-    btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
-    url2: "https://doi.org/10.1101/2023.08.26.554851"
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"

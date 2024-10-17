@@ -11,8 +11,8 @@ header:
   teaser: /assets/images/people/bio-chuang.jpg
 papers: 
     - title: Proximity Graph Networks- Predicting Ligand Affinity with Message Passing Neural Networks
-      excerpt: Gale-Day ZJ, Shub L, <u>Chuang KV</u>, Keiser MJ. __chemRxiv__. 2024 Feb 23.
-      link: "https://doi.org/10.26434/chemrxiv-2024-hznxh"
+      excerpt: Gale-Day ZJ, Shub L, <u>Chuang KV</u>, Keiser MJ. __J Chem Inf Model__. 2024 Jul 22.
+      link: "https://doi.org/10.1021/acs.jcim.4c00311"
 
     - title: Attention-Based Learning on Molecular Ensembles
       excerpt: <u>Chuang KV</u>, Keiser MJ. __arXiv - NeurIPS ML4Molecules__. 2020 Nov 25.
