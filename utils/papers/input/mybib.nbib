@@ -1,8 +1,276 @@
+PMID- 39360680
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20241014
+LR  - 20241014
+IS  - 1549-960X (Electronic)
+IS  - 1549-9596 (Linking)
+VI  - 64
+IP  - 19
+DP  - 2024 Oct 14
+TI  - Retrieval Augmented Docking Using Hierarchical Navigable Small Worlds.
+PG  - 7398-7408
+LID - 10.1021/acs.jcim.4c00683 [doi]
+AB  - Make-on-demand chemical libraries have drastically increased the reach of
+      molecular docking, with the enumerated ready-to-dock ZINC-22 library
+      approaching 6.4 billion molecules (July 2024). While ever-growing
+      libraries result in better-scoring molecules, the computational resources
+      required to dock all of ZINC-22 make this endeavor infeasible for most.
+      Here, we organize and traverse chemical space with hierarchical navigable
+      small-world graphs, a method we term retrieval augmented docking (RAD).
+      RAD recovers most virtual actives, despite docking only a fraction of the
+      library. Furthermore, RAD is protein-agnostic, supporting additional
+      docking campaigns without additional computational overhead. In depth, we
+      assess RAD on published large-scale docking campaigns against D4 and AmpC
+      spanning 99.5 million and 138 million molecules, respectively. RAD
+      recovers 95% of DOCK virtual actives for both targets after evaluating
+      only 10% of the libraries. In breadth, RAD shows widespread applicability
+      against 43 DUDE-Z proteins, evaluating 50.3 million associations. On
+      average, RAD recovers 87% of virtual actives while docking 10% of the
+      library without sacrificing chemical diversity.
+FAU - Hall, Brendan W
+AU  - Hall BW
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, California 94158, United States.
+AD  - Program in Biophysics, University of California, San Francisco, San
+      Francisco, California 94158, United States.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AUID- ORCID: 0000-0002-1240-2192
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, California 94158, United States.
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, California 94158, United States.
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, California 94158, United States.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco, San Francisco, California 94158, United
+      States.
+LA  - eng
+PT  - Journal Article
+DEP - 20241003
+PL  - United States
+TA  - J Chem Inf Model
+JT  - Journal of chemical information and modeling
+JID - 101230060
+RN  - 0 (Small Molecule Libraries)
+RN  - 0 (Proteins)
+SB  - IM
+MH  - *Molecular Docking Simulation
+MH  - *Small Molecule Libraries/chemistry/pharmacology/metabolism
+MH  - Proteins/chemistry/metabolism
+EDAT- 2024/10/03 12:44
+MHDA- 2024/10/14 06:21
+CRDT- 2024/10/03 07:43
+AID - 10.1021/acs.jcim.4c00683 [doi]
+PST - ppublish
+SO  - J Chem Inf Model. 2024 Oct 14;64(19):7398-7408. doi:
+      10.1021/acs.jcim.4c00683. Epub 2024 Oct 3.
+
+PMID- 39278951
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240915
+LR  - 20240924
+IS  - 2399-3642 (Electronic)
+IS  - 2399-3642 (Linking)
+VI  - 7
+IP  - 1
+DP  - 2024 Sep 15
+TI  - Learning chemical sensitivity reveals mechanisms of cellular response.
+PG  - 1149
+LID - 10.1038/s42003-024-06865-4 [doi]
+AB  - Chemical probes interrogate disease mechanisms at the molecular level by
+      linking genetic changes to observable traits. However, comprehensive
+      chemical screens in diverse biological models are impractical. To address
+      this challenge, we develop ChemProbe, a model that predicts cellular
+      sensitivity to hundreds of molecular probes and drugs by learning to
+      combine transcriptomes and chemical structures. Using ChemProbe, we infer
+      the chemical sensitivity of cancer cell lines and tumor samples and
+      analyze how the model makes predictions. We retrospectively evaluate drug
+      response predictions for precision breast cancer treatment and
+      prospectively validate chemical sensitivity predictions in new cellular
+      models, including a genetically modified cell line. Our model
+      interpretation analysis identifies transcriptome features reflecting
+      compound targets and protein network modules, identifying genes that
+      drive ferroptosis. ChemProbe is an interpretable in silico screening tool
+      that allows researchers to measure cellular response to diverse
+      compounds, facilitating research into molecular mechanisms of chemical
+      sensitivity.
+CI  - (c) 2024. The Author(s).
+FAU - Connell, William
+AU  - Connell W
+AUID- ORCID: http://orcid.org/0000-0001-7820-1548
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, CA, USA.
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA, USA.
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA, USA.
+FAU - Garcia, Kristle
+AU  - Garcia K
+AUID- ORCID: http://orcid.org/0000-0002-9868-8397
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA, USA.
+AD  - Department of Biochemistry and Biophysics, University of California, San
+      Francisco, San Francisco, CA, USA.
+AD  - Department of Urology, University of California, San Francisco, San
+      Francisco, CA, USA.
+AD  - Helen Diller Family Comprehensive Cancer Center, University of
+      California, San Francisco, San Francisco, CA, USA.
+FAU - Goodarzi, Hani
+AU  - Goodarzi H
+AUID- ORCID: http://orcid.org/0000-0002-9648-8949
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA, USA.
+AD  - Department of Biochemistry and Biophysics, University of California, San
+      Francisco, San Francisco, CA, USA.
+AD  - Department of Urology, University of California, San Francisco, San
+      Francisco, CA, USA.
+AD  - Helen Diller Family Comprehensive Cancer Center, University of
+      California, San Francisco, San Francisco, CA, USA.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AUID- ORCID: http://orcid.org/0000-0002-1240-2192
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, CA, USA. keiser@keiserlab.org.
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA, USA. keiser@keiserlab.org.
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA, USA. keiser@keiserlab.org.
+LA  - eng
+GR  - U01 MH115747/MH/NIMH NIH HHS/United States
+GR  - U01 MH115747-02/U.S. Department of Health & Human Services | NIH |
+      National Institute of Mental Health (NIMH)
+PT  - Journal Article
+DEP - 20240915
+PL  - England
+TA  - Commun Biol
+JT  - Communications biology
+JID - 101719179
+RN  - 0 (Antineoplastic Agents)
+SB  - IM
+UOF - bioRxiv. 2023 Aug 28:2023.08.26.554851. doi: 10.1101/2023.08.26.554851.
+      PMID: 37693536
+MH  - Humans
+MH  - Cell Line, Tumor
+MH  - *Transcriptome
+MH  - Antineoplastic Agents/pharmacology
+MH  - Breast Neoplasms/genetics/drug therapy/metabolism/pathology
+MH  - Ferroptosis/drug effects/genetics
+MH  - Female
+MH  - Machine Learning
+MH  - Gene Expression Regulation, Neoplastic/drug effects
+MH  - Computer Simulation
+PMC - PMC11402971
+EDAT- 2024/09/16 00:42
+MHDA- 2024/09/16 00:43
+CRDT- 2024/09/15 23:17
+PHST- 2023/12/11 00:00 [received]
+PHST- 2024/09/06 00:00 [accepted]
+AID - 10.1038/s42003-024-06865-4 [doi]
+AID - 10.1038/s42003-024-06865-4 [pii]
+PST - epublish
+SO  - Commun Biol. 2024 Sep 15;7(1):1149. doi: 10.1038/s42003-024-06865-4.
+
+PMID- 38953560
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240722
+LR  - 20240726
+IS  - 1549-960X (Electronic)
+IS  - 1549-9596 (Linking)
+VI  - 64
+IP  - 14
+DP  - 2024 Jul 22
+TI  - Proximity Graph Networks: Predicting Ligand Affinity with Message Passing
+      Neural Networks.
+PG  - 5439-5450
+LID - 10.1021/acs.jcim.4c00311 [doi]
+AB  - Message passing neural networks (MPNNs) on molecular graphs generate
+      continuous and differentiable encodings of small molecules with state-of-
+      the-art performance on protein-ligand complex scoring tasks. Here, we
+      describe the proximity graph network (PGN) package, an open-source
+      toolkit that constructs ligand-receptor graphs based on atom proximity
+      and allows users to rapidly apply and evaluate MPNN architectures for a
+      broad range of tasks. We demonstrate the utility of PGN by introducing
+      benchmarks for affinity and docking score prediction tasks. Graph
+      networks generalize better than fingerprint-based models and perform
+      strongly for the docking score prediction task. Overall, MPNNs with
+      proximity graph data structures augment the prediction of ligand-receptor
+      complex properties when ligand-receptor data are available.
+FAU - Gale-Day, Zachary J
+AU  - Gale-Day ZJ
+AUID- ORCID: 0000-0002-8598-7048
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, California 94158, United States.
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, California 94158, United States.
+FAU - Shub, Laura
+AU  - Shub L
+AUID- ORCID: 0000-0003-0211-0396
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, California 94158, United States.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco, San Francisco, California 94158, United
+      States.
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, California 94158, United States.
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, California 94158, United States.
+FAU - Chuang, Kangway V
+AU  - Chuang KV
+AUID- ORCID: 0000-0002-0652-8071
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, California 94158, United States.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco, San Francisco, California 94158, United
+      States.
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, California 94158, United States.
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, California 94158, United States.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AUID- ORCID: 0000-0002-1240-2192
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, California 94158, United States.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco, San Francisco, California 94158, United
+      States.
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, California 94158, United States.
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, California 94158, United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20240702
+PL  - United States
+TA  - J Chem Inf Model
+JT  - Journal of chemical information and modeling
+JID - 101230060
+RN  - 0 (Ligands)
+RN  - 0 (Proteins)
+SB  - IM
+MH  - Ligands
+MH  - *Neural Networks, Computer
+MH  - *Proteins/chemistry/metabolism
+MH  - Molecular Docking Simulation
+MH  - Protein Binding
+PMC - PMC11267574
+EDAT- 2024/07/02 14:44
+MHDA- 2024/07/22 06:42
+CRDT- 2024/07/02 08:23
+AID - 10.1021/acs.jcim.4c00311 [doi]
+PST - ppublish
+SO  - J Chem Inf Model. 2024 Jul 22;64(14):5439-5450. doi:
+      10.1021/acs.jcim.4c00311. Epub 2024 Jul 2.
+
 PMID- 38110981
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20231220
-LR  - 20240210
+LR  - 20240823
 IS  - 2051-5960 (Electronic)
 IS  - 2051-5960 (Linking)
 VI  - 11
@@ -110,7 +378,7 @@ AD  - Department of Pathology, Icahn School of Medicine at Mount Sinai, Icahn
       Building 9th Floor, L9-02C, 1425 Madison, Avenue, New York, NY, USA.
 FAU - Gutman, David A
 AU  - Gutman DA
-AUID- ORCID: http://orcid.org/0000-0002-1386-8701
+AUID- ORCID: 0000-0002-1386-8701
 AD  - Department of Pathology and Laboratory Medicine, Emory University School
       of Medicine, 1364 Clifton Rd, Atlanta, GA, 30322, USA. dgutman@emory.edu.
 LA  - eng
@@ -118,10 +386,14 @@ GR  - P30AG072972/AG/NIA NIH HHS/United States
 GR  - R01AG056519/AG/NIA NIH HHS/United States
 GR  - U24 NS133949/NS/NINDS NIH HHS/United States
 GR  - R01AG062517/AG/NIA NIH HHS/United States
+GR  - K01 AG070326/AG/NIA NIH HHS/United States
+GR  - P30 AG072972/AG/NIA NIH HHS/United States
+GR  - R01 AG062517/AG/NIA NIH HHS/United States
 GR  - R01 AG056519/AG/NIA NIH HHS/United States
 GR  - K01AG070326/AG/NIA NIH HHS/United States
 GR  - 1U24NS133949-01/NS/NINDS NIH HHS/United States
 PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
 DEP - 20231218
 PL  - England
 TA  - Acta Neuropathol Commun
@@ -151,9 +423,6 @@ MHDA- 2023/12/20 06:43
 CRDT- 2023/12/19 00:35
 PHST- 2023/09/11 00:00 [received]
 PHST- 2023/11/19 00:00 [accepted]
-PHST- 2023/12/20 06:43 [medline]
-PHST- 2023/12/19 06:41 [pubmed]
-PHST- 2023/12/19 00:35 [entrez]
 AID - 10.1186/s40478-023-01691-x [doi]
 AID - 10.1186/s40478-023-01691-x [pii]
 PST - epublish
@@ -163,7 +432,7 @@ SO  - Acta Neuropathol Commun. 2023 Dec 18;11(1):202. doi:
 PMID- 37868032
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20240210
+LR  - 20240927
 IS  - 2666-979X (Electronic)
 IS  - 2666-979X (Linking)
 VI  - 3
@@ -237,9 +506,6 @@ CRDT- 2023/10/23 04:31
 PHST- 2022/10/12 00:00 [received]
 PHST- 2022/11/08 00:00 [revised]
 PHST- 2023/08/31 00:00 [accepted]
-PHST- 2023/10/23 06:47 [medline]
-PHST- 2023/10/23 06:46 [pubmed]
-PHST- 2023/10/23 04:31 [entrez]
 AID - 10.1016/j.xgen.2023.100410 [doi]
 AID - S2666-979X(23)00224-0 [pii]
 PST - epublish
@@ -377,9 +643,6 @@ MHDA- 2023/06/26 06:42
 CRDT- 2023/06/24 23:27
 PHST- 2023/01/25 00:00 [received]
 PHST- 2023/06/08 00:00 [accepted]
-PHST- 2023/06/26 06:42 [medline]
-PHST- 2023/06/25 01:08 [pubmed]
-PHST- 2023/06/24 23:27 [entrez]
 AID - 10.1038/s42003-023-05031-6 [doi]
 AID - 10.1038/s42003-023-05031-6 [pii]
 PST - epublish
@@ -489,9 +752,6 @@ MH  - *Proteins/chemistry
 EDAT- 2022/09/15 06:00
 MHDA- 2022/09/28 06:00
 CRDT- 2022/09/14 09:53
-PHST- 2022/09/15 06:00 [pubmed]
-PHST- 2022/09/28 06:00 [medline]
-PHST- 2022/09/14 09:53 [entrez]
 AID - 10.1021/acs.jcim.2c00695 [doi]
 PST - ppublish
 SO  - J Chem Inf Model. 2022 Sep 26;62(18):4300-4318. doi:
@@ -500,7 +760,7 @@ SO  - J Chem Inf Model. 2022 Sep 26;62(18):4300-4318. doi:
 PMID- 36276634
 OWN - NLM
 STAT- PubMed-not-MEDLINE
-LR  - 20221202
+LR  - 20240906
 IS  - 2522-5839 (Electronic)
 IS  - 2522-5839 (Linking)
 VI  - 4
@@ -629,9 +889,6 @@ COIS- Competing Interests Statement The authors declare no competing interests.
 EDAT- 2022/10/25 06:00
 MHDA- 2022/10/25 06:01
 CRDT- 2022/10/24 04:19
-PHST- 2022/10/24 04:19 [entrez]
-PHST- 2022/10/25 06:00 [pubmed]
-PHST- 2022/10/25 06:01 [medline]
 AID - 10.1038/s42256-022-00490-8 [doi]
 PST - ppublish
 SO  - Nat Mach Intell. 2022 Jun;4(6):583-595. doi: 10.1038/s42256-022-00490-8.
@@ -798,9 +1055,6 @@ MHDA- 2022/05/03 06:00
 CRDT- 2022/04/28 23:50
 PHST- 2022/04/10 00:00 [received]
 PHST- 2022/04/11 00:00 [accepted]
-PHST- 2022/04/28 23:50 [entrez]
-PHST- 2022/04/29 06:00 [pubmed]
-PHST- 2022/05/03 06:00 [medline]
 AID - 10.1186/s40478-022-01365-0 [doi]
 AID - 10.1186/s40478-022-01365-0 [pii]
 PST - epublish
@@ -935,9 +1189,6 @@ MHDA- 2021/01/23 06:01
 CRDT- 2021/01/22 06:22
 PHST- 2020/08/26 00:00 [received]
 PHST- 2020/12/09 00:00 [accepted]
-PHST- 2021/01/22 06:22 [entrez]
-PHST- 2021/01/23 06:00 [pubmed]
-PHST- 2021/01/23 06:01 [medline]
 AID - 10.1038/s41746-020-00380-6 [doi]
 AID - 10.1038/s41746-020-00380-6 [pii]
 PST - epublish
@@ -1011,9 +1262,6 @@ MH  - *Neural Networks, Computer
 EDAT- 2020/11/28 06:00
 MHDA- 2021/06/22 06:00
 CRDT- 2020/11/27 12:07
-PHST- 2020/11/28 06:00 [pubmed]
-PHST- 2021/06/22 06:00 [medline]
-PHST- 2020/11/27 12:07 [entrez]
 AID - 10.1021/acs.jcim.0c00565 [doi]
 PST - ppublish
 SO  - J Chem Inf Model. 2020 Dec 28;60(12):5957-5970. doi:
@@ -1092,9 +1340,6 @@ MH  - Quantitative Structure-Activity Relationship
 EDAT- 2020/05/06 06:00
 MHDA- 2020/12/15 06:00
 CRDT- 2020/05/06 06:00
-PHST- 2020/05/06 06:00 [pubmed]
-PHST- 2020/12/15 06:00 [medline]
-PHST- 2020/05/06 06:00 [entrez]
 AID - 10.1021/acs.jmedchem.0c00385 [doi]
 PST - ppublish
 SO  - J Med Chem. 2020 Aug 27;63(16):8705-8722. doi:
@@ -1185,9 +1430,6 @@ CRDT- 2020/04/02 06:00
 PHST- 2019/12/03 00:00 [received]
 PHST- 2020/02/22 00:00 [revised]
 PHST- 2020/02/25 00:00 [accepted]
-PHST- 2020/04/02 06:00 [pubmed]
-PHST- 2021/03/09 06:00 [medline]
-PHST- 2020/04/02 06:00 [entrez]
 AID - S0022-202X(20)31201-X [pii]
 AID - 10.1016/j.jid.2020.02.026 [doi]
 PST - ppublish
@@ -1312,9 +1554,6 @@ MHDA- 2021/06/01 06:00
 CRDT- 2020/04/30 06:00
 PHST- 2020/02/05 00:00 [received]
 PHST- 2020/03/31 00:00 [accepted]
-PHST- 2020/04/30 06:00 [entrez]
-PHST- 2020/04/30 06:00 [pubmed]
-PHST- 2021/06/01 06:00 [medline]
 AID - 10.1186/s40478-020-00927-4 [doi]
 AID - 10.1186/s40478-020-00927-4 [pii]
 PST - epublish
@@ -1468,9 +1707,6 @@ MHDA- 2019/12/19 06:00
 CRDT- 2019/09/11 06:00
 PHST- 2019/03/07 00:00 [received]
 PHST- 2019/08/13 00:00 [accepted]
-PHST- 2019/09/11 06:00 [entrez]
-PHST- 2019/09/11 06:00 [pubmed]
-PHST- 2019/12/19 06:00 [medline]
 AID - 10.1038/s41467-019-11936-w [doi]
 AID - 10.1038/s41467-019-11936-w [pii]
 PST - epublish
@@ -1583,9 +1819,6 @@ MHDA- 2019/07/02 06:00
 CRDT- 2019/05/17 06:00
 PHST- 2018/10/30 00:00 [received]
 PHST- 2019/04/24 00:00 [accepted]
-PHST- 2019/05/17 06:00 [entrez]
-PHST- 2019/05/17 06:00 [pubmed]
-PHST- 2019/07/02 06:00 [medline]
 AID - 10.1038/s41467-019-10212-1 [doi]
 AID - 10.1038/s41467-019-10212-1 [pii]
 PST - epublish
@@ -1642,9 +1875,6 @@ MHDA- 2018/11/18 06:01
 CRDT- 2018/11/17 06:00
 PHST- 2018/04/11 00:00 [received]
 PHST- 2018/09/18 00:00 [accepted]
-PHST- 2018/11/17 06:00 [entrez]
-PHST- 2018/11/18 06:00 [pubmed]
-PHST- 2018/11/18 06:01 [medline]
 AID - 362/6416/eaat8603 [pii]
 AID - 10.1126/science.aat8603 [doi]
 PST - ppublish
@@ -1706,9 +1936,6 @@ MH  - *Models, Theoretical
 EDAT- 2018/10/20 06:00
 MHDA- 2019/07/10 06:00
 CRDT- 2018/10/20 06:00
-PHST- 2018/10/20 06:00 [entrez]
-PHST- 2018/10/20 06:00 [pubmed]
-PHST- 2019/07/10 06:00 [medline]
 AID - 10.1021/acschembio.8b00881 [doi]
 PST - ppublish
 SO  - ACS Chem Biol. 2018 Oct 19;13(10):2819-2821. doi:
@@ -2013,9 +2240,6 @@ CRDT- 2018/07/28 06:00
 PHST- 2018/02/13 00:00 [received]
 PHST- 2018/05/07 00:00 [revised]
 PHST- 2018/06/08 00:00 [accepted]
-PHST- 2018/07/28 06:00 [entrez]
-PHST- 2018/07/28 06:00 [pubmed]
-PHST- 2019/04/19 06:00 [medline]
 AID - S0092-8674(18)30784-0 [pii]
 AID - 10.1016/j.cell.2018.06.016 [doi]
 PST - ppublish
@@ -2125,9 +2349,6 @@ PMC - PMC5780839
 EDAT- 2017/12/02 06:00
 MHDA- 2018/12/12 06:00
 CRDT- 2017/12/02 06:00
-PHST- 2017/12/02 06:00 [pubmed]
-PHST- 2018/12/12 06:00 [medline]
-PHST- 2017/12/02 06:00 [entrez]
 AID - 10.1021/acs.jcim.7b00316 [doi]
 PST - ppublish
 SO  - J Chem Inf Model. 2018 Jan 22;58(1):148-164. doi:
@@ -2137,7 +2358,7 @@ PMID- 29091768
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20180612
-LR  - 20190612
+LR  - 20240610
 IS  - 2211-1247 (Electronic)
 VI  - 21
 IP  - 5
@@ -2233,8 +2454,12 @@ AD  - Department of Anesthesia and Perioperative Care, University of California
 LA  - eng
 GR  - R21 NS082856/NS/NINDS NIH HHS/United States
 GR  - R01 NS091281/NS/NINDS NIH HHS/United States
+GR  - R43 GM093456/GM/NIGMS NIH HHS/United States
 GR  - T32 GM067547/GM/NIGMS NIH HHS/United States
+GR  - R44 GM093456/GM/NIGMS NIH HHS/United States
+GR  - P01 GM111126/GM/NIGMS NIH HHS/United States
 GR  - R21 ES021412/ES/NIEHS NIH HHS/United States
+GR  - T32 GM007546/GM/NIGMS NIH HHS/United States
 GR  - R01 GM081863/GM/NIGMS NIH HHS/United States
 GR  - T32 GM008440/GM/NIGMS NIH HHS/United States
 PT  - Journal Article
@@ -2292,9 +2517,6 @@ CRDT- 2017/11/02 06:00
 PHST- 2015/01/21 00:00 [received]
 PHST- 2017/08/25 00:00 [revised]
 PHST- 2017/10/05 00:00 [accepted]
-PHST- 2017/11/02 06:00 [entrez]
-PHST- 2017/11/02 06:00 [pubmed]
-PHST- 2018/06/13 06:00 [medline]
 AID - S2211-1247(17)31458-4 [pii]
 AID - 10.1016/j.celrep.2017.10.026 [doi]
 PST - ppublish
@@ -2403,9 +2625,6 @@ MID - NIHMS909954
 EDAT- 2017/07/22 06:00
 MHDA- 2017/09/28 06:00
 CRDT- 2017/07/22 06:00
-PHST- 2017/07/22 06:00 [pubmed]
-PHST- 2017/09/28 06:00 [medline]
-PHST- 2017/07/22 06:00 [entrez]
 AID - 10.1021/acs.jmedchem.7b00696 [doi]
 PST - ppublish
 SO  - J Med Chem. 2017 Sep 14;60(17):7393-7409. doi:
@@ -2415,7 +2634,7 @@ PMID- 27239787
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20170515
-LR  - 20240213
+LR  - 20240610
 IS  - 1552-4469 (Electronic)
 IS  - 1552-4450 (Linking)
 VI  - 12
@@ -2590,9 +2809,6 @@ MHDA- 2017/05/16 06:00
 CRDT- 2016/05/31 06:00
 PHST- 2014/12/17 00:00 [received]
 PHST- 2016/04/24 00:00 [accepted]
-PHST- 2016/05/31 06:00 [entrez]
-PHST- 2016/05/31 06:00 [pubmed]
-PHST- 2017/05/16 06:00 [medline]
 AID - nchembio.2097 [pii]
 AID - 10.1038/nchembio.2097 [doi]
 PST - ppublish
@@ -2674,9 +2890,6 @@ MID - NIHMS821909
 EDAT- 2016/02/05 06:00
 MHDA- 2016/12/15 06:00
 CRDT- 2016/02/05 06:00
-PHST- 2016/02/05 06:00 [entrez]
-PHST- 2016/02/05 06:00 [pubmed]
-PHST- 2016/12/15 06:00 [medline]
 AID - 10.1021/acschembio.5b00800 [doi]
 PST - ppublish
 SO  - ACS Chem Biol. 2016 Apr 15;11(4):842-9. doi: 10.1021/acschembio.5b00800.
@@ -2856,9 +3069,6 @@ CRDT- 2016/02/27 06:00
 PHST- 2015/08/13 00:00 [received]
 PHST- 2015/12/01 00:00 [revised]
 PHST- 2015/12/02 00:00 [accepted]
-PHST- 2016/02/27 06:00 [entrez]
-PHST- 2016/02/27 06:00 [pubmed]
-PHST- 2017/11/03 06:00 [medline]
 AID - S2215-0366(15)00553-2 [pii]
 AID - 10.1016/S2215-0366(15)00553-2 [doi]
 PST - ppublish
@@ -2869,7 +3079,7 @@ PMID- 26335661
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20160627
-LR  - 20181202
+LR  - 20240610
 IS  - 1573-8744 (Electronic)
 IS  - 1567-567X (Linking)
 VI  - 42
@@ -2941,15 +3151,15 @@ AD  - Department of Bioengineering and Therapeutic Sciences, University of
       California San Francisco, San Francisco, 94158-2911, USA.
       kathy.giacomini@ucsf.edu.
 LA  - eng
-GR  - P30 DK063720/DK/NIDDK NIH HHS/United States
-GR  - R01 GM071896/GM/NIGMS NIH HHS/United States
 GR  - P30 DK026743/DK/NIDDK NIH HHS/United States
 GR  - R44 GM093456/GM/NIGMS NIH HHS/United States
-GR  - U19-GM61390/GM/NIGMS NIH HHS/United States
-GR  - R44GM093456/GM/NIGMS NIH HHS/United States
 GR  - U19 GM061390/GM/NIGMS NIH HHS/United States
 GR  - GM71896/GM/NIGMS NIH HHS/United States
 GR  - T32 GM007175/GM/NIGMS NIH HHS/United States
+GR  - P30 DK063720/DK/NIDDK NIH HHS/United States
+GR  - R01 GM071896/GM/NIGMS NIH HHS/United States
+GR  - U19-GM61390/GM/NIGMS NIH HHS/United States
+GR  - R44GM093456/GM/NIGMS NIH HHS/United States
 PT  - Journal Article
 PT  - Research Support, N.I.H., Extramural
 PT  - Research Support, Non-U.S. Gov't
@@ -2994,9 +3204,6 @@ MHDA- 2016/06/28 06:00
 CRDT- 2015/09/04 06:00
 PHST- 2015/06/28 00:00 [received]
 PHST- 2015/08/13 00:00 [accepted]
-PHST- 2015/09/04 06:00 [entrez]
-PHST- 2015/09/04 06:00 [pubmed]
-PHST- 2016/06/28 06:00 [medline]
 AID - 10.1007/s10928-015-9436-y [doi]
 AID - 10.1007/s10928-015-9436-y [pii]
 PST - ppublish
@@ -3084,9 +3291,6 @@ MHDA- 2015/04/09 06:00
 CRDT- 2015/02/12 06:00
 PHST- 2014/03/27 00:00 [received]
 PHST- 2014/09/12 00:00 [accepted]
-PHST- 2015/02/12 06:00 [entrez]
-PHST- 2015/02/12 06:00 [pubmed]
-PHST- 2015/04/09 06:00 [medline]
 AID - 10.1002/cpt.2 [doi]
 PST - ppublish
 SO  - Clin Pharmacol Ther. 2015 Feb;97(2):151-8. doi: 10.1002/cpt.2. Epub 2014
@@ -3206,9 +3410,6 @@ MHDA- 2014/07/08 06:00
 CRDT- 2013/11/22 06:00
 PHST- 2013/05/03 00:00 [received]
 PHST- 2013/10/04 00:00 [accepted]
-PHST- 2013/11/22 06:00 [entrez]
-PHST- 2013/11/22 06:00 [pubmed]
-PHST- 2014/07/08 06:00 [medline]
 AID - 10.1371/journal.pbio.1001712 [doi]
 AID - PBIOLOGY-D-13-01770 [pii]
 PST - ppublish
@@ -3318,9 +3519,6 @@ MHDA- 2012/08/15 06:00
 CRDT- 2012/06/23 06:00
 PHST- 2011/10/14 00:00 [received]
 PHST- 2012/04/25 00:00 [accepted]
-PHST- 2012/06/23 06:00 [entrez]
-PHST- 2012/06/23 06:00 [pubmed]
-PHST- 2012/08/15 06:00 [medline]
 AID - nature11159 [pii]
 AID - 10.1038/nature11159 [doi]
 PST - epublish
@@ -3330,7 +3528,7 @@ PMID- 22179068
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20120529
-LR  - 20211021
+LR  - 20240610
 IS  - 1552-4469 (Electronic)
 IS  - 1552-4450 (Linking)
 VI  - 8
@@ -3458,9 +3656,6 @@ MHDA- 2012/05/30 06:00
 CRDT- 2011/12/20 06:00
 PHST- 2011/04/25 00:00 [received]
 PHST- 2011/09/19 00:00 [accepted]
-PHST- 2011/12/20 06:00 [entrez]
-PHST- 2011/12/20 06:00 [pubmed]
-PHST- 2012/05/30 06:00 [medline]
 AID - nchembio.732 [pii]
 AID - 10.1038/nchembio.732 [doi]
 PST - epublish
@@ -3619,9 +3814,6 @@ PMC - PMC3055689
 EDAT- 2010/11/05 06:00
 MHDA- 2011/05/10 06:00
 CRDT- 2010/11/05 06:00
-PHST- 2010/11/05 06:00 [entrez]
-PHST- 2010/11/05 06:00 [pubmed]
-PHST- 2011/05/10 06:00 [medline]
 AID - npp2010195 [pii]
 AID - 10.1038/npp.2010.195 [doi]
 PST - ppublish
@@ -3694,9 +3886,6 @@ PMC - PMC2994275
 EDAT- 2010/11/10 06:00
 MHDA- 2010/12/29 06:00
 CRDT- 2010/11/10 06:00
-PHST- 2010/11/10 06:00 [entrez]
-PHST- 2010/11/10 06:00 [pubmed]
-PHST- 2010/12/29 06:00 [medline]
 AID - 10.1021/bi101540g [doi]
 PST - ppublish
 SO  - Biochemistry. 2010 Dec 7;49(48):10267-76. doi: 10.1021/bi101540g. Epub
@@ -3706,7 +3895,7 @@ PMID- 20540517
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20100722
-LR  - 20211020
+LR  - 20240508
 IS  - 1520-4804 (Electronic)
 IS  - 0022-2623 (Linking)
 VI  - 53
@@ -3786,9 +3975,6 @@ PMC - PMC2895358
 EDAT- 2010/06/15 06:00
 MHDA- 2010/07/23 06:00
 CRDT- 2010/06/15 06:00
-PHST- 2010/06/15 06:00 [entrez]
-PHST- 2010/06/15 06:00 [pubmed]
-PHST- 2010/07/23 06:00 [medline]
 AID - 10.1021/jm100488w [doi]
 PST - ppublish
 SO  - J Med Chem. 2010 Jul 8;53(13):4891-905. doi: 10.1021/jm100488w.
@@ -3885,9 +4071,6 @@ MID - NIHMS182610
 EDAT- 2010/02/26 06:00
 MHDA- 2010/05/05 06:00
 CRDT- 2010/02/26 06:00
-PHST- 2010/02/26 06:00 [entrez]
-PHST- 2010/02/26 06:00 [pubmed]
-PHST- 2010/05/05 06:00 [medline]
 AID - 10.1021/jm901613f [doi]
 PST - ppublish
 SO  - J Med Chem. 2010 Mar 25;53(6):2464-71. doi: 10.1021/jm901613f.
@@ -3994,9 +4177,6 @@ MID - NIHMS518156
 EDAT- 2010/06/29 06:00
 MHDA- 2012/03/03 06:00
 CRDT- 2010/06/29 06:00
-PHST- 2010/06/29 06:00 [entrez]
-PHST- 2010/06/29 06:00 [pubmed]
-PHST- 2012/03/03 06:00 [medline]
 PST - ppublish
 SO  - Psychopharmacol Bull. 2010;43(1):11-22.
 
@@ -4123,9 +4303,6 @@ MHDA- 2010/01/06 06:00
 CRDT- 2009/11/03 06:00
 PHST- 2009/04/07 00:00 [received]
 PHST- 2009/09/14 00:00 [accepted]
-PHST- 2009/11/03 06:00 [entrez]
-PHST- 2009/11/03 06:00 [pubmed]
-PHST- 2010/01/06 06:00 [medline]
 AID - nature08506 [pii]
 AID - 10.1038/nature08506 [doi]
 PST - ppublish
@@ -4221,9 +4398,6 @@ MHDA- 2009/10/30 06:00
 CRDT- 2009/08/25 09:00
 PHST- 2009/04/09 00:00 [received]
 PHST- 2009/07/16 00:00 [accepted]
-PHST- 2009/08/25 09:00 [entrez]
-PHST- 2009/08/25 09:00 [pubmed]
-PHST- 2009/10/30 06:00 [medline]
 AID - 10.1371/journal.pcbi.1000474 [doi]
 PST - ppublish
 SO  - PLoS Comput Biol. 2009 Aug;5(8):e1000474. doi:
@@ -4335,9 +4509,6 @@ MHDA- 2009/12/16 06:00
 CRDT- 2009/06/02 09:00
 PHST- 2009/01/30 00:00 [received]
 PHST- 2009/04/10 00:00 [accepted]
-PHST- 2009/06/02 09:00 [entrez]
-PHST- 2009/06/02 09:00 [pubmed]
-PHST- 2009/12/16 06:00 [medline]
 AID - nchembio.180 [pii]
 AID - 10.1038/nchembio.180 [doi]
 PST - ppublish
@@ -4396,9 +4567,6 @@ MH  - *Structural Homology, Protein
 EDAT- 2009/09/04 06:00
 MHDA- 2010/02/02 06:00
 CRDT- 2009/09/04 06:00
-PHST- 2009/09/04 06:00 [entrez]
-PHST- 2009/09/04 06:00 [pubmed]
-PHST- 2010/02/02 06:00 [medline]
 AID - 10.1007/978-1-60761-274-2_8 [doi]
 PST - ppublish
 SO  - Methods Mol Biol. 2009;575:195-205. doi: 10.1007/978-1-60761-274-2_8.
@@ -4407,7 +4575,7 @@ PMID- 18335977
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20080731
-LR  - 20211020
+LR  - 20240408
 IS  - 1549-9596 (Print)
 IS  - 1549-9596 (Linking)
 VI  - 48
@@ -4474,9 +4642,6 @@ MID - NIHMS132330
 EDAT- 2008/03/14 09:00
 MHDA- 2008/08/01 09:00
 CRDT- 2008/03/14 09:00
-PHST- 2008/03/14 09:00 [pubmed]
-PHST- 2008/08/01 09:00 [medline]
-PHST- 2008/03/14 09:00 [entrez]
 AID - 10.1021/ci8000259 [doi]
 PST - ppublish
 SO  - J Chem Inf Model. 2008 Apr;48(4):755-65. doi: 10.1021/ci8000259. Epub
@@ -4554,9 +4719,6 @@ MH  - Sequence Analysis, Protein/*methods
 EDAT- 2007/02/09 09:00
 MHDA- 2007/04/25 09:00
 CRDT- 2007/02/09 09:00
-PHST- 2007/02/09 09:00 [pubmed]
-PHST- 2007/04/25 09:00 [medline]
-PHST- 2007/02/09 09:00 [entrez]
 AID - nbt1284 [pii]
 AID - 10.1038/nbt1284 [doi]
 PST - ppublish

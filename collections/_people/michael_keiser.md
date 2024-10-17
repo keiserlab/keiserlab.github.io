@@ -10,9 +10,17 @@ excerpt: "<p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and
 header:
   teaser: /assets/images/people/bio-keiser.jpg
 papers: 
-    - title: Retrieval augmented docking using hierarchical navigable small worlds
-      excerpt: Hall BW, <u>Keiser MJ</u>. __chemRxiv__. 2024 Apr 24.
-      link: "https://doi.org/10.26434/chemrxiv-2024-qsdd1"
+    - title: Retrieval Augmented Docking Using Hierarchical Navigable Small Worlds
+      excerpt: Hall BW, <u>Keiser MJ</u>. __J Chem Inf Model__. 2024 Oct 14.
+      link: "https://doi.org/10.1021/acs.jcim.4c00683"
+
+    - title: Learning chemical sensitivity reveals mechanisms of cellular response
+      excerpt: Connell W, Garcia K, Goodarzi H, <u>Keiser MJ</u>. __Commun Biol__. 2024 Sep 15.
+      link: "https://doi.org/10.1038/s42003-024-06865-4"
+
+    - title: Proximity Graph Networks- Predicting Ligand Affinity with Message Passing Neural Networks
+      excerpt: Gale-Day ZJ, Shub L, Chuang KV, <u>Keiser MJ</u>. __J Chem Inf Model__. 2024 Jul 22.
+      link: "https://doi.org/10.1021/acs.jcim.4c00311"
 
     - title: Metric Ion Classification (MIC)- A deep learning tool for assigning ions and waters in cryo-EM and x-ray crystallography structures
       excerpt: Shub L, Liu W, Skiniotis G, <u>Keiser MJ</u>, Robertson MJ. __bioRxiv__. 2024 Mar 19.
@@ -21,10 +29,6 @@ papers:
     - title: Deep phenotypic profiling of neuroactive drugs in larval zebrafish
       excerpt: Gendelev L, Taylor J, Myers-Turnbull D, Chen S, McCarroll MN, Arkin MR, Kokel D, <u>Keiser MJ</u>. __bioRxiv__. 2024 Feb 25.
       link: "https://doi.org/10.1101/2024.02.22.581657"
-
-    - title: Proximity Graph Networks- Predicting Ligand Affinity with Message Passing Neural Networks
-      excerpt: Gale-Day ZJ, Shub L, Chuang KV, <u>Keiser MJ</u>. __chemRxiv__. 2024 Feb 23.
-      link: "https://doi.org/10.26434/chemrxiv-2024-hznxh"
 
     - title: Toward a generalizable machine learning workflow for neurodegenerative disease staging with focus on neurofibrillary tangles
       excerpt: Vizcarra JC, Pearce TM, Dugger BN, <u>Keiser MJ</u>, Gearing M, Crary JF, Kiely EJ, Morris M, White B, Glass JD, Farrell K, Gutman DA. __Acta Neuropathol Commun__. 2023 Dec 18.
@@ -41,10 +45,6 @@ papers:
     - title: In silico discovery of repetitive elements as key sequence determinants of 3D genome folding
       excerpt: Gunsalus LM, <u>Keiser MJ</u>, Pollard KS. __Cell Genom__. 2023 Oct 11.
       link: "https://doi.org/10.1016/j.xgen.2023.100410"
-
-    - title: Learning chemical sensitivity reveals mechanisms of cellular response
-      excerpt: Connell W, Garcia K, Goodarzi H, <u>Keiser MJ</u>. __bioRxiv__. 2023 Aug 28.
-      link: "https://doi.org/10.1101/2023.08.26.554851"
 
     - title: Learning fast and fine-grained detection of amyloid neuropathologies from coarse-grained expert labels
       excerpt: Wong DR, Magaki SD, Vinters HV, Yong WH, Monuki ES, Williams CK, Martini AC, DeCarli C, Khacherian C, Graff JP, Dugger BN, <u>Keiser MJ</u>. __Commun Biol__. 2023 Jun 24.
