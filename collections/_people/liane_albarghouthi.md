@@ -10,4 +10,8 @@ excerpt: "Liane received a B.S. in Bioengineering with a focus in Data Science, 
 header:
   teaser: /assets/images/people/bio-lianeb.jpg
 papers: 
+    - title: Learning precise segmentation of neurofibrillary tangles from rapid manual point annotations
+      excerpt: Ghandian S, <u>Albarghouthi L</u>, Nava K, Sharma SRR, Minaud L, Beckett L, Saito N, DeCarli C, Rissman RA, Teich AF, Jin LW, Dugger BN, Keiser MJ. __bioRxiv__. 2024 May 15.
+      link: "https://doi.org/10.1101/2024.05.15.594372"
+
 ---

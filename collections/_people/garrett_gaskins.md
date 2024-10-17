@@ -10,6 +10,10 @@ excerpt: "Grad Student; Genentech Fellow; Hillblom Fellow (2014-2021). High-cont
 header:
   teaser: /assets/images/people/bio-gaskins.jpg
 papers: 
+    - title: Machine-learning convergent melanocytic morphology despite noisy archival slides
+      excerpt: Tada M, <u>Gaskins G</u>, Ghandian S, Mew N, Keiser MJ, Keiser ES. __bioRxiv__. 2024 Sep 12.
+      link: "https://doi.org/10.1101/2024.09.12.612732"
+
     - title: Predicted Biological Activity of Purchasable Chemical Space
       excerpt: Irwin JJ, <u>Gaskins G</u>, Sterling T, Mysinger MM, Keiser MJ. __J Chem Inf Model__. 2018 Jan 22.
       link: "https://doi.org/10.1021/acs.jcim.7b00316"
