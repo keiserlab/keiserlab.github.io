@@ -10,4 +10,8 @@ excerpt: "Lise graduated from Université Paris-Saclay with a Master 2 in Bioinf
 header:
   teaser: /assets/images/people/bio-minaud.jpg
 papers: 
+    - title: Learning precise segmentation of neurofibrillary tangles from rapid manual point annotations
+      excerpt: Ghandian S, Albarghouthi L, Nava K, Sharma SRR, <u>Minaud L</u>, Beckett L, Saito N, DeCarli C, Rissman RA, Teich AF, Jin LW, Dugger BN, Keiser MJ. __bioRxiv__. 2024 May 15.
+      link: "https://doi.org/10.1101/2024.05.15.594372"
+
 ---

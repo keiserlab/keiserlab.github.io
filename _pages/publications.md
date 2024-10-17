@@ -45,6 +45,25 @@ feature_row0:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
+  - image_path: /assets/images/papers/bioRxiv.2024.09.12.612732.jpg
+    alt: >-
+        Machine-learning convergent melanocytic morphology despite noisy archival slides
+    title: >-
+        <span itemprop="name">Machine-learning convergent melanocytic morphology despite noisy archival slides</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2024 Sep 12</span>. <span itemprop="author">Tada M, Gaskins G, Ghandian S, Mew N, Keiser MJ, Keiser ES</span>.
+    url: ""
+    doi: "10.1101/2024.09.12.612732"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.1101/2024.09.12.612732"
+    btn2_label: >-
+        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
+feature_row1:
+
   - image_path: /assets/images/papers/10.1021.acs.jcim.4c00311.jpg
     alt: >-
         Proximity Graph Networks: Predicting Ligand Affinity with Message Passing Neural Networks
@@ -62,7 +81,41 @@ feature_row0:
         chemRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row1:
+  - image_path: /assets/images/papers/chemRxiv.chemrxiv-2024-ffcrs.jpg
+    alt: >-
+        Fuzz testing molecular representation using deep variational anomaly generation
+    title: >-
+        <span itemprop="name">Fuzz testing molecular representation using deep variational anomaly generation</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>chemRxiv</strong></span>. <span itemprop="datePublished">2024 Jul 11</span>. <span itemprop="author">Nogueira VHR, Sharma R, Guido RVC, Keiser MJ</span>.
+    url: ""
+    doi: "10.26434/chemrxiv-2024-ffcrs"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.26434/chemrxiv-2024-ffcrs"
+    btn2_label: >-
+        chemRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
+  - image_path: /assets/images/papers/bioRxiv.2024.05.15.594372.jpg
+    alt: >-
+        Learning precise segmentation of neurofibrillary tangles from rapid manual point annotations
+    title: >-
+        <span itemprop="name">Learning precise segmentation of neurofibrillary tangles from rapid manual point annotations</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2024 May 15</span>. <span itemprop="author">Ghandian S, Albarghouthi L, Nava K, Sharma SRR, Minaud L, Beckett L, Saito N, DeCarli C, Rissman RA, Teich AF, Jin LW, Dugger BN, Keiser MJ</span>.
+    url: ""
+    doi: "10.1101/2024.05.15.594372"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.1101/2024.05.15.594372"
+    btn2_label: >-
+        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
+feature_row2:
 
   - image_path: /assets/images/papers/bioRxiv.024.03.18.585639.jpg
     alt: >-
@@ -111,7 +164,7 @@ feature_row1:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row2:
+feature_row3:
 
   - image_path: /assets/images/papers/bioRxiv.2023.11.22.568268.jpg
     alt: >-
@@ -164,7 +217,7 @@ feature_row2:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row3:
+feature_row4:
 
   - image_path: /assets/images/papers/10.1038.s42003-023-05031-6.jpg
     alt: >-
@@ -217,7 +270,7 @@ feature_row3:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row4:
+feature_row5:
 
   - image_path: /assets/images/papers/bioRxiv.2020.01.01.891432.jpg
     alt: >-
@@ -270,7 +323,7 @@ feature_row4:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row5:
+feature_row6:
 
   - image_path: /assets/images/papers/10.1038.s41746-020-00380-6.jpg
     alt: >-
@@ -319,7 +372,7 @@ feature_row5:
         bioRxiv - NeurIPS LMRL &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row6:
+feature_row7:
 
   - image_path: /assets/images/papers/arXiv_-_NeurIPS_ML4Molecules.2011.1282.jpg
     alt: >-
@@ -364,7 +417,7 @@ feature_row6:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row7:
+feature_row8:
 
   - image_path: /assets/images/papers/arXiv_-_ICML_-_WHI.2104.02768.jpg
     alt: >-
@@ -413,7 +466,7 @@ feature_row7:
         arXiv - NeurIPS ML4H &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row8:
+feature_row9:
 
   - image_path: /assets/images/papers/10.1038.s41467-019-11936-w.jpg
     alt: >-
@@ -458,7 +511,7 @@ feature_row8:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row9:
+feature_row10:
 
   - image_path: /assets/images/papers/10.1021.acschembio.8b00881.jpg
     alt: >-
@@ -503,7 +556,7 @@ feature_row9:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row10:
+feature_row11:
 
   - image_path: /assets/images/papers/10.1016.j.celrep.2017.10.026.jpg
     alt: >-
@@ -552,7 +605,7 @@ feature_row10:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row11:
+feature_row12:
 
   - image_path: /assets/images/papers/10.1021.acschembio.5b00800.jpg
     alt: >-
@@ -593,7 +646,7 @@ feature_row11:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row12:
+feature_row13:
 
   - image_path: /assets/images/papers/10.1002.cpt.2.jpg
     alt: >-
@@ -634,7 +687,7 @@ feature_row12:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row13:
+feature_row14:
 
   - image_path: /assets/images/papers/10.1038.nchembio.732.jpg
     alt: >-
@@ -675,7 +728,7 @@ feature_row13:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row14:
+feature_row15:
 
   - image_path: /assets/images/papers/10.1021.jm100488w.jpg
     alt: >-
@@ -716,7 +769,7 @@ feature_row14:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row15:
+feature_row16:
 
   - image_path: /assets/images/papers/10.1038.nature08506.jpg
     alt: >-
@@ -757,7 +810,7 @@ feature_row15:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row16:
+feature_row17:
 
   - image_path: /assets/images/papers/10.1007.978-1-60761-274-2_8.jpg
     alt: >-
@@ -869,3 +922,7 @@ feature_row16:
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 {% include feature_row_paper.html id="feature_row16" %}
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+{% include feature_row_paper.html id="feature_row17" %}

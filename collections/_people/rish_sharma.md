@@ -10,4 +10,8 @@ excerpt: "I am a Research Data Analyst interested in generative modeling and pro
 header:
   teaser: /assets/images/people/bio-rsharma.jpg
 papers: 
+    - title: Fuzz testing molecular representation using deep variational anomaly generation
+      excerpt: Nogueira VHR, <u>Sharma R</u>, Guido RVC, Keiser MJ. __chemRxiv__. 2024 Jul 11.
+      link: "https://doi.org/10.26434/chemrxiv-2024-ffcrs"
+
 ---

@@ -18,9 +18,21 @@ papers:
       excerpt: Connell W, Garcia K, Goodarzi H, <u>Keiser MJ</u>. __Commun Biol__. 2024 Sep 15.
       link: "https://doi.org/10.1038/s42003-024-06865-4"
 
+    - title: Machine-learning convergent melanocytic morphology despite noisy archival slides
+      excerpt: Tada M, Gaskins G, Ghandian S, Mew N, <u>Keiser MJ</u>, Keiser ES. __bioRxiv__. 2024 Sep 12.
+      link: "https://doi.org/10.1101/2024.09.12.612732"
+
     - title: Proximity Graph Networks- Predicting Ligand Affinity with Message Passing Neural Networks
       excerpt: Gale-Day ZJ, Shub L, Chuang KV, <u>Keiser MJ</u>. __J Chem Inf Model__. 2024 Jul 22.
       link: "https://doi.org/10.1021/acs.jcim.4c00311"
+
+    - title: Fuzz testing molecular representation using deep variational anomaly generation
+      excerpt: Nogueira VHR, Sharma R, Guido RVC, <u>Keiser MJ</u>. __chemRxiv__. 2024 Jul 11.
+      link: "https://doi.org/10.26434/chemrxiv-2024-ffcrs"
+
+    - title: Learning precise segmentation of neurofibrillary tangles from rapid manual point annotations
+      excerpt: Ghandian S, Albarghouthi L, Nava K, Sharma SRR, Minaud L, Beckett L, Saito N, DeCarli C, Rissman RA, Teich AF, Jin LW, Dugger BN, <u>Keiser MJ</u>. __bioRxiv__. 2024 May 15.
+      link: "https://doi.org/10.1101/2024.05.15.594372"
 
     - title: Metric Ion Classification (MIC)- A deep learning tool for assigning ions and waters in cryo-EM and x-ray crystallography structures
       excerpt: Shub L, Liu W, Skiniotis G, <u>Keiser MJ</u>, Robertson MJ. __bioRxiv__. 2024 Mar 19.
