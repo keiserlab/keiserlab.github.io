@@ -6,15 +6,15 @@ michael_keiser:
   name: Michael Keiser, PhD
   email: keiser@keiserlab.org
   bio: "pharm chem; bts; bchsi; kifn; ind"
-  bio_long: "<p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and a Paul G. Allen Distinguished Investigator. Michael joined the UCSF faculty in 2014, in the Dept. of Pharmaceutical Chemistry and the Institute for Neurodegenerative Diseases, with appointments in the Dept. of Bioengineering & Therapeutic Sciences and the Bakar Computational Health Sciences Institute. He is also a member of the Quantitative Biosciences Institute and the Kavli Institute for Fundamental Neuroscience at UCSF.</p>
-<p>Before this, he co-founded a startup bringing systems pharmacology methods for drug-target prediction to pharma and the US FDA, where they are in use today. During his bioinformatics Ph.D. at UCSF as a NSF Fellow, Michael developed techniques to relate drugs and proteins from the statistical similarity of their ligands, such as the Similarity Ensemble Approach (SEA). He holds multiple degrees from Stanford, including a BSc. in Computer Science.</p>"
+  bio_long: >
+    <p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and a Paul G. Allen Distinguished Investigator. Michael joined the UCSF faculty in 2014, in the Dept. of Pharmaceutical Chemistry and the Institute for Neurodegenerative Diseases, with appointments in the Dept. of Bioengineering & Therapeutic Sciences and the Bakar Computational Health Sciences Institute. He is also a member of the Quantitative Biosciences Institute and the Kavli Institute for Fundamental Neuroscience at UCSF.</p>
+    <p>Before this, he co-founded a startup bringing systems pharmacology methods for drug-target prediction to pharma and the US FDA, where they are in use today. During his bioinformatics Ph.D. at UCSF as a NSF Fellow, Michael developed techniques to relate drugs and proteins from the statistical similarity of their ligands, such as the Similarity Ensemble Approach (SEA). He holds multiple degrees from Stanford, including a BSc. in Computer Science.</p>
   avatar: /assets/images/people/bio-keiser.jpg
   title: Associate Professor; CZI Ben Barres Investigator; Allen Distinguished Investigator
   github: mjke
   linkedin: keiser
   google:
     scholar: 6GGtbegAAAAJ
-    #plus: MichaelKeiser
   ucsf_profiles: michael.keiser
   my_ncbi: michael.keiser.1
   ncbi_id: Keiser MJ
@@ -332,7 +332,6 @@ michael_mysinger:
   title: "Principal Scientist"
   github: mmysinger
   linkedin: michael-mysinger-phd-536ba5b
-  github: mmysinger
   ncbi_id: Mysinger MM
   type: alumn
 
@@ -472,7 +471,6 @@ yannah_melle:
   bio_long: "Visiting Scholar (2020), SRTP Intern (2019). Yannah was a 4th year undergraduate student studying Chemical Engineering at the University of Michigan. In the Keiser lab, she investigated ligand-based drug discovery with cheminformatics and machine learning, using deep neural networks to predict the bioactivity of ligands for protein targets. She is excited about pursuing research and a career in biotechnology. Outside of academia Yannah is a foodie who loves to experience different cultures and do anything outdoors."
   avatar: /assets/images/people/bio-melle.jpg
   title: "Cheminformatics Engineer"
-  linkedin: 
   github: JYang25
   ncbi_id: Melle Y
   linkedin: yjumelle
@@ -556,11 +554,12 @@ dan_wong:
   name: Daniel Wong, PhD
   email: dwong@keiserlab.org
   bio: "Pfizer"
-  bio_long: "Grad Student, bioinformatics (2018-2022). Daniel studied Computer Science and Biochemistry at UC Berkeley, and was in a PhD program within the Integrative Program in Quantitative Biology. He is interested in developing machine learning methodologies in improving human health, particularly in the fields of neurodegeneration and pharmacology. Daniel was co-mentored in the [Butte Lab](http://buttelab.ucsf.edu/).
+  bio_long: >
+    Grad Student, bioinformatics (2018-2022). Daniel studied Computer Science and Biochemistry at UC Berkeley, and was in a PhD program within the Integrative Program in Quantitative Biology. He is interested in developing machine learning methodologies in improving human health, particularly in the fields of neurodegeneration and pharmacology. Daniel was co-mentored in the [Butte Lab](http://buttelab.ucsf.edu/).
 
-  - [Prototype of running clinical trials in an untrustworthy environment using blockchain](https://doi.org/10.1038/s41467-019-08874-y). <ins>Wong DR</ins>, Bhattacharya S, Butte, AJ. **Nat Commun**. 2019 Feb 22. 
+    - [Prototype of running clinical trials in an untrustworthy environment using blockchain](https://doi.org/10.1038/s41467-019-08874-y). <ins>Wong DR</ins>, Bhattacharya S, Butte, AJ. **Nat Commun**. 2019 Feb 22. 
   
-  - [Robust Sequence Determinants of α-Synuclein Toxicity in Yeast Implicate Membrane Binding](https://pubmed.ncbi.nlm.nih.gov/32786289/). Newberry RW, Arhar T, Costello J, ... <ins>Wong DR</ins>, Wong G, Redding S, Chow ED, DeGrado WF, Kampmann M. **ACS Chem Biol**. 2020 Aug 21."
+    - [Robust Sequence Determinants of α-Synuclein Toxicity in Yeast Implicate Membrane Binding](https://pubmed.ncbi.nlm.nih.gov/32786289/). Newberry RW, Arhar T, Costello J, ... <ins>Wong DR</ins>, Wong G, Redding S, Chow ED, DeGrado WF, Kampmann M. **ACS Chem Biol**. 2020 Aug 21.
   avatar: /assets/images/people/bio-dwong.jpg
   title: "Senior Machine Learning Scientist"
   github: wongdaniel8
