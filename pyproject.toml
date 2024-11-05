@@ -1,0 +1,15 @@
+[project]
+name = "keiserlab.github.io"
+readme = "README.md"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "biopython",
+    "pyyaml",
+    "unicodecsv",
+]
+
+[project.optional-dependencies]
+dev = [
+    "black"
+]

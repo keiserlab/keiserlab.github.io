@@ -46,7 +46,7 @@ PCOL_PPRINT_LINK = 7
 
 
 def underline_author(authors, ncbi_id):
-    return authors.replace(ncbi_id, "<u>%s</u>" % ncbi_id)
+    return authors.replace(ncbi_id, f"<u>{ncbi_id}</u>")
 
 def yml_sanitize(txt):
     return txt.replace(':','-')
@@ -60,33 +60,30 @@ def main(fauthors, outdir, fpapers):
     if fpapers is not None:
         with open(fpapers) as fi:
             reader = csv.reader(fi)
-            reader.next() # header
+            next(reader)  # header
             for paper in reader:
                 papers.append(paper)
-        print 'read %d papers' % len(papers)
+        print(f'read {len(papers)} papers')
 
-    for uid, info in ppl_dict.iteritems():
+    for uid, info in ppl_dict.items():
         ncbi_id = info['ncbi_id']
         if ncbi_id is None:
             display_papers = []
         else:
-            display_papers = filter(
-                lambda x: x[PCOL_AUTH].strip('.').lower().find(ncbi_id.lower()) != -1, 
-            papers)
+            display_papers = [x for x in papers 
+                            if x[PCOL_AUTH].strip('.').lower().find(ncbi_id.lower()) != -1]
+        
         paper_yml = ''.join([PAPER_TEMPLATE % (
             yml_sanitize(ppr[PCOL_TITLE]),
-            yml_sanitize('%s. __%s__. %s.' % \
-                (underline_author(ppr[PCOL_AUTH], ncbi_id),
-                 ppr[PCOL_JOUR], ppr[PCOL_DATE])), # this is "excerpt"
+            yml_sanitize(f"{underline_author(ppr[PCOL_AUTH], ncbi_id)}. __{ppr[PCOL_JOUR]}__. {ppr[PCOL_DATE]}."),
             ppr[PCOL_LINK] if ppr[PCOL_LINK] != '' else ppr[PCOL_PPRINT_LINK],
             ) for ppr in display_papers])
 
-        with open(os.path.join(outdir, '%s.md' % uid), 'wb') as fo:
+        with open(os.path.join(outdir, f'{uid}.md'), 'w', encoding='utf-8') as fo:
             fo.write(TEMPLATE % (info['name'], uid, info['title'], info['bio'], 
-                    info['type'], info.get('bio_long','').encode('utf-8')[:EXCERPT_LEN],
-                    #info['name'], info['title'], 
+                    info['type'], info.get('bio_long','')[:EXCERPT_LEN],
                     info['avatar'], paper_yml))
-    print 'wrote %d people to %s' % (len(ppl_dict), os.path.abspath(outdir))
+    print(f'wrote {len(ppl_dict)} people to {os.path.abspath(outdir)}')
 
 
 if __name__ == '__main__':

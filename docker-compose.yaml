@@ -1,0 +1,17 @@
+services:
+  keiserlab:
+    build: .
+    container_name: keiserlab-jekyll
+    ports:
+      - "4000:4000"
+    volumes:
+      - .:/app
+    environment:
+      - JEKYLL_ENV=development
+      - PYTHONUNBUFFERED=1
+    stdin_open: true  # Keep STDIN open
+    tty: true         # Allocate a pseudo-TTY
+    restart: "no"     # Don't restart automatically for interactive use
+    command: >
+      bash -c "bundle install &&
+               bundle exec jekyll serve --host 0.0.0.0 --watch --force_polling"

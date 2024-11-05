@@ -1,0 +1,88 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/docker-existing-docker-compose
+{
+	"name": "keiserlab Docker Compose (Extend)",
+
+	// Update the 'dockerComposeFile' list if you have more compose files or use different names.
+	// The .devcontainer/docker-compose.yml file contains any overrides you need/want to make.
+	"dockerComposeFile": [
+		"../docker-compose.yaml"
+	],
+
+	// The 'service' property is the name of the service for the container that VS Code should
+	// use. Update this value and .devcontainer/docker-compose.yaml to the real service name.
+	"service": "keiserlab",
+
+	// The optional 'workspaceFolder' property is the path VS Code should open by default when
+	// connected. This is typically a file mount in .devcontainer/docker-compose.yaml
+	"workspaceFolder": "/app",
+
+	"customizations": {
+		"vscode": {
+			"settings": {
+				"terminal.integrated.shell.linux": "bash",
+				// Jekyll-specific file associations
+				"files.associations": {
+					"*.html": "jekyll",
+					"*.md": "jekyll-markdown",
+  					"*.liquid": "liquid"
+				},
+				// Python settings
+				"python.defaultInterpreterPath": "/app/.venv/bin/python",
+				"python.analysis.typeCheckingMode": "basic",
+				"[python]": {
+					"editor.formatOnSave": true,
+					"editor.defaultFormatter": "ms-python.python"
+				},
+				// Ruby/Jekyll settings
+				"[ruby]": {
+					"editor.tabSize": 2,
+					"editor.insertSpaces": true
+				},
+				"files.watcherExclude": {
+					"**/.git/**": true,
+					"**/.sass-cache/**": true,
+					"**/_site/**": true
+				},
+
+				// claude sonnet 3.5 suggestion
+				"jekyll.enableSnippets": true,
+
+				// HTML Proofer configuration
+				"htmlhint.options": {
+					"doctype-first": false
+				}
+			},
+			"extensions": [
+				"ms-python.python",
+				"ms-python.vscode-pylance",
+				"ms-python.black-formatter",
+				"Shopify.ruby-lsp",
+				"castwide.solargraph",
+				"sissel.shopify-liquid",
+				"redhat.vscode-yaml",
+				"esbenp.prettier-vscode",
+				"ms-azuretools.vscode-docker"
+			]
+		}
+	},
+
+	// Add Docker socket mount for Docker integration
+	"mounts": [
+		"source=/var/run/docker.sock,target=/var/run/docker.sock,type=bind"
+	],
+
+	// Install Docker CLI in container
+	"features": {
+		"ghcr.io/devcontainers/features/docker-in-docker:2": {
+			"version": "latest",
+			"moby": true,
+			"dockerDashComposeVersion": "v2"
+		}
+	},
+
+	// Use bash as default shell
+	"remoteEnv": {
+		"SHELL": "/bin/bash"
+	}
+}
