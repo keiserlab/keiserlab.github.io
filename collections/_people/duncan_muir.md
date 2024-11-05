@@ -10,4 +10,8 @@ excerpt: "Duncan completed his B.S. in Data Science and Biochemistry at Northeas
 header:
   teaser: /assets/images/people/bio-muir.jpg
 papers: 
+    - title: Evolutionary-scale enzymology enables biochemical constant prediction across a multi-peaked catalytic landscape
+      excerpt: <u>Muir DF</u>, Asper GPR, Notin P, Posner JA, Marks DS, Keiser MJ, Pinney MM. __bioRxiv__. 2024 Oct 25.
+      link: "https://doi.org/10.1101/2024.10.23.619915"
+
 ---

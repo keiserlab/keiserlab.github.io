@@ -10,6 +10,10 @@ excerpt: "<p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and
 header:
   teaser: /assets/images/people/bio-keiser.jpg
 papers: 
+    - title: Evolutionary-scale enzymology enables biochemical constant prediction across a multi-peaked catalytic landscape
+      excerpt: Muir DF, Asper GPR, Notin P, Posner JA, Marks DS, <u>Keiser MJ</u>, Pinney MM. __bioRxiv__. 2024 Oct 25.
+      link: "https://doi.org/10.1101/2024.10.23.619915"
+
     - title: Retrieval Augmented Docking Using Hierarchical Navigable Small Worlds
       excerpt: Hall BW, <u>Keiser MJ</u>. __J Chem Inf Model__. 2024 Oct 14.
       link: "https://doi.org/10.1021/acs.jcim.4c00683"
