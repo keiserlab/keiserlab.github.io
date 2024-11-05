@@ -9,4 +9,4 @@ taxonomy: jobs
 entries_layout: # list (default), grid
 ---
 
-Interested candidates should inquire at apply@keiserlab.org. When specific searches are active, they are listed below.
+We are not currently accepting new student, postdoc, or staff applications.
