@@ -25,4 +25,4 @@ To investigate this, we are using phenotypic screens to deconvolute the mechanis
 
 ---
 
-![subgroup]({{ site.url }}/assets/images/lab-research-1.jpg)
+![subgroup](/assets/images/lab-research-1.jpg)
