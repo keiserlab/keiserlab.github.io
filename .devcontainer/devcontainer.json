@@ -62,7 +62,8 @@
 				"sissel.shopify-liquid",
 				"redhat.vscode-yaml",
 				"esbenp.prettier-vscode",
-				"ms-azuretools.vscode-docker"
+				"ms-azuretools.vscode-docker",
+				"mechatroner.rainbow-csv"
 			]
 		}
 	},
