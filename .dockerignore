@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+.git
+.gitignore
+.DS_Store
+node_modules
+vendor
+
+# for uv
+.venv/

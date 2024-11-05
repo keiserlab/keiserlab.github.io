@@ -4,11 +4,10 @@
 #
 # Util to check for non-UTF compliant files (yay Jekyll errors)
 #
-#import sys
+import sys
 import os
-
-from optparse import OptionParser
 import codecs
+import argparse
 
 
 def testfile(infile):
@@ -17,18 +16,15 @@ def testfile(infile):
         f = codecs.open(infile, encoding='utf-8', errors='strict')
         for line in f:
             pass
-        #sys.exit(os.EX_OK)
     except UnicodeDecodeError:
-        print "invalid utf-8: %s" % infile
+        print(f"invalid utf-8: {infile}")
         return
-        #sys.exit(os.EX_SOFTWARE)
     except :
-        print "misc err (%s): %s" % (sys.exc_info()[0], infile)
-# end testfile
+        print(f"misc err ({sys.exc_info()[0]}): {infile}")
 
 def main(indir):
-    if indir.find(".git/") != -1: 
-        print indir
+    if ".git/" in indir:
+        print(indir)
         return
     for root, dirs, files in os.walk(indir):
         for f in files:
@@ -39,14 +35,8 @@ def main(indir):
 
 
 if __name__ == '__main__':
-    usage = 'usage: %prog [options] startdir'
-    parser = OptionParser(usage)
-    options,args = parser.parse_args()
+    parser = argparse.ArgumentParser(description='Check for non-UTF compliant files.')
+    parser.add_argument('startdir', help='Directory to start checking')
+    args = parser.parse_args()
 
-    try:
-        arg1, = args
-    except:
-        parser.error("Incorrect number of arguments")
-
-    main(arg1)
-# end __main__
+    main(args.startdir)
