@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Data Scientist
 bio: 
 type: member
-excerpt: "Lise graduated from Université Paris-Saclay with a Master 2 in Bioinformatics and Biostatistics. She is interested in developing machine learning methodologies"
+excerpt: "Lise graduated from Université Paris-Saclay with a Master 2 in Bioinformatics and Biostatistics. She is interested in developing machine learning methodologies "
 header:
   teaser: /assets/images/people/bio-minaud.jpg
 papers: 
