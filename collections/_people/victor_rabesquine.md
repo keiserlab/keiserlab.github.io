@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: PhD Student
 bio: IFSC-USP
 type: alumn
-excerpt: "Visiting [CAPES Scholar](https://www.iie.org/Programs/CAPES) (2022-2023). Victor is a biomolecular physicist who comes from University of São Paulo, Brazil. Men"
+excerpt: "Visiting [CAPES Scholar](https://www.iie.org/Programs/CAPES), 2022-2023. Victor is a biomolecular physicist who comes from University of São Paulo, Brazil. Ment"
 header:
   teaser: /assets/images/people/bio-rabesquine.jpg
 papers: 

@@ -3,10 +3,11 @@
 title: Amanda Li, PhD
 author: amanda_li
 layout: author-bio
-jobtitle: Senior Data Engineer
+jobtitle: Software Integration Manager
 bio: Ultima Genomics
 type: alumn
-excerpt: "Postdoctoral Fellow at UCSF and the [Accelerating Therapeutics for Opportunities in Medicine (ATOM) consortium](https://atomscience.org/), 2017-2019."
+excerpt: "Postdoctoral Fellow at UCSF and the [Accelerating Therapeutics for Opportunities in Medicine (ATOM) consortium](https://atomscience.org/), 2017-2019.
+"
 header:
   teaser: /assets/images/people/bio-li.jpg
 papers: 

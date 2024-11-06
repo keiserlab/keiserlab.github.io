@@ -4,9 +4,9 @@ title: Sahru Keiser, MPH
 author: sahru_keiser
 layout: author-bio
 jobtitle: Project Manager
-bio: 
-type: member
-excerpt: "Sahru is a public health professional with 8+ years of project management experience. She is passionate about improving health and has a background in health ed"
+bio: UCSF School of Pharmacy
+type: alumn
+excerpt: "Project Manager, 2020-2024. Sahru is a public health professional with 10+ years of project management experience. She is passionate about improving health and "
 header:
   teaser: /assets/images/people/bio-keiser-sahru.jpg
 papers: 

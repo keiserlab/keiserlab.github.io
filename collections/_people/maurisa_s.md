@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Grad Student
 bio: bioinformatics
 type: member
-excerpt: "Maurisa studied general biology at Hampshire College. She is currently a graduate student in the Integrative Program for Quantitative Biology, Biomedical Inform"
+excerpt: "[Tcheandjieu Lab](https://gladstone.org/people/catherine-tcheandjieu-gueliatcha). Maurisa studied general biology at Hampshire College. She is currently a gradu"
 header:
   teaser: /assets/images/people/bio-saylor.jpg
 papers: 

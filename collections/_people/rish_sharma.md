@@ -3,10 +3,11 @@
 title: Rish Sharma
 author: rish_sharma
 layout: author-bio
-jobtitle: Research Data Analyst
-bio: 
-type: member
-excerpt: "I am a Research Data Analyst interested in generative modeling and property prediction of molecules using machine learning approaches."
+jobtitle: Master's Student in Data Science
+bio: University of Rochester
+type: alumn
+excerpt: "Research Data Analyst, 2021-2023. Rish is interested in generative modeling and property prediction of molecules using machine learning approaches.
+"
 header:
   teaser: /assets/images/people/bio-rsharma.jpg
 papers: 

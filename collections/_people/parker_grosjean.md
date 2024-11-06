@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Grad Student
 bio: bioinformatics
 type: member
-excerpt: "As an undergraduate student Parker studied Bioengineering and Applied Mathematics at the University of Washington. He is currently a PhD student in the Bioinfor"
+excerpt: "Kampmann Lab. As an undergraduate student Parker studied Bioengineering and Applied Mathematics at the University of Washington. He is currently a PhD student i"
 header:
   teaser: /assets/images/people/bio-grosjean.jpg
 papers: 

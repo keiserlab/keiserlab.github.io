@@ -6,7 +6,8 @@ layout: author-bio
 jobtitle: 
 bio: 
 type: alumn
-excerpt: "Researcher and Lab Manager, 2014-2016."
+excerpt: "Researcher and Lab Manager, 2014-2016.
+"
 header:
   teaser: /assets/images/people/bio-melero.jpg
 papers: 

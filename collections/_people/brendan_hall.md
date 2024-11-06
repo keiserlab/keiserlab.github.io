@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Grad Student
 bio: biophysics
 type: member
-excerpt: "Brendan graduated in 2021 from Williams College with a B.A in Physics and Math. While there he did research in Daniel Aalberts' lab analyzing ribosome profiling"
+excerpt: "[Shoichet Lab](https://bkslab.org/). Brendan graduated in 2021 from Williams College with a B.A in Physics and Math. While there he did research in Daniel Aalbe"
 header:
   teaser: /assets/images/people/bio-hall.jpg
 papers: 

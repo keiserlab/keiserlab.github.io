@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Senior Associate Data Scientist
 bio: Terray Therapeutics
 type: alumn
-excerpt: "Research Data Analyst (2021-2022). Taline graduated from UC Berkeley with a B.A. in Data Science, concentrated in applied mathematics and modeling. Taline worke"
+excerpt: "Research Data Analyst, 2021-2022. Taline graduated from UC Berkeley with a B.A. in Data Science, concentrated in applied mathematics and modeling. Taline worked"
 header:
   teaser: /assets/images/people/bio-mardirossian.jpg
 papers: 

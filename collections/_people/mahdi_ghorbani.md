@@ -3,10 +3,10 @@
 title: Mahdi Ghorbani, PhD
 author: mahdi_ghorbani
 layout: author-bio
-jobtitle: Postdoctoral Scholar
-bio: 
-type: member
-excerpt: "Mahdi received his PhD in Chemical and Biomolecular Engineering from University of Maryland College Park (UMD). During his PhD, he applied machine learning and "
+jobtitle: Machine Learning Scientist
+bio: Flagship Pioneering
+type: alumn
+excerpt: "Postdoctoral Scholar, 2022-2024. Mahdi received his PhD in Chemical and Biomolecular Engineering from University of Maryland College Park (UMD). During his PhD,"
 header:
   teaser: /assets/images/people/bio-ghorbani.jpg
 papers: 

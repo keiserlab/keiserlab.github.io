@@ -3,10 +3,10 @@
 title: Fedelle Austria
 author: fedelle_austria
 layout: author-bio
-jobtitle: Administrative Officer
+jobtitle: 
 bio: 
-type: member
-excerpt: "Fedelle studied anthropology and film studies at UCLA and is currently a 2nd year master's student in East Asian Studies at Stanford University. Her current aca"
+type: alumn
+excerpt: "Administrative Officer, 2021-2024. Fedelle studied anthropology and film studies at UCLA and was concurrently a master's student in East Asian Studies at Stanfo"
 header:
   teaser: /assets/images/people/bio-austria.jpg
 papers: 

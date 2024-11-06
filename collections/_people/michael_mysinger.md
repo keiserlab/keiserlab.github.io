@@ -6,7 +6,8 @@ layout: author-bio
 jobtitle: Principal Scientist
 bio: Atomwise
 type: alumn
-excerpt: "2015-2016."
+excerpt: "2015-2016.
+"
 header:
   teaser: /assets/images/people/bio-mysinger.jpg
 papers: 
