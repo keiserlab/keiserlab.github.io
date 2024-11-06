@@ -4,9 +4,9 @@ title: Liane Albarghouthi
 author: liane_albarghouthi
 layout: author-bio
 jobtitle: Research Data Analyst
-bio: 
-type: member
-excerpt: "Liane received a B.S. in Bioengineering with a focus in Data Science, and is interested in machine learning applications related to computer vision tasks. In th"
+bio: UCSF Memory and Aging Center
+type: alumn
+excerpt: "Research Data Analyst, 2022-2024. Liane received a B.S. in Bioengineering with a focus in Data Science, and is interested in machine learning applications relat"
 header:
   teaser: /assets/images/people/bio-lianeb.jpg
 papers: 

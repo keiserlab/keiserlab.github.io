@@ -4,9 +4,9 @@ title: Lise Minaud, M2
 author: lise_minaud
 layout: author-bio
 jobtitle: Data Scientist
-bio: 
-type: member
-excerpt: "Lise graduated from Université Paris-Saclay with a Master 2 in Bioinformatics and Biostatistics. She is interested in developing machine learning methodologies "
+bio: Minos Biosciences
+type: alumn
+excerpt: "Data Scientist, 2020-2023. Lise graduated from Université Paris-Saclay with a Master 2 in Bioinformatics and Biostatistics. She is interested in developing mach"
 header:
   teaser: /assets/images/people/bio-minaud.jpg
 papers: 

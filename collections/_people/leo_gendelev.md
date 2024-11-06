@@ -6,7 +6,8 @@ layout: author-bio
 jobtitle: Senior AI Scientist - Computational Drug Discovery
 bio: Genentech
 type: alumn
-excerpt: "Biophysics graduate student; Fletcher Jones Fellow (2014-2019)."
+excerpt: "Biophysics graduate student; Fletcher Jones Fellow, 2014-2019.
+"
 header:
   teaser: /assets/images/people/bio-gendelev.jpg
 papers: 

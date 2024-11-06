@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Data & Applied Scientist
 bio: Microsoft
 type: alumn
-excerpt: "Research Data Analyst (2022). Primary research interests in model robustness, transparency, and structured data representation. Prior to joining UCSF, Noah work"
+excerpt: "Research Data Analyst, 2022. Primary research interests in model robustness, transparency, and structured data representation. Prior to joining UCSF, Noah worke"
 header:
   teaser: /assets/images/people/bio-weber.jpg
 papers: 

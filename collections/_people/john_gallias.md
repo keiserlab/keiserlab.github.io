@@ -3,10 +3,10 @@
 title: John Gallias
 author: john_gallias
 layout: author-bio
-jobtitle: System Administrator
-bio: 
-type: member
-excerpt: "John is an IT professional with 8+ years of academic research computing experience. He is passionate about solving complex technical problems for the greatest p"
+jobtitle: FAC Systems Analyst
+bio: UCSF Facility for Advanced Computing
+type: alumn
+excerpt: "System Administrator, 2022-2024. John is an IT professional with 8+ years of academic research computing experience. He is passionate about solving complex tech"
 header:
   teaser: /assets/images/people/bio-gallias.jpg
 papers: 

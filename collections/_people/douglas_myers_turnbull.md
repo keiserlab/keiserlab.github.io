@@ -3,10 +3,10 @@
 title: Douglas Myers-Turnbull, PhD
 author: douglas_myers_turnbull
 layout: author-bio
-jobtitle: Scientific Software Engineer
-bio: 
+jobtitle: Research Software Engineer
+bio: San Diego Supercomputer Center
 type: alumn
-excerpt: "Postdoctoral Scholar (2020-2022). Douglas has a PhD in Bioinformatics. He received a B.S. in Computer Science with a Specialization in Bioinformatics (math mino"
+excerpt: "Postdoctoral Scholar, 2020-2022. Douglas has a PhD in Bioinformatics. He received a B.S. in Computer Science with a Specialization in Bioinformatics (math minor"
 header:
   teaser: /assets/images/people/bio-myers-turnbull.jpg
 papers: 

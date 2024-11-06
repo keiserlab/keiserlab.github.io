@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: AI/ML Scientist
 bio: Genentech
 type: alumn
-excerpt: "Grad Student; Genentech Fellow; Hillblom Fellow (2014-2021). High-content screening across varied cells, conditions, and chemical libraries has emerged as a key"
+excerpt: "Grad Student; Genentech Fellow; Hillblom Fellow, 2014-2021. High-content screening across varied cells, conditions, and chemical libraries has emerged as a key "
 header:
   teaser: /assets/images/people/bio-gaskins.jpg
 papers: 

@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Machine Learning Research Scientist
 bio: Vevo Therapeutics
 type: alumn
-excerpt: "PSPG Grad student (2019-2022). Currently, clinicians practice medicine on a population level. The ability to molecularly characterize biological systems affords"
+excerpt: "PSPG Grad student, 2019-2022. Clinicians practice medicine on a population level. The ability to molecularly characterize biological systems affords new opportu"
 header:
   teaser: /assets/images/people/bio-connell.jpg
 papers: 

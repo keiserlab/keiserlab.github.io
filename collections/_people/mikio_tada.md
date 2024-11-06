@@ -3,10 +3,10 @@
 title: Mikio Tada, MS
 author: mikio_tada
 layout: author-bio
-jobtitle: Research Data Analyst
-bio: 
-type: member
-excerpt: "Mikio received a B.S. in Mathematics and M.S. in Data Science. He is currently researching the applications of deep learning in dermatology as a Research Data A"
+jobtitle: PhD Student in Biomedical Science
+bio: Icahn School of Medicine at Mount Sinai
+type: alumn
+excerpt: "Research Data Analyst, 2021-2024. Mikio received a B.S. in Mathematics and M.S. in Data Science. He researched the applications of deep learning in dermatology."
 header:
   teaser: /assets/images/people/bio-tada.jpg
 papers: 

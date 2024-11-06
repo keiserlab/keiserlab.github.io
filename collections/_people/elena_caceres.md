@@ -3,10 +3,10 @@
 title: Elena Caceres, PhD
 author: elena_caceres
 layout: author-bio
-jobtitle: Scientist Machine Learning
+jobtitle: Scientist II Machine Learning
 bio: Nurix Therapeutics
 type: alumn
-excerpt: "Grad Student, bioinformatics; NSF Fellow; HHMI Gilliam Fellow (2015-2021). Elena graduated from UCSD with a B.Sc. in molecular biology and a minor in mathematic"
+excerpt: "Grad Student, bioinformatics; NSF Fellow; HHMI Gilliam Fellow, 2015-2021. Elena graduated from UCSD with a B.Sc. in molecular biology and a minor in mathematics"
 header:
   teaser: /assets/images/people/bio-caceres.jpg
 papers: 

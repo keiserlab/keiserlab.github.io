@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Senior Machine Learning Scientist
 bio: Pfizer
 type: alumn
-excerpt: "Grad Student, bioinformatics (2018-2022). Daniel studied Computer Science and Biochemistry at UC Berkeley, and was in a PhD program within the Integrative Progr"
+excerpt: "Grad Student, bioinformatics, 2018-2022. Daniel studied Computer Science and Biochemistry at UC Berkeley, and was in a PhD program within the Integrative Progra"
 header:
   teaser: /assets/images/people/bio-dwong.jpg
 papers: 
