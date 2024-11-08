@@ -3,11 +3,15 @@
 title: Victor Rabesquine, MSc
 author: victor_rabesquine
 layout: author-bio
-jobtitle: PhD Student
-bio: IFSC-USP
+jobtitle: Scientist, IGP Group
+bio: Leibniz Institute of Plant Genetics and Crop Plant Research (IPK)
 type: alumn
-excerpt: "Visiting [CAPES Scholar](https://www.iie.org/Programs/CAPES), 2022-2023. Victor is a biomolecular physicist who comes from University of São Paulo, Brazil. Ment"
+excerpt: "Visiting [CAPES Scholar](https://www.iie.org/Programs/CAPES), 2022-2023. Victor is a biomolecular physicist who came from University of São Paulo, Brazil. Mento"
 header:
   teaser: /assets/images/people/bio-rabesquine.jpg
 papers: 
+    - title: Fuzz testing molecular representation using deep variational anomaly generation
+      excerpt: <u>Nogueira VHR</u>, Sharma R, Guido RVC, Keiser MJ. __chemRxiv__. 2024 Jul 11.
+      link: "https://doi.org/10.26434/chemrxiv-2024-ffcrs"
+
 ---
