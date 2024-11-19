@@ -39,10 +39,14 @@ ENV PATH="$UV_PROJECT_ENVIRONMENT/bin:$PATH"
 # Reset the entrypoint, don't invoke `uv`
 ENTRYPOINT []
 
-FROM dependencies as uv
+FROM dependencies AS uv
 
-# Install bundler
+# `bundle update` Gemfile.lock since we're not versioning it
+COPY Gemfile Gemfile.lock /app/
 RUN gem install bundler
+RUN bundle update --bundler
+
+FROM uv AS bundler
 
 # Expose port 4000 for Jekyll
 EXPOSE 4000
