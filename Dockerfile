@@ -1,5 +1,5 @@
 # Dockerfile
-FROM ruby:3.1-slim
+FROM ruby:3.1-slim AS builder
 COPY --from=ghcr.io/astral-sh/uv:latest /uv /uvx /bin/
 
 # Install essential packages
@@ -10,15 +10,21 @@ RUN apt-get update && apt-get install -y \
     python3-dev \
     libblas-dev \
     liblapack-dev \
+    libpq-dev \
+    nodejs \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
+
+FROM builder AS dependencies
 
 # Set up working directory
 WORKDIR /app
 
 # UV docker config reqs per https://docs.astral.sh/uv/guides/integration/docker/
+# Set uv proj env since /app/ host-volume mount would hide [default] /app/.venv/
 ENV UV_COMPILE_BYTECODE=1
 ENV UV_LINK_MODE=copy
+ENV UV_PROJECT_ENVIRONMENT=/opt/uv/.venv
 RUN --mount=type=cache,target=/root/.cache/uv \
     --mount=type=bind,source=uv.lock,target=uv.lock \
     --mount=type=bind,source=pyproject.toml,target=pyproject.toml \
@@ -28,10 +34,12 @@ RUN --mount=type=cache,target=/root/.cache/uv \
 COPY . /app
 RUN --mount=type=cache,target=/root/.cache/uv \
     uv sync --frozen --no-dev
-ENV PATH="/app/.venv/bin:$PATH"
+ENV PATH="$UV_PROJECT_ENVIRONMENT/bin:$PATH"
 
 # Reset the entrypoint, don't invoke `uv`
 ENTRYPOINT []
+
+FROM dependencies as uv
 
 # Install bundler
 RUN gem install bundler
