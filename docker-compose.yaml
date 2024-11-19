@@ -1,7 +1,7 @@
 services:
   keiserlab:
     build: .
-    container_name: keiserlab-jekyll
+    container_name: keiserlab
     ports:
       - "4000:4000"
     volumes:
