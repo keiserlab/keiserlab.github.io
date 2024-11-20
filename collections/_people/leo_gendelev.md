@@ -12,8 +12,8 @@ header:
   teaser: /assets/images/people/bio-gendelev.jpg
 papers: 
     - title: Deep phenotypic profiling of neuroactive drugs in larval zebrafish
-      excerpt: <u>Gendelev L</u>, Taylor J, Myers-Turnbull D, Chen S, McCarroll MN, Arkin MR, Kokel D, Keiser MJ. __bioRxiv__. 2024 Feb 25.
-      link: "https://doi.org/10.1101/2024.02.22.581657"
+      excerpt: <u>Gendelev L</u>, Taylor J, Myers-Turnbull D, Chen S, McCarroll MN, Arkin MR, Kokel D, Keiser MJ. __Nat Commun__. 2024 Nov 17.
+      link: "https://doi.org/10.1038/s41467-024-54375-y"
 
     - title: Autoregressive fragment-based diffusion for pocket-aware ligand design
       excerpt: Ghorbani M, <u>Gendelev L</u>, Beroza P, Keiser MJ. __arXiv - NeurIPS GenBio__. 2023 Nov 2.
