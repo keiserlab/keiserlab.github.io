@@ -11,6 +11,23 @@ intro:
     - title: Publications
 feature_row0:
 
+  - image_path: /assets/images/papers/10.1038.s41467-024-54375-y.jpg
+    alt: >-
+        Deep phenotypic profiling of neuroactive drugs in larval zebrafish
+    title: >-
+        <span itemprop="name">Deep phenotypic profiling of neuroactive drugs in larval zebrafish</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nat Commun</strong></span>. <span itemprop="datePublished">2024 Nov 17</span>. <span itemprop="author">Gendelev L, Taylor J, Myers-Turnbull D, Chen S, McCarroll MN, Arkin MR, Kokel D, Keiser MJ</span>.
+    url: "https://doi.org/10.1038/s41467-024-54375-y"
+    doi: "10.1038/s41467-024-54375-y"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.1101/2024.02.22.581657"
+    btn2_label: >-
+        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
   - image_path: /assets/images/papers/bioRxiv.2024.10.23.619915.jpg
     alt: >-
         Evolutionary-scale enzymology enables biochemical constant prediction across a multi-peaked catalytic landscape
@@ -45,6 +62,8 @@ feature_row0:
         chemRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
+feature_row1:
+
   - image_path: /assets/images/papers/10.1038.s42003-024-06865-4.jpg
     alt: >-
         Learning chemical sensitivity reveals mechanisms of cellular response
@@ -61,8 +80,6 @@ feature_row0:
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
-
-feature_row1:
 
   - image_path: /assets/images/papers/bioRxiv.2024.09.12.612732.jpg
     alt: >-
@@ -98,6 +115,8 @@ feature_row1:
         chemRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
+feature_row2:
+
   - image_path: /assets/images/papers/chemRxiv.chemrxiv-2024-ffcrs.jpg
     alt: >-
         Fuzz testing molecular representation using deep variational anomaly generation
@@ -114,8 +133,6 @@ feature_row1:
     btn2_label: >-
         chemRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
-
-feature_row2:
 
   - image_path: /assets/images/papers/bioRxiv.2024.05.15.594372.jpg
     alt: >-
@@ -147,23 +164,6 @@ feature_row2:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
     url2: "https://doi.org/10.1101/2024.03.18.585639"
-    btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
-
-  - image_path: /assets/images/papers/bioRxiv.2024.02.22.581657.jpg
-    alt: >-
-        Deep phenotypic profiling of neuroactive drugs in larval zebrafish
-    title: >-
-        <span itemprop="name">Deep phenotypic profiling of neuroactive drugs in larval zebrafish</span>
-    excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2024 Feb 25</span>. <span itemprop="author">Gendelev L, Taylor J, Myers-Turnbull D, Chen S, McCarroll MN, Arkin MR, Kokel D, Keiser MJ</span>.
-    url: ""
-    doi: "10.1101/2024.02.22.581657"
-    btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
-    url2: "https://doi.org/10.1101/2024.02.22.581657"
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"

@@ -11,8 +11,8 @@ header:
   teaser: /assets/images/people/bio-myers-turnbull.jpg
 papers: 
     - title: Deep phenotypic profiling of neuroactive drugs in larval zebrafish
-      excerpt: Gendelev L, Taylor J, <u>Myers-Turnbull D</u>, Chen S, McCarroll MN, Arkin MR, Kokel D, Keiser MJ. __bioRxiv__. 2024 Feb 25.
-      link: "https://doi.org/10.1101/2024.02.22.581657"
+      excerpt: Gendelev L, Taylor J, <u>Myers-Turnbull D</u>, Chen S, McCarroll MN, Arkin MR, Kokel D, Keiser MJ. __Nat Commun__. 2024 Nov 17.
+      link: "https://doi.org/10.1038/s41467-024-54375-y"
 
     - title: Simultaneous analysis of neuroactive compounds in zebrafish
       excerpt: <u>Myers-Turnbull D</u>, Taylor JC, Helsell C, McCarroll MN, Ki CS, Tummino TA, Ravikumar S, Kinser R, Gendelev L, Alexander R, Keiser MJ, Kokel D. __bioRxiv__. 2022 Jun 15.

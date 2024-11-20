@@ -1,8 +1,124 @@
+PMID- 39551797
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20241117
+LR  - 20241117
+IS  - 2041-1723 (Electronic)
+IS  - 2041-1723 (Linking)
+VI  - 15
+IP  - 1
+DP  - 2024 Nov 17
+TI  - Deep phenotypic profiling of neuroactive drugs in larval zebrafish.
+PG  - 9955
+LID - 10.1038/s41467-024-54375-y [doi]
+AB  - Behavioral larval zebrafish screens leverage a high-throughput small
+      molecule discovery format to find neuroactive molecules relevant to
+      mammalian physiology. We screen a library of 650 central nervous system
+      active compounds in high replicate to train deep metric learning models
+      on zebrafish behavioral profiles. The machine learning initially
+      exploited subtle artifacts in the phenotypic screen, necessitating a
+      complete experimental re-run with rigorous physical well-wise
+      randomization. These large matched phenotypic screening datasets (initial
+      and well-randomized) provide a unique opportunity to quantify and
+      understand shortcut learning in a full-scale, real-world drug discovery
+      dataset. The final deep metric learning model substantially outperforms
+      correlation distance-the canonical way of computing distances between
+      profiles-and generalizes to an orthogonal dataset of diverse drug-like
+      compounds. We validate predictions by prospective in vitro radio-ligand
+      binding assays against human protein targets, achieving a hit rate of 58%
+      despite crossing species and chemical scaffold boundaries. These
+      neuroactive compounds exhibit diverse chemical scaffolds, demonstrating
+      that zebrafish phenotypic screens combined with metric learning achieve
+      robust scaffold hopping capabilities.
+CI  - (c) 2024. The Author(s).
+FAU - Gendelev, Leo
+AU  - Gendelev L
+AUID- ORCID: http://orcid.org/0000-0002-9166-3947
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA, USA.
+FAU - Taylor, Jack
+AU  - Taylor J
+AUID- ORCID: http://orcid.org/0000-0002-6431-9956
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA, USA.
+AD  - UCSF Weill Institute for Neurosciences Memory and Aging Center,
+      University of California, San Francisco, CA, USA.
+FAU - Myers-Turnbull, Douglas
+AU  - Myers-Turnbull D
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA, USA.
+FAU - Chen, Steven
+AU  - Chen S
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, CA, USA.
+FAU - McCarroll, Matthew N
+AU  - McCarroll MN
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, CA, USA.
+FAU - Arkin, Michelle R
+AU  - Arkin MR
+AUID- ORCID: http://orcid.org/0000-0002-9366-6770
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, CA, USA.
+FAU - Kokel, David
+AU  - Kokel D
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA, USA. dave.kokel@gmail.com.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AUID- ORCID: http://orcid.org/0000-0002-1240-2192
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA, USA. keiser@keiserlab.org.
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, CA, USA. keiser@keiserlab.org.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco, CA, USA. keiser@keiserlab.org.
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA, USA. keiser@keiserlab.org.
+LA  - eng
+GR  - Allen Distinguished Investigator/Paul G. Allen Family Foundation
+GR  - Allen Distinguished Investigator/Paul G. Allen Family Foundation
+GR  - R01AA022583/U.S. Department of Health & Human Services | NIH | National
+      Institute on Alcohol Abuse and Alcoholism (NIAAA)
+PT  - Journal Article
+DEP - 20241117
+PL  - England
+TA  - Nat Commun
+JT  - Nature communications
+JID - 101528555
+RN  - 0 (Small Molecule Libraries)
+RN  - 0 (Central Nervous System Agents)
+SB  - IM
+MH  - *Zebrafish/genetics
+MH  - Animals
+MH  - *Larva/drug effects
+MH  - *Phenotype
+MH  - *Drug Discovery/methods
+MH  - *Behavior, Animal/drug effects
+MH  - High-Throughput Screening Assays/methods
+MH  - Humans
+MH  - Deep Learning
+MH  - Small Molecule Libraries/pharmacology
+MH  - Drug Evaluation, Preclinical/methods
+MH  - Central Nervous System Agents/pharmacology
+COIS- Competing interests The authors declare no competing interests.
+EDAT- 2024/11/18 00:31
+MHDA- 2024/11/18 00:32
+CRDT- 2024/11/17 23:19
+PHST- 2024/03/20 00:00 [received]
+PHST- 2024/11/06 00:00 [accepted]
+AID - 10.1038/s41467-024-54375-y [doi]
+AID - 10.1038/s41467-024-54375-y [pii]
+PST - epublish
+SO  - Nat Commun. 2024 Nov 17;15(1):9955. doi: 10.1038/s41467-024-54375-y.
+
 PMID- 39360680
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20241014
-LR  - 20241014
+LR  - 20241031
 IS  - 1549-960X (Electronic)
 IS  - 1549-9596 (Linking)
 VI  - 64
@@ -47,6 +163,7 @@ AD  - Department of Bioengineering and Therapeutic Sciences, University of
       California, San Francisco, San Francisco, California 94158, United
       States.
 LA  - eng
+GR  - T32 GM149436/GM/NIGMS NIH HHS/United States
 PT  - Journal Article
 DEP - 20241003
 PL  - United States
@@ -59,6 +176,7 @@ SB  - IM
 MH  - *Molecular Docking Simulation
 MH  - *Small Molecule Libraries/chemistry/pharmacology/metabolism
 MH  - Proteins/chemistry/metabolism
+PMC - PMC11480973
 EDAT- 2024/10/03 12:44
 MHDA- 2024/10/14 06:21
 CRDT- 2024/10/03 07:43
@@ -177,7 +295,7 @@ PMID- 38953560
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240722
-LR  - 20240726
+LR  - 20241108
 IS  - 1549-960X (Electronic)
 IS  - 1549-9596 (Linking)
 VI  - 64
@@ -243,6 +361,7 @@ AD  - Institute for Neurodegenerative Diseases, University of California, San
 AD  - Bakar Computational Health Sciences Institute, University of California,
       San Francisco, San Francisco, California 94158, United States.
 LA  - eng
+GR  - T32 GM145460/GM/NIGMS NIH HHS/United States
 PT  - Journal Article
 DEP - 20240702
 PL  - United States
@@ -630,7 +749,8 @@ JT  - Communications biology
 JID - 101719179
 RN  - 0 (Amyloidogenic Proteins)
 SB  - IM
-UOF - bioRxiv. 2023 Jan 17;:. PMID: 36711704
+UOF - bioRxiv. 2023 Jan 17:2023.01.13.524019. doi: 10.1101/2023.01.13.524019.
+      PMID: 36711704
 MH  - Humans
 MH  - *Amyloidogenic Proteins
 MH  - *Plaque, Amyloid
@@ -1868,8 +1988,10 @@ PL  - United States
 TA  - Science
 JT  - Science (New York, N.Y.)
 JID - 0404511
-CON - Science. 2018 Apr 13;360(6385):186-190. PMID: 29449509
-CIN - Science. 2018 Nov 16;362(6416):. PMID: 30442777
+CON - Science. 2018 Apr 13;360(6385):186-190. doi: 10.1126/science.aar5169.
+      PMID: 29449509
+CIN - Science. 2018 Nov 16;362(6416):eaat8763. doi: 10.1126/science.aat8763.
+      PMID: 30442777
 EDAT- 2018/11/18 06:00
 MHDA- 2018/11/18 06:01
 CRDT- 2018/11/17 06:00
@@ -3048,7 +3170,8 @@ JID - 101638123
 RN  - 0 (Antipsychotic Agents)
 RN  - J60AR2IKIC (Clozapine)
 SB  - IM
-CIN - Lancet Psychiatry. 2016 Apr;3(4):309-10. PMID: 26915513
+CIN - Lancet Psychiatry. 2016 Apr;3(4):309-10. doi:
+      10.1016/S2215-0366(16)00016-X. PMID: 26915513
 MH  - Antipsychotic Agents/*therapeutic use
 MH  - Case-Control Studies
 MH  - Clozapine/*therapeutic use
@@ -3389,7 +3512,8 @@ RN  - 0 (Receptors, G-Protein-Coupled)
 RN  - 0 (SB 222200)
 RN  - 0 (Small Molecule Libraries)
 SB  - IM
-CIN - PLoS Biol. 2013 Nov;11(11):e1001713. PMID: 24260023
+CIN - PLoS Biol. 2013 Nov;11(11):e1001713. doi: 10.1371/journal.pbio.1001713.
+      PMID: 24260023
 MH  - Animals
 MH  - Caenorhabditis elegans/*drug effects/physiology
 MH  - Caenorhabditis elegans Proteins/antagonists & inhibitors/metabolism
@@ -3495,7 +3619,8 @@ RN  - 0 (Estrogens, Non-Steroidal)
 RN  - 6V5034L121 (Chlorotrianisene)
 RN  - EC 1.14.99.1 (Cyclooxygenase 1)
 SB  - IM
-CIN - Nature. 2012 Jun 21;486(7403):326-7. PMID: 22722185
+CIN - Nature. 2012 Jun 10;486(7403):326-7. doi: 10.1038/nature11198. PMID:
+      22722185
 MH  - Blood Platelets/drug effects
 MH  - Chlorotrianisene/adverse effects/chemistry/pharmacology
 MH  - Cyclooxygenase 1/metabolism
@@ -3962,7 +4087,8 @@ RN  - 0 (Protozoan Proteins)
 RN  - EC 3.4.22.- (Cysteine Endopeptidases)
 RN  - EC 3.4.22.- (cruzain, Trypanosoma cruzi)
 SB  - IM
-CIN - Nat Rev Drug Discov. 2010 Aug;9(8):593. PMID: 20671759
+CIN - Nat Rev Drug Discov. 2010 Aug;9(8):593. doi: 10.1038/nrd3231. PMID:
+      20671759
 MH  - Chagas Disease/*drug therapy
 MH  - Computer Simulation
 MH  - Cysteine Endopeptidases/chemistry/metabolism
@@ -4279,8 +4405,9 @@ RN  - 0 (Ligands)
 RN  - 0 (Pharmaceutical Preparations)
 RN  - 0 (Receptors, Serotonin)
 SB  - IM
-CIN - Nature. 2009 Nov 12;462(7270):167-8. PMID: 19907483
-CIN - Int J Cancer. 2010 Nov 15;127(10):2486. PMID: 20143396
+CIN - Nature. 2009 Nov 12;462(7270):167-8. doi: 10.1038/462167a. PMID: 19907483
+CIN - Int J Cancer. 2010 Nov 15;127(10):2486. doi: 10.1002/ijc.25237. PMID:
+      20143396
 MH  - Animals
 MH  - Computational Biology
 MH  - Databases, Factual

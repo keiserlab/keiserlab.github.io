@@ -10,6 +10,10 @@ excerpt: "<p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and
 header:
   teaser: /assets/images/people/bio-keiser.jpg
 papers: 
+    - title: Deep phenotypic profiling of neuroactive drugs in larval zebrafish
+      excerpt: Gendelev L, Taylor J, Myers-Turnbull D, Chen S, McCarroll MN, Arkin MR, Kokel D, <u>Keiser MJ</u>. __Nat Commun__. 2024 Nov 17.
+      link: "https://doi.org/10.1038/s41467-024-54375-y"
+
     - title: Evolutionary-scale enzymology enables biochemical constant prediction across a multi-peaked catalytic landscape
       excerpt: Muir DF, Asper GPR, Notin P, Posner JA, Marks DS, <u>Keiser MJ</u>, Pinney MM. __bioRxiv__. 2024 Oct 25.
       link: "https://doi.org/10.1101/2024.10.23.619915"
@@ -41,10 +45,6 @@ papers:
     - title: Metric Ion Classification (MIC)- A deep learning tool for assigning ions and waters in cryo-EM and x-ray crystallography structures
       excerpt: Shub L, Liu W, Skiniotis G, <u>Keiser MJ</u>, Robertson MJ. __bioRxiv__. 2024 Mar 19.
       link: "https://doi.org/10.1101/2024.03.18.585639"
-
-    - title: Deep phenotypic profiling of neuroactive drugs in larval zebrafish
-      excerpt: Gendelev L, Taylor J, Myers-Turnbull D, Chen S, McCarroll MN, Arkin MR, Kokel D, <u>Keiser MJ</u>. __bioRxiv__. 2024 Feb 25.
-      link: "https://doi.org/10.1101/2024.02.22.581657"
 
     - title: Toward a generalizable machine learning workflow for neurodegenerative disease staging with focus on neurofibrillary tangles
       excerpt: Vizcarra JC, Pearce TM, Dugger BN, <u>Keiser MJ</u>, Gearing M, Crary JF, Kiely EJ, Morris M, White B, Glass JD, Farrell K, Gutman DA. __Acta Neuropathol Commun__. 2023 Dec 18.
