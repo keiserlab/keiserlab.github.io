@@ -10,6 +10,10 @@ excerpt: "Pinney Lab. Duncan completed his B.S. in Data Science and Biochemistry
 header:
   teaser: /assets/images/people/bio-muir.jpg
 papers: 
+    - title: Autoparty- Machine learning-guided visual inspection of molecular docking results
+      excerpt: Shub L, Korczynska M, <u>Muir DF</u>, Lin F-Y, Mathiowetz AM, Keiser MJ. __chemRxiv__. 2024 Dec 09.
+      link: "https://doi.org/10.26434/chemrxiv-2024-7p4ws"
+
     - title: Evolutionary-scale enzymology enables biochemical constant prediction across a multi-peaked catalytic landscape
       excerpt: <u>Muir DF</u>, Asper GPR, Notin P, Posner JA, Marks DS, Keiser MJ, Pinney MM. __bioRxiv__. 2024 Oct 25.
       link: "https://doi.org/10.1101/2024.10.23.619915"

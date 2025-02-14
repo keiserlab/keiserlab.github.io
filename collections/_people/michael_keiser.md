@@ -10,6 +10,14 @@ excerpt: "<p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and
 header:
   teaser: /assets/images/people/bio-keiser.jpg
 papers: 
+    - title: Network-aware self-supervised learning enables high-content phenotypic screening for genetic modifiers of neuronal activity dynamics
+      excerpt: Grosjean P, Shevade K, Nguyen C, Ancheta S, Mader K, Franco I, Heo SJ, Lewis G, Boggess S, De Domenico A, Ullian E, Shafer S, Litterman A, Przybyla L, <u>Keiser MJ</u>, Ifkovits J, Yala A, Kampmann N. __bioRxiv__. 2025 Feb 05.
+      link: "https://doi.org/10.1101/2025.02.04.636489"
+
+    - title: Autoparty- Machine learning-guided visual inspection of molecular docking results
+      excerpt: Shub L, Korczynska M, Muir DF, Lin F-Y, Mathiowetz AM, <u>Keiser MJ</u>. __chemRxiv__. 2024 Dec 09.
+      link: "https://doi.org/10.26434/chemrxiv-2024-7p4ws"
+
     - title: Deep phenotypic profiling of neuroactive drugs in larval zebrafish
       excerpt: Gendelev L, Taylor J, Myers-Turnbull D, Chen S, McCarroll MN, Arkin MR, Kokel D, <u>Keiser MJ</u>. __Nat Commun__. 2024 Nov 17.
       link: "https://doi.org/10.1038/s41467-024-54375-y"
