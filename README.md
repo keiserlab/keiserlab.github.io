@@ -6,7 +6,13 @@
   - get interactive terminal: `$ docker compose exec -it keiserlab bash`
 - dev website serves at http://localhost:4000
 
-#### uv python environment
+#### ruby environment via bundler
+- `bundle` manages the container's ruby environment
+- check for dependency updates:
+  1. bundler: `$ bundle update --bundler`
+  2. all other gems: `$ bundle update`
+
+#### python environment via uv
 - `uv` manages the container's python environment
 - run python scripts like `uv run myscript.py`
 - check for dependency updates: `$ uv lock --upgrade`
