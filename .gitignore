@@ -6,6 +6,5 @@ _site
 codekit-config.json
 node_modules
 _asset_bundler_cache
-Gemfile.lock
 .ipynb_checkpoints
 .venv/

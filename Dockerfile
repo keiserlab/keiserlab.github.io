@@ -37,7 +37,7 @@ ENV BUNDLE_APP_CONFIG="$BUNDLE_PATH"
 COPY Gemfile Gemfile.lock ./
 
 # `bundle update` Gemfile.lock since we're not versioning it
-RUN gem install bundler && bundle update --bundler
+RUN gem install bundler && bundle install
 
 # Set final workdir for runtime
 WORKDIR /app
