@@ -6,6 +6,7 @@ services:
       - "4000:4000"
     volumes:
       - .:/app
+      - bundle_cache:/opt/vendor/bundle
     environment:
       - JEKYLL_ENV=development
       - PYTHONUNBUFFERED=1
@@ -15,3 +16,6 @@ services:
     command: >
       bash -c "bundle install &&
                bundle exec jekyll serve --host 0.0.0.0 --watch --force_polling"
+
+volumes:
+  bundle_cache:
