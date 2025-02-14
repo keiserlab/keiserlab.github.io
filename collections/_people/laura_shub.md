@@ -10,6 +10,10 @@ excerpt: "Grad Student, 2019-2024. Laura studied biochemistry and computer scien
 header:
   teaser: /assets/images/people/bio-shub.jpg
 papers: 
+    - title: Autoparty- Machine learning-guided visual inspection of molecular docking results
+      excerpt: <u>Shub L</u>, Korczynska M, Muir DF, Lin F-Y, Mathiowetz AM, Keiser MJ. __chemRxiv__. 2024 Dec 09.
+      link: "https://doi.org/10.26434/chemrxiv-2024-7p4ws"
+
     - title: Proximity Graph Networks- Predicting Ligand Affinity with Message Passing Neural Networks
       excerpt: Gale-Day ZJ, <u>Shub L</u>, Chuang KV, Keiser MJ. __J Chem Inf Model__. 2024 Jul 22.
       link: "https://doi.org/10.1021/acs.jcim.4c00311"

@@ -11,6 +11,40 @@ intro:
     - title: Publications
 feature_row0:
 
+  - image_path: /assets/images/papers/bioRxiv.2025.02.04.636489.jpg
+    alt: >-
+        Network-aware self-supervised learning enables high-content phenotypic screening for genetic modifiers of neuronal activity dynamics
+    title: >-
+        <span itemprop="name">Network-aware self-supervised learning enables high-content phenotypic screening for genetic modifiers of neuronal activity dynamics</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2025 Feb 05</span>. <span itemprop="author">Grosjean P, Shevade K, Nguyen C, Ancheta S, Mader K, Franco I, Heo SJ, Lewis G, Boggess S, De Domenico A, Ullian E, Shafer S, Litterman A, Przybyla L, Keiser MJ, Ifkovits J, Yala A, Kampmann N</span>.
+    url: ""
+    doi: "10.1101/2025.02.04.636489"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.1101/2025.02.04.636489"
+    btn2_label: >-
+        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
+  - image_path: /assets/images/papers/chemRxiv.chemrxiv-2024-7p4ws.jpg
+    alt: >-
+        Autoparty: Machine learning-guided visual inspection of molecular docking results
+    title: >-
+        <span itemprop="name">Autoparty: Machine learning-guided visual inspection of molecular docking results</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>chemRxiv</strong></span>. <span itemprop="datePublished">2024 Dec 09</span>. <span itemprop="author">Shub L, Korczynska M, Muir DF, Lin F-Y, Mathiowetz AM, Keiser MJ</span>.
+    url: ""
+    doi: "10.26434/chemrxiv-2024-7p4ws"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.26434/chemrxiv-2024-7p4ws"
+    btn2_label: >-
+        chemRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
   - image_path: /assets/images/papers/10.1038.s41467-024-54375-y.jpg
     alt: >-
         Deep phenotypic profiling of neuroactive drugs in larval zebrafish
@@ -27,6 +61,8 @@ feature_row0:
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
+
+feature_row1:
 
   - image_path: /assets/images/papers/bioRxiv.2024.10.23.619915.jpg
     alt: >-
@@ -62,8 +98,6 @@ feature_row0:
         chemRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row1:
-
   - image_path: /assets/images/papers/10.1038.s42003-024-06865-4.jpg
     alt: >-
         Learning chemical sensitivity reveals mechanisms of cellular response
@@ -80,6 +114,8 @@ feature_row1:
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
+
+feature_row2:
 
   - image_path: /assets/images/papers/bioRxiv.2024.09.12.612732.jpg
     alt: >-
@@ -115,8 +151,6 @@ feature_row1:
         chemRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row2:
-
   - image_path: /assets/images/papers/chemRxiv.chemrxiv-2024-ffcrs.jpg
     alt: >-
         Fuzz testing molecular representation using deep variational anomaly generation
@@ -133,6 +167,8 @@ feature_row2:
     btn2_label: >-
         chemRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
+
+feature_row3:
 
   - image_path: /assets/images/papers/bioRxiv.2024.05.15.594372.jpg
     alt: >-
@@ -168,8 +204,6 @@ feature_row2:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row3:
-
   - image_path: /assets/images/papers/10.1186.s40478-023-01691-x.jpg
     alt: >-
         Toward a generalizable machine learning workflow for neurodegenerative disease staging with focus on neurofibrillary tangles
@@ -182,6 +216,8 @@ feature_row3:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
+
+feature_row4:
 
   - image_path: /assets/images/papers/bioRxiv.2023.11.22.568268.jpg
     alt: >-
@@ -217,8 +253,6 @@ feature_row3:
         arXiv - NeurIPS GenBio &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row4:
-
   - image_path: /assets/images/papers/10.1016.j.xgen.2023.100410.jpg
     alt: >-
         In silico discovery of repetitive elements as key sequence determinants of 3D genome folding
@@ -235,6 +269,8 @@ feature_row4:
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
+
+feature_row5:
 
   - image_path: /assets/images/papers/10.1038.s42003-023-05031-6.jpg
     alt: >-
@@ -270,8 +306,6 @@ feature_row4:
         arXiv - NeurIPS LMRL &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row5:
-
   - image_path: /assets/images/papers/10.1021.acs.jcim.2c00695.jpg
     alt: >-
         Prioritizing Virtual Screening with Interpretable Interaction Fingerprints
@@ -288,6 +322,8 @@ feature_row5:
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
+
+feature_row6:
 
   - image_path: /assets/images/papers/bioRxiv.2020.01.01.891432.jpg
     alt: >-
@@ -323,8 +359,6 @@ feature_row5:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row6:
-
   - image_path: /assets/images/papers/10.1186.s40478-022-01365-0.jpg
     alt: >-
         Deep learning from multiple experts improves identification of amyloid neuropathologies
@@ -341,6 +375,8 @@ feature_row6:
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
+
+feature_row7:
 
   - image_path: /assets/images/papers/10.1038.s41746-020-00380-6.jpg
     alt: >-
@@ -372,8 +408,6 @@ feature_row6:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row7:
-
   - image_path: /assets/images/papers/bioRxiv_-_NeurIPS_LMRL.2021.03.15.435529.jpg
     alt: >-
         Predicting Cellular Drug Sensitivity using Conditional Modulation of Gene Expression
@@ -390,6 +424,8 @@ feature_row7:
     btn2_label: >-
         bioRxiv - NeurIPS LMRL &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
+
+feature_row8:
 
   - image_path: /assets/images/papers/arXiv_-_NeurIPS_ML4Molecules.2011.1282.jpg
     alt: >-
@@ -421,8 +457,6 @@ feature_row7:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row8:
-
   - image_path: /assets/images/papers/10.1016.j.jid.2020.02.026.jpg
     alt: >-
         Artificial Intelligence in Dermatology: A Primer
@@ -435,6 +469,8 @@ feature_row8:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
+
+feature_row9:
 
   - image_path: /assets/images/papers/arXiv_-_ICML_-_WHI.2104.02768.jpg
     alt: >-
@@ -466,8 +502,6 @@ feature_row8:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row9:
-
   - image_path: /assets/images/papers/arXiv_-_NeurIPS_ML4H.1910.07604.jpg
     alt: >-
         Global Saliency: Aggregating Saliency Maps to Assess Dataset Artefact Bias
@@ -484,6 +518,8 @@ feature_row9:
     btn2_label: >-
         arXiv - NeurIPS ML4H &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
+
+feature_row10:
 
   - image_path: /assets/images/papers/10.1038.s41467-019-11936-w.jpg
     alt: >-
@@ -515,8 +551,6 @@ feature_row9:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row10:
-
   - image_path: /assets/images/papers/10.1126.science.aat8603.jpg
     alt: >-
         Comment on &quot;Predicting reaction performance in C-N cross-coupling using machine learning&quot;
@@ -529,6 +563,8 @@ feature_row10:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
+
+feature_row11:
 
   - image_path: /assets/images/papers/10.1021.acschembio.8b00881.jpg
     alt: >-
@@ -560,8 +596,6 @@ feature_row10:
         pcmi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row11:
-
   - image_path: /assets/images/papers/10.1021.acs.jcim.7b00316.jpg
     alt: >-
         Predicted Biological Activity of Purchasable Chemical Space
@@ -574,6 +608,8 @@ feature_row11:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
+
+feature_row12:
 
   - image_path: /assets/images/papers/10.1016.j.celrep.2017.10.026.jpg
     alt: >-
@@ -609,8 +645,6 @@ feature_row11:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row12:
-
   - image_path: /assets/images/papers/10.1038.nchembio.2097.jpg
     alt: >-
         Zebrafish behavioral profiling identifies multitarget antipsychotic-like compounds
@@ -623,6 +657,8 @@ feature_row12:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
+
+feature_row13:
 
   - image_path: /assets/images/papers/10.1021.acschembio.5b00800.jpg
     alt: >-
@@ -650,8 +686,6 @@ feature_row12:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row13:
-
   - image_path: /assets/images/papers/10.1007.s10928-015-9436-y.jpg
     alt: >-
         Prediction and validation of enzyme and transporter off-targets for metformin
@@ -664,6 +698,8 @@ feature_row13:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
+
+feature_row14:
 
   - image_path: /assets/images/papers/10.1002.cpt.2.jpg
     alt: >-
@@ -691,8 +727,6 @@ feature_row13:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row14:
-
   - image_path: /assets/images/papers/10.1038.nature11159.jpg
     alt: >-
         Large-scale prediction and testing of drug activity on side-effect targets
@@ -705,6 +739,8 @@ feature_row14:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
+
+feature_row15:
 
   - image_path: /assets/images/papers/10.1038.nchembio.732.jpg
     alt: >-
@@ -732,8 +768,6 @@ feature_row14:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row15:
-
   - image_path: /assets/images/papers/10.1021.bi101540g.jpg
     alt: >-
         The chemical basis of pharmacology
@@ -746,6 +780,8 @@ feature_row15:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
+
+feature_row16:
 
   - image_path: /assets/images/papers/10.1021.jm100488w.jpg
     alt: >-
@@ -773,8 +809,6 @@ feature_row15:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row16:
-
   - image_path: /assets/images/papers/20581797.jpg
     alt: >-
         A pilot study of the pharmacodynamic impact of SSRI drug selection and beta-1 receptor genotype (ADRB1) on cardiac vital signs in depressed patients: a novel pharmacogenetic approach
@@ -787,6 +821,8 @@ feature_row16:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
+
+feature_row17:
 
   - image_path: /assets/images/papers/10.1038.nature08506.jpg
     alt: >-
@@ -814,8 +850,6 @@ feature_row16:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row17:
-
   - image_path: /assets/images/papers/10.1038.nchembio.180.jpg
     alt: >-
         Quantifying biogenic bias in screening libraries
@@ -828,6 +862,8 @@ feature_row17:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
+
+feature_row18:
 
   - image_path: /assets/images/papers/10.1007.978-1-60761-274-2_8.jpg
     alt: >-
@@ -854,8 +890,6 @@ feature_row17:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row18:
 
   - image_path: /assets/images/papers/10.1038.nbt1284.jpg
     alt: >-
