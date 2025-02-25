@@ -225,7 +225,7 @@ mikio_tada:
 mahdi_ghorbani:
   name: Mahdi Ghorbani, PhD
   email: mahdi.ghorbani@keiserlab.org
-  bio: Flagship Pioneering
+  bio: Expedition Medicine
   bio_long: >
     Postdoctoral Scholar, 2022-2024. Mahdi received his PhD in Chemical and Biomolecular Engineering from University of Maryland College Park (UMD). During his PhD, he applied machine learning and Markov state modeling on molecular dynamics trajectories to better understand kinetics of protein folding. He joined Keiser Lab in 2022, where he applied deep learning models for drug discovery and protein-ligand interactions.
   avatar: /assets/images/people/bio-ghorbani.jpg
@@ -322,11 +322,11 @@ nick_mew:
 will_connell:
   name: Will Connell
   email: connell@keiserlab.org
-  bio: Vevo Therapeutics
+  bio: Transcripta Bio
   bio_long: >
     PSPG Grad student, 2019-2022. Clinicians practice medicine on a population level. The ability to molecularly characterize biological systems affords new opportunities in the personalization of patient treatment. Proper integration and interpretation of biological data types are necessary to deconvolute individual homeostatic imbalances. Network representation of this information most closely resembles our current models, and the application of machine learning methods to this data structure can help us understand complex interactions. Will was a student in the Pharmaceutical Sciences and Pharmacogenomics graduate degree program.
   avatar: /assets/images/people/bio-connell.jpg
-  title: Machine Learning Research Scientist
+  title: Senior ML Scientist
   linkedin: will-connell-26412352
   github: wconnell
   ncbi_id: Connell W
@@ -513,11 +513,11 @@ yannah_melle:
 jessica_mckinley:
   name: Jessica McKinley, PhD
   email: mckinley@keiserlab.org
-  bio: Eli Lilly and Company
+  bio: Septerna
   bio_long: >
     CTSI TL1 Postdoctoral Fellow, 2019-2021. Jessica graduated from UC Riverside with a PhD in Computational/Theoretical Chemistry. She applied machine learning techniques to analyze molecular dynamics trajectories. On her time off she enjoys hiking around the bay area.
   avatar: /assets/images/people/bio-mckinley.jpg
-  title: Sr. Advisor, Computational Chemistry
+  title: Sr. Scientist Computational Chemistry
   github: jmcki003
   google:
     scholar: 1lE4L80AAAAJ

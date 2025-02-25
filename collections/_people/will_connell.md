@@ -3,8 +3,8 @@
 title: Will Connell
 author: will_connell
 layout: author-bio
-jobtitle: Machine Learning Research Scientist
-bio: Vevo Therapeutics
+jobtitle: Senior ML Scientist
+bio: Transcripta Bio
 type: alumn
 excerpt: "PSPG Grad student, 2019-2022. Clinicians practice medicine on a population level. The ability to molecularly characterize biological systems affords new opportu"
 header:
