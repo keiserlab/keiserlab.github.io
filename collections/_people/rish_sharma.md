@@ -11,8 +11,8 @@ excerpt: "Research Data Analyst, 2021-2023. Rish is interested in generative mod
 header:
   teaser: /assets/images/people/bio-rsharma.jpg
 papers: 
-    - title: Fuzz testing molecular representation using deep variational anomaly generation
-      excerpt: Nogueira VHR, <u>Sharma R</u>, Guido RVC, Keiser MJ. __chemRxiv__. 2024 Jul 11.
-      link: "https://doi.org/10.26434/chemrxiv-2024-ffcrs"
+    - title: Fuzz Testing Molecular Representation Using Deep Variational Anomaly Generation
+      excerpt: Nogueira VHR, <u>Sharma R</u>, Guido RVC, Keiser MJ. __J Chem Inf Model__. 2025 Feb 24.
+      link: "https://doi.org/10.1021/acs.jcim.4c01876"
 
 ---

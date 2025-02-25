@@ -10,9 +10,9 @@ excerpt: "Grad Student; ARCS Scholar in Bioinformatics, 2018-2023. Laura was an 
 header:
   teaser: /assets/images/people/bio-gunsalus.jpg
 papers: 
-    - title: ChromaFactor- deconvolution of single-molecule chromatin organization with non-negative matrix factorization
-      excerpt: <u>Gunsalus LM</u>, Keiser MJ, Pollard KS. __bioRxiv__. 2023 Nov 22.
-      link: "https://doi.org/10.1101/2023.11.22.568268"
+    - title: ChromaFactor- Deconvolution of single-molecule chromatin organization with non-negative matrix factorization
+      excerpt: <u>Gunsalus LM</u>, Keiser MJ, Pollard KS. __PLoS Comput Biol__. 2025 Feb.
+      link: "https://doi.org/10.1371/journal.pcbi.1012841"
 
     - title: In silico discovery of repetitive elements as key sequence determinants of 3D genome folding
       excerpt: <u>Gunsalus LM</u>, Keiser MJ, Pollard KS. __Cell Genom__. 2023 Oct 11.
