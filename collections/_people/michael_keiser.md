@@ -10,9 +10,17 @@ excerpt: "<p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and
 header:
   teaser: /assets/images/people/bio-keiser.jpg
 papers: 
+    - title: Fuzz Testing Molecular Representation Using Deep Variational Anomaly Generation
+      excerpt: Nogueira VHR, Sharma R, Guido RVC, <u>Keiser MJ</u>. __J Chem Inf Model__. 2025 Feb 24.
+      link: "https://doi.org/10.1021/acs.jcim.4c01876"
+
     - title: Network-aware self-supervised learning enables high-content phenotypic screening for genetic modifiers of neuronal activity dynamics
       excerpt: Grosjean P, Shevade K, Nguyen C, Ancheta S, Mader K, Franco I, Heo SJ, Lewis G, Boggess S, De Domenico A, Ullian E, Shafer S, Litterman A, Przybyla L, <u>Keiser MJ</u>, Ifkovits J, Yala A, Kampmann N. __bioRxiv__. 2025 Feb 05.
       link: "https://doi.org/10.1101/2025.02.04.636489"
+
+    - title: ChromaFactor- Deconvolution of single-molecule chromatin organization with non-negative matrix factorization
+      excerpt: Gunsalus LM, <u>Keiser MJ</u>, Pollard KS. __PLoS Comput Biol__. 2025 Feb.
+      link: "https://doi.org/10.1371/journal.pcbi.1012841"
 
     - title: Autoparty- Machine learning-guided visual inspection of molecular docking results
       excerpt: Shub L, Korczynska M, Muir DF, Lin F-Y, Mathiowetz AM, <u>Keiser MJ</u>. __chemRxiv__. 2024 Dec 09.
@@ -42,10 +50,6 @@ papers:
       excerpt: Gale-Day ZJ, Shub L, Chuang KV, <u>Keiser MJ</u>. __J Chem Inf Model__. 2024 Jul 22.
       link: "https://doi.org/10.1021/acs.jcim.4c00311"
 
-    - title: Fuzz testing molecular representation using deep variational anomaly generation
-      excerpt: Nogueira VHR, Sharma R, Guido RVC, <u>Keiser MJ</u>. __chemRxiv__. 2024 Jul 11.
-      link: "https://doi.org/10.26434/chemrxiv-2024-ffcrs"
-
     - title: Learning precise segmentation of neurofibrillary tangles from rapid manual point annotations
       excerpt: Ghandian S, Albarghouthi L, Nava K, Sharma SRR, Minaud L, Beckett L, Saito N, DeCarli C, Rissman RA, Teich AF, Jin LW, Dugger BN, <u>Keiser MJ</u>. __bioRxiv__. 2024 May 15.
       link: "https://doi.org/10.1101/2024.05.15.594372"
@@ -57,10 +61,6 @@ papers:
     - title: Toward a generalizable machine learning workflow for neurodegenerative disease staging with focus on neurofibrillary tangles
       excerpt: Vizcarra JC, Pearce TM, Dugger BN, <u>Keiser MJ</u>, Gearing M, Crary JF, Kiely EJ, Morris M, White B, Glass JD, Farrell K, Gutman DA. __Acta Neuropathol Commun__. 2023 Dec 18.
       link: "https://doi.org/10.1186/s40478-023-01691-x"
-
-    - title: ChromaFactor- deconvolution of single-molecule chromatin organization with non-negative matrix factorization
-      excerpt: Gunsalus LM, <u>Keiser MJ</u>, Pollard KS. __bioRxiv__. 2023 Nov 22.
-      link: "https://doi.org/10.1101/2023.11.22.568268"
 
     - title: Autoregressive fragment-based diffusion for pocket-aware ligand design
       excerpt: Ghorbani M, Gendelev L, Beroza P, <u>Keiser MJ</u>. __arXiv - NeurIPS GenBio__. 2023 Nov 2.

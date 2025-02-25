@@ -11,6 +11,23 @@ intro:
     - title: Publications
 feature_row0:
 
+  - image_path: /assets/images/papers/10.1021.acs.jcim.4c01876.jpg
+    alt: >-
+        Fuzz Testing Molecular Representation Using Deep Variational Anomaly Generation
+    title: >-
+        <span itemprop="name">Fuzz Testing Molecular Representation Using Deep Variational Anomaly Generation</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>J Chem Inf Model</strong></span>. <span itemprop="datePublished">2025 Feb 24</span>. <span itemprop="author">Nogueira VHR, Sharma R, Guido RVC, Keiser MJ</span>.
+    url: "https://doi.org/10.1021/acs.jcim.4c01876"
+    doi: "10.1021/acs.jcim.4c01876"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.26434/chemrxiv-2024-ffcrs"
+    btn2_label: >-
+        chemRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
   - image_path: /assets/images/papers/bioRxiv.2025.02.04.636489.jpg
     alt: >-
         Network-aware self-supervised learning enables high-content phenotypic screening for genetic modifiers of neuronal activity dynamics
@@ -27,6 +44,25 @@ feature_row0:
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
+
+  - image_path: /assets/images/papers/10.1371.journal.pcbi.1012841.jpg
+    alt: >-
+        ChromaFactor: Deconvolution of single-molecule chromatin organization with non-negative matrix factorization
+    title: >-
+        <span itemprop="name">ChromaFactor: Deconvolution of single-molecule chromatin organization with non-negative matrix factorization</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>PLoS Comput Biol</strong></span>. <span itemprop="datePublished">2025 Feb</span>. <span itemprop="author">Gunsalus LM, Keiser MJ, Pollard KS</span>.
+    url: "https://doi.org/10.1371/journal.pcbi.1012841"
+    doi: "10.1371/journal.pcbi.1012841"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.1101/2023.11.22.568268"
+    btn2_label: >-
+        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
+feature_row1:
 
   - image_path: /assets/images/papers/chemRxiv.chemrxiv-2024-7p4ws.jpg
     alt: >-
@@ -62,8 +98,6 @@ feature_row0:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row1:
-
   - image_path: /assets/images/papers/bioRxiv.2024.10.23.619915.jpg
     alt: >-
         Evolutionary-scale enzymology enables biochemical constant prediction across a multi-peaked catalytic landscape
@@ -80,6 +114,8 @@ feature_row1:
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
+
+feature_row2:
 
   - image_path: /assets/images/papers/10.1021.acs.jcim.4c00683.jpg
     alt: >-
@@ -115,8 +151,6 @@ feature_row1:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row2:
-
   - image_path: /assets/images/papers/bioRxiv.2024.09.12.612732.jpg
     alt: >-
         Machine-learning convergent melanocytic morphology despite noisy archival slides
@@ -134,6 +168,8 @@ feature_row2:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
+feature_row3:
+
   - image_path: /assets/images/papers/10.1021.acs.jcim.4c00311.jpg
     alt: >-
         Proximity Graph Networks: Predicting Ligand Affinity with Message Passing Neural Networks
@@ -150,25 +186,6 @@ feature_row2:
     btn2_label: >-
         chemRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
-
-  - image_path: /assets/images/papers/chemRxiv.chemrxiv-2024-ffcrs.jpg
-    alt: >-
-        Fuzz testing molecular representation using deep variational anomaly generation
-    title: >-
-        <span itemprop="name">Fuzz testing molecular representation using deep variational anomaly generation</span>
-    excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>chemRxiv</strong></span>. <span itemprop="datePublished">2024 Jul 11</span>. <span itemprop="author">Nogueira VHR, Sharma R, Guido RVC, Keiser MJ</span>.
-    url: ""
-    doi: "10.26434/chemrxiv-2024-ffcrs"
-    btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
-    url2: "https://doi.org/10.26434/chemrxiv-2024-ffcrs"
-    btn2_label: >-
-        chemRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
-
-feature_row3:
 
   - image_path: /assets/images/papers/bioRxiv.2024.05.15.594372.jpg
     alt: >-
@@ -204,6 +221,8 @@ feature_row3:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
+feature_row4:
+
   - image_path: /assets/images/papers/10.1186.s40478-023-01691-x.jpg
     alt: >-
         Toward a generalizable machine learning workflow for neurodegenerative disease staging with focus on neurofibrillary tangles
@@ -216,25 +235,6 @@ feature_row3:
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-
-feature_row4:
-
-  - image_path: /assets/images/papers/bioRxiv.2023.11.22.568268.jpg
-    alt: >-
-        ChromaFactor: deconvolution of single-molecule chromatin organization with non-negative matrix factorization
-    title: >-
-        <span itemprop="name">ChromaFactor: deconvolution of single-molecule chromatin organization with non-negative matrix factorization</span>
-    excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2023 Nov 22</span>. <span itemprop="author">Gunsalus LM, Keiser MJ, Pollard KS</span>.
-    url: ""
-    doi: "10.1101/2023.11.22.568268"
-    btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
-    url2: "https://doi.org/10.1101/2023.11.22.568268"
-    btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
 
   - image_path: /assets/images/papers/arXiv_-_NeurIPS_GenBio.2401.05370.jpg
     alt: >-
