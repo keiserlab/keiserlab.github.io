@@ -3,8 +3,8 @@
 title: Jessica McKinley, PhD
 author: jessica_mckinley
 layout: author-bio
-jobtitle: Sr. Advisor, Computational Chemistry
-bio: Eli Lilly and Company
+jobtitle: Sr. Scientist Computational Chemistry
+bio: Septerna
 type: alumn
 excerpt: "CTSI TL1 Postdoctoral Fellow, 2019-2021. Jessica graduated from UC Riverside with a PhD in Computational/Theoretical Chemistry. She applied machine learning tec"
 header:
