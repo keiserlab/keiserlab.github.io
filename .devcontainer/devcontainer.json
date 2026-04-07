@@ -20,7 +20,7 @@
 	"customizations": {
 		"vscode": {
 			"settings": {
-				"terminal.integrated.shell.linux": "bash",
+				"terminal.integrated.defaultProfile.linux": "bash",
 				// Jekyll-specific file associations
 				"files.associations": {
 					"*.html": "jekyll",
@@ -28,7 +28,7 @@
   					"*.liquid": "liquid"
 				},
 				// Python settings
-				"python.defaultInterpreterPath": "/app/.venv/bin/python",
+				"python.defaultInterpreterPath": "/opt/venv/bin/python",
 				"python.analysis.typeCheckingMode": "basic",
 				"[python]": {
 					"editor.formatOnSave": true,
@@ -45,7 +45,6 @@
 					"**/_site/**": true
 				},
 
-				// claude sonnet 3.5 suggestion
 				"jekyll.enableSnippets": true,
 
 				// HTML Proofer configuration
@@ -57,8 +56,7 @@
 				"ms-python.python",
 				"ms-python.vscode-pylance",
 				"ms-python.black-formatter",
-				"Shopify.ruby-lsp",
-				"castwide.solargraph",
+				"anthropics.claude-code",
 				"sissel.shopify-liquid",
 				"redhat.vscode-yaml",
 				"esbenp.prettier-vscode",
