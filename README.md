@@ -18,6 +18,18 @@
 - check for dependency updates: `$ uv lock --upgrade`
   - if updated, include `uv.lock` in the git commit
 
+#### github cli
+- set `GH_TOKEN` on the host so it's available inside the container:
+  ```bash
+  export GH_TOKEN=$(gh auth token)
+  ```
+- add this to `~/.zshenv` (not `~/.zshrc`) so it's available during vscode devcontainer auto-rebuilds
+
+#### claude code
+- the vscode devcontainer auto-installs the Claude Code extension
+- or install the CLI directly: `curl -fsSL https://claude.ai/install.sh | sh`
+- set `ANTHROPIC_API_KEY` in your environment to authenticate
+
 ### rebuilds
 - force container rebuild with `$ docker-compose build --no-cache`
 
