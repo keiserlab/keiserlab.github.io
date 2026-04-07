@@ -56,7 +56,7 @@
 				"ms-python.python",
 				"ms-python.vscode-pylance",
 				"ms-python.black-formatter",
-				"anthropics.claude-code",
+				"anthropic.claude-code",
 				"sissel.shopify-liquid",
 				"redhat.vscode-yaml",
 				"esbenp.prettier-vscode",

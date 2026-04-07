@@ -27,7 +27,7 @@
 
 #### claude code
 - the vscode devcontainer auto-installs the Claude Code extension
-- or install the CLI directly: `curl -fsSL https://claude.ai/install.sh | sh`
+- or install the CLI directly: `curl -fsSL https://claude.ai/install.sh | bash`
 - set `ANTHROPIC_API_KEY` in your environment to authenticate
 
 ### rebuilds

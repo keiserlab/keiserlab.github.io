@@ -8,3 +8,10 @@ node_modules
 _asset_bundler_cache
 .ipynb_checkpoints
 .venv/
+
+# Claude Code (CLAUDE_CONFIG_DIR=./.claude)
+.claude/*
+!.claude/settings.json
+!.claude/commands/
+!.claude/hooks/
+!.claude/skills/
