@@ -6,7 +6,6 @@
 
 import argparse
 import os
-import unicodecsv
 import csv
 import datetime
 import itertools
