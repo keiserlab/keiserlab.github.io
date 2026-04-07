@@ -6,7 +6,6 @@ requires-python = ">=3.11"
 dependencies = [
     "biopython",
     "pyyaml",
-    "unicodecsv",
 ]
 
 [project.optional-dependencies]
