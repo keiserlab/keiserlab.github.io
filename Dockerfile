@@ -1,5 +1,5 @@
 # Dockerfile
-FROM ruby:3.1-slim AS builder
+FROM ruby:3.3-slim AS builder
 COPY --from=ghcr.io/astral-sh/uv:latest /uv /uvx /bin/
 
 # Install essential packages
@@ -36,7 +36,6 @@ ENV BUNDLE_PATH=/opt/vendor/bundle
 ENV BUNDLE_APP_CONFIG="$BUNDLE_PATH"
 COPY Gemfile Gemfile.lock ./
 
-# `bundle update` Gemfile.lock since we're not versioning it
 RUN gem install bundler && bundle install
 
 # Set final workdir for runtime
