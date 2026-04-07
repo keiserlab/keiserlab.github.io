@@ -117,7 +117,6 @@ author:
   foursquare       :
   github           :
   gitlab           :
-  google_plus      :
   keybase          :
   instagram        :
   lastfm           :
@@ -218,14 +217,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
 
 
 # Archives
