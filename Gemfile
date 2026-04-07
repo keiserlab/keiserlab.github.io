@@ -21,8 +21,6 @@ end
 # :development group - these gems are only installed when running in development
 # They won't be installed when deploying to GitHub Pages
 group :development do
-  gem "ruby-lsp"          # Language server (e.g., for vscode extensions)
   gem "html-proofer"      # Test your rendered HTML files
   gem "jekyll-compose"    # Jekyll commands to create posts/drafts
-  gem "solargraph"
 end
