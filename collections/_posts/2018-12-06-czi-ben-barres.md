@@ -4,26 +4,28 @@ title: "Lab receives CZI Ben Barres Early Career Acceleration Award"
 categories: news
 excerpt:
 tags:
-  - embeds
   - twitter
   - awards
 ---
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Extremely honored to join the <a href="https://twitter.com/hashtag/Neurodegeneration?src=hash&amp;ref_src=twsrc%5Etfw">#Neurodegeneration</a> Challenge Network as a <a href="https://twitter.com/cziscience?ref_src=twsrc%5Etfw">@cziscience</a> Ben Barres Investigator! We&#39;re working to decode how promising drug-like molecules battle <a href="https://twitter.com/hashtag/proteinopathies?src=hash&amp;ref_src=twsrc%5Etfw">#proteinopathies</a> using interpretable <a href="https://twitter.com/hashtag/DeepLearning?src=hash&amp;ref_src=twsrc%5Etfw">#DeepLearning</a>. <a href="https://twitter.com/hashtag/XAI?src=hash&amp;ref_src=twsrc%5Etfw">#XAI</a> <a href="https://twitter.com/hashtag/ML?src=hash&amp;ref_src=twsrc%5Etfw">#ML</a> <a href="https://t.co/oyaegfWBx4">https://t.co/oyaegfWBx4</a> <a href="https://t.co/JeT5CsWbVh">https://t.co/JeT5CsWbVh</a></p>&mdash; Keiser Lab (@keiser_lab) <a href="https://twitter.com/keiser_lab/status/1070842830611013633?ref_src=twsrc%5Etfw">December 7, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Extremely honored to join the [#Neurodegeneration](https://twitter.com/hashtag/Neurodegeneration) Challenge Network as a [@cziscience](https://twitter.com/cziscience) Ben Barres Investigator! We're working to decode how promising drug-like molecules battle [#proteinopathies](https://twitter.com/hashtag/proteinopathies) using interpretable [#DeepLearning](https://twitter.com/hashtag/DeepLearning). [#XAI](https://twitter.com/hashtag/XAI) [#ML](https://twitter.com/hashtag/ML) [http://bit.ly/2QjhA52](http://bit.ly/2QjhA52) 
+> We’re excited to announce the first grantees for our new Neurodegeneration Challenge Network! Learn about the winners of CZI’s Ben Barres Early Career Acceleration Awards and Collaborative Science Awards: [https://t.co/aw2Y170QRe](https://t.co/aw2Y170QRe) 
+> 
+> Pic of Ben Barres
+>
+> — biohub ([@biohub](https://twitter.com/biohub)), [December 5, 2018](https://x.com/cziscience/status/1070394335282135040)
+>
+> ![](/assets/images/posts/1070394335282135040-quoted.jpg)
 
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2';
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+[Original post (@keiser_lab)](https://twitter.com/keiser_lab/status/1070842830611013633)
 
-<div class="fb-post" data-href="https://www.facebook.com/priscilla/posts/10105559605258291" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/priscilla/posts/10105559605258291" class="fb-xfbml-parse-ignore"><p>Congratulations and a warm welcome to the recipients of the Chan Zuckerberg Initiative&#039;s Neurodegeneration Challenge...</p>Posted by <a href="https://www.facebook.com/priscilla">Priscilla Chan</a> on&nbsp;<a href="https://www.facebook.com/priscilla/posts/10105559605258291">Wednesday, December 5, 2018</a></blockquote></div>
+> Congratulations and a warm welcome to the recipients of the Chan Zuckerberg Initiative's Neurodegeneration Challenge...
+>
+> — Priscilla Chan, [Facebook post](https://www.facebook.com/priscilla/posts/10105559605258291)
 
-<div class="fb-post" data-href="https://www.facebook.com/coribargmannscience/posts/2170182739667880" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/coribargmannscience/posts/2170182739667880" class="fb-xfbml-parse-ignore"><p>Almost all of us know someone who has been affected by a neurodegenerative disease like Alzheimer’s or Parkinson’s....</p>Posted by <a href="https://www.facebook.com/coribargmannscience/">Cori Bargmann</a> on&nbsp;<a href="https://www.facebook.com/coribargmannscience/posts/2170182739667880">Wednesday, December 5, 2018</a></blockquote></div>
+> Almost all of us know someone who has been affected by a neurodegenerative disease like Alzheimer’s or Parkinson’s....
+>
+> — Cori Bargmann, [Facebook post](https://www.facebook.com/coribargmannscience/posts/2170182739667880)
 
 ---
 
