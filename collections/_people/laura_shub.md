@@ -10,17 +10,21 @@ excerpt: "Grad Student, 2019-2024. Laura studied biochemistry and computer scien
 header:
   teaser: /assets/images/people/bio-shub.jpg
 papers: 
-    - title: Autoparty- Machine learning-guided visual inspection of molecular docking results
-      excerpt: <u>Shub L</u>, Korczynska M, Muir DF, Lin F-Y, Mathiowetz AM, Keiser MJ. __chemRxiv__. 2024 Dec 09.
-      link: "https://doi.org/10.26434/chemrxiv-2024-7p4ws"
+    - title: The polypharmacology of psychedelics reveals multiple targets for potential therapeutics
+      excerpt: Jain MK, Gumpper RH, Slocum ST, Schmitz GP, Madsen JS, Tummino TA, Suomivuori CM, Huang XP, <u>Shub L</u>, DiBerto JF, Kim K, DeLeon C, Krumm BE, Fay JF, Keiser M, Hauser AS, Dror RO, Shoichet B, Gloriam DE, Nichols DE, Roth BL. __Neuron__. 2025 Oct 1.
+      link: "https://doi.org/10.1016/j.neuron.2025.06.012"
+
+    - title: Autoparty- Machine Learning-Guided Visual Inspection of Molecular Docking Results
+      excerpt: <u>Shub L</u>, Korczynska M, Muir DF, Lin FY, Hall BW, Mathiowetz AM, Keiser MJ. __J Chem Inf Model__. 2025 Aug 11.
+      link: "https://doi.org/10.1021/acs.jcim.5c00850"
+
+    - title: MIC- A deep learning tool for assigning ions and waters in cryo-EM and crystal structures
+      excerpt: <u>Shub L</u>, Liu W, Skiniotis G, Keiser MJ, Robertson MJ. __Nat Commun__. 2025 Jul 4.
+      link: "https://doi.org/10.1038/s41467-025-61315-x"
 
     - title: Proximity Graph Networks- Predicting Ligand Affinity with Message Passing Neural Networks
       excerpt: Gale-Day ZJ, <u>Shub L</u>, Chuang KV, Keiser MJ. __J Chem Inf Model__. 2024 Jul 22.
       link: "https://doi.org/10.1021/acs.jcim.4c00311"
-
-    - title: Metric Ion Classification (MIC)- A deep learning tool for assigning ions and waters in cryo-EM and x-ray crystallography structures
-      excerpt: <u>Shub L</u>, Liu W, Skiniotis G, Keiser MJ, Robertson MJ. __bioRxiv__. 2024 Mar 19.
-      link: "https://doi.org/10.1101/2024.03.18.585639"
 
     - title: Prioritizing Virtual Screening with Interpretable Interaction Fingerprints
       excerpt: Fassio AV, <u>Shub L</u>, Ponzoni L, McKinley J, O'Meara MJ, Ferreira RS, Keiser MJ, de Melo Minardi RC. __J Chem Inf Model__. 2022 Sep 26.

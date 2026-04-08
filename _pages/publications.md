@@ -11,6 +11,138 @@ intro:
     - title: Publications
 feature_row0:
 
+  - image_path: /assets/images/papers/10.1016.j.neuron.2025.06.014.jpg
+    alt: >-
+        Accelerating biomedical discoveries in brain health through transformative neuropathology of aging and neurodegeneration
+    title: >-
+        <span itemprop="name">Accelerating biomedical discoveries in brain health through transformative neuropathology of aging and neurodegeneration</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Neuron</strong></span>. <span itemprop="datePublished">2025 Nov 19</span>. <span itemprop="author">Murray ME, Smith C, Menon V, ..., Vogel JW, Dugger BN, Phatnani H</span>.
+    url: "https://doi.org/10.1016/j.neuron.2025.06.014"
+    doi: "10.1016/j.neuron.2025.06.014"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/papers/10.1016.j.crmeth.2025.101201.jpg
+    alt: >-
+        Deep learning finds convergent melanocytic morphology despite noisy archival slides
+    title: >-
+        <span itemprop="name">Deep learning finds convergent melanocytic morphology despite noisy archival slides</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Cell Rep Methods</strong></span>. <span itemprop="datePublished">2025 Oct 20</span>. <span itemprop="author">Tada M, Gaskins G, Ghandian S, Mew N, Keiser MJ, Keiser ES</span>.
+    url: "https://doi.org/10.1016/j.crmeth.2025.101201"
+    doi: "10.1016/j.crmeth.2025.101201"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.1101/2024.09.12.612732"
+    btn2_label: >-
+        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
+  - image_path: /assets/images/papers/10.1016.j.cell.2025.06.035.jpg
+    alt: >-
+        Cell-type-directed network-correcting combination therapy for Alzheimer's disease
+    title: >-
+        <span itemprop="name">Cell-type-directed network-correcting combination therapy for Alzheimer's disease</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Cell</strong></span>. <span itemprop="datePublished">2025 Oct 2</span>. <span itemprop="author">Li Y, Pereda Serras C, Blumenfeld J, ..., Keiser MJ, Huang Y, Sirota M</span>.
+    url: "https://doi.org/10.1016/j.cell.2025.06.035"
+    doi: "10.1016/j.cell.2025.06.035"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.1101/2024.12.09.627436"
+    btn2_label: >-
+        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
+feature_row1:
+
+  - image_path: /assets/images/papers/10.1016.j.neuron.2025.06.012.jpg
+    alt: >-
+        The polypharmacology of psychedelics reveals multiple targets for potential therapeutics
+    title: >-
+        <span itemprop="name">The polypharmacology of psychedelics reveals multiple targets for potential therapeutics</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Neuron</strong></span>. <span itemprop="datePublished">2025 Oct 1</span>. <span itemprop="author">Jain MK, Gumpper RH, Slocum ST, ..., Gloriam DE, Nichols DE, Roth BL</span>.
+    url: "https://doi.org/10.1016/j.neuron.2025.06.012"
+    doi: "10.1016/j.neuron.2025.06.012"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/papers/10.1021.acs.jcim.5c00850.jpg
+    alt: >-
+        Autoparty: Machine Learning-Guided Visual Inspection of Molecular Docking Results
+    title: >-
+        <span itemprop="name">Autoparty: Machine Learning-Guided Visual Inspection of Molecular Docking Results</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>J Chem Inf Model</strong></span>. <span itemprop="datePublished">2025 Aug 11</span>. <span itemprop="author">Shub L, Korczynska M, Muir DF, Lin FY, Hall BW, Mathiowetz AM, Keiser MJ</span>.
+    url: "https://doi.org/10.1021/acs.jcim.5c00850"
+    doi: "10.1021/acs.jcim.5c00850"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.26434/chemrxiv-2024-7p4ws"
+    btn2_label: >-
+        chemRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
+  - image_path: /assets/images/papers/10.1038.s41467-025-61315-x.jpg
+    alt: >-
+        MIC: A deep learning tool for assigning ions and waters in cryo-EM and crystal structures
+    title: >-
+        <span itemprop="name">MIC: A deep learning tool for assigning ions and waters in cryo-EM and crystal structures</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nat Commun</strong></span>. <span itemprop="datePublished">2025 Jul 4</span>. <span itemprop="author">Shub L, Liu W, Skiniotis G, Keiser MJ, Robertson MJ</span>.
+    url: "https://doi.org/10.1038/s41467-025-61315-x"
+    doi: "10.1038/s41467-025-61315-x"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.1101/2024.03.18.585639"
+    btn2_label: >-
+        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
+feature_row2:
+
+  - image_path: /assets/images/papers/10.1126.science.adu1058.jpg
+    alt: >-
+        Evolutionary-scale enzymology enables exploration of a rugged catalytic landscape
+    title: >-
+        <span itemprop="name">Evolutionary-scale enzymology enables exploration of a rugged catalytic landscape</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Science</strong></span>. <span itemprop="datePublished">2025 Jun 12</span>. <span itemprop="author">Muir DF, Asper GPR, Notin P, Posner JA, Marks DS, Keiser MJ, Pinney MM</span>.
+    url: "https://doi.org/10.1126/science.adu1058"
+    doi: "10.1126/science.adu1058"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.1101/2024.10.23.619915"
+    btn2_label: >-
+        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
+  - image_path: /assets/images/papers/bioRxiv.2025.06.02.657515.jpg
+    alt: >-
+        An improved model for prediction of de novo designed proteins with diverse geometries
+    title: >-
+        <span itemprop="name">An improved model for prediction of de novo designed proteins with diverse geometries</span>
+    excerpt: >-
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2025 Jun 06</span>. <span itemprop="author">Orr B, Crilly SE, Akpinaroglu D, Zhu E, Keiser MJ, Kortemme T</span>.
+    url: ""
+    doi: "10.1101/2025.06.02.657515"
+    btn_label: >-
+        doi &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn_class: "btn--primary"
+    url2: "https://doi.org/10.1101/2025.06.02.657515"
+    btn2_label: >-
+        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
+    btn2_class: "btn--info"
+
   - image_path: /assets/images/papers/10.1021.acs.jcim.4c01876.jpg
     alt: >-
         Fuzz Testing Molecular Representation Using Deep Variational Anomaly Generation
@@ -28,22 +160,7 @@ feature_row0:
         chemRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-  - image_path: /assets/images/papers/bioRxiv.2025.02.04.636489.jpg
-    alt: >-
-        Network-aware self-supervised learning enables high-content phenotypic screening for genetic modifiers of neuronal activity dynamics
-    title: >-
-        <span itemprop="name">Network-aware self-supervised learning enables high-content phenotypic screening for genetic modifiers of neuronal activity dynamics</span>
-    excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2025 Feb 05</span>. <span itemprop="author">Grosjean P, Shevade K, Nguyen C, Ancheta S, Mader K, Franco I, Heo SJ, Lewis G, Boggess S, De Domenico A, Ullian E, Shafer S, Litterman A, Przybyla L, Keiser MJ, Ifkovits J, Yala A, Kampmann N</span>.
-    url: ""
-    doi: "10.1101/2025.02.04.636489"
-    btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
-    url2: "https://doi.org/10.1101/2025.02.04.636489"
-    btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+feature_row3:
 
   - image_path: /assets/images/papers/10.1371.journal.pcbi.1012841.jpg
     alt: >-
@@ -60,25 +177,6 @@ feature_row0:
     url2: "https://doi.org/10.1101/2023.11.22.568268"
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
-
-feature_row1:
-
-  - image_path: /assets/images/papers/chemRxiv.chemrxiv-2024-7p4ws.jpg
-    alt: >-
-        Autoparty: Machine learning-guided visual inspection of molecular docking results
-    title: >-
-        <span itemprop="name">Autoparty: Machine learning-guided visual inspection of molecular docking results</span>
-    excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>chemRxiv</strong></span>. <span itemprop="datePublished">2024 Dec 09</span>. <span itemprop="author">Shub L, Korczynska M, Muir DF, Lin F-Y, Mathiowetz AM, Keiser MJ</span>.
-    url: ""
-    doi: "10.26434/chemrxiv-2024-7p4ws"
-    btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
-    url2: "https://doi.org/10.26434/chemrxiv-2024-7p4ws"
-    btn2_label: >-
-        chemRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
   - image_path: /assets/images/papers/10.1038.s41467-024-54375-y.jpg
@@ -98,25 +196,6 @@ feature_row1:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-  - image_path: /assets/images/papers/bioRxiv.2024.10.23.619915.jpg
-    alt: >-
-        Evolutionary-scale enzymology enables biochemical constant prediction across a multi-peaked catalytic landscape
-    title: >-
-        <span itemprop="name">Evolutionary-scale enzymology enables biochemical constant prediction across a multi-peaked catalytic landscape</span>
-    excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2024 Oct 25</span>. <span itemprop="author">Muir DF, Asper GPR, Notin P, Posner JA, Marks DS, Keiser MJ, Pinney MM</span>.
-    url: ""
-    doi: "10.1101/2024.10.23.619915"
-    btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
-    url2: "https://doi.org/10.1101/2024.10.23.619915"
-    btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
-
-feature_row2:
-
   - image_path: /assets/images/papers/10.1021.acs.jcim.4c00683.jpg
     alt: >-
         Retrieval Augmented Docking Using Hierarchical Navigable Small Worlds
@@ -134,6 +213,8 @@ feature_row2:
         chemRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
+feature_row4:
+
   - image_path: /assets/images/papers/10.1038.s42003-024-06865-4.jpg
     alt: >-
         Learning chemical sensitivity reveals mechanisms of cellular response
@@ -150,25 +231,6 @@ feature_row2:
     btn2_label: >-
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
-
-  - image_path: /assets/images/papers/bioRxiv.2024.09.12.612732.jpg
-    alt: >-
-        Machine-learning convergent melanocytic morphology despite noisy archival slides
-    title: >-
-        <span itemprop="name">Machine-learning convergent melanocytic morphology despite noisy archival slides</span>
-    excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2024 Sep 12</span>. <span itemprop="author">Tada M, Gaskins G, Ghandian S, Mew N, Keiser MJ, Keiser ES</span>.
-    url: ""
-    doi: "10.1101/2024.09.12.612732"
-    btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
-    url2: "https://doi.org/10.1101/2024.09.12.612732"
-    btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
-
-feature_row3:
 
   - image_path: /assets/images/papers/10.1021.acs.jcim.4c00311.jpg
     alt: >-
@@ -193,7 +255,7 @@ feature_row3:
     title: >-
         <span itemprop="name">Learning precise segmentation of neurofibrillary tangles from rapid manual point annotations</span>
     excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2024 May 15</span>. <span itemprop="author">Ghandian S, Albarghouthi L, Nava K, Sharma SRR, Minaud L, Beckett L, Saito N, DeCarli C, Rissman RA, Teich AF, Jin LW, Dugger BN, Keiser MJ</span>.
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2024 May 15</span>. <span itemprop="author">Ghandian S, Albarghouthi L, Nava K, ..., Jin LW, Dugger BN, Keiser MJ</span>.
     url: ""
     doi: "10.1101/2024.05.15.594372"
     btn_label: >-
@@ -204,24 +266,7 @@ feature_row3:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-  - image_path: /assets/images/papers/bioRxiv.024.03.18.585639.jpg
-    alt: >-
-        Metric Ion Classification (MIC): A deep learning tool for assigning ions and waters in cryo-EM and x-ray crystallography structures
-    title: >-
-        <span itemprop="name">Metric Ion Classification (MIC): A deep learning tool for assigning ions and waters in cryo-EM and x-ray crystallography structures</span>
-    excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2024 Mar 19</span>. <span itemprop="author">Shub L, Liu W, Skiniotis G, Keiser MJ, Robertson MJ</span>.
-    url: ""
-    doi: "10.1101/2024.03.18.585639"
-    btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
-    url2: "https://doi.org/10.1101/2024.03.18.585639"
-    btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
-
-feature_row4:
+feature_row5:
 
   - image_path: /assets/images/papers/10.1186.s40478-023-01691-x.jpg
     alt: >-
@@ -229,7 +274,7 @@ feature_row4:
     title: >-
         <span itemprop="name">Toward a generalizable machine learning workflow for neurodegenerative disease staging with focus on neurofibrillary tangles</span>
     excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Acta Neuropathol Commun</strong></span>. <span itemprop="datePublished">2023 Dec 18</span>. <span itemprop="author">Vizcarra JC, Pearce TM, Dugger BN, Keiser MJ, Gearing M, Crary JF, Kiely EJ, Morris M, White B, Glass JD, Farrell K, Gutman DA</span>.
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Acta Neuropathol Commun</strong></span>. <span itemprop="datePublished">2023 Dec 18</span>. <span itemprop="author">Vizcarra JC, Pearce TM, Dugger BN, ..., Glass JD, Farrell K, Gutman DA</span>.
     url: "https://doi.org/10.1186/s40478-023-01691-x"
     doi: "10.1186/s40478-023-01691-x"
     btn_label: >-
@@ -270,7 +315,7 @@ feature_row4:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row5:
+feature_row6:
 
   - image_path: /assets/images/papers/10.1038.s42003-023-05031-6.jpg
     alt: >-
@@ -278,7 +323,7 @@ feature_row5:
     title: >-
         <span itemprop="name">Learning fast and fine-grained detection of amyloid neuropathologies from coarse-grained expert labels</span>
     excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Commun Biol</strong></span>. <span itemprop="datePublished">2023 Jun 24</span>. <span itemprop="author">Wong DR, Magaki SD, Vinters HV, Yong WH, Monuki ES, Williams CK, Martini AC, DeCarli C, Khacherian C, Graff JP, Dugger BN, Keiser MJ</span>.
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Commun Biol</strong></span>. <span itemprop="datePublished">2023 Jun 24</span>. <span itemprop="author">Wong DR, Magaki SD, Vinters HV, ..., Graff JP, Dugger BN, Keiser MJ</span>.
     url: "https://doi.org/10.1038/s42003-023-05031-6"
     doi: "10.1038/s42003-023-05031-6"
     btn_label: >-
@@ -323,7 +368,7 @@ feature_row5:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row6:
+feature_row7:
 
   - image_path: /assets/images/papers/bioRxiv.2020.01.01.891432.jpg
     alt: >-
@@ -331,7 +376,7 @@ feature_row6:
     title: >-
         <span itemprop="name">Simultaneous analysis of neuroactive compounds in zebrafish</span>
     excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2022 Jun 15</span>. <span itemprop="author">Myers-Turnbull D, Taylor JC, Helsell C, McCarroll MN, Ki CS, Tummino TA, Ravikumar S, Kinser R, Gendelev L, Alexander R, Keiser MJ, Kokel D</span>.
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>bioRxiv</strong></span>. <span itemprop="datePublished">2022 Jun 15</span>. <span itemprop="author">Myers-Turnbull D, Taylor JC, Helsell C, ..., Alexander R, Keiser MJ, Kokel D</span>.
     url: ""
     doi: "10.1101/2020.01.01.891432"
     btn_label: >-
@@ -348,7 +393,7 @@ feature_row6:
     title: >-
         <span itemprop="name">Trans-channel fluorescence learning improves high-content screening for Alzheimer's disease therapeutics</span>
     excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nat Mach Intell</strong></span>. <span itemprop="datePublished">2022 Jun</span>. <span itemprop="author">Wong DR, Conrad J, Johnson N, Ayers J, Laeremans A, Lee JC, Lee J, Prusiner SB, Bandyopadhyay S, Butte AJ, Paras NA, Keiser MJ</span>.
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nat Mach Intell</strong></span>. <span itemprop="datePublished">2022 Jun</span>. <span itemprop="author">Wong DR, Conrad J, Johnson N, ..., Butte AJ, Paras NA, Keiser MJ</span>.
     url: "https://doi.org/10.1038/s42256-022-00490-8"
     doi: "10.1038/s42256-022-00490-8"
     btn_label: >-
@@ -365,7 +410,7 @@ feature_row6:
     title: >-
         <span itemprop="name">Deep learning from multiple experts improves identification of amyloid neuropathologies</span>
     excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Acta Neuropathol Commun</strong></span>. <span itemprop="datePublished">2022 Apr 28</span>. <span itemprop="author">Wong DR, Tang Z, Mew NC, Das S, Athey J, McAleese KE, Kofler JK, Flanagan ME, Borys E, White CL 3rd, Butte AJ, Dugger BN, Keiser MJ</span>.
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Acta Neuropathol Commun</strong></span>. <span itemprop="datePublished">2022 Apr 28</span>. <span itemprop="author">Wong DR, Tang Z, Mew NC, ..., Butte AJ, Dugger BN, Keiser MJ</span>.
     url: "https://doi.org/10.1186/s40478-022-01365-0"
     doi: "10.1186/s40478-022-01365-0"
     btn_label: >-
@@ -376,7 +421,7 @@ feature_row6:
         bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row7:
+feature_row8:
 
   - image_path: /assets/images/papers/10.1038.s41746-020-00380-6.jpg
     alt: >-
@@ -384,7 +429,7 @@ feature_row7:
     title: >-
         <span itemprop="name">Stress testing reveals gaps in clinic readiness of image-based diagnostic artificial intelligence models</span>
     excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>NPJ Digit Med</strong></span>. <span itemprop="datePublished">2021 Jan 21</span>. <span itemprop="author">Young AT, Fernandez K, Pfau J, Reddy R, Cao NA, von Franque MY, Johal A, Wu BV, Wu RR, Chen JY, Fadadu RP, Vasquez JA, Tam A, Keiser MJ, Wei ML</span>.
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>NPJ Digit Med</strong></span>. <span itemprop="datePublished">2021 Jan 21</span>. <span itemprop="author">Young AT, Fernandez K, Pfau J, ..., Tam A, Keiser MJ, Wei ML</span>.
     url: "https://doi.org/10.1038/s41746-020-00380-6"
     doi: "10.1038/s41746-020-00380-6"
     btn_label: >-
@@ -425,7 +470,7 @@ feature_row7:
         bioRxiv - NeurIPS LMRL &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row8:
+feature_row9:
 
   - image_path: /assets/images/papers/arXiv_-_NeurIPS_ML4Molecules.2011.1282.jpg
     alt: >-
@@ -470,7 +515,7 @@ feature_row8:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row9:
+feature_row10:
 
   - image_path: /assets/images/papers/arXiv_-_ICML_-_WHI.2104.02768.jpg
     alt: >-
@@ -519,7 +564,7 @@ feature_row9:
         arXiv - NeurIPS ML4H &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 
-feature_row10:
+feature_row11:
 
   - image_path: /assets/images/papers/10.1038.s41467-019-11936-w.jpg
     alt: >-
@@ -527,7 +572,7 @@ feature_row10:
     title: >-
         <span itemprop="name">Zebrafish behavioural profiling identifies GABA and serotonin receptor ligands related to sedation and paradoxical excitation</span>
     excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nat Commun</strong></span>. <span itemprop="datePublished">2019 Sep 9</span>. <span itemprop="author">McCarroll MN, Gendelev L, Kinser R, Taylor J, Bruni G, Myers-Turnbull D, Helsell C, Carbajal A, Rinaldi C, Kang HJ, Gong JH, Sello JK, Tomita S, Peterson RT, Keiser MJ, Kokel D</span>.
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nat Commun</strong></span>. <span itemprop="datePublished">2019 Sep 9</span>. <span itemprop="author">McCarroll MN, Gendelev L, Kinser R, ..., Peterson RT, Keiser MJ, Kokel D</span>.
     url: "https://doi.org/10.1038/s41467-019-11936-w"
     doi: "10.1038/s41467-019-11936-w"
     btn_label: >-
@@ -564,7 +609,7 @@ feature_row10:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row11:
+feature_row12:
 
   - image_path: /assets/images/papers/10.1021.acschembio.8b00881.jpg
     alt: >-
@@ -585,7 +630,7 @@ feature_row11:
     title: >-
         <span itemprop="name">The Psychiatric Cell Map Initiative: A Convergent Systems Biological Approach to Illuminating Key Molecular Pathways in Neuropsychiatric Disorders</span>
     excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Cell</strong></span>. <span itemprop="datePublished">2018 Jul 26</span>. <span itemprop="author">Willsey AJ, Morris MT, Wang S, Willsey HR, Sun N, Teerikorpi N, Baum TB, Cagney G, Bender KJ, Desai TA, Srivastava D, Davis GW, Doudna J, Chang E, Sohal V, Lowenstein DH, Li H, Agard D, Keiser MJ, Shoichet B, von Zastrow M, Mucke L, Finkbeiner S, Gan L, Sestan N, Ward ME, Huttenhain R, Nowakowski TJ, Bellen HJ, Frank LM, Khokha MK, Lifton RP, Kampmann M, Ideker T, State MW, Krogan NJ</span>.
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Cell</strong></span>. <span itemprop="datePublished">2018 Jul 26</span>. <span itemprop="author">Willsey AJ, Morris MT, Wang S, ..., Ideker T, State MW, Krogan NJ</span>.
     url: "https://doi.org/10.1016/j.cell.2018.06.016"
     doi: "10.1016/j.cell.2018.06.016"
     btn_label: >-
@@ -609,7 +654,7 @@ feature_row11:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row12:
+feature_row13:
 
   - image_path: /assets/images/papers/10.1016.j.celrep.2017.10.026.jpg
     alt: >-
@@ -617,7 +662,7 @@ feature_row12:
     title: >-
         <span itemprop="name">Evolutionarily Conserved Roles for Blood-Brain Barrier Xenobiotic Transporters in Endogenous Steroid Partitioning and Behavior</span>
     excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Cell Rep</strong></span>. <span itemprop="datePublished">2017 Oct 31</span>. <span itemprop="author">Hindle SJ, Munji RN, Dolghih E, Gaskins G, Orng S, Ishimoto H, Soung A, DeSalvo M, Kitamoto T, Keiser MJ, Jacobson MP, Daneman R, Bainton RJ</span>.
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Cell Rep</strong></span>. <span itemprop="datePublished">2017 Oct 31</span>. <span itemprop="author">Hindle SJ, Munji RN, Dolghih E, ..., Jacobson MP, Daneman R, Bainton RJ</span>.
     url: "https://doi.org/10.1016/j.celrep.2017.10.026"
     doi: "10.1016/j.celrep.2017.10.026"
     btn_label: >-
@@ -651,14 +696,14 @@ feature_row12:
     title: >-
         <span itemprop="name">Zebrafish behavioral profiling identifies multitarget antipsychotic-like compounds</span>
     excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nat Chem Biol</strong></span>. <span itemprop="datePublished">2016 Jul</span>. <span itemprop="author">Bruni G, Rennekamp AJ, Velenich A, McCarroll M, Gendelev L, Fertsch E, Taylor J, Lakhani P, Lensen D, Evron T, Lorello PJ, Huang XP, Kolczewski S, Carey G, Caldarone BJ, Prinssen E, Roth BL, Keiser MJ, Peterson RT, Kokel D</span>.
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nat Chem Biol</strong></span>. <span itemprop="datePublished">2016 Jul</span>. <span itemprop="author">Bruni G, Rennekamp AJ, Velenich A, ..., Keiser MJ, Peterson RT, Kokel D</span>.
     url: "https://doi.org/10.1038/nchembio.2097"
     doi: "10.1038/nchembio.2097"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row13:
+feature_row14:
 
   - image_path: /assets/images/papers/10.1021.acschembio.5b00800.jpg
     alt: >-
@@ -679,7 +724,7 @@ feature_row13:
     title: >-
         <span itemprop="name">Polygenic overlap between schizophrenia risk and antipsychotic response: a genomic medicine approach</span>
     excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Lancet Psychiatry</strong></span>. <span itemprop="datePublished">2016 Apr</span>. <span itemprop="author">Ruderfer DM, Charney AW, Readhead B, Kidd BA, Kahler AK, Kenny PJ, Keiser MJ, Moran JL, Hultman CM, Scott SA, Sullivan PF, Purcell SM, Dudley JT, Sklar P</span>.
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Lancet Psychiatry</strong></span>. <span itemprop="datePublished">2016 Apr</span>. <span itemprop="author">Ruderfer DM, Charney AW, Readhead B, ..., Purcell SM, Dudley JT, Sklar P</span>.
     url: "https://doi.org/10.1016/S2215-0366(15)00553-2"
     doi: "10.1016/S2215-0366(15)00553-2"
     btn_label: >-
@@ -699,7 +744,7 @@ feature_row13:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row14:
+feature_row15:
 
   - image_path: /assets/images/papers/10.1002.cpt.2.jpg
     alt: >-
@@ -733,14 +778,14 @@ feature_row14:
     title: >-
         <span itemprop="name">Large-scale prediction and testing of drug activity on side-effect targets</span>
     excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nature</strong></span>. <span itemprop="datePublished">2012 Jun 10</span>. <span itemprop="author">Lounkine E, Keiser MJ, Whitebread S, Mikhailov D, Hamon J, Jenkins JL, Lavan P, Weber E, Doak AK, Cote S, Shoichet BK, Urban L</span>.
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nature</strong></span>. <span itemprop="datePublished">2012 Jun 10</span>. <span itemprop="author">Lounkine E, Keiser MJ, Whitebread S, ..., Cote S, Shoichet BK, Urban L</span>.
     url: "https://doi.org/10.1038/nature11159"
     doi: "10.1038/nature11159"
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row15:
+feature_row16:
 
   - image_path: /assets/images/papers/10.1038.nchembio.732.jpg
     alt: >-
@@ -748,7 +793,7 @@ feature_row15:
     title: >-
         <span itemprop="name">Chemical informatics and target identification in a zebrafish phenotypic screen</span>
     excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nat Chem Biol</strong></span>. <span itemprop="datePublished">2011 Dec 18</span>. <span itemprop="author">Laggner C, Kokel D, Setola V, Tolia A, Lin H, Irwin JJ, Keiser MJ, Cheung CY, Minor DL Jr, Roth BL, Peterson RT, Shoichet BK</span>.
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nat Chem Biol</strong></span>. <span itemprop="datePublished">2011 Dec 18</span>. <span itemprop="author">Laggner C, Kokel D, Setola V, ..., Roth BL, Peterson RT, Shoichet BK</span>.
     url: "https://doi.org/10.1038/nchembio.732"
     doi: "10.1038/nchembio.732"
     btn_label: >-
@@ -761,7 +806,7 @@ feature_row15:
     title: >-
         <span itemprop="name">The presynaptic component of the serotonergic system is required for clozapine's efficacy</span>
     excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Neuropsychopharmacology</strong></span>. <span itemprop="datePublished">2011 Feb</span>. <span itemprop="author">Yadav PN, Abbas AI, Farrell MS, Setola V, Sciaky N, Huang XP, Kroeze WK, Crawford LK, Piel DA, Keiser MJ, Irwin JJ, Shoichet BK, Deneris ES, Gingrich J, Beck SG, Roth BL</span>.
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Neuropsychopharmacology</strong></span>. <span itemprop="datePublished">2011 Feb</span>. <span itemprop="author">Yadav PN, Abbas AI, Farrell MS, ..., Gingrich J, Beck SG, Roth BL</span>.
     url: "https://doi.org/10.1038/npp.2010.195"
     doi: "10.1038/npp.2010.195"
     btn_label: >-
@@ -781,7 +826,7 @@ feature_row15:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row16:
+feature_row17:
 
   - image_path: /assets/images/papers/10.1021.jm100488w.jpg
     alt: >-
@@ -822,7 +867,7 @@ feature_row16:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row17:
+feature_row18:
 
   - image_path: /assets/images/papers/10.1038.nature08506.jpg
     alt: >-
@@ -830,7 +875,7 @@ feature_row17:
     title: >-
         <span itemprop="name">Predicting new molecular targets for known drugs</span>
     excerpt: >-
-        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nature</strong></span>. <span itemprop="datePublished">2009 Nov 12</span>. <span itemprop="author">Keiser MJ, Setola V, Irwin JJ, Laggner C, Abbas AI, Hufeisen SJ, Jensen NH, Kuijer MB, Matos RC, Tran TB, Whaley R, Glennon RA, Hert J, Thomas KL, Edwards DD, Shoichet BK, Roth BL</span>.
+        <span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>Nature</strong></span>. <span itemprop="datePublished">2009 Nov 12</span>. <span itemprop="author">Keiser MJ, Setola V, Irwin JJ, ..., Edwards DD, Shoichet BK, Roth BL</span>.
     url: "https://doi.org/10.1038/nature08506"
     doi: "10.1038/nature08506"
     btn_label: >-
@@ -863,7 +908,7 @@ feature_row17:
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
 
-feature_row18:
+feature_row19:
 
   - image_path: /assets/images/papers/10.1007.978-1-60761-274-2_8.jpg
     alt: >-
@@ -983,3 +1028,7 @@ feature_row18:
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 {% include feature_row_paper.html id="feature_row18" %}
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+{% include feature_row_paper.html id="feature_row19" %}

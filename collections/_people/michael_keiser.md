@@ -10,29 +10,45 @@ excerpt: "<p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and
 header:
   teaser: /assets/images/people/bio-keiser.jpg
 papers: 
+    - title: Accelerating biomedical discoveries in brain health through transformative neuropathology of aging and neurodegeneration
+      excerpt: Murray ME, Smith C, Menon V, Keene CD, Lein E, Hawrylycz M, Aguzzi A, Benedetti B, Brose K, Caetano-Anolles K, Sillero MIC, Crary JF, De Jager PL, Faustin A, Flanagan ME, Gokce O, Grant SGN, Grinberg LT, Gutman DA, Hillman EMC, Huang Z, Irwin DJ, Jones DT, Kapasi A, Karch CM, Kukull WT, Lashley T, Lee EB, Lehner T, Parkkinen L, Pedersen M, Pritchett D, Rutledge MH, Schneider JA, Seeley WW, Shepherd CE, Spires-Jones TL, Steen JA, Sutherland M, Vickovic S, Zhang B, Stewart DJ, <u>Keiser MJ</u>, Vogel JW, Dugger BN, Phatnani H. __Neuron__. 2025 Nov 19.
+      link: "https://doi.org/10.1016/j.neuron.2025.06.014"
+
+    - title: Deep learning finds convergent melanocytic morphology despite noisy archival slides
+      excerpt: Tada M, Gaskins G, Ghandian S, Mew N, <u>Keiser MJ</u>, Keiser ES. __Cell Rep Methods__. 2025 Oct 20.
+      link: "https://doi.org/10.1016/j.crmeth.2025.101201"
+
+    - title: Cell-type-directed network-correcting combination therapy for Alzheimer's disease
+      excerpt: Li Y, Pereda Serras C, Blumenfeld J, Xie M, Hao Y, Deng E, Chun YY, Holtzman J, An A, Yoon SY, Tang X, Rao A, Woldemariam S, Tang A, Zhang A, Simms J, Lo I, Oskotsky T, <u>Keiser MJ</u>, Huang Y, Sirota M. __Cell__. 2025 Oct 2.
+      link: "https://doi.org/10.1016/j.cell.2025.06.035"
+
+    - title: Autoparty- Machine Learning-Guided Visual Inspection of Molecular Docking Results
+      excerpt: Shub L, Korczynska M, Muir DF, Lin FY, Hall BW, Mathiowetz AM, <u>Keiser MJ</u>. __J Chem Inf Model__. 2025 Aug 11.
+      link: "https://doi.org/10.1021/acs.jcim.5c00850"
+
+    - title: MIC- A deep learning tool for assigning ions and waters in cryo-EM and crystal structures
+      excerpt: Shub L, Liu W, Skiniotis G, <u>Keiser MJ</u>, Robertson MJ. __Nat Commun__. 2025 Jul 4.
+      link: "https://doi.org/10.1038/s41467-025-61315-x"
+
+    - title: Evolutionary-scale enzymology enables exploration of a rugged catalytic landscape
+      excerpt: Muir DF, Asper GPR, Notin P, Posner JA, Marks DS, <u>Keiser MJ</u>, Pinney MM. __Science__. 2025 Jun 12.
+      link: "https://doi.org/10.1126/science.adu1058"
+
+    - title: An improved model for prediction of de novo designed proteins with diverse geometries
+      excerpt: Orr B, Crilly SE, Akpinaroglu D, Zhu E, <u>Keiser MJ</u>, Kortemme T. __bioRxiv__. 2025 Jun 06.
+      link: "https://doi.org/10.1101/2025.06.02.657515"
+
     - title: Fuzz Testing Molecular Representation Using Deep Variational Anomaly Generation
       excerpt: Nogueira VHR, Sharma R, Guido RVC, <u>Keiser MJ</u>. __J Chem Inf Model__. 2025 Feb 24.
       link: "https://doi.org/10.1021/acs.jcim.4c01876"
-
-    - title: Network-aware self-supervised learning enables high-content phenotypic screening for genetic modifiers of neuronal activity dynamics
-      excerpt: Grosjean P, Shevade K, Nguyen C, Ancheta S, Mader K, Franco I, Heo SJ, Lewis G, Boggess S, De Domenico A, Ullian E, Shafer S, Litterman A, Przybyla L, <u>Keiser MJ</u>, Ifkovits J, Yala A, Kampmann N. __bioRxiv__. 2025 Feb 05.
-      link: "https://doi.org/10.1101/2025.02.04.636489"
 
     - title: ChromaFactor- Deconvolution of single-molecule chromatin organization with non-negative matrix factorization
       excerpt: Gunsalus LM, <u>Keiser MJ</u>, Pollard KS. __PLoS Comput Biol__. 2025 Feb.
       link: "https://doi.org/10.1371/journal.pcbi.1012841"
 
-    - title: Autoparty- Machine learning-guided visual inspection of molecular docking results
-      excerpt: Shub L, Korczynska M, Muir DF, Lin F-Y, Mathiowetz AM, <u>Keiser MJ</u>. __chemRxiv__. 2024 Dec 09.
-      link: "https://doi.org/10.26434/chemrxiv-2024-7p4ws"
-
     - title: Deep phenotypic profiling of neuroactive drugs in larval zebrafish
       excerpt: Gendelev L, Taylor J, Myers-Turnbull D, Chen S, McCarroll MN, Arkin MR, Kokel D, <u>Keiser MJ</u>. __Nat Commun__. 2024 Nov 17.
       link: "https://doi.org/10.1038/s41467-024-54375-y"
-
-    - title: Evolutionary-scale enzymology enables biochemical constant prediction across a multi-peaked catalytic landscape
-      excerpt: Muir DF, Asper GPR, Notin P, Posner JA, Marks DS, <u>Keiser MJ</u>, Pinney MM. __bioRxiv__. 2024 Oct 25.
-      link: "https://doi.org/10.1101/2024.10.23.619915"
 
     - title: Retrieval Augmented Docking Using Hierarchical Navigable Small Worlds
       excerpt: Hall BW, <u>Keiser MJ</u>. __J Chem Inf Model__. 2024 Oct 14.
@@ -42,10 +58,6 @@ papers:
       excerpt: Connell W, Garcia K, Goodarzi H, <u>Keiser MJ</u>. __Commun Biol__. 2024 Sep 15.
       link: "https://doi.org/10.1038/s42003-024-06865-4"
 
-    - title: Machine-learning convergent melanocytic morphology despite noisy archival slides
-      excerpt: Tada M, Gaskins G, Ghandian S, Mew N, <u>Keiser MJ</u>, Keiser ES. __bioRxiv__. 2024 Sep 12.
-      link: "https://doi.org/10.1101/2024.09.12.612732"
-
     - title: Proximity Graph Networks- Predicting Ligand Affinity with Message Passing Neural Networks
       excerpt: Gale-Day ZJ, Shub L, Chuang KV, <u>Keiser MJ</u>. __J Chem Inf Model__. 2024 Jul 22.
       link: "https://doi.org/10.1021/acs.jcim.4c00311"
@@ -53,10 +65,6 @@ papers:
     - title: Learning precise segmentation of neurofibrillary tangles from rapid manual point annotations
       excerpt: Ghandian S, Albarghouthi L, Nava K, Sharma SRR, Minaud L, Beckett L, Saito N, DeCarli C, Rissman RA, Teich AF, Jin LW, Dugger BN, <u>Keiser MJ</u>. __bioRxiv__. 2024 May 15.
       link: "https://doi.org/10.1101/2024.05.15.594372"
-
-    - title: Metric Ion Classification (MIC)- A deep learning tool for assigning ions and waters in cryo-EM and x-ray crystallography structures
-      excerpt: Shub L, Liu W, Skiniotis G, <u>Keiser MJ</u>, Robertson MJ. __bioRxiv__. 2024 Mar 19.
-      link: "https://doi.org/10.1101/2024.03.18.585639"
 
     - title: Toward a generalizable machine learning workflow for neurodegenerative disease staging with focus on neurofibrillary tangles
       excerpt: Vizcarra JC, Pearce TM, Dugger BN, <u>Keiser MJ</u>, Gearing M, Crary JF, Kiely EJ, Morris M, White B, Glass JD, Farrell K, Gutman DA. __Acta Neuropathol Commun__. 2023 Dec 18.

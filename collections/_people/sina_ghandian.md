@@ -10,9 +10,9 @@ excerpt: "Research Data Analyst, 2022-2024. Sina graduated from UC Berkeley with
 header:
   teaser: /assets/images/people/bio-ghandian.jpg
 papers: 
-    - title: Machine-learning convergent melanocytic morphology despite noisy archival slides
-      excerpt: Tada M, Gaskins G, <u>Ghandian S</u>, Mew N, Keiser MJ, Keiser ES. __bioRxiv__. 2024 Sep 12.
-      link: "https://doi.org/10.1101/2024.09.12.612732"
+    - title: Deep learning finds convergent melanocytic morphology despite noisy archival slides
+      excerpt: Tada M, Gaskins G, <u>Ghandian S</u>, Mew N, Keiser MJ, Keiser ES. __Cell Rep Methods__. 2025 Oct 20.
+      link: "https://doi.org/10.1016/j.crmeth.2025.101201"
 
     - title: Learning precise segmentation of neurofibrillary tangles from rapid manual point annotations
       excerpt: <u>Ghandian S</u>, Albarghouthi L, Nava K, Sharma SRR, Minaud L, Beckett L, Saito N, DeCarli C, Rissman RA, Teich AF, Jin LW, Dugger BN, Keiser MJ. __bioRxiv__. 2024 May 15.

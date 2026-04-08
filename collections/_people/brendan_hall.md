@@ -10,6 +10,10 @@ excerpt: "[Shoichet Lab](https://bkslab.org/) (2024-2026). Keiser Lab (2022-2024
 header:
   teaser: /assets/images/people/bio-hall.jpg
 papers: 
+    - title: Autoparty- Machine Learning-Guided Visual Inspection of Molecular Docking Results
+      excerpt: Shub L, Korczynska M, Muir DF, Lin FY, <u>Hall BW</u>, Mathiowetz AM, Keiser MJ. __J Chem Inf Model__. 2025 Aug 11.
+      link: "https://doi.org/10.1021/acs.jcim.5c00850"
+
     - title: Retrieval Augmented Docking Using Hierarchical Navigable Small Worlds
       excerpt: <u>Hall BW</u>, Keiser MJ. __J Chem Inf Model__. 2024 Oct 14.
       link: "https://doi.org/10.1021/acs.jcim.4c00683"

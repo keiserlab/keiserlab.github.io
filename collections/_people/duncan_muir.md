@@ -10,12 +10,12 @@ excerpt: "[Pinney Lab](https://www.pinneylabucsf.com/) (2022-2025). Keiser Lab (
 header:
   teaser: /assets/images/people/bio-muir.jpg
 papers: 
-    - title: Autoparty- Machine learning-guided visual inspection of molecular docking results
-      excerpt: Shub L, Korczynska M, <u>Muir DF</u>, Lin F-Y, Mathiowetz AM, Keiser MJ. __chemRxiv__. 2024 Dec 09.
-      link: "https://doi.org/10.26434/chemrxiv-2024-7p4ws"
+    - title: Autoparty- Machine Learning-Guided Visual Inspection of Molecular Docking Results
+      excerpt: Shub L, Korczynska M, <u>Muir DF</u>, Lin FY, Hall BW, Mathiowetz AM, Keiser MJ. __J Chem Inf Model__. 2025 Aug 11.
+      link: "https://doi.org/10.1021/acs.jcim.5c00850"
 
-    - title: Evolutionary-scale enzymology enables biochemical constant prediction across a multi-peaked catalytic landscape
-      excerpt: <u>Muir DF</u>, Asper GPR, Notin P, Posner JA, Marks DS, Keiser MJ, Pinney MM. __bioRxiv__. 2024 Oct 25.
-      link: "https://doi.org/10.1101/2024.10.23.619915"
+    - title: Evolutionary-scale enzymology enables exploration of a rugged catalytic landscape
+      excerpt: <u>Muir DF</u>, Asper GPR, Notin P, Posner JA, Marks DS, Keiser MJ, Pinney MM. __Science__. 2025 Jun 12.
+      link: "https://doi.org/10.1126/science.adu1058"
 
 ---

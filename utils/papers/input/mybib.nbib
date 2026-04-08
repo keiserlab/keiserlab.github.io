@@ -1,81 +1,1386 @@
-PMID- 39908426
+PMID- 41118723
 OWN - NLM
 STAT- MEDLINE
-DCOM- 20250224
-LR  - 20250224
+DCOM- 20251021
+LR  - 20251101
+IS  - 2667-2375 (Electronic)
+IS  - 2667-2375 (Linking)
+VI  - 5
+IP  - 10
+DP  - 2025 Oct 20
+TI  - Deep learning finds convergent melanocytic morphology despite noisy
+      archival slides.
+PG  - 101201
+LID - S2667-2375(25)00237-1 [pii]
+LID - 10.1016/j.crmeth.2025.101201 [doi]
+AB  - Melanocytic atypia often leads to diagnostic discordance, complicating
+      its prediction by machine learning models. To overcome this, we paired
+      H&E-stained histology images with contiguous or serial sections
+      immunohistochemically (IHC) stained for melanocytic cells via antibodies
+      for MelanA, MelPro, or SOX10. We developed a melanocytic atypia deep
+      learning pipeline from real-world archives of 122 paired whole slide
+      images from 61 confirmed melanoma in situ (MIS) cases at two
+      institutions. Only 37.7% of pairs matched well enough for deep learning;
+      nonetheless, MelanA+MelPro models achieved an average area under the
+      receiver-operating characteristic (AUROC) = 0.948 and area under the
+      precision-recall curve (AUPRC) = 0.611 (9.3x baseline) and SOX10 models
+      achieved AUROC = 0.867 and AUPRC = 0.433 (7.3x baseline). Despite
+      learning from biologically different nuclear versus cytoplasmic IHC
+      stains, convolutional neural network models exhibited a convergent
+      explainable AI rationale. The resulting multi-antibody virtual stains
+      identified cytologic and small-scale architectural features directly from
+      H&E images, supporting pathologists in assessing cutaneous MIS.
+CI  - Copyright (c) 2025 The Author(s). Published by Elsevier Inc. All rights
+      reserved.
+FAU - Tada, Mikio
+AU  - Tada M
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA 94158, USA; Bakar Computational Health
+      Sciences Institute, University of California, San Francisco, San
+      Francisco, CA 94158, USA.
+FAU - Gaskins, Garrett
+AU  - Gaskins G
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA 94158, USA; Bakar Computational Health
+      Sciences Institute, University of California, San Francisco, San
+      Francisco, CA 94158, USA.
+FAU - Ghandian, Sina
+AU  - Ghandian S
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA 94158, USA; Bakar Computational Health
+      Sciences Institute, University of California, San Francisco, San
+      Francisco, CA 94158, USA.
+FAU - Mew, Nicholas
+AU  - Mew N
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA 94158, USA; Bakar Computational Health
+      Sciences Institute, University of California, San Francisco, San
+      Francisco, CA 94158, USA.
+FAU - Keiser, Michael James
+AU  - Keiser MJ
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA 94158, USA; Bakar Computational Health
+      Sciences Institute, University of California, San Francisco, San
+      Francisco, CA 94158, USA; Department of Pharmaceutical Chemistry,
+      University of California, San Francisco, San Francisco, CA 94158, USA;
+      Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco, San Francisco, CA 94158, USA. Electronic
+      address: keiser@keiserlab.org.
+FAU - Keiser, Elizabeth Sarah
+AU  - Keiser ES
+AD  - Department of Pathology, University of California, San Francisco, San
+      Francisco, CA 94143, USA; Department of Pathology, San Diego Veterans
+      Health Care System, San Diego, CA 92161, USA. Electronic address:
+      e.keiser@gmail.com.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Cell Rep Methods
+JT  - Cell reports methods
+JID - 9918227360606676
+SB  - IM
+MH  - *Deep Learning
+MH  - Humans
+MH  - *Melanoma/pathology/diagnosis
+MH  - *Melanocytes/pathology/metabolism
+MH  - Immunohistochemistry
+MH  - *Skin Neoplasms/pathology/diagnosis
+MH  - ROC Curve
+MH  - Neural Networks, Computer
+PMC - PMC12570353
+OTO - NOTNLM
+OT  - CP: cell biology
+OT  - CP: computational biology
+OT  - convolutional neural networks
+OT  - dermatopathology
+OT  - digital pathology
+OT  - explainable AI
+OT  - melana
+OT  - melanoma in situ
+OT  - melpro
+OT  - sox10
+OT  - virtual stain
+OT  - whole slide image
+COIS- Declaration of interests G.G. is now an employee of Genentech. M.T. is
+      now a student at Mount Sinai.
+EDAT- 2025/10/22 02:35
+MHDA- 2025/10/22 02:36
+CRDT- 2025/10/21 18:16
+PHST- 2024/10/10 00:00 [received]
+PHST- 2025/04/21 00:00 [revised]
+PHST- 2025/09/17 00:00 [accepted]
+AID - S2667-2375(25)00237-1 [pii]
+AID - 10.1016/j.crmeth.2025.101201 [doi]
+PST - ppublish
+SO  - Cell Rep Methods. 2025 Oct 20;5(10):101201. doi:
+      10.1016/j.crmeth.2025.101201.
+
+PMID- 40729553
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250811
+LR  - 20250811
 IS  - 1549-960X (Electronic)
 IS  - 1549-9596 (Linking)
 VI  - 65
-IP  - 4
-DP  - 2025 Feb 24
-TI  - Fuzz Testing Molecular Representation Using Deep Variational Anomaly
-      Generation.
-PG  - 1911-1927
-LID - 10.1021/acs.jcim.4c01876 [doi]
-AB  - Researchers are developing increasingly robust molecular representations,
-      motivating the need for thorough methods to stress-test and validate
-      them. Here, we use a variational auto-encoder (VAE), an unsupervised deep
-      learning model, to generate anomalous examples of SELF-referencIng
-      Embedded Strings (SELFIES), a popular molecular string format. These
-      anomalies defy the assertion that all SELFIES convert into valid SMILES
-      strings. Interestingly, we find specific regions within the VAE's
-      internal landscape (latent space), whose decoding frequently generates
-      inconvertible SELFIES anomalies. The model's internal landscape self-
-      organization helps with exploring factors affecting molecular
-      representation reliability. We show how VAEs and similar anomaly
-      generation methods can empirically stress-test molecular representation
-      robustness. Additionally, we investigate reasons for the invalidity of
-      some discovered SELFIES strings (version 2.1.1) and suggest changes to
-      improve them, aiming to spark ongoing molecular representation
-      improvement.
-FAU - Nogueira, Victor H R
-AU  - Nogueira VHR
-AD  - Sao Carlos Institute of Physics, University of Sao Paulo, Sao Paulo
-      13563-120, Brazil.
-AD  - Genebank Department, Leibniz Institute of Plant Genetics and Crop Plant
-      Research (IPK), Corrensstrasse 3, Gatersleben, Seeland D-06466, Germany.
-FAU - Sharma, Rishabh
-AU  - Sharma R
-AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering &
-      Therapeutic Sciences, Institute for Neurodegenerative Diseases, Kavli
-      Institute for Fundamental Neuroscience, Bakar Computational Health
-      Sciences Institute, University of California, San Francisco, San
-      Francisco, California 94158, United States.
-FAU - Guido, Rafael V C
-AU  - Guido RVC
-AD  - Sao Carlos Institute of Physics, University of Sao Paulo, Sao Paulo
-      13563-120, Brazil.
+IP  - 15
+DP  - 2025 Aug 11
+TI  - Autoparty: Machine Learning-Guided Visual Inspection of Molecular Docking
+      Results.
+PG  - 7817-7826
+LID - 10.1021/acs.jcim.5c00850 [doi]
+AB  - Human inspection of potential drug compounds is crucial in the virtual
+      drug screening pipeline. However, there is a pressing need to accelerate
+      this process, as the number of molecules humans can realistically examine
+      is extremely limited relative to the scale of virtual screens.
+      Furthermore, computational medicinal chemists can evaluate different
+      poses inconsistently, and there is no standard way of recording
+      annotations. We propose Autoparty, a containerized tool to address these
+      challenges. Autoparty leverages on-premises active learning for drug
+      discovery to facilitate human-in-the-loop training of models that
+      extrapolate human intuition. We leverage multiple uncertainty
+      quantification metrics to query the user with informative examples for
+      model training, limiting the number of human expert training labels. The
+      collected annotations populate a persistent and exportable local database
+      for broad downstream uses. Incorporating Autoparty resulted in a 40%
+      increase in hit rate over shape similarity alone among 193 experimentally
+      tested compounds in a real-world case study.
+FAU - Shub, Laura
+AU  - Shub L
+AUID- ORCID: 0000-0003-0211-0396
+AD  - Department of Pharmaceutical Chemistry, Institute for Neurodegenerative
+      Diseases, University of California, San Francisco, San Francisco,
+      California 94158, United States.
+AD  - Department of Bioengineering and Therapeutic Sciences, Bakar Health
+      Sciences Institute; Kavli Institute for Fundamental Neuroscience,
+      University of California, San Francisco, San Francisco, California 94158,
+      United States.
+FAU - Korczynska, Magdalena
+AU  - Korczynska M
+AD  - Medicine Design, Pfizer Research & Development, Cambridge, Massachusetts
+      02139, United States.
+FAU - Muir, Duncan F
+AU  - Muir DF
+AD  - Department of Pharmaceutical Chemistry, Institute for Neurodegenerative
+      Diseases, University of California, San Francisco, San Francisco,
+      California 94158, United States.
+AD  - Department of Bioengineering and Therapeutic Sciences, Bakar Health
+      Sciences Institute; Kavli Institute for Fundamental Neuroscience,
+      University of California, San Francisco, San Francisco, California 94158,
+      United States.
+FAU - Lin, Fang-Yu
+AU  - Lin FY
+AD  - Medicine Design, Pfizer Research & Development, Cambridge, Massachusetts
+      02139, United States.
+FAU - Hall, Brendan W
+AU  - Hall BW
+AUID- ORCID: 0000-0003-1616-1303
+AD  - Department of Pharmaceutical Chemistry, Institute for Neurodegenerative
+      Diseases, University of California, San Francisco, San Francisco,
+      California 94158, United States.
+AD  - Department of Bioengineering and Therapeutic Sciences, Bakar Health
+      Sciences Institute; Kavli Institute for Fundamental Neuroscience,
+      University of California, San Francisco, San Francisco, California 94158,
+      United States.
+FAU - Mathiowetz, Alan M
+AU  - Mathiowetz AM
+AD  - Medicine Design, Pfizer Research & Development, Cambridge, Massachusetts
+      02139, United States.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
 AUID- ORCID: 0000-0002-1240-2192
-AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering &
-      Therapeutic Sciences, Institute for Neurodegenerative Diseases, Kavli
-      Institute for Fundamental Neuroscience, Bakar Computational Health
-      Sciences Institute, University of California, San Francisco, San
-      Francisco, California 94158, United States.
+AD  - Department of Pharmaceutical Chemistry, Institute for Neurodegenerative
+      Diseases, University of California, San Francisco, San Francisco,
+      California 94158, United States.
+AD  - Department of Bioengineering and Therapeutic Sciences, Bakar Health
+      Sciences Institute; Kavli Institute for Fundamental Neuroscience,
+      University of California, San Francisco, San Francisco, California 94158,
+      United States.
 LA  - eng
 PT  - Journal Article
-DEP - 20250205
+DEP - 20250729
 PL  - United States
 TA  - J Chem Inf Model
 JT  - Journal of chemical information and modeling
 JID - 101230060
 SB  - IM
-MH  - *Deep Learning
-MH  - Models, Molecular
-EDAT- 2025/02/05 18:20
-MHDA- 2025/02/24 06:20
-CRDT- 2025/02/05 15:33
-AID - 10.1021/acs.jcim.4c01876 [doi]
+MH  - *Machine Learning
+MH  - *Molecular Docking Simulation
+MH  - Humans
+MH  - *Drug Discovery/methods
+EDAT- 2025/07/29 18:31
+MHDA- 2025/08/11 06:27
+CRDT- 2025/07/29 15:03
+AID - 10.1021/acs.jcim.5c00850 [doi]
 PST - ppublish
-SO  - J Chem Inf Model. 2025 Feb 24;65(4):1911-1927. doi:
-      10.1021/acs.jcim.4c01876. Epub 2025 Feb 5.
+SO  - J Chem Inf Model. 2025 Aug 11;65(15):7817-7826. doi:
+      10.1021/acs.jcim.5c00850. Epub 2025 Jul 29.
+
+PMID- 40695276
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20251003
+LR  - 20260307
+IS  - 1097-4172 (Electronic)
+IS  - 0092-8674 (Linking)
+VI  - 188
+IP  - 20
+DP  - 2025 Oct 2
+TI  - Cell-type-directed network-correcting combination therapy for Alzheimer's
+      disease.
+PG  - 5516-5534.e18
+LID - S0092-8674(25)00737-8 [pii]
+LID - 10.1016/j.cell.2025.06.035 [doi]
+AB  - Alzheimer's disease (AD) is a multifactorial neurodegenerative disorder
+      characterized by heterogeneous molecular changes across diverse cell
+      types, posing significant challenges for treatment development. To
+      address this, we introduced a cell-type-specific, multi-target drug
+      discovery strategy grounded in human data and real-world evidence. This
+      approach integrates single-cell transcriptomics, drug perturbation
+      databases, and clinical records. Using this framework, letrozole and
+      irinotecan were identified as a potential combination therapy, each
+      targeting AD-related gene expression changes in neurons and glial cells,
+      respectively. In an AD mouse model with both Abeta and tau deposits, this
+      combination therapy significantly improved memory performance and reduced
+      AD-related pathologies compared with vehicle and single-drug treatments.
+      Single-nucleus transcriptomic analysis confirmed that the therapy
+      reversed disease-associated gene networks in a cell-type-specific manner.
+      These results highlight the promise of cell-type-directed combination
+      therapies in addressing multifactorial diseases like AD and lay the
+      groundwork for precision medicine tailored to patient-specific
+      transcriptomic and clinical profiles.
+CI  - Published by Elsevier Inc.
+FAU - Li, Yaqiao
+AU  - Li Y
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA 94143, USA; Pharmaceutical Science and
+      Pharmacogenomics Graduate Program, University of California, San
+      Francisco, San Francisco, CA 94143, USA; Gladstone Institute of
+      Neurological Disease, Gladstone Institutes, San Francisco, CA 94158, USA.
+      Electronic address: yaqiao.li@ucsf.edu.
+FAU - Pereda Serras, Carlota
+AU  - Pereda Serras C
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA 94143, USA; Pharmaceutical Science and
+      Pharmacogenomics Graduate Program, University of California, San
+      Francisco, San Francisco, CA 94143, USA.
+FAU - Blumenfeld, Jessica
+AU  - Blumenfeld J
+AD  - Gladstone Institute of Neurological Disease, Gladstone Institutes, San
+      Francisco, CA 94158, USA; Neuroscience Graduate Program, University of
+      California, San Francisco, San Francisco, CA 94143, USA.
+FAU - Xie, Min
+AU  - Xie M
+AD  - Gladstone Institute of Neurological Disease, Gladstone Institutes, San
+      Francisco, CA 94158, USA.
+FAU - Hao, Yanxia
+AU  - Hao Y
+AD  - Gladstone Institute of Neurological Disease, Gladstone Institutes, San
+      Francisco, CA 94158, USA; Gladstone Center for Translational Advancement,
+      Gladstone Institutes, San Francisco, CA 94158, USA.
+FAU - Deng, Elise
+AU  - Deng E
+AD  - Gladstone Institute of Neurological Disease, Gladstone Institutes, San
+      Francisco, CA 94158, USA.
+FAU - Chun, You Young
+AU  - Chun YY
+AD  - Gladstone Institute of Neurological Disease, Gladstone Institutes, San
+      Francisco, CA 94158, USA.
+FAU - Holtzman, Julia
+AU  - Holtzman J
+AD  - Gladstone Institute of Neurological Disease, Gladstone Institutes, San
+      Francisco, CA 94158, USA.
+FAU - An, Alice
+AU  - An A
+AD  - Gladstone Institute of Neurological Disease, Gladstone Institutes, San
+      Francisco, CA 94158, USA; Gladstone Center for Translational Advancement,
+      Gladstone Institutes, San Francisco, CA 94158, USA.
+FAU - Yoon, Seo Yeon
+AU  - Yoon SY
+AD  - Gladstone Institute of Neurological Disease, Gladstone Institutes, San
+      Francisco, CA 94158, USA.
+FAU - Tang, Xinyu
+AU  - Tang X
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA 94143, USA.
+FAU - Rao, Antara
+AU  - Rao A
+AD  - Gladstone Institute of Neurological Disease, Gladstone Institutes, San
+      Francisco, CA 94158, USA; Developmental and Stem Cell Biology Graduate
+      Program, University of California, San Francisco, San Francisco, CA
+      94143, USA.
+FAU - Woldemariam, Sarah
+AU  - Woldemariam S
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA 94143, USA.
+FAU - Tang, Alice
+AU  - Tang A
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA 94143, USA; Bioengineering Graduate
+      Program, University of California, San Francisco, San Francisco, CA
+      94143, USA; Bioengineering Graduate Program, University of California,
+      Berkeley, Berkeley, CA 94720, USA.
+FAU - Zhang, Alex
+AU  - Zhang A
+AD  - Gladstone Institute of Neurological Disease, Gladstone Institutes, San
+      Francisco, CA 94158, USA.
+FAU - Simms, Jeffrey
+AU  - Simms J
+AD  - Gladstone Institute of Neurological Disease, Gladstone Institutes, San
+      Francisco, CA 94158, USA.
+FAU - Lo, Iris
+AU  - Lo I
+AD  - Gladstone Institute of Neurological Disease, Gladstone Institutes, San
+      Francisco, CA 94158, USA.
+FAU - Oskotsky, Tomiko
+AU  - Oskotsky T
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA 94143, USA; Division of Clinical
+      Informatics and Digital Transformation, Department of Medicine,
+      University of California, San Francisco, San Francisco, CA 94143, USA.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA 94143, USA; Pharmaceutical Science and
+      Pharmacogenomics Graduate Program, University of California, San
+      Francisco, San Francisco, CA 94143, USA.
+FAU - Huang, Yadong
+AU  - Huang Y
+AD  - Gladstone Institute of Neurological Disease, Gladstone Institutes, San
+      Francisco, CA 94158, USA; Neuroscience Graduate Program, University of
+      California, San Francisco, San Francisco, CA 94143, USA; Gladstone Center
+      for Translational Advancement, Gladstone Institutes, San Francisco, CA
+      94158, USA; Developmental and Stem Cell Biology Graduate Program,
+      University of California, San Francisco, San Francisco, CA 94143, USA;
+      Departments of Neurology and Pathology, University of California, San
+      Francisco, San Francisco, CA 94143, USA. Electronic address:
+      yadong.huang@gladstone.ucsf.edu.
+FAU - Sirota, Marina
+AU  - Sirota M
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA 94143, USA; Pharmaceutical Science and
+      Pharmacogenomics Graduate Program, University of California, San
+      Francisco, San Francisco, CA 94143, USA; Department of Pediatrics,
+      University of California, San Francisco, San Francisco, CA 94143, USA.
+      Electronic address: marina.sirota@ucsf.edu.
+LA  - eng
+GR  - R01 AG060393/AG/NIA NIH HHS/United States
+GR  - R01 AG078164/AG/NIA NIH HHS/United States
+GR  - P01 AG073082/AG/NIA NIH HHS/United States
+GR  - RF1 AG076647/AG/NIA NIH HHS/United States
+GR  - R01 AG057683/AG/NIA NIH HHS/United States
+GR  - T32 GM142516/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+DEP - 20250721
+PL  - United States
+TA  - Cell
+JT  - Cell
+JID - 0413066
+RN  - 7673326042 (Irinotecan)
+RN  - 0 (Nitriles)
+RN  - 0 (Triazoles)
+RN  - 0 (tau Proteins)
+RN  - 0 (Amyloid beta-Peptides)
+SB  - IM
+UOF - bioRxiv. 2024 Dec 13:2024.12.09.627436. doi: 10.1101/2024.12.09.627436..
+      PMID: 39713353
+MH  - *Alzheimer Disease/drug therapy/genetics/pathology/metabolism
+MH  - Animals
+MH  - Mice
+MH  - Humans
+MH  - Disease Models, Animal
+MH  - Drug Therapy, Combination
+MH  - Irinotecan/therapeutic use/pharmacology
+MH  - Neurons/metabolism/drug effects
+MH  - Transcriptome/drug effects
+MH  - Gene Regulatory Networks/drug effects
+MH  - Neuroglia/metabolism/drug effects
+MH  - Nitriles/therapeutic use/pharmacology
+MH  - Triazoles/therapeutic use/pharmacology
+MH  - Single-Cell Analysis
+MH  - tau Proteins/metabolism
+MH  - Amyloid beta-Peptides/metabolism
+MH  - Male
+MH  - Mice, Transgenic
+PMC - PMC12313259
+MID - NIHMS2098507
+OTO - NOTNLM
+OT  - Alzheimer's disease
+OT  - amyloid pathology
+OT  - connectivity map
+OT  - drug repurposing
+OT  - electronic medical record
+OT  - irinotecan
+OT  - letrozole
+OT  - mouse model
+OT  - single-cell transcriptome
+OT  - tau pathology
+COIS- Declaration of interests Y. Huang is a co-founder and scientific advisory
+      board member of GABAeron Inc. Y.L., Y. Huang, and M.S. are co-inventors
+      on a patent application based on this study.
+EDAT- 2025/07/23 11:27
+MHDA- 2025/10/04 00:30
+CRDT- 2025/07/22 18:41
+PMCR- 2026/07/21 00:00
+PHST- 2024/12/06 00:00 [received]
+PHST- 2025/03/15 00:00 [revised]
+PHST- 2025/06/24 00:00 [accepted]
+AID - 10.1016/j.cell.2025.06.035 [doi]
+AID - S0092-8674(25)00737-8 [pii]
+PST - ppublish
+SO  - Cell. 2025 Oct 2;188(20):5516-5534.e18. doi: 10.1016/j.cell.2025.06.035.
+      Epub 2025 Jul 21.
+
+PMID- 40683248
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20251120
+LR  - 20260307
+IS  - 1097-4199 (Electronic)
+IS  - 0896-6273 (Linking)
+VI  - 113
+IP  - 22
+DP  - 2025 Nov 19
+TI  - Accelerating biomedical discoveries in brain health through
+      transformative neuropathology of aging and neurodegeneration.
+PG  - 3703-3721
+LID - S0896-6273(25)00472-6 [pii]
+LID - 10.1016/j.neuron.2025.06.014 [doi]
+AB  - Transformative neuropathology is redefining human brain research by
+      integrating foundational descriptive pathology with advanced
+      methodologies. These approaches, spanning multi-omics studies and machine
+      learning applications, will drive discovery for the identification of
+      biomarkers, therapeutic targets, and complex disease patterns through
+      comprehensive analyses of postmortem human brain tissue. Yet critical
+      challenges remain, including the sustainability of brain banks, expanding
+      donor participation, strengthening training pipelines, enabling rapid
+      autopsies, supporting collaborative platforms, and integrating data
+      across modalities. Innovations in digital pathology, tissue quality
+      enhancement, harmonization of data standards, and machine learning
+      integration offer opportunities to accelerate tissue-level "pathomics"
+      research in brain health through cross-disciplinary collaborations.
+      Lessons from neuroimaging, particularly in establishing common data
+      frameworks and multi-site collaborations, offer a valuable roadmap for
+      streamlining innovations. In this perspective, we outline actionable
+      solutions for leveraging existing resources and strengthening
+      collaboration -where we envision future opportunities to drive
+      translational discoveries stemming from transformative neuropathology.
+CI  - Copyright (c) 2025 The Author(s). Published by Elsevier Inc. All rights
+      reserved.
+FAU - Murray, Melissa E
+AU  - Murray ME
+AD  - Department of Neuroscience, Mayo Clinic Jacksonville, Jacksonville, FL,
+      USA; Department of Laboratory Medicine and Pathology, Mayo Clinic
+      Jacksonville, Jacksonville, FL, USA. Electronic address:
+      murray.melissa@mayo.edu.
+FAU - Smith, Colin
+AU  - Smith C
+AD  - Centre for Clinical Brain Sciences, University of Edinburgh, Edinburgh,
+      UK.
+FAU - Menon, Vilas
+AU  - Menon V
+AD  - Department of Neurology, Columbia University, New York, NY, USA; Center
+      for Translational and Computational Neuroimmunology, Department of
+      Neurology, Columbia University Irving Medical Center, New York, NY, USA.
+FAU - Keene, C Dirk
+AU  - Keene CD
+AD  - Department of Laboratory Medicine and Pathology, University of Washington
+      School of Medicine, Seattle, WA, USA; Department of Laboratory Medicine
+      and Pathology, University of Washington School of Medicine, Seattle, WA,
+      USA.
+FAU - Lein, Ed
+AU  - Lein E
+AD  - Allen Institute for Brain Science, Seattle, WA, USA; Department of
+      Laboratory Medicine and Pathology, University of Washington, Seattle, WA,
+      USA.
+FAU - Hawrylycz, Michael
+AU  - Hawrylycz M
+AD  - Allen Institute for Brain Science, Seattle, WA, USA.
+FAU - Aguzzi, Adriano
+AU  - Aguzzi A
+AD  - Institute of Neuropathology, University of Zurich, Zurich, Switzerland.
+FAU - Benedetti, Brett
+AU  - Benedetti B
+AD  - Chan Zuckerberg Initiative (CZI), Redwood City, CA, USA.
+FAU - Brose, Katja
+AU  - Brose K
+AD  - Chan Zuckerberg Initiative (CZI), Redwood City, CA, USA.
+FAU - Caetano-Anolles, Kelsey
+AU  - Caetano-Anolles K
+AD  - Department of Neuroscience, Mayo Clinic Jacksonville, Jacksonville, FL,
+      USA.
+FAU - Sillero, Maria Inmaculada Cobos
+AU  - Sillero MIC
+AD  - Department of Pathology, Stanford University School of Medicine,
+      Stanford, CA, USA.
+FAU - Crary, John F
+AU  - Crary JF
+AD  - Department of Pathology, Nash Family Department of Neuroscience,
+      Department of Artificial Intelligence & Human Health, Neuropathology
+      Brain Bank & Research CoRE, Ronald M. Loeb Center for Alzheimer's
+      Disease, Friedman Brain Institute, Icahn School of Medicine at Mount
+      Sinai, New York, NY, USA.
+FAU - De Jager, Philip L
+AU  - De Jager PL
+AD  - Center for Translational and Computational Neuroimmunology, Department of
+      Neurology, Columbia University Irving Medical Center, New York, NY, USA;
+      Taub Institute for Research on Alzheimer's Disease and the Aging Brain,
+      Columbia University Irving Medical Center, New York, NY, USA.
+FAU - Faustin, Arline
+AU  - Faustin A
+AD  - Department of Pathology, NYU Langone Health and NYU Grossman School of
+      Medicine, New York, NY, USA.
+FAU - Flanagan, Margaret E
+AU  - Flanagan ME
+AD  - Glenn Biggs Institute for Alzheimer's and Neurodegenerative Diseases,
+      University of Texas Health, San Antonio, San Antonio, TX, USA; Department
+      of Pathology, University of Texas Health, San Antonio, San Antonio, TX,
+      USA.
+FAU - Gokce, Ozgun
+AU  - Gokce O
+AD  - Department of Old Age Psychiatry and Cognitive Disorders, University
+      Hospital Bonn, Bonn, Germany; German Center for Neurodegenerative
+      Diseases (DZNE), Bonn, Germany.
+FAU - Grant, Seth G N
+AU  - Grant SGN
+AD  - Centre for Clinical Brain Sciences, University of Edinburgh, Edinburgh,
+      UK.
+FAU - Grinberg, Lea T
+AU  - Grinberg LT
+AD  - Memory and Aging Center, University of California, San Francisco, San
+      Francisco, CA, USA.
+FAU - Gutman, David A
+AU  - Gutman DA
+AD  - Emory University School of Medicine, Atlanta, GA, USA.
+FAU - Hillman, Elizabeth M C
+AU  - Hillman EMC
+AD  - Zuckerman Mind Brain Behavior Institute and Departments of Biomedical
+      Engineering and Radiology, Columbia University, New York, NY, USA.
+FAU - Huang, Zhi
+AU  - Huang Z
+AD  - Perelman School of Medicine, University of Pennsylvania, Philadelphia,
+      PA, USA.
+FAU - Irwin, David J
+AU  - Irwin DJ
+AD  - Perelman School of Medicine, University of Pennsylvania, Philadelphia,
+      PA, USA.
+FAU - Jones, David T
+AU  - Jones DT
+AD  - Department of Neurology, Mayo Clinic, Rochester, MN, USA; Department of
+      Radiology, Mayo Clinic, Rochester, MN, USA.
+FAU - Kapasi, Alifiya
+AU  - Kapasi A
+AD  - Rush University Medical Center, Rush Alzheimer's Disease Center, Chicago,
+      IL, USA.
+FAU - Karch, Celeste M
+AU  - Karch CM
+AD  - Department of Psychiatry, Knight Alzheimer Disease Research Center,
+      Washington University in St. Louis, St. Louis, MO, USA.
+FAU - Kukull, Walter T
+AU  - Kukull WT
+AD  - Department of Laboratory Medicine and Pathology, University of Washington
+      School of Medicine, Seattle, WA, USA.
+FAU - Lashley, Tammaryn
+AU  - Lashley T
+AD  - Department of Neurodegenerative Disease, UCL Queen Square Institute of
+      Neurology, London, UK.
+FAU - Lee, Edward B
+AU  - Lee EB
+AD  - Perelman School of Medicine, University of Pennsylvania, Philadelphia,
+      PA, USA.
+FAU - Lehner, Thomas
+AU  - Lehner T
+AD  - New York Genome Center, New York, NY, USA.
+FAU - Parkkinen, Laura
+AU  - Parkkinen L
+AD  - Nuffield Department of Clinical Neurosciences, Oxford Parkinson's Disease
+      Center, University of Oxford, Oxford, UK.
+FAU - Pedersen, Maria
+AU  - Pedersen M
+AD  - New York Genome Center, New York, NY, USA.
+FAU - Pritchett, Dominique
+AU  - Pritchett D
+AD  - Department of Biology, Howard University, Washington, DC, USA.
+FAU - Rutledge, Matthew H
+AU  - Rutledge MH
+AD  - Quantitative Health Sciences, Mayo Clinic Jacksonville, Jacksonville, FL,
+      USA.
+FAU - Schneider, Julie A
+AU  - Schneider JA
+AD  - Rush University Medical Center, Rush Alzheimer's Disease Center, Chicago,
+      IL, USA.
+FAU - Seeley, William W
+AU  - Seeley WW
+AD  - Memory and Aging Center, University of California, San Francisco, San
+      Francisco, CA, USA.
+FAU - Shepherd, Claire E
+AU  - Shepherd CE
+AD  - Department of Neurodegenerative Disease, UCL Queen Square Institute of
+      Neurology, London, UK; School of Biomedical Sciences, University of New
+      South Wales, Sydney, NSW, Australia.
+FAU - Spires-Jones, Tara L
+AU  - Spires-Jones TL
+AD  - Centre for Clinical Brain Sciences, University of Edinburgh, Edinburgh,
+      UK.
+FAU - Steen, Judith A
+AU  - Steen JA
+AD  - Department of Neurology, Harvard Medical School, Boston, MA, USA;
+      Neuroproteomics Laboratory, Kirby Center, Boston Children's Hospital,
+      Boston, MA, USA.
+FAU - Sutherland, Margaret
+AU  - Sutherland M
+AD  - Chan Zuckerberg Initiative (CZI), Redwood City, CA, USA.
+FAU - Vickovic, Sanja
+AU  - Vickovic S
+AD  - New York Genome Center, New York, NY, USA; Department of Biomedical
+      Engineering and Herbert Irving Institute for Cancer Dynamics, Columbia
+      University, New York, NY, USA.
+FAU - Zhang, Bin
+AU  - Zhang B
+AD  - Department of Genetics & Genomic Sciences, Icahn School of Medicine at
+      Mount Sinai, New York, NY, USA.
+FAU - Stewart, David J
+AU  - Stewart DJ
+AD  - Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA, USA.
+FAU - Vogel, Jacob W
+AU  - Vogel JW
+AD  - Clinical Memory Research Unit, Department of Clinical Sciences Malmo,
+      Lund University, Lund, Sweden; Department of Clinical Sciences, Malmo,
+      SciLifeLab, Lund University, Lund, Sweden.
+FAU - Dugger, Brittany N
+AU  - Dugger BN
+AD  - Department of Pathology and Laboratory Medicine, University of
+      California, Davis, Sacramento, CA, USA.
+FAU - Phatnani, Hemali
+AU  - Phatnani H
+AD  - Department of Neurology, Columbia University, New York, NY, USA; New York
+      Genome Center, New York, NY, USA. Electronic address:
+      hphatnani@nygenome.org.
+LA  - eng
+GR  - P30 AG066444/AG/NIA NIH HHS/United States
+GR  - P50 AG023501/AG/NIA NIH HHS/United States
+GR  - U24 NS133949/NS/NINDS NIH HHS/United States
+GR  - U24 AG072122/AG/NIA NIH HHS/United States
+GR  - R01 AG075802/AG/NIA NIH HHS/United States
+GR  - U24 NS133945/NS/NINDS NIH HHS/United States
+GR  - P30 AG062422/AG/NIA NIH HHS/United States
+GR  - R01 NS127186/NS/NINDS NIH HHS/United States
+GR  - U19 AG060909/AG/NIA NIH HHS/United States
+GR  - P30 AG066509/AG/NIA NIH HHS/United States
+GR  - RF1 AG069052/AG/NIA NIH HHS/United States
+GR  - U54 AG076040/AG/NIA NIH HHS/United States
+PT  - Journal Article
+PT  - Review
+DEP - 20250718
+PL  - United States
+TA  - Neuron
+JT  - Neuron
+JID - 8809320
+SB  - IM
+MH  - Humans
+MH  - *Brain/pathology/diagnostic imaging
+MH  - *Aging/pathology
+MH  - *Neurodegenerative Diseases/pathology
+MH  - *Neuropathology/methods/trends
+MH  - Neuroimaging/methods
+MH  - *Biomedical Research
+PMC - PMC12313173
+MID - NIHMS2092052
+OTO - NOTNLM
+OT  - biomarkers
+OT  - digital pathology
+OT  - machine learning
+OT  - neuropathology
+OT  - pathomics
+OT  - spatial biology
+COIS- Declaration of interests C.M.K. is a consultant for Eisai, Ltd. W.W.S.
+      serves on the scientific advisory board for Lyterian Therapeutics. L.P.
+      is funded by the Oxford GSK Institute of Molecular and Computational
+      Medicine. D.J.I. holds unpaid professional affiliations with the
+      Scientific Advisory Boards of the Lewy Body Dementia Association (LBDA)
+      and the Association for Frontotemporal Degeneration (AFTD). His
+      institution receives clinical trial funding from Denali, Prevail, Passage
+      Bio, CervoMed, and Transposon. E.B.L. has received consulting fees from
+      Eli Lilly and Wavebreak Therapeutics. T.L.S.-J. declares no conflicts
+      directly related to this manuscript but has received payments for
+      consulting, scientific talks, or collaborative research over the past 10
+      years from AbbVie, Sanofi, Merck, Scottish Brain Sciences, Jay
+      Therapeutics, Cognition Therapeutics, Ono, and Eisai. She also serves as
+      a charity trustee for the British Neuroscience Association and the
+      Guarantors of Brain and as a scientific advisor to several charities and
+      non-profit organizations. W.T.K. is supported by U24AG072122.
+EDAT- 2025/07/20 04:03
+MHDA- 2025/11/21 02:35
+CRDT- 2025/07/19 18:41
+PMCR- 2026/07/18 00:00
+PHST- 2025/03/06 00:00 [received]
+PHST- 2025/05/05 00:00 [revised]
+PHST- 2025/06/18 00:00 [accepted]
+AID - 10.1016/j.neuron.2025.06.014 [doi]
+AID - S0896-6273(25)00472-6 [pii]
+PST - ppublish
+SO  - Neuron. 2025 Nov 19;113(22):3703-3721. doi: 10.1016/j.neuron.2025.06.014.
+      Epub 2025 Jul 18.
+
+PMID- 40683247
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20251002
+LR  - 20251003
+IS  - 1097-4199 (Electronic)
+IS  - 0896-6273 (Linking)
+VI  - 113
+IP  - 19
+DP  - 2025 Oct 1
+TI  - The polypharmacology of psychedelics reveals multiple targets for
+      potential therapeutics.
+PG  - 3129-3142.e9
+LID - S0896-6273(25)00470-2 [pii]
+LID - 10.1016/j.neuron.2025.06.012 [doi]
+AB  - The classical psychedelics (+)-lysergic acid diethylamide (LSD),
+      psilocybin, and mescaline exert their psychedelic effects via activation
+      of the 5-HT2A serotonin receptor (5-HT2AR). Recent clinical studies have
+      suggested that classical psychedelics may additionally have therapeutic
+      potential for many neuropsychiatric conditions including depression,
+      anxiety, migraine and cluster headaches, drug abuse, and post-traumatic
+      stress disorder. In this study, we investigated the pharmacology of 41
+      classical psychedelics from the tryptamine, phenethylamine, and
+      lysergamide chemical classes. We profiled these compounds against 318
+      human G-protein-coupled receptors (GPCRs) to elucidate their target
+      profiles, and in the case of LSD, against more than 450 human kinases. We
+      found that psychedelics have potent and efficacious actions at nearly
+      every serotonin, dopamine, and adrenergic receptor. We quantified their
+      activation for multiple transducers and found that psychedelics stimulate
+      multiple 5-HT2AR transducers, each of which correlates with psychedelic
+      drug-like actions in vivo. Our results suggest that multiple molecular
+      targets likely contribute to the actions of psychedelics.
+CI  - Copyright (c) 2025 Elsevier Inc. All rights reserved.
+FAU - Jain, Manish K
+AU  - Jain MK
+AD  - Department of Pharmacology, University of North Carolina at Chapel Hill,
+      Chapel Hill, NC 27599-7365, USA.
+FAU - Gumpper, Ryan H
+AU  - Gumpper RH
+AD  - Department of Pharmacology, University of North Carolina at Chapel Hill,
+      Chapel Hill, NC 27599-7365, USA.
+FAU - Slocum, Samuel T
+AU  - Slocum ST
+AD  - Department of Pharmacology, University of North Carolina at Chapel Hill,
+      Chapel Hill, NC 27599-7365, USA.
+FAU - Schmitz, Gavin P
+AU  - Schmitz GP
+AD  - Department of Pharmacology, University of North Carolina at Chapel Hill,
+      Chapel Hill, NC 27599-7365, USA.
+FAU - Madsen, Jakob S
+AU  - Madsen JS
+AD  - Department of Drug Design and Pharmacology, University of Copenhagen,
+      2100 Copenhagen, Denmark.
+FAU - Tummino, Tia A
+AU  - Tummino TA
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, CA 94158, USA.
+FAU - Suomivuori, Carl-Mikael
+AU  - Suomivuori CM
+AD  - Department of Computer Science, Stanford University, Stanford, CA 94305,
+      USA; Department of Molecular and Cellular Physiology, Stanford University
+      School of Medicine, Stanford, CA 94304, USA; Department of Structural
+      Biology, Stanford University School of Medicine, Stanford, CA 94305, USA;
+      Institute for Computational and Mathematical Engineering, Stanford
+      University, Stanford, CA 94305, USA.
+FAU - Huang, Xi-Ping
+AU  - Huang XP
+AD  - National Institute of Mental Health Psychoactive Drug Screening Program,
+      University of North Carolina at Chapel Hill, Chapel Hill, NC 27599-7365,
+      USA.
+FAU - Shub, Laura
+AU  - Shub L
+AD  - Institute of Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA 94158, USA.
+FAU - DiBerto, Jeffrey F
+AU  - DiBerto JF
+AD  - Department of Pharmacology, University of North Carolina at Chapel Hill,
+      Chapel Hill, NC 27599-7365, USA.
+FAU - Kim, Kuglae
+AU  - Kim K
+AD  - Department of System Biology, College of Life Science and Biotechnology,
+      Yonsei University, Seoul 03722, South Korea.
+FAU - DeLeon, Chelsea
+AU  - DeLeon C
+AD  - Department of Pharmacology, University of North Carolina at Chapel Hill,
+      Chapel Hill, NC 27599-7365, USA.
+FAU - Krumm, Brain E
+AU  - Krumm BE
+AD  - Department of Pharmacology, University of North Carolina at Chapel Hill,
+      Chapel Hill, NC 27599-7365, USA.
+FAU - Fay, Jonathan F
+AU  - Fay JF
+AD  - Department of Biochemistry and Molecular Biology, School of Medicine,
+      University of Maryland, Baltimore, MD 21201, USA.
+FAU - Keiser, Michael
+AU  - Keiser M
+AD  - Institute of Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA 94158, USA.
+FAU - Hauser, Alexander S
+AU  - Hauser AS
+AD  - Department of Drug Design and Pharmacology, University of Copenhagen,
+      2100 Copenhagen, Denmark.
+FAU - Dror, Ron O
+AU  - Dror RO
+AD  - Department of Computer Science, Stanford University, Stanford, CA 94305,
+      USA; Department of Molecular and Cellular Physiology, Stanford University
+      School of Medicine, Stanford, CA 94304, USA; Department of Structural
+      Biology, Stanford University School of Medicine, Stanford, CA 94305, USA;
+      Institute for Computational and Mathematical Engineering, Stanford
+      University, Stanford, CA 94305, USA.
+FAU - Shoichet, Brian
+AU  - Shoichet B
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, CA 94158, USA.
+FAU - Gloriam, David E
+AU  - Gloriam DE
+AD  - Department of Drug Design and Pharmacology, University of Copenhagen,
+      2100 Copenhagen, Denmark.
+FAU - Nichols, David E
+AU  - Nichols DE
+AD  - Department of Pharmacology, University of North Carolina at Chapel Hill,
+      Chapel Hill, NC 27599-7365, USA.
+FAU - Roth, Bryan L
+AU  - Roth BL
+AD  - Department of Pharmacology, University of North Carolina at Chapel Hill,
+      Chapel Hill, NC 27599-7365, USA; National Institute of Mental Health
+      Psychoactive Drug Screening Program, University of North Carolina at
+      Chapel Hill, Chapel Hill, NC 27599-7365, USA; Divison of Chemical Biology
+      and Medicinal Chemistry, Eshelman School of Pharmacy, University of North
+      Carolina at Chapel Hill, Chapel Hill, NC 27599-7360, USA. Electronic
+      address: bryan_roth@med.unc.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20250718
+PL  - United States
+TA  - Neuron
+JT  - Neuron
+JID - 8809320
+RN  - 0 (Hallucinogens)
+RN  - 0 (Tryptamines)
+RN  - 8NA5SWF92O (Lysergic Acid Diethylamide)
+RN  - 0 (Receptor, Serotonin, 5-HT2A)
+RN  - 0 (Receptors, G-Protein-Coupled)
+SB  - IM
+MH  - *Hallucinogens/pharmacology
+MH  - Humans
+MH  - *Polypharmacology
+MH  - Animals
+MH  - Tryptamines/pharmacology
+MH  - Lysergic Acid Diethylamide/pharmacology
+MH  - Receptor, Serotonin, 5-HT2A/metabolism
+MH  - *Receptors, G-Protein-Coupled/metabolism/drug effects
+OTO - NOTNLM
+OT  - G-protein-coupled receptors
+OT  - dopamine receptors
+OT  - hallucinogen
+OT  - psychedelics
+OT  - serotonin receptors
+COIS- Declaration of interests R.O.D. is an SAB member of Septerna. B.L.R. is
+      an SAB member of Septerna and Escient Pharmaceuticals. R.H.G. is a
+      consultant for 2A Biosciences.
+EDAT- 2025/07/20 04:03
+MHDA- 2025/10/03 00:29
+CRDT- 2025/07/19 18:41
+PHST- 2025/02/05 00:00 [received]
+PHST- 2025/04/07 00:00 [revised]
+PHST- 2025/06/16 00:00 [accepted]
+AID - 10.1016/j.neuron.2025.06.012 [doi]
+AID - S0896-6273(25)00470-2 [pii]
+PST - ppublish
+SO  - Neuron. 2025 Oct 1;113(19):3129-3142.e9. doi:
+      10.1016/j.neuron.2025.06.012. Epub 2025 Jul 18.
+
+PMID- 40615379
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250704
+LR  - 20250708
+IS  - 2041-1723 (Electronic)
+IS  - 2041-1723 (Linking)
+VI  - 16
+IP  - 1
+DP  - 2025 Jul 4
+TI  - MIC: A deep learning tool for assigning ions and waters in cryo-EM and
+      crystal structures.
+PG  - 6182
+LID - 10.1038/s41467-025-61315-x [doi]
+AB  - At sufficiently high resolution, x-ray crystallography and cryogenic
+      electron microscopy are capable of resolving small spherical map features
+      corresponding to either water or ions. Correct classification of these
+      sites provides crucial insight for understanding structure and function
+      as well as guiding downstream design tasks, including structure-based
+      drug discovery and de novo biomolecule design. However, direct
+      identification of these sites from experimental data can prove
+      challenging, and existing empirical approaches leveraging the local
+      environment can only characterize limited ion types. We present a
+      representation of chemical environments using interaction fingerprints
+      and develop a machine learning model to predict the identity of input
+      water and ion sites. We validate the method, named Metric Ion
+      Classification (MIC), on a wide variety of biomolecular examples to
+      demonstrate its utility, identifying many probable mismodeled ions
+      deposited in the PDB. Compared to existing methods, MIC achieves superior
+      accuracy for uniquely classifying water/ion sites while expanding the set
+      of potential site identities. Finally, we collect all steps of this
+      approach into an easy-to-use open-source package that can integrate with
+      existing structure determination pipelines, and we provide a ChimeraX
+      implementation to further enable use of the tool.
+CI  - (c) 2025. The Author(s).
+FAU - Shub, Laura
+AU  - Shub L
+AUID- ORCID: http://orcid.org/0000-0003-0211-0396
+AD  - Department of Pharmaceutical Chemistry; Institute for Neurodegenerative
+      Diseases, University of California, San Francisco, San Francisco, CA,
+      USA.
+AD  - Department of Bioengineering and Therapeutic Sciences; Bakar Health
+      Sciences Institute; Kavli Institute for Fundamental Neuroscience,
+      University of California, San Francisco, San Francisco, USA.
+FAU - Liu, Wenjin
+AU  - Liu W
+AD  - Department of Pharmaceutical Chemistry; Institute for Neurodegenerative
+      Diseases, University of California, San Francisco, San Francisco, CA,
+      USA.
+AD  - Department of Bioengineering and Therapeutic Sciences; Bakar Health
+      Sciences Institute; Kavli Institute for Fundamental Neuroscience,
+      University of California, San Francisco, San Francisco, USA.
+FAU - Skiniotis, Georgios
+AU  - Skiniotis G
+AUID- ORCID: http://orcid.org/0000-0003-0238-7846
+AD  - Department of Structural Biology, St. Jude Children's Research Hospital,
+      Memphis, TN, USA.
+AD  - Center of Excellence for Structural Cell Biology, St. Jude Children's
+      Research Hospital, Memphis, TN, USA.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AUID- ORCID: http://orcid.org/0000-0002-1240-2192
+AD  - Department of Pharmaceutical Chemistry; Institute for Neurodegenerative
+      Diseases, University of California, San Francisco, San Francisco, CA,
+      USA. keiser@keiserlab.org.
+AD  - Department of Bioengineering and Therapeutic Sciences; Bakar Health
+      Sciences Institute; Kavli Institute for Fundamental Neuroscience,
+      University of California, San Francisco, San Francisco, USA.
+      keiser@keiserlab.org.
+FAU - Robertson, Michael J
+AU  - Robertson MJ
+AUID- ORCID: http://orcid.org/0000-0003-2610-680X
+AD  - Verna and Marrs McLean Department of Biochemistry and Molecular
+      Pharmacology, Baylor College of Medicine, Houston, TX, USA.
+      Michael.Robertson@bcm.edu.
+LA  - eng
+GR  - RR230042/Cancer Prevention and Research Institute of Texas (Cancer
+      Prevention Research Institute of Texas)
+GR  - T32 GM067547/GM/NIGMS NIH HHS/United States
+GR  - DAF2018-191905/Silicon Valley Community Foundation (SVCF)
+GR  - K99/R00 HD107581/U.S. Department of Health & Human Services | National
+      Institutes of Health (NIH)
+GR  - GM067547/U.S. Department of Health & Human Services | National Institutes
+      of Health (NIH)
+GR  - K99 HD107581/HD/NICHD NIH HHS/United States
+GR  - R00 HD107581/HD/NICHD NIH HHS/United States
+PT  - Journal Article
+DEP - 20250704
+PL  - England
+TA  - Nat Commun
+JT  - Nature communications
+JID - 101528555
+RN  - 059QF0KO0R (Water)
+RN  - 0 (Ions)
+RN  - 0 (Proteins)
+SB  - IM
+MH  - *Deep Learning
+MH  - *Cryoelectron Microscopy/methods
+MH  - *Water/chemistry
+MH  - Crystallography, X-Ray/methods
+MH  - *Ions/chemistry
+MH  - Models, Molecular
+MH  - Proteins/chemistry
+PMC - PMC12227754
+COIS- Competing interests: The authors declare the following competing
+      interests: L.S. is an employee of Deep Apple Therapeutics. G.S. is a
+      cofounder of and consultant for Deep Apple Therapeutics. M.J.K. is a
+      consultant for Deep Apple Therapeutics. The authors declare no other
+      competing interests.
+EDAT- 2025/07/05 00:28
+MHDA- 2025/07/05 00:29
+CRDT- 2025/07/04 23:14
+PHST- 2024/04/17 00:00 [received]
+PHST- 2025/06/18 00:00 [accepted]
+AID - 10.1038/s41467-025-61315-x [doi]
+AID - 10.1038/s41467-025-61315-x [pii]
+PST - epublish
+SO  - Nat Commun. 2025 Jul 4;16(1):6182. doi: 10.1038/s41467-025-61315-x.
+
+PMID- 40510864
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250719
+IS  - 2699-4445 (Electronic)
+IS  - 2699-4445 (Linking)
+VI  - 6
+DP  - 2025
+TI  - Applying machine learning to assist in the morphometric assessment of
+      brain arteriolosclerosis through automation.
+PG  - 12
+LID - 10.17879/freeneuropathology-2025-6387 [doi]
+AB  - Objective quantification of brain arteriolosclerosis remains an area of
+      ongoing refinement in neuropathology, with current methods primarily
+      utilizing semi-quantitative scales completed through manual histological
+      examination. These approaches offer modest inter-rater reliability and do
+      not provide precise quantitative metrics. To address this gap, we present
+      a prototype end-to-end machine learning (ML)-based algorithm,
+      Arteriolosclerosis Segmentation (ArtSeg), followed by Vascular
+      Morphometry (VasMorph) - to assist persons in the morphometric analysis
+      of arteriolosclerotic vessels on whole slide images (WSIs). We digitized
+      hematoxylin and eosin-stained glass slides (13 participants, total 42
+      WSIs) of human brain frontal or occipital lobe cortical and/or
+      periventricular white matter collected from three brain banks (University
+      of California, Davis, Irvine, and Los Angeles Alzheimer's Disease
+      Research Centers). ArtSeg comprises three ML models for blood vessel
+      detection, arteriolosclerosis classification, and segmentation of
+      arteriolosclerotic vessel walls and lumens. For blood vessel detection,
+      ArtSeg achieved area under the receiver operating characteristic curve
+      (AUC-ROC) values of 0.79 (internal hold-out testing) and 0.77 (external
+      testing), Dice scores of 0.56 (internal hold-out) and 0.74 (external),
+      and Hausdorff distances of 2.53 (internal hold-out) and 2.15 (external).
+      Arteriolosclerosis classification demonstrated accuracies of 0.94 (mean,
+      3-fold cross-validation), 0.86 (internal hold-out), and 0.77 (external),
+      alongside AUC-ROC values of 0.69 (mean, 3-fold cross-validation), 0.87
+      (internal hold-out), and 0.83 (external). For arteriolosclerotic vessel
+      segmentation, ArtSeg yielded Dice scores of 0.68 (mean, 3-fold cross-
+      validation), 0.73 (internal hold-out), and 0.71 (external); Hausdorff
+      distances of 7.63 (mean, 3-fold cross-validation), 6.93 (internal hold-
+      out), and 7.80 (external); and AUC-ROC values of 0.90 (mean, 3-fold
+      cross-validation), 0.92 (internal hold-out), and 0.87 (external).
+      VasMorph successfully derived sclerotic indices, vessel wall thicknesses,
+      and vessel wall to lumen area ratios from ArtSeg-segmented vessels,
+      producing results comparable to expert assessment. This integrated
+      approach shows promise as an assistive tool to enhance current
+      neuropathological evaluation of brain arteriolosclerosis, offering
+      potential for improved inter-rater reliability and quantification.
+CI  - (c) 2025 The author(s).
+FAU - Lou, Jerry J
+AU  - Lou JJ
+AD  - Department of Pathology and Laboratory Medicine, School of Medicine,
+      University of California Irvine, Irvine, USA.
+FAU - Chang, Peter
+AU  - Chang P
+AD  - Department of Radiological Sciences, Center for Artificial Intelligence
+      in Diagnostic Medicine, School of Medicine, University of California
+      Irvine, Orange, USA.
+FAU - Nava, Kiana D
+AU  - Nava KD
+AD  - Department of Pathology and Laboratory Medicine, School of Medicine,
+      University of California Davis, Sacramento, USA.
+FAU - Chantaduly, Chanon
+AU  - Chantaduly C
+AD  - Department of Radiological Sciences, Center for Artificial Intelligence
+      in Diagnostic Medicine, School of Medicine, University of California
+      Irvine, Orange, USA.
+FAU - Wang, Hsin-Pei
+AU  - Wang HP
+AD  - Department of Pathology and Laboratory Medicine, School of Medicine,
+      University of California Davis, Sacramento, USA.
+FAU - Yong, William H
+AU  - Yong WH
+AD  - Department of Pathology and Laboratory Medicine, School of Medicine,
+      University of California Irvine, Irvine, USA.
+FAU - Patel, Viharkumar
+AU  - Patel V
+AD  - Department of Pathology and Laboratory Medicine, School of Medicine,
+      University of California Davis, Sacramento, USA.
+FAU - Chaudhari, Ajinkya J
+AU  - Chaudhari AJ
+AD  - Department of Electrical and Computer Engineering, University of
+      California Davis, Davis, USA.
+FAU - Vasquez, La Rissa
+AU  - Vasquez R
+AD  - Department of Pathology and Laboratory Medicine, School of Medicine,
+      University of California Davis, Sacramento, USA.
+FAU - Monuki, Edwin
+AU  - Monuki E
+AD  - Department of Pathology and Laboratory Medicine, School of Medicine,
+      University of California Irvine, Irvine, USA.
+FAU - Head, Elizabeth
+AU  - Head E
+AD  - Department of Pathology and Laboratory Medicine, School of Medicine,
+      University of California Irvine, Irvine, USA.
+FAU - Vinters, Harry V
+AU  - Vinters HV
+AD  - Department of Pathology and Laboratory Medicine and Department of
+      Neurology, David Geffen School of Medicine, University of California Los
+      Angeles, Los Angeles, USA.
+FAU - Magaki, Shino
+AU  - Magaki S
+AD  - Department of Pathology and Laboratory Medicine, David Geffen School of
+      Medicine, University of California Los Angeles, Los Angeles, USA.
+FAU - Harvey, Danielle J
+AU  - Harvey DJ
+AD  - Department of Public Health Sciences, School of Medicine, University of
+      California Davis, Davis, USA.
+FAU - Chuah, Chen-Nee
+AU  - Chuah CN
+AD  - Department of Electrical and Computer Engineering, University of
+      California Davis, Davis, USA.
+FAU - DeCarli, Charles S
+AU  - DeCarli CS
+AD  - Department of Neurology, School of Medicine, University of California
+      Davis, Sacramento, USA.
+FAU - Williams, Christopher K
+AU  - Williams CK
+AD  - Department of Pathology and Laboratory Medicine, David Geffen School of
+      Medicine, University of California Los Angeles, Los Angeles, USA.
+FAU - Keiser, Michael
+AU  - Keiser M
+AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
+      Therapeutic Sciences, Institute for Neurodegenerative Diseases; Bakar
+      Computational Health Sciences Institute, University of California San
+      Francisco, San Francisco, USA.
+FAU - Dugger, Brittany N
+AU  - Dugger BN
+AD  - Department of Pathology and Laboratory Medicine, School of Medicine,
+      University of California Davis, Sacramento, USA.
+LA  - eng
+GR  - U24 NS133949/NS/NINDS NIH HHS/United States
+GR  - R01 AG062517/AG/NIA NIH HHS/United States
+GR  - P30 AG066519/AG/NIA NIH HHS/United States
+GR  - T32 AG073088/AG/NIA NIH HHS/United States
+GR  - P30 AG010129/AG/NIA NIH HHS/United States
+GR  - P30 AG072972/AG/NIA NIH HHS/United States
+PT  - Journal Article
+DEP - 20250602
+PL  - Germany
+TA  - Free Neuropathol
+JT  - Free neuropathology
+JID - 101768755
+PMC - PMC12159543
+OTO - NOTNLM
+OT  - Arteriolosclerosis
+OT  - Artificial intelligence
+OT  - Blood vessel
+OT  - Machine learning
+OT  - Morphometry
+OT  - Neuropathology
+COIS- The authors declare no competing interests.
+EDAT- 2025/06/13 06:35
+MHDA- 2025/06/13 06:36
+CRDT- 2025/06/13 05:16
+PHST- 2025/03/18 00:00 [received]
+PHST- 2025/05/15 00:00 [accepted]
+AID - 10.17879/freeneuropathology-2025-6387 [doi]
+PST - epublish
+SO  - Free Neuropathol. 2025 Jun 2;6:12. doi:
+      10.17879/freeneuropathology-2025-6387. eCollection 2025.
+
+PMID- 40504906
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250612
+LR  - 20251202
+IS  - 1095-9203 (Electronic)
+IS  - 0036-8075 (Linking)
+VI  - 388
+IP  - 6752
+DP  - 2025 Jun 12
+TI  - Evolutionary-scale enzymology enables exploration of a rugged catalytic
+      landscape.
+PG  - eadu1058
+LID - 10.1126/science.adu1058 [doi]
+AB  - Quantitatively mapping enzyme sequence-catalysis landscapes remains a
+      critical challenge in understanding enzyme function, evolution, and
+      design. In this study, we leveraged emerging microfluidic technology to
+      measure catalytic constants-kcat and KM-for hundreds of diverse orthologs
+      and mutants of adenylate kinase (ADK). We dissected this sequence-
+      catalysis landscape's topology, navigability, and mechanistic
+      underpinnings, revealing catalytically heterogeneous neighborhoods
+      organized by domain architecture. These results challenge long-standing
+      hypotheses in enzyme adaptation, demonstrating that thermophilic enzymes
+      are not universally slower than their mesophilic counterparts.
+      Semisupervised models that combine our data with the rich sequence
+      representations from large protein language models predict orthologous
+      ADK-sequence catalytic parameters better than existing approaches. Our
+      work demonstrates a promising strategy for dissecting sequence-catalysis
+      landscapes across enzymatic evolution, opening previously unexplored
+      avenues for enzyme engineering and functional prediction.
+FAU - Muir, Duncan F
+AU  - Muir DF
+AUID- ORCID: 0000-0003-0170-5937
+AD  - Department of Biochemistry and Biophysics, University of California, San
+      Francisco, San Francisco, CA, USA.
+AD  - Program in Biophysics, University of California, San Francisco, San
+      Francisco, CA, USA.
+FAU - Asper, Garrison P R
+AU  - Asper GPR
+AUID- ORCID: 0009-0005-6708-2826
+AD  - Department of Biochemistry and Biophysics, University of California, San
+      Francisco, San Francisco, CA, USA.
+FAU - Notin, Pascal
+AU  - Notin P
+AUID- ORCID: 0000-0002-1877-8983
+AD  - Department of Systems Biology, Harvard Medical School, Boston, MA, USA.
+AD  - Department of Computer Science, University of Oxford, Oxford, UK.
+FAU - Posner, Jacob A
+AU  - Posner JA
+AUID- ORCID: 0009-0001-6461-8876
+AD  - Department of Biochemistry and Biophysics, University of California, San
+      Francisco, San Francisco, CA, USA.
+AD  - Department of Biology, San Francisco State University, San Francisco, CA,
+      USA.
+FAU - Marks, Debora S
+AU  - Marks DS
+AUID- ORCID: 0000-0001-9388-2281
+AD  - Department of Systems Biology, Harvard Medical School, Boston, MA, USA.
+AD  - Broad Institute of Harvard and MIT, Cambridge, MA, USA.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AUID- ORCID: 0000-0002-1240-2192
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, CA, USA.
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA, USA.
+AD  - Bakar Computational Health Sciences Institute, University of California
+      San Francisco, San Francisco, CA, USA.
+FAU - Pinney, Margaux M
+AU  - Pinney MM
+AUID- ORCID: 0000-0002-7735-5032
+AD  - Department of Biochemistry and Biophysics, University of California, San
+      Francisco, San Francisco, CA, USA.
+AD  - Department of Chemistry, University of California, Berkeley, Berkeley,
+      CA, USA.
+LA  - eng
+GR  - DP5 OD033413/OD/NIH HHS/United States
+GR  - R01 CA260415/CA/NCI NIH HHS/United States
+PT  - Journal Article
+DEP - 20250612
+PL  - United States
+TA  - Science
+JT  - Science (New York, N.Y.)
+JID - 0404511
+RN  - EC 2.7.4.3 (Adenylate Kinase)
+SB  - IM
+UOF - bioRxiv. 2024 Oct 25:2024.10.23.619915. doi: 10.1101/2024.10.23.619915..
+      PMID: 39484523
+MH  - *Adenylate Kinase/chemistry/classification/genetics
+MH  - Biocatalysis
+MH  - Catalytic Domain
+MH  - *Evolution, Molecular
+MH  - Kinetics
+MH  - Mutation
+MH  - Protein Domains
+MH  - Phylogeny
+PMC - PMC12333904
+MID - NIHMS2097277
+EDAT- 2025/06/12 18:27
+MHDA- 2025/06/12 18:28
+CRDT- 2025/06/12 14:03
+AID - 10.1126/science.adu1058 [doi]
+PST - ppublish
+SO  - Science. 2025 Jun 12;388(6752):eadu1058. doi: 10.1126/science.adu1058.
+      Epub 2025 Jun 12.
+
+PMID- 40502157
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20260330
+IS  - 2692-8205 (Electronic)
+IS  - 2692-8205 (Linking)
+DP  - 2025 Jun 6
+TI  - An improved model for prediction of de novo designed proteins with
+      diverse geometries.
+LID - 2025.06.02.657515 [pii]
+LID - 10.1101/2025.06.02.657515 [doi]
+AB  - Nature uses structural variations on protein folds to fine-tune the
+      geometries of proteins for diverse functions, yet deep learning-based de
+      novo protein design methods generate highly regular, idealized protein
+      fold geometries that fail to capture natural diversity. Here, using
+      physics-based design methods, we generated and experimentally validated a
+      dataset of 5,996 stable, de novo designed proteins with diverse non-ideal
+      geometries. We show that deep learning-based structure prediction methods
+      applied to this set have a systematic bias towards idealized geometries.
+      To address this problem, we present a fine-tuned version of Alphafold2
+      that is capable of recapitulating geometric diversity and generalizes to
+      a new dataset of thousands of geometrically diverse de novo proteins from
+      5 fold families unseen in fine-tuning. Our results suggest that current
+      deep learning-based structure prediction methods do not capture some of
+      the physics that underlie the specific conformational preferences of
+      proteins designed de novo and observed in nature. Ultimately, approaches
+      such as ours and further informative datasets should lead to improved
+      models that reflect more of the physical principles of atomic packing and
+      hydrogen bonding interactions and enable improved generalization to more
+      challenging design problems.
+FAU - Orr, Benjamin
+AU  - Orr B
+AUID- ORCID: 0009-0002-4135-4676
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco; San Francisco, CA 94143, USA.
+AD  - Biophysics Graduate Program, University of California, San Francisco; San
+      Francisco, CA 94143, USA.
+FAU - Crilly, Stephanie E
+AU  - Crilly SE
+AUID- ORCID: 0000-0002-8151-290X
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco; San Francisco, CA 94143, USA.
+FAU - Akpinaroglu, Deniz
+AU  - Akpinaroglu D
+AUID- ORCID: 0000-0002-5482-0720
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco; San Francisco, CA 94143, USA.
+AD  - The UC Berkeley-UCSF Graduate Program in Bioengineering, University of
+      California, San Francisco; San Francisco, CA 94143, USA.
+FAU - Zhu, Eleanor
+AU  - Zhu E
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco; San Francisco, CA 94143, USA.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AUID- ORCID: 0000-0002-1240-2192
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco; San Francisco, CA 94143, USA.
+AD  - Quantitative Biosciences Institute, University of California, San
+      Francisco; San Francisco, CA 94143, USA.
+FAU - Kortemme, Tanja
+AU  - Kortemme T
+AUID- ORCID: 0000-0002-8494-680X
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco; San Francisco, CA 94143, USA.
+AD  - Biophysics Graduate Program, University of California, San Francisco; San
+      Francisco, CA 94143, USA.
+AD  - The UC Berkeley-UCSF Graduate Program in Bioengineering, University of
+      California, San Francisco; San Francisco, CA 94143, USA.
+AD  - Quantitative Biosciences Institute, University of California, San
+      Francisco; San Francisco, CA 94143, USA.
+AD  - Chan Zuckerberg Biohub; San Francisco, CA 94143, USA.
+LA  - eng
+GR  - R35 GM145236/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Preprint
+DEP - 20250606
+PL  - United States
+TA  - bioRxiv
+JT  - bioRxiv : the preprint server for biology
+JID - 101680187
+PMC - PMC12157515
+COIS- Competing interests: Authors declare that they have no competing
+      interests.
+EDAT- 2025/06/12 11:15
+MHDA- 2025/06/12 11:16
+CRDT- 2025/06/12 06:01
+AID - 10.1101/2025.06.02.657515 [doi]
+PST - epublish
+SO  - bioRxiv. 2025 Jun 6. doi: 10.1101/2025.06.02.657515.
 
 PMID- 39965010
 OWN - NLM
 STAT- MEDLINE
-DCOM- 20250224
-LR  - 20250224
+DCOM- 20250721
+LR  - 20250721
 IS  - 1553-7358 (Electronic)
 IS  - 1553-734X (Linking)
 VI  - 21
@@ -145,6 +1450,8 @@ AD  - Department of Epidemiology & Biostatistics, University of California, San
 AD  - Investigator Program, Chan Zuckerberg Biohub SF, San Francisco,
       California, United States of America.
 LA  - eng
+GR  - U01 HL157989/HL/NHLBI NIH HHS/United States
+PT  - Dataset
 PT  - Journal Article
 DEP - 20250218
 PL  - United States
@@ -152,16 +1459,24 @@ TA  - PLoS Comput Biol
 JT  - PLoS computational biology
 JID - 101238922
 RN  - 0 (Chromatin)
+RN  - EC 6.3.4.- (holocarboxylase synthetases)
+RN  - EC 6.3.- (Carbon-Nitrogen Ligases)
 SB  - IM
-MH  - *Chromatin/chemistry/metabolism/genetics
-MH  - *Computational Biology/methods
+UOF - bioRxiv. 2023 Nov 22:2023.11.22.568268. doi: 10.1101/2023.11.22.568268..
+      PMID: 38045231
+MH  - Animals
 MH  - Humans
-MH  - *Single Molecule Imaging/methods
-MH  - Algorithms
-MH  - Single-Cell Analysis/methods
+MH  - Genomics
+MH  - *Chromatin/chemistry/genetics
+MH  - Transcription, Genetic
+MH  - Genetic Loci
+MH  - Carbon-Nitrogen Ligases/genetics/metabolism
+MH  - Genome, Insect
+MH  - Genome, Human
+PMC - PMC11849981
 COIS- The authors have declared that no competing interests exist.
 EDAT- 2025/02/18 18:20
-MHDA- 2025/02/18 18:20
+MHDA- 2025/02/24 23:04
 CRDT- 2025/02/18 13:43
 PHST- 2024/05/19 00:00 [received]
 PHST- 2025/02/02 00:00 [accepted]
@@ -172,11 +1487,256 @@ PST - epublish
 SO  - PLoS Comput Biol. 2025 Feb 18;21(2):e1012841. doi:
       10.1371/journal.pcbi.1012841. eCollection 2025 Feb.
 
+PMID- 39908426
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250506
+LR  - 20250609
+IS  - 1549-960X (Electronic)
+IS  - 1549-9596 (Linking)
+VI  - 65
+IP  - 4
+DP  - 2025 Feb 24
+TI  - Fuzz Testing Molecular Representation Using Deep Variational Anomaly
+      Generation.
+PG  - 1911-1927
+LID - 10.1021/acs.jcim.4c01876 [doi]
+AB  - Researchers are developing increasingly robust molecular representations,
+      motivating the need for thorough methods to stress-test and validate
+      them. Here, we use a variational auto-encoder (VAE), an unsupervised deep
+      learning model, to generate anomalous examples of SELF-referencIng
+      Embedded Strings (SELFIES), a popular molecular string format. These
+      anomalies defy the assertion that all SELFIES convert into valid SMILES
+      strings. Interestingly, we find specific regions within the VAE's
+      internal landscape (latent space), whose decoding frequently generates
+      inconvertible SELFIES anomalies. The model's internal landscape self-
+      organization helps with exploring factors affecting molecular
+      representation reliability. We show how VAEs and similar anomaly
+      generation methods can empirically stress-test molecular representation
+      robustness. Additionally, we investigate reasons for the invalidity of
+      some discovered SELFIES strings (version 2.1.1) and suggest changes to
+      improve them, aiming to spark ongoing molecular representation
+      improvement.
+FAU - Nogueira, Victor H R
+AU  - Nogueira VHR
+AD  - Sao Carlos Institute of Physics, University of Sao Paulo, Sao Paulo
+      13563-120, Brazil.
+AD  - Genebank Department, Leibniz Institute of Plant Genetics and Crop Plant
+      Research (IPK), Corrensstrasse 3, Gatersleben, Seeland D-06466, Germany.
+FAU - Sharma, Rishabh
+AU  - Sharma R
+AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering &
+      Therapeutic Sciences, Institute for Neurodegenerative Diseases, Kavli
+      Institute for Fundamental Neuroscience, Bakar Computational Health
+      Sciences Institute, University of California, San Francisco, San
+      Francisco, California 94158, United States.
+FAU - Guido, Rafael V C
+AU  - Guido RVC
+AD  - Sao Carlos Institute of Physics, University of Sao Paulo, Sao Paulo
+      13563-120, Brazil.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AUID- ORCID: 0000-0002-1240-2192
+AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering &
+      Therapeutic Sciences, Institute for Neurodegenerative Diseases, Kavli
+      Institute for Fundamental Neuroscience, Bakar Computational Health
+      Sciences Institute, University of California, San Francisco, San
+      Francisco, California 94158, United States.
+LA  - eng
+PT  - Journal Article
+DEP - 20250205
+PL  - United States
+TA  - J Chem Inf Model
+JT  - Journal of chemical information and modeling
+JID - 101230060
+SB  - IM
+MH  - *Deep Learning
+PMC - PMC11863373
+EDAT- 2025/02/05 18:20
+MHDA- 2025/02/24 06:20
+CRDT- 2025/02/05 15:33
+AID - 10.1021/acs.jcim.4c01876 [doi]
+PST - ppublish
+SO  - J Chem Inf Model. 2025 Feb 24;65(4):1911-1927. doi:
+      10.1021/acs.jcim.4c01876. Epub 2025 Feb 5.
+
+PMID- 39713353
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20260307
+IS  - 2692-8205 (Electronic)
+IS  - 2692-8205 (Linking)
+DP  - 2024 Dec 13
+TI  - Data-driven discovery of cell-type-directed network-correcting
+      combination therapy for Alzheimer's disease.
+LID - 2024.12.09.627436 [pii]
+LID - 10.1101/2024.12.09.627436 [doi]
+AB  - Alzheimer's disease (AD) is a multifactorial neurodegenerative disorder
+      characterized by heterogeneous molecular changes across diverse cell
+      types, posing significant challenges for treatment development. To
+      address this, we introduced a cell-type-specific, multi-target drug
+      discovery strategy grounded in human data and real-world evidence. This
+      approach integrates single-cell transcriptomics, drug perturbation
+      databases, and clinical records. Using this framework, letrozole and
+      irinotecan were identified as a potential combination therapy, each
+      targeting AD-related gene expression changes in neurons and glial cells,
+      respectively. In an AD mouse model, this combination therapy
+      significantly improved memory function and reduced AD-related pathologies
+      compared to vehicle and single-drug treatments. Single-nuclei
+      transcriptomic analysis confirmed that the therapy reversed disease-
+      associated gene networks in a cell-type-specific manner. These results
+      highlight the promise of cell-type-directed combination therapies in
+      addressing multifactorial diseases like AD and lay the groundwork for
+      precision medicine tailored to patient-specific transcriptomic and
+      clinical profiles.
+FAU - Li, Yaqiao
+AU  - Li Y
+AUID- ORCID: 0000-0002-9433-7346
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA, USA.
+AD  - Pharmaceutical Science and Pharmacogenomics Graduate Program, University
+      of California, San Francisco, CA, USA.
+AD  - Gladstone Institute of Neurological Disease, Gladstone Institutes, San
+      Francisco, CA, USA.
+FAU - Serras, Carlota Pereda
+AU  - Serras CP
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA, USA.
+AD  - Pharmaceutical Science and Pharmacogenomics Graduate Program, University
+      of California, San Francisco, CA, USA.
+FAU - Blumenfeld, Jessica
+AU  - Blumenfeld J
+AD  - Gladstone Institute of Neurological Disease, Gladstone Institutes, San
+      Francisco, CA, USA.
+AD  - Neuroscience Graduate Program, University of California, San Francisco,
+      CA, USA.
+FAU - Xie, Min
+AU  - Xie M
+AD  - Gladstone Institute of Neurological Disease, Gladstone Institutes, San
+      Francisco, CA, USA.
+FAU - Hao, Yanxia
+AU  - Hao Y
+AD  - Gladstone Institute of Neurological Disease, Gladstone Institutes, San
+      Francisco, CA, USA.
+AD  - Gladstone Center for Translational Advancement, Gladstone Institutes, San
+      Francisco, CA, USA.
+FAU - Deng, Elise
+AU  - Deng E
+AD  - Gladstone Behavior Core, Gladstone Institutes, San Francisco, CA, USA.
+FAU - Chun, You Young
+AU  - Chun YY
+AD  - Gladstone Behavior Core, Gladstone Institutes, San Francisco, CA, USA.
+FAU - Holtzman, Julia
+AU  - Holtzman J
+AD  - Gladstone Behavior Core, Gladstone Institutes, San Francisco, CA, USA.
+FAU - An, Alice
+AU  - An A
+AD  - Gladstone Institute of Neurological Disease, Gladstone Institutes, San
+      Francisco, CA, USA.
+AD  - Gladstone Center for Translational Advancement, Gladstone Institutes, San
+      Francisco, CA, USA.
+FAU - Yoon, Seo Yeon
+AU  - Yoon SY
+AD  - Gladstone Institute of Neurological Disease, Gladstone Institutes, San
+      Francisco, CA, USA.
+FAU - Tang, Xinyu
+AU  - Tang X
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA, USA.
+FAU - Rao, Antara
+AU  - Rao A
+AD  - Gladstone Institute of Neurological Disease, Gladstone Institutes, San
+      Francisco, CA, USA.
+AD  - Developmental and Stem Cell Biology Graduate Program, University of
+      California, San Francisco, CA, USA.
+FAU - Woldemariam, Sarah
+AU  - Woldemariam S
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA, USA.
+FAU - Tang, Alice
+AU  - Tang A
+AUID- ORCID: 0000-0003-4745-0714
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA, USA.
+AD  - Bioengineering Graduate Program, University of California, San Francisco
+      and University of California, Berkeley, CA, USA.
+FAU - Zhang, Alex
+AU  - Zhang A
+AD  - Gladstone Institute of Neurological Disease, Gladstone Institutes, San
+      Francisco, CA, USA.
+FAU - Simms, Jeffrey
+AU  - Simms J
+AD  - Gladstone Behavior Core, Gladstone Institutes, San Francisco, CA, USA.
+FAU - Lo, Iris
+AU  - Lo I
+AD  - Gladstone Behavior Core, Gladstone Institutes, San Francisco, CA, USA.
+FAU - Oskotsky, Tomiko
+AU  - Oskotsky T
+AUID- ORCID: 0000-0001-7393-5120
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA, USA.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AUID- ORCID: 0000-0002-1240-2192
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA, USA.
+AD  - Pharmaceutical Science and Pharmacogenomics Graduate Program, University
+      of California, San Francisco, CA, USA.
+FAU - Huang, Yadong
+AU  - Huang Y
+AD  - Gladstone Institute of Neurological Disease, Gladstone Institutes, San
+      Francisco, CA, USA.
+AD  - Neuroscience Graduate Program, University of California, San Francisco,
+      CA, USA.
+AD  - Gladstone Center for Translational Advancement, Gladstone Institutes, San
+      Francisco, CA, USA.
+AD  - Developmental and Stem Cell Biology Graduate Program, University of
+      California, San Francisco, CA, USA.
+AD  - Departments of Neurology and Pathology, University of California, San
+      Francisco, San Francisco, CA, USA.
+FAU - Sirota, Marina
+AU  - Sirota M
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA, USA.
+AD  - Pharmaceutical Science and Pharmacogenomics Graduate Program, University
+      of California, San Francisco, CA, USA.
+AD  - Department of Pediatrics, University of California, San Francisco, San
+      Francisco, CA, USA.
+LA  - eng
+GR  - P30 AG072975/AG/NIA NIH HHS/United States
+GR  - R01 AG060393/AG/NIA NIH HHS/United States
+GR  - R01 AG078164/AG/NIA NIH HHS/United States
+GR  - P01 AG073082/AG/NIA NIH HHS/United States
+GR  - F30 AG079504/AG/NIA NIH HHS/United States
+GR  - R01 AG057683/AG/NIA NIH HHS/United States
+GR  - RF1 AG076647/AG/NIA NIH HHS/United States
+GR  - T32 HD007470/HD/NICHD NIH HHS/United States
+PT  - Journal Article
+PT  - Preprint
+DEP - 20241213
+PL  - United States
+TA  - bioRxiv
+JT  - bioRxiv : the preprint server for biology
+JID - 101680187
+UIN - Cell. 2025 Oct 2;188(20):5516-5534.e18. doi: 10.1016/j.cell.2025.06.035..
+      PMID: 40695276
+PMC - PMC11661161
+COIS- Declaration of interests Y.H. is a co-founder and scientific advisory
+      board member of GABAeron Inc. All other authors declare no competing
+      interests. Patent on this work was filed in 2024. U.S. Application Serial
+      No. 63/603,372
+EDAT- 2024/12/23 17:24
+MHDA- 2024/12/23 17:25
+CRDT- 2024/12/23 06:21
+AID - 10.1101/2024.12.09.627436 [doi]
+PST - epublish
+SO  - bioRxiv. 2024 Dec 13. doi: 10.1101/2024.12.09.627436.
+
 PMID- 39551797
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20241117
-LR  - 20241120
+LR  - 20250520
 IS  - 2041-1723 (Electronic)
 IS  - 2041-1723 (Linking)
 VI  - 15
@@ -207,12 +1767,12 @@ AB  - Behavioral larval zebrafish screens leverage a high-throughput small
 CI  - (c) 2024. The Author(s).
 FAU - Gendelev, Leo
 AU  - Gendelev L
-AUID- ORCID: http://orcid.org/0000-0002-9166-3947
+AUID- ORCID: 0000-0002-9166-3947
 AD  - Institute for Neurodegenerative Diseases, University of California, San
       Francisco, San Francisco, CA, USA.
 FAU - Taylor, Jack
 AU  - Taylor J
-AUID- ORCID: http://orcid.org/0000-0002-6431-9956
+AUID- ORCID: 0000-0002-6431-9956
 AD  - Institute for Neurodegenerative Diseases, University of California, San
       Francisco, San Francisco, CA, USA.
 AD  - UCSF Weill Institute for Neurosciences Memory and Aging Center,
@@ -233,7 +1793,7 @@ AD  - Department of Pharmaceutical Chemistry, University of California, San
       Francisco, San Francisco, CA, USA.
 FAU - Arkin, Michelle R
 AU  - Arkin MR
-AUID- ORCID: http://orcid.org/0000-0002-9366-6770
+AUID- ORCID: 0000-0002-9366-6770
 AD  - Department of Pharmaceutical Chemistry, University of California, San
       Francisco, San Francisco, CA, USA.
 FAU - Kokel, David
@@ -242,7 +1802,7 @@ AD  - Institute for Neurodegenerative Diseases, University of California, San
       Francisco, San Francisco, CA, USA. dave.kokel@gmail.com.
 FAU - Keiser, Michael J
 AU  - Keiser MJ
-AUID- ORCID: http://orcid.org/0000-0002-1240-2192
+AUID- ORCID: 0000-0002-1240-2192
 AD  - Institute for Neurodegenerative Diseases, University of California, San
       Francisco, San Francisco, CA, USA. keiser@keiserlab.org.
 AD  - Department of Pharmaceutical Chemistry, University of California, San
@@ -254,9 +1814,11 @@ AD  - Bakar Computational Health Sciences Institute, University of California,
 LA  - eng
 GR  - R01 AA022583/AA/NIAAA NIH HHS/United States
 GR  - Allen Distinguished Investigator/Paul G. Allen Family Foundation
-GR  - R01AA022583/U.S. Department of Health & Human Services | NIH | National
-      Institute on Alcohol Abuse and Alcoholism (NIAAA)
+GR  - R01AA022583/U.S. Department of Health &amp; Human Services | NIH |
+      National Institute on Alcohol Abuse and Alcoholism (NIAAA)
 PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
 DEP - 20241117
 PL  - England
 TA  - Nat Commun
@@ -288,6 +1850,267 @@ AID - 10.1038/s41467-024-54375-y [doi]
 AID - 10.1038/s41467-024-54375-y [pii]
 PST - epublish
 SO  - Nat Commun. 2024 Nov 17;15(1):9955. doi: 10.1038/s41467-024-54375-y.
+
+PMID- 39484523
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20251202
+LR  - 20251202
+IS  - 2692-8205 (Electronic)
+IS  - 2692-8205 (Linking)
+DP  - 2024 Oct 25
+TI  - Evolutionary-Scale Enzymology Enables Biochemical Constant Prediction
+      Across a Multi-Peaked Catalytic Landscape.
+LID - 2024.10.23.619915 [pii]
+LID - 10.1101/2024.10.23.619915 [doi]
+AB  - Quantitatively mapping enzyme sequence-catalysis landscapes remains a
+      critical challenge in understanding enzyme function, evolution, and
+      design. Here, we expand an emerging microfluidic platform to measure
+      catalytic constants-k cat and K M-for hundreds of diverse naturally
+      occurring sequences and mutants of the model enzyme Adenylate Kinase
+      (ADK). This enables us to dissect the sequence-catalysis landscape's
+      topology, navigability, and mechanistic underpinnings, revealing distinct
+      catalytic peaks organized by structural motifs. These results challenge
+      long-standing hypotheses in enzyme adaptation, demonstrating that
+      thermophilic enzymes are not slower than their mesophilic counterparts.
+      Combining the rich representations of protein sequences provided by deep-
+      learning models with our custom high-throughput kinetic data yields semi-
+      supervised models that significantly outperform existing models at
+      predicting catalytic parameters of naturally occurring ADK sequences. Our
+      work demonstrates a promising strategy for dissecting sequence-catalysis
+      landscapes across enzymatic evolution and building family-specific models
+      capable of accurately predicting catalytic constants, opening new avenues
+      for enzyme engineering and functional prediction.
+FAU - Muir, Duncan F
+AU  - Muir DF
+AUID- ORCID: 0000-0003-0170-5937
+AD  - Department of Biochemistry and Biophysics, University of California San
+      Francisco, San Francisco, CA, USA.
+AD  - Program in Biophysics, University of California, San Francisco, San
+      Francisco, CA, USA.
+FAU - Asper, Garrison P R
+AU  - Asper GPR
+AUID- ORCID: 0009-0005-6708-2826
+AD  - Department of Biochemistry and Biophysics, University of California San
+      Francisco, San Francisco, CA, USA.
+FAU - Notin, Pascal
+AU  - Notin P
+AUID- ORCID: 0000-0002-1877-8983
+AD  - Department of Systems Biology, Harvard Medical School, Boston, MA, USA.
+AD  - Department of Computer Science, University of Oxford, Oxford, UK.
+FAU - Posner, Jacob A
+AU  - Posner JA
+AUID- ORCID: 0009-0001-6461-8876
+AD  - Department of Biochemistry and Biophysics, University of California San
+      Francisco, San Francisco, CA, USA.
+AD  - Department of Biology, San Francisco State University, San Francisco, CA,
+      USA.
+FAU - Marks, Debora S
+AU  - Marks DS
+AUID- ORCID: 0000-0001-9388-2281
+AD  - Department of Systems Biology, Harvard Medical School, Boston, MA, USA.
+AD  - Broad Institute of Harvard and MIT, Cambridge, MA, USA.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AUID- ORCID: 0000-0002-1240-2192
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, CA, USA.
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA, USA.
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA, USA.
+FAU - Pinney, Margaux M
+AU  - Pinney MM
+AUID- ORCID: 0000-0002-7735-5032
+AD  - Department of Biochemistry and Biophysics, University of California San
+      Francisco, San Francisco, CA, USA.
+AD  - Valhalla Fellow, University of California San Francisco, San Francisco,
+      CA, USA.
+LA  - eng
+GR  - DP5 OD033413/OD/NIH HHS/United States
+GR  - R01 CA260415/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Preprint
+DEP - 20241025
+PL  - United States
+TA  - bioRxiv
+JT  - bioRxiv : the preprint server for biology
+JID - 101680187
+UIN - Science. 2025 Jun 12;388(6752):eadu1058. doi: 10.1126/science.adu1058..
+      PMID: 40504906
+PMC - PMC11526920
+EDAT- 2024/11/04 07:23
+MHDA- 2024/11/04 07:24
+CRDT- 2024/11/01 05:16
+AID - 10.1101/2024.10.23.619915 [doi]
+PST - epublish
+SO  - bioRxiv. 2024 Oct 25. doi: 10.1101/2024.10.23.619915.
+
+PMID- 39386601
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250921
+IS  - 2692-8205 (Electronic)
+IS  - 2692-8205 (Linking)
+DP  - 2024 Sep 24
+TI  - Learning precise segmentation of neurofibrillary tangles from rapid
+      manual point annotations.
+LID - 2024.05.15.594372 [pii]
+LID - 10.1101/2024.05.15.594372 [doi]
+AB  - Accumulation of abnormal tau protein into neurofibrillary tangles (NFTs)
+      is a pathologic hallmark of Alzheimer disease (AD). Accurate detection of
+      NFTs in tissue samples can reveal relationships with clinical,
+      demographic, and genetic features through deep phenotyping. However,
+      expert manual analysis is time-consuming, subject to observer
+      variability, and cannot handle the data amounts generated by modern
+      imaging. We present a scalable, open-source, deep-learning approach to
+      quantify NFT burden in digital whole slide images (WSIs) of post-mortem
+      human brain tissue. To achieve this, we developed a method to generate
+      detailed NFT boundaries directly from single-point-per-NFT annotations.
+      We then trained a semantic segmentation model on 45 annotated 2400mum by
+      1200mum regions of interest (ROIs) selected from 15 unique temporal
+      cortex WSIs of AD cases from three institutions (University of California
+      (UC)-Davis, UC-San Diego, and Columbia University). Segmenting NFTs at
+      the single-pixel level, the model achieved an area under the receiver
+      operating characteristic of 0.832 and an F1 of 0.527 (196-fold over
+      random) on a held-out test set of 664 NFTs from 20 ROIs (7 WSIs). We
+      compared this to deep object detection, which achieved comparable but
+      coarser-grained performance that was 60% faster. The segmentation and
+      object detection models correlated well with expert semi-quantitative
+      scores at the whole-slide level (Spearman's rho rho=0.654 (p=6.50e-5) and
+      rho=0.513 (p=3.18e-3), respectively). We openly release this multi-
+      institution deep-learning pipeline to provide detailed NFT spatial
+      distribution and morphology analysis capability at a scale otherwise
+      infeasible by manual assessment.
+FAU - Ghandian, Sina
+AU  - Ghandian S
+AUID- ORCID: 0009-0004-2312-0950
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA, 94158, USA.
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, CA, 94158, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, CA, 94158, USA.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco, San Francisco, CA, 94158, USA.
+FAU - Albarghouthi, Liane
+AU  - Albarghouthi L
+AUID- ORCID: 0000-0002-4761-9711
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA, 94158, USA.
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, CA, 94158, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, CA, 94158, USA.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco, San Francisco, CA, 94158, USA.
+FAU - Nava, Kiana
+AU  - Nava K
+AUID- ORCID: 0000-0002-2874-1981
+AD  - Department of Pathology and Laboratory Medicine, School of Medicine,
+      University of California, Davis, Sacramento, CA, 95817, USA.
+FAU - Sharma, Shivam R Rai
+AU  - Sharma SRR
+AD  - Department of Computer Science, University of California, Davis, Davis,
+      CA, 95616, USA.
+AD  - Robust and Ubiquitous Networking (RUbiNet) Lab, University of California,
+      Davis, Davis, CA, 95616, USA.
+FAU - Minaud, Lise
+AU  - Minaud L
+AUID- ORCID: 0000-0002-6214-3651
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA, 94158, USA.
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, CA, 94158, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, CA, 94158, USA.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco, San Francisco, CA, 94158, USA.
+FAU - Beckett, Laurel
+AU  - Beckett L
+AUID- ORCID: 0000-0002-2418-9843
+AD  - Division of Biostatistics, Department of Public Health Sciences,
+      University of California Davis, Davis, CA, USA.
+FAU - Saito, Naomi
+AU  - Saito N
+AUID- ORCID: 0009-0006-7858-9267
+AD  - Division of Biostatistics, Department of Public Health Sciences,
+      University of California Davis, Davis, CA, USA.
+FAU - DeCarli, Charles
+AU  - DeCarli C
+AUID- ORCID: 0000-0003-1914-2693
+AD  - Alzheimer's Disease Research Center, Department of Neurology, School of
+      Medicine, University of California Davis, Sacramento, CA, USA.
+FAU - Rissman, Robert A
+AU  - Rissman RA
+AUID- ORCID: 0000-0001-9245-8278
+AD  - Department of Neurosciences, University of California San Diego, La
+      Jolla, San Diego, CA, USA.
+FAU - Teich, Andrew F
+AU  - Teich AF
+AUID- ORCID: 0000-0002-1916-8490
+AD  - Taub Institute for Research On Alzheimer's Disease and Aging Brain,
+      Department of Neurology, Columbia University Medical Center, New York,
+      NY, USA.
+FAU - Jin, Lee-Way
+AU  - Jin LW
+AUID- ORCID: 0000-0001-9729-1032
+AD  - Department of Pathology and Laboratory Medicine, School of Medicine,
+      University of California, Davis, Sacramento, CA, 95817, USA.
+FAU - Dugger, Brittany N
+AU  - Dugger BN
+AUID- ORCID: 0000-0003-2141-8855
+AD  - Department of Pathology and Laboratory Medicine, School of Medicine,
+      University of California, Davis, Sacramento, CA, 95817, USA.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AUID- ORCID: 0000-0002-1240-2192
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA, 94158, USA.
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, CA, 94158, USA.
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, CA, 94158, USA.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco, San Francisco, CA, 94158, USA.
+LA  - eng
+GR  - P50 AG008702/AG/NIA NIH HHS/United States
+GR  - P30 AG066462/AG/NIA NIH HHS/United States
+GR  - P30 AG066530/AG/NIA NIH HHS/United States
+GR  - P30 AG072972/AG/NIA NIH HHS/United States
+GR  - R01 AG062517/AG/NIA NIH HHS/United States
+GR  - P30 AG062429/AG/NIA NIH HHS/United States
+PT  - Journal Article
+PT  - Preprint
+DEP - 20240924
+PL  - United States
+TA  - bioRxiv
+JT  - bioRxiv : the preprint server for biology
+JID - 101680187
+PMC - PMC11463656
+OTO - NOTNLM
+OT  - Alzheimer disease
+OT  - Digital pathology
+OT  - NFT
+OT  - deep learning
+OT  - neurofibrillary tangles
+OT  - neuropathology
+OT  - object detection
+OT  - open source
+OT  - semantic segmentation
+OT  - tau
+COIS- Declaration of interests Brittany N. Dugger reports a relationship with
+      External Advisory Board, University of Southern California Alzheimer's
+      Disease Research Center that includes: consulting or advisory. The other
+      authors declare that they have no known competing financial interests or
+      personal relationships that could have appeared to influence the work
+      reported in this paper.
+EDAT- 2024/10/10 06:22
+MHDA- 2024/10/10 06:23
+CRDT- 2024/10/10 05:09
+AID - 10.1101/2024.05.15.594372 [doi]
+PST - epublish
+SO  - bioRxiv. 2024 Sep 24. doi: 10.1101/2024.05.15.594372.
 
 PMID- 39360680
 OWN - NLM
@@ -364,7 +2187,7 @@ PMID- 39278951
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240915
-LR  - 20241220
+LR  - 20250806
 IS  - 2399-3642 (Electronic)
 IS  - 2399-3642 (Linking)
 VI  - 7
@@ -432,6 +2255,7 @@ AD  - Institute for Neurodegenerative Diseases, University of California, San
 AD  - Bakar Computational Health Sciences Institute, University of California,
       San Francisco, San Francisco, CA, USA. keiser@keiserlab.org.
 LA  - eng
+GR  - P41 GM103504/GM/NIGMS NIH HHS/United States
 GR  - U01 MH115747/MH/NIMH NIH HHS/United States
 GR  - U01 MH115747-02/U.S. Department of Health &amp; Human Services | NIH |
       National Institute of Mental Health (NIMH)
@@ -470,7 +2294,7 @@ PMID- 38953560
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20240722
-LR  - 20241108
+LR  - 20250719
 IS  - 1549-960X (Electronic)
 IS  - 1549-9596 (Linking)
 VI  - 64
@@ -536,6 +2360,7 @@ AD  - Institute for Neurodegenerative Diseases, University of California, San
 AD  - Bakar Computational Health Sciences Institute, University of California,
       San Francisco, San Francisco, California 94158, United States.
 LA  - eng
+GR  - R21 EY035366/EY/NEI NIH HHS/United States
 GR  - T32 GM145460/GM/NIGMS NIH HHS/United States
 PT  - Journal Article
 DEP - 20240702
@@ -723,6 +2548,85 @@ PST - epublish
 SO  - Acta Neuropathol Commun. 2023 Dec 18;11(1):202. doi:
       10.1186/s40478-023-01691-x.
 
+PMID- 38045231
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250508
+IS  - 2692-8205 (Electronic)
+IS  - 2692-8205 (Linking)
+DP  - 2023 Nov 22
+TI  - ChromaFactor: deconvolution of single-molecule chromatin organization
+      with non-negative matrix factorization.
+LID - 2023.11.22.568268 [pii]
+LID - 10.1101/2023.11.22.568268 [doi]
+AB  - The investigation of chromatin organization in single cells holds great
+      promise for identifying causal relationships between genome structure and
+      function. However, analysis of single-molecule data is hampered by
+      extreme yet inherent heterogeneity, making it challenging to determine
+      the contributions of individual chromatin fibers to bulk trends. To
+      address this challenge, we propose ChromaFactor, a novel computational
+      approach based on non-negative matrix factorization that deconvolves
+      single-molecule chromatin organization datasets into their most salient
+      primary components. ChromaFactor provides the ability to identify trends
+      accounting for the maximum variance in the dataset while simultaneously
+      describing the contribution of individual molecules to each component.
+      Applying our approach to two single-molecule imaging datasets across
+      different genomic scales, we find that these primary components
+      demonstrate significant correlation with key functional phenotypes,
+      including active transcription, enhancer-promoter distance, and genomic
+      compartment. ChromaFactor offers a robust tool for understanding the
+      complex interplay between chromatin structure and function on individual
+      DNA molecules, pinpointing which subpopulations drive functional changes
+      and fostering new insights into cellular heterogeneity and its
+      implications for bulk genomic phenomena.
+FAU - Gunsalus, Laura M
+AU  - Gunsalus LM
+AUID- ORCID: 0000-0003-3444-5617
+AD  - Gladstone Institutes, San Francisco, CA.
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, CA.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AUID- ORCID: 0000-0002-1240-2192
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, CA.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco, CA.
+AD  - Kavli Institute for Fundamental Neuroscience, University of California,
+      San Francisco, San Francisco, CA.
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, CA.
+AD  - Department of Epidemiology & Biostatistics, University of California, San
+      Francisco, San Francisco, CA.
+FAU - Pollard, Katherine S
+AU  - Pollard KS
+AUID- ORCID: 0000-0002-9870-6196
+AD  - Gladstone Institutes, San Francisco, CA.
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA.
+AD  - Department of Bioengineering and Therapeutic Sciences, University of
+      California, San Francisco, CA.
+AD  - Chan Zuckerberg Biohub, San Francisco, CA.
+LA  - eng
+GR  - R01 MH123178/MH/NIMH NIH HHS/United States
+GR  - U01 HL157989/HL/NHLBI NIH HHS/United States
+PT  - Preprint
+PT  - Journal Article
+DEP - 20231122
+PL  - United States
+TA  - bioRxiv
+JT  - bioRxiv : the preprint server for biology
+JID - 101680187
+UIN - PLoS Comput Biol. 2025 Feb 18;21(2):e1012841. doi:
+      10.1371/journal.pcbi.1012841.. PMID: 39965010
+PMC - PMC10690235
+EDAT- 2023/12/04 06:42
+MHDA- 2023/12/04 06:43
+CRDT- 2023/12/04 04:32
+AID - 10.1101/2023.11.22.568268 [doi]
+PST - epublish
+SO  - bioRxiv. 2023 Nov 22. doi: 10.1101/2023.11.22.568268.
+
 PMID- 37868032
 OWN - NLM
 STAT- PubMed-not-MEDLINE
@@ -805,6 +2709,88 @@ AID - S2666-979X(23)00224-0 [pii]
 PST - epublish
 SO  - Cell Genom. 2023 Sep 25;3(10):100410. doi: 10.1016/j.xgen.2023.100410.
       eCollection 2023 Oct 11.
+
+PMID- 37693536
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250816
+IS  - 2692-8205 (Electronic)
+IS  - 2692-8205 (Linking)
+DP  - 2023 Aug 28
+TI  - Learning chemical sensitivity reveals mechanisms of cellular response.
+LID - 2023.08.26.554851 [pii]
+LID - 10.1101/2023.08.26.554851 [doi]
+AB  - Chemical probes interrogate disease mechanisms at the molecular level by
+      linking genetic changes to observable traits. However, comprehensive
+      chemical screens in diverse biological models are impractical. To address
+      this challenge, we developed ChemProbe, a model that predicts cellular
+      sensitivity to hundreds of molecular probes and drugs by learning to
+      combine transcriptomes and chemical structures. Using ChemProbe, we
+      inferred the chemical sensitivity of cancer cell lines and tumor samples
+      and analyzed how the model makes predictions. We retrospectively
+      evaluated drug response predictions for precision breast cancer treatment
+      and prospectively validated chemical sensitivity predictions in new
+      cellular models, including a genetically modified cell line. Our model
+      interpretation analysis identified transcriptome features reflecting
+      compound targets and protein network modules, identifying genes that
+      drive ferroptosis. ChemProbe is an interpretable in silico screening tool
+      that allows researchers to measure cellular response to diverse
+      compounds, facilitating research into molecular mechanisms of chemical
+      sensitivity.
+FAU - Connell, William
+AU  - Connell W
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, CA, USA.
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA, USA.
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA, USA.
+FAU - Garcia, Kristle
+AU  - Garcia K
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA, USA.
+AD  - Department of Biochemistry and Biophysics, University of California, San
+      Francisco, San Francisco, CA, USA.
+AD  - Department of Urology, University of California, San Francisco, San
+      Francisco, CA, USA.
+AD  - Helen Diller Family Comprehensive Cancer Center, University of
+      California, San Francisco, San Francisco, CA, USA.
+FAU - Goodarzi, Hani
+AU  - Goodarzi H
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA, USA.
+AD  - Department of Biochemistry and Biophysics, University of California, San
+      Francisco, San Francisco, CA, USA.
+AD  - Department of Urology, University of California, San Francisco, San
+      Francisco, CA, USA.
+AD  - Helen Diller Family Comprehensive Cancer Center, University of
+      California, San Francisco, San Francisco, CA, USA.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AD  - Department of Pharmaceutical Chemistry, University of California, San
+      Francisco, San Francisco, CA, USA.
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, San Francisco, CA, USA.
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, San Francisco, CA, USA.
+LA  - eng
+GR  - U01 MH115747/MH/NIMH NIH HHS/United States
+PT  - Preprint
+PT  - Journal Article
+DEP - 20230828
+PL  - United States
+TA  - bioRxiv
+JT  - bioRxiv : the preprint server for biology
+JID - 101680187
+UIN - Commun Biol. 2024 Sep 15;7(1):1149. doi: 10.1038/s42003-024-06865-4..
+      PMID: 39278951
+PMC - PMC10491110
+EDAT- 2023/09/11 06:42
+MHDA- 2023/09/11 06:43
+CRDT- 2023/09/11 04:55
+AID - 10.1101/2023.08.26.554851 [doi]
+PST - epublish
+SO  - bioRxiv. 2023 Aug 28. doi: 10.1101/2023.08.26.554851.
 
 PMID- 37355729
 OWN - NLM
@@ -943,115 +2929,6 @@ AID - 10.1038/s42003-023-05031-6 [pii]
 PST - epublish
 SO  - Commun Biol. 2023 Jun 24;6(1):668. doi: 10.1038/s42003-023-05031-6.
 
-PMID- 36102784
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20220928
-LR  - 20221018
-IS  - 1549-960X (Electronic)
-IS  - 1549-9596 (Linking)
-VI  - 62
-IP  - 18
-DP  - 2022 Sep 26
-TI  - Prioritizing Virtual Screening with Interpretable Interaction
-      Fingerprints.
-PG  - 4300-4318
-LID - 10.1021/acs.jcim.2c00695 [doi]
-AB  - Machine learning-based drug discovery success depends on molecular
-      representation. Yet traditional molecular fingerprints omit both the
-      protein and pointers back to structural information that would enable
-      better model interpretability. Therefore, we propose LUNA, a Python 3
-      toolkit that calculates and encodes protein-ligand interactions into new
-      hashed fingerprints inspired by Extended Connectivity FingerPrint (ECFP):
-      EIFP (Extended Interaction FingerPrint), FIFP (Functional Interaction
-      FingerPrint), and Hybrid Interaction FingerPrint (HIFP). LUNA also
-      provides visual strategies to make the fingerprints interpretable. We
-      performed three major experiments exploring the fingerprints' use. First,
-      we trained machine learning models to reproduce DOCK3.7 scores using 1
-      million docked Dopamine D4 complexes. We found that EIFP-4,096 performed
-      (R(2) = 0.61) superior to related molecular and interaction fingerprints.
-      Second, we used LUNA to support interpretable machine learning models.
-      Finally, we demonstrate that interaction fingerprints can accurately
-      identify similarities across molecular complexes that other fingerprints
-      overlook. Hence, we envision LUNA and its interface fingerprints as
-      promising methods for machine learning-based virtual screening campaigns.
-      LUNA is freely available at https://github.com/keiserlab/LUNA.
-FAU - Fassio, Alexandre V
-AU  - Fassio AV
-AUID- ORCID: 0000-0002-2182-4709
-AD  - Sao Carlos Institute of Physics, University of Sao Paulo, Sao Carlos, Sao
-      Paulo 13563-120, Brazil.
-AD  - Department of Biochemistry and Immunology, Federal University of Minas
-      Gerais, Belo Horizonte, Minas Gerais 31270-901, Brazil.
-FAU - Shub, Laura
-AU  - Shub L
-AUID- ORCID: 0000-0003-0211-0396
-AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering &
-      Therapeutic Sciences, Institute for Neurodegenerative Diseases, Kavli
-      Institute for Fundamental Neuroscience, Bakar Computational Health
-      Sciences Institute, University of California, San Francisco, San
-      Francisco, California 94143, United States.
-FAU - Ponzoni, Luca
-AU  - Ponzoni L
-AUID- ORCID: 0000-0001-8125-582X
-AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering &
-      Therapeutic Sciences, Institute for Neurodegenerative Diseases, Kavli
-      Institute for Fundamental Neuroscience, Bakar Computational Health
-      Sciences Institute, University of California, San Francisco, San
-      Francisco, California 94143, United States.
-FAU - McKinley, Jessica
-AU  - McKinley J
-AUID- ORCID: 0000-0002-8786-915X
-AD  - Gilead Sciences, Inc., Foster City, California 94404, United States.
-FAU - O'Meara, Matthew J
-AU  - O'Meara MJ
-AUID- ORCID: 0000-0002-3128-5331
-AD  - Department of Computational Medicine and Bioinformatics, University of
-      Michigan, Ann Arbor, Michigan 48109, United States.
-FAU - Ferreira, Rafaela S
-AU  - Ferreira RS
-AD  - Department of Biochemistry and Immunology, Federal University of Minas
-      Gerais, Belo Horizonte, Minas Gerais 31270-901, Brazil.
-FAU - Keiser, Michael J
-AU  - Keiser MJ
-AUID- ORCID: 0000-0002-1240-2192
-AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering &
-      Therapeutic Sciences, Institute for Neurodegenerative Diseases, Kavli
-      Institute for Fundamental Neuroscience, Bakar Computational Health
-      Sciences Institute, University of California, San Francisco, San
-      Francisco, California 94143, United States.
-FAU - de Melo Minardi, Raquel C
-AU  - de Melo Minardi RC
-AUID- ORCID: 0000-0001-5190-100X
-AD  - Department of Computer Science, Federal University of Minas Gerais, Belo
-      Horizonte, Minas Gerais 31270-901, Brazil.
-LA  - eng
-GR  - T32 GM067547/GM/NIGMS NIH HHS/United States
-PT  - Journal Article
-PT  - Research Support, N.I.H., Extramural
-PT  - Research Support, Non-U.S. Gov't
-DEP - 20220914
-PL  - United States
-TA  - J Chem Inf Model
-JT  - Journal of chemical information and modeling
-JID - 101230060
-RN  - 0 (Ligands)
-RN  - 0 (Proteins)
-RN  - VTD58H1Z2X (Dopamine)
-SB  - IM
-MH  - *Dopamine
-MH  - Drug Discovery/methods
-MH  - Ligands
-MH  - Machine Learning
-MH  - *Proteins/chemistry
-EDAT- 2022/09/15 06:00
-MHDA- 2022/09/28 06:00
-CRDT- 2022/09/14 09:53
-AID - 10.1021/acs.jcim.2c00695 [doi]
-PST - ppublish
-SO  - J Chem Inf Model. 2022 Sep 26;62(18):4300-4318. doi:
-      10.1021/acs.jcim.2c00695. Epub 2022 Sep 14.
-
 PMID- 36276634
 OWN - NLM
 STAT- PubMed-not-MEDLINE
@@ -1188,6 +3065,115 @@ AID - 10.1038/s42256-022-00490-8 [doi]
 PST - ppublish
 SO  - Nat Mach Intell. 2022 Jun;4(6):583-595. doi: 10.1038/s42256-022-00490-8.
       Epub 2022 May 30.
+
+PMID- 36102784
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220928
+LR  - 20221018
+IS  - 1549-960X (Electronic)
+IS  - 1549-9596 (Linking)
+VI  - 62
+IP  - 18
+DP  - 2022 Sep 26
+TI  - Prioritizing Virtual Screening with Interpretable Interaction
+      Fingerprints.
+PG  - 4300-4318
+LID - 10.1021/acs.jcim.2c00695 [doi]
+AB  - Machine learning-based drug discovery success depends on molecular
+      representation. Yet traditional molecular fingerprints omit both the
+      protein and pointers back to structural information that would enable
+      better model interpretability. Therefore, we propose LUNA, a Python 3
+      toolkit that calculates and encodes protein-ligand interactions into new
+      hashed fingerprints inspired by Extended Connectivity FingerPrint (ECFP):
+      EIFP (Extended Interaction FingerPrint), FIFP (Functional Interaction
+      FingerPrint), and Hybrid Interaction FingerPrint (HIFP). LUNA also
+      provides visual strategies to make the fingerprints interpretable. We
+      performed three major experiments exploring the fingerprints' use. First,
+      we trained machine learning models to reproduce DOCK3.7 scores using 1
+      million docked Dopamine D4 complexes. We found that EIFP-4,096 performed
+      (R(2) = 0.61) superior to related molecular and interaction fingerprints.
+      Second, we used LUNA to support interpretable machine learning models.
+      Finally, we demonstrate that interaction fingerprints can accurately
+      identify similarities across molecular complexes that other fingerprints
+      overlook. Hence, we envision LUNA and its interface fingerprints as
+      promising methods for machine learning-based virtual screening campaigns.
+      LUNA is freely available at https://github.com/keiserlab/LUNA.
+FAU - Fassio, Alexandre V
+AU  - Fassio AV
+AUID- ORCID: 0000-0002-2182-4709
+AD  - Sao Carlos Institute of Physics, University of Sao Paulo, Sao Carlos, Sao
+      Paulo 13563-120, Brazil.
+AD  - Department of Biochemistry and Immunology, Federal University of Minas
+      Gerais, Belo Horizonte, Minas Gerais 31270-901, Brazil.
+FAU - Shub, Laura
+AU  - Shub L
+AUID- ORCID: 0000-0003-0211-0396
+AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering &
+      Therapeutic Sciences, Institute for Neurodegenerative Diseases, Kavli
+      Institute for Fundamental Neuroscience, Bakar Computational Health
+      Sciences Institute, University of California, San Francisco, San
+      Francisco, California 94143, United States.
+FAU - Ponzoni, Luca
+AU  - Ponzoni L
+AUID- ORCID: 0000-0001-8125-582X
+AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering &
+      Therapeutic Sciences, Institute for Neurodegenerative Diseases, Kavli
+      Institute for Fundamental Neuroscience, Bakar Computational Health
+      Sciences Institute, University of California, San Francisco, San
+      Francisco, California 94143, United States.
+FAU - McKinley, Jessica
+AU  - McKinley J
+AUID- ORCID: 0000-0002-8786-915X
+AD  - Gilead Sciences, Inc., Foster City, California 94404, United States.
+FAU - O'Meara, Matthew J
+AU  - O'Meara MJ
+AUID- ORCID: 0000-0002-3128-5331
+AD  - Department of Computational Medicine and Bioinformatics, University of
+      Michigan, Ann Arbor, Michigan 48109, United States.
+FAU - Ferreira, Rafaela S
+AU  - Ferreira RS
+AD  - Department of Biochemistry and Immunology, Federal University of Minas
+      Gerais, Belo Horizonte, Minas Gerais 31270-901, Brazil.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AUID- ORCID: 0000-0002-1240-2192
+AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering &
+      Therapeutic Sciences, Institute for Neurodegenerative Diseases, Kavli
+      Institute for Fundamental Neuroscience, Bakar Computational Health
+      Sciences Institute, University of California, San Francisco, San
+      Francisco, California 94143, United States.
+FAU - de Melo Minardi, Raquel C
+AU  - de Melo Minardi RC
+AUID- ORCID: 0000-0001-5190-100X
+AD  - Department of Computer Science, Federal University of Minas Gerais, Belo
+      Horizonte, Minas Gerais 31270-901, Brazil.
+LA  - eng
+GR  - T32 GM067547/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220914
+PL  - United States
+TA  - J Chem Inf Model
+JT  - Journal of chemical information and modeling
+JID - 101230060
+RN  - 0 (Ligands)
+RN  - 0 (Proteins)
+RN  - VTD58H1Z2X (Dopamine)
+SB  - IM
+MH  - *Dopamine
+MH  - Drug Discovery/methods
+MH  - Ligands
+MH  - Machine Learning
+MH  - *Proteins/chemistry
+EDAT- 2022/09/15 06:00
+MHDA- 2022/09/28 06:00
+CRDT- 2022/09/14 09:53
+AID - 10.1021/acs.jcim.2c00695 [doi]
+PST - ppublish
+SO  - J Chem Inf Model. 2022 Sep 26;62(18):4300-4318. doi:
+      10.1021/acs.jcim.2c00695. Epub 2022 Sep 14.
 
 PMID- 35484610
 OWN - NLM
@@ -1562,6 +3548,154 @@ PST - ppublish
 SO  - J Chem Inf Model. 2020 Dec 28;60(12):5957-5970. doi:
       10.1021/acs.jcim.0c00565. Epub 2020 Nov 27.
 
+PMID- 32586194
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210603
+LR  - 20250729
+IS  - 1744-8069 (Electronic)
+IS  - 1744-8069 (Linking)
+VI  - 16
+DP  - 2020 Jan-Dec
+TI  - Differential methylation and expression of genes in the hypoxia-inducible
+      factor 1 signaling pathway are associated with paclitaxel-induced
+      peripheral neuropathy in breast cancer survivors and with preclinical
+      models of chemotherapy-induced neuropathic pain.
+PG  - 1744806920936502
+LID - 10.1177/1744806920936502 [doi]
+AB  - BACKGROUND: Paclitaxel is an important chemotherapeutic agent for the
+      treatment of breast cancer. Paclitaxel-induced peripheral neuropathy
+      (PIPN) is a major dose-limiting toxicity that can persist into
+      survivorship. While not all survivors develop PIPN, for those who do, it
+      has a substantial negative impact on their functional status and quality
+      of life. No interventions are available to treat PIPN. In our previous
+      studies, we identified that the HIF-1 signaling pathway (H1SP) was
+      perturbed between breast cancer survivors with and without PIPN.
+      Preclinical studies suggest that the H1SP is involved in the development
+      of bortezomib-induced and diabetic peripheral neuropathy, and sciatic
+      nerve injury. The purpose of this study was to identify H1SP genes that
+      have both differential methylation and differential gene expression
+      between breast cancer survivors with and without PIPN. METHODS: A multi-
+      staged integrated analysis was performed. In peripheral blood,
+      methylation was assayed using microarray and gene expression was assayed
+      using RNA-seq. Candidate genes in the H1SP having both differentially
+      methylation and differential expression were identified between survivors
+      who received paclitaxel and did (n = 25) and did not (n = 25) develop
+      PIPN. Then, candidate genes were evaluated for differential methylation
+      and differential expression in public data sets of preclinical models of
+      PIPN and sciatic nerve injury. RESULTS: Eight candidate genes were
+      identified as both differential methylation and differential expression
+      in survivors. Of the eight homologs identified, one was found to be
+      differential expression in both PIPN and "normal" mice dorsal root
+      ganglia; three were differential methylation in sciatic nerve injury
+      versus sham rats in both pre-frontal cortex and T-cells; and two were
+      differential methylation in sciatic nerve injury versus sham rats in the
+      pre-frontal cortex. CONCLUSIONS: This study is the first to evaluate for
+      methylation in cancer survivors with chronic PIPN. The findings provide
+      evidence that the expression of H1SP genes associated with chronic PIPN
+      in cancer survivors may be regulated by epigenetic mechanisms and
+      suggests genes for validation as potential therapeutic targets.
+FAU - Kober, Kord M
+AU  - Kober KM
+AUID- ORCID: 0000-0001-9732-3321
+AD  - School of Nursing, University of California, San Francisco, CA, USA.
+AD  - Helen Diller Family Comprehensive Cancer Center, University of
+      California, San Francisco, CA, USA.
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, CA, USA.
+FAU - Lee, Man-Cheung
+AU  - Lee MC
+AD  - School of Medicine, University of California, San Francisco, CA, USA.
+FAU - Olshen, Adam
+AU  - Olshen A
+AD  - Helen Diller Family Comprehensive Cancer Center, University of
+      California, San Francisco, CA, USA.
+AD  - Department of Epidemiology and Biostatistics, University of California,
+      San Francisco, CA, USA.
+FAU - Conley, Yvette P
+AU  - Conley YP
+AD  - School of Nursing, University of Pittsburgh, Pittsburgh, PA, USA.
+FAU - Sirota, Marina
+AU  - Sirota M
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, CA, USA.
+AD  - School of Medicine, University of California, San Francisco, CA, USA.
+FAU - Keiser, Michael
+AU  - Keiser M
+AD  - Bakar Computational Health Sciences Institute, University of California,
+      San Francisco, CA, USA.
+AD  - School of Medicine, University of California, San Francisco, CA, USA.
+AD  - Institute for Neurodegenerative Diseases, University of California, San
+      Francisco, CA, USA.
+FAU - Hammer, Marilyn J
+AU  - Hammer MJ
+AD  - Phyllis F. Cantor Center, Dana-Farber Cancer Institute, Boston, MA, USA.
+FAU - Abrams, Gary
+AU  - Abrams G
+AD  - School of Medicine, University of California, San Francisco, CA, USA.
+FAU - Schumacher, Mark
+AU  - Schumacher M
+AD  - School of Medicine, University of California, San Francisco, CA, USA.
+FAU - Levine, Jon D
+AU  - Levine JD
+AD  - School of Medicine, University of California, San Francisco, CA, USA.
+FAU - Miaskowski, Christine
+AU  - Miaskowski C
+AD  - School of Nursing, University of California, San Francisco, CA, USA.
+AD  - Helen Diller Family Comprehensive Cancer Center, University of
+      California, San Francisco, CA, USA.
+LA  - eng
+GR  - K05 CA168960/CA/NCI NIH HHS/United States
+GR  - P30 CA082103/CA/NCI NIH HHS/United States
+GR  - R01 CA151692/CA/NCI NIH HHS/United States
+GR  - UL1 TR000004/TR/NCATS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Mol Pain
+JT  - Molecular pain
+JID - 101242662
+RN  - 0 (Hypoxia-Inducible Factor 1)
+RN  - P88XT4IS4D (Paclitaxel)
+SB  - IM
+MH  - Animals
+MH  - Breast Neoplasms/*complications
+MH  - *Cancer Survivors
+MH  - DNA Methylation/*genetics
+MH  - Disease Models, Animal
+MH  - Female
+MH  - Gene Expression Profiling
+MH  - *Gene Expression Regulation
+MH  - Humans
+MH  - Hypoxia-Inducible Factor 1/*genetics/metabolism
+MH  - Neuralgia/etiology/genetics
+MH  - Paclitaxel/*adverse effects
+MH  - Peripheral Nerve Injuries/*chemically induced/genetics
+MH  - Prefrontal Cortex/pathology
+MH  - Promoter Regions, Genetic/genetics
+MH  - Protein Interaction Maps/genetics
+MH  - Rats
+MH  - *Signal Transduction
+MH  - T-Lymphocytes/immunology
+PMC - PMC7322824
+OTO - NOTNLM
+OT  - Paclitaxel-induced peripheral neuropathy
+OT  - breast cancer
+OT  - chemotherapy
+OT  - gene expression
+OT  - hypoxia-inducible factor
+OT  - integrated genomic analysis
+OT  - methylation
+OT  - survivor
+EDAT- 2020/06/27 06:00
+MHDA- 2021/06/04 06:00
+CRDT- 2020/06/27 06:00
+AID - 10.1177/1744806920936502 [doi]
+PST - ppublish
+SO  - Mol Pain. 2020 Jan-Dec;16:1744806920936502. doi:
+      10.1177/1744806920936502.
+
 PMID- 32366098
 OWN - NLM
 STAT- MEDLINE
@@ -1639,97 +3773,6 @@ AID - 10.1021/acs.jmedchem.0c00385 [doi]
 PST - ppublish
 SO  - J Med Chem. 2020 Aug 27;63(16):8705-8722. doi:
       10.1021/acs.jmedchem.0c00385. Epub 2020 May 15.
-
-PMID- 32229141
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20210308
-LR  - 20210308
-IS  - 1523-1747 (Electronic)
-IS  - 0022-202X (Linking)
-VI  - 140
-IP  - 8
-DP  - 2020 Aug
-TI  - Artificial Intelligence in Dermatology: A Primer.
-PG  - 1504-1512
-LID - S0022-202X(20)31201-X [pii]
-LID - 10.1016/j.jid.2020.02.026 [doi]
-AB  - Artificial intelligence is becoming increasingly important in
-      dermatology, with studies reporting accuracy matching or exceeding
-      dermatologists for the diagnosis of skin lesions from clinical and
-      dermoscopic images. However, real-world clinical validation is currently
-      lacking. We review dermatological applications of deep learning, the
-      leading artificial intelligence technology for image analysis, and
-      discuss its current capabilities, potential failure modes, and challenges
-      surrounding performance assessment and interpretability. We address the
-      following three primary applications: (i) teledermatology, including
-      triage for referral to dermatologists; (ii) augmenting clinical
-      assessment during face-to-face visits; and (iii) dermatopathology. We
-      discuss equity and ethical issues related to future clinical adoption and
-      recommend specific standardization of metrics for reporting model
-      performance.
-CI  - Copyright (c) 2020 The Authors. Published by Elsevier Inc. All rights
-      reserved.
-FAU - Young, Albert T
-AU  - Young AT
-AD  - Department of Dermatology, University of California, San Francisco, San
-      Francisco, California, USA; Dermatology Service, San Francisco Veterans
-      Affairs Medical Center, San Francisco, California, USA.
-FAU - Xiong, Mulin
-AU  - Xiong M
-AD  - Michigan State University College of Human Medicine, East Lansing,
-      Michigan, USA.
-FAU - Pfau, Jacob
-AU  - Pfau J
-AD  - Department of Dermatology, University of California, San Francisco, San
-      Francisco, California, USA; Dermatology Service, San Francisco Veterans
-      Affairs Medical Center, San Francisco, California, USA.
-FAU - Keiser, Michael J
-AU  - Keiser MJ
-AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
-      Therapeutic Sciences, Institute for Neurodegenerative Diseases, and Bakar
-      Computational Health Sciences Institute, University of California, San
-      Francisco, San Francisco, California, USA.
-FAU - Wei, Maria L
-AU  - Wei ML
-AD  - Department of Dermatology, University of California, San Francisco, San
-      Francisco, California, USA; Dermatology Service, San Francisco Veterans
-      Affairs Medical Center, San Francisco, California, USA; Helen Diller
-      Family Comprehensive Cancer Center, University of California, San
-      Francisco, San Francisco, California, USA. Electronic address:
-      maria.wei@ucsf.edu.
-LA  - eng
-GR  - TL1 TR001871/TR/NCATS NIH HHS/United States
-PT  - Journal Article
-PT  - Research Support, N.I.H., Extramural
-PT  - Research Support, Non-U.S. Gov't
-PT  - Review
-DEP - 20200327
-PL  - United States
-TA  - J Invest Dermatol
-JT  - The Journal of investigative dermatology
-JID - 0426720
-SB  - IM
-MH  - Deep Learning/*ethics
-MH  - Dermatology/ethics/*methods
-MH  - Humans
-MH  - Image Processing, Computer-Assisted/ethics/*methods
-MH  - Referral and Consultation
-MH  - Skin/*diagnostic imaging/pathology
-MH  - Skin Diseases/*diagnosis/pathology
-MH  - Telemedicine/ethics/methods
-MH  - Triage/ethics/methods
-EDAT- 2020/04/02 06:00
-MHDA- 2021/03/09 06:00
-CRDT- 2020/04/02 06:00
-PHST- 2019/12/03 00:00 [received]
-PHST- 2020/02/22 00:00 [revised]
-PHST- 2020/02/25 00:00 [accepted]
-AID - S0022-202X(20)31201-X [pii]
-AID - 10.1016/j.jid.2020.02.026 [doi]
-PST - ppublish
-SO  - J Invest Dermatol. 2020 Aug;140(8):1504-1512. doi:
-      10.1016/j.jid.2020.02.026. Epub 2020 Mar 27.
 
 PMID- 32345363
 OWN - NLM
@@ -1855,11 +3898,102 @@ PST - epublish
 SO  - Acta Neuropathol Commun. 2020 Apr 28;8(1):59. doi:
       10.1186/s40478-020-00927-4.
 
+PMID- 32229141
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210308
+LR  - 20210308
+IS  - 1523-1747 (Electronic)
+IS  - 0022-202X (Linking)
+VI  - 140
+IP  - 8
+DP  - 2020 Aug
+TI  - Artificial Intelligence in Dermatology: A Primer.
+PG  - 1504-1512
+LID - S0022-202X(20)31201-X [pii]
+LID - 10.1016/j.jid.2020.02.026 [doi]
+AB  - Artificial intelligence is becoming increasingly important in
+      dermatology, with studies reporting accuracy matching or exceeding
+      dermatologists for the diagnosis of skin lesions from clinical and
+      dermoscopic images. However, real-world clinical validation is currently
+      lacking. We review dermatological applications of deep learning, the
+      leading artificial intelligence technology for image analysis, and
+      discuss its current capabilities, potential failure modes, and challenges
+      surrounding performance assessment and interpretability. We address the
+      following three primary applications: (i) teledermatology, including
+      triage for referral to dermatologists; (ii) augmenting clinical
+      assessment during face-to-face visits; and (iii) dermatopathology. We
+      discuss equity and ethical issues related to future clinical adoption and
+      recommend specific standardization of metrics for reporting model
+      performance.
+CI  - Copyright (c) 2020 The Authors. Published by Elsevier Inc. All rights
+      reserved.
+FAU - Young, Albert T
+AU  - Young AT
+AD  - Department of Dermatology, University of California, San Francisco, San
+      Francisco, California, USA; Dermatology Service, San Francisco Veterans
+      Affairs Medical Center, San Francisco, California, USA.
+FAU - Xiong, Mulin
+AU  - Xiong M
+AD  - Michigan State University College of Human Medicine, East Lansing,
+      Michigan, USA.
+FAU - Pfau, Jacob
+AU  - Pfau J
+AD  - Department of Dermatology, University of California, San Francisco, San
+      Francisco, California, USA; Dermatology Service, San Francisco Veterans
+      Affairs Medical Center, San Francisco, California, USA.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AD  - Department of Pharmaceutical Chemistry, Department of Bioengineering and
+      Therapeutic Sciences, Institute for Neurodegenerative Diseases, and Bakar
+      Computational Health Sciences Institute, University of California, San
+      Francisco, San Francisco, California, USA.
+FAU - Wei, Maria L
+AU  - Wei ML
+AD  - Department of Dermatology, University of California, San Francisco, San
+      Francisco, California, USA; Dermatology Service, San Francisco Veterans
+      Affairs Medical Center, San Francisco, California, USA; Helen Diller
+      Family Comprehensive Cancer Center, University of California, San
+      Francisco, San Francisco, California, USA. Electronic address:
+      maria.wei@ucsf.edu.
+LA  - eng
+GR  - TL1 TR001871/TR/NCATS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20200327
+PL  - United States
+TA  - J Invest Dermatol
+JT  - The Journal of investigative dermatology
+JID - 0426720
+SB  - IM
+MH  - Deep Learning/*ethics
+MH  - Dermatology/ethics/*methods
+MH  - Humans
+MH  - Image Processing, Computer-Assisted/ethics/*methods
+MH  - Referral and Consultation
+MH  - Skin/*diagnostic imaging/pathology
+MH  - Skin Diseases/*diagnosis/pathology
+MH  - Telemedicine/ethics/methods
+MH  - Triage/ethics/methods
+EDAT- 2020/04/02 06:00
+MHDA- 2021/03/09 06:00
+CRDT- 2020/04/02 06:00
+PHST- 2019/12/03 00:00 [received]
+PHST- 2020/02/22 00:00 [revised]
+PHST- 2020/02/25 00:00 [accepted]
+AID - S0022-202X(20)31201-X [pii]
+AID - 10.1016/j.jid.2020.02.026 [doi]
+PST - ppublish
+SO  - J Invest Dermatol. 2020 Aug;140(8):1504-1512. doi:
+      10.1016/j.jid.2020.02.026. Epub 2020 Mar 27.
+
 PMID- 31501447
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20191218
-LR  - 20210110
+LR  - 20260127
 IS  - 2041-1723 (Electronic)
 IS  - 2041-1723 (Linking)
 VI  - 10
@@ -1987,7 +4121,7 @@ RN  - 0 (Zebrafish Proteins)
 SB  - IM
 MH  - Animals
 MH  - *Behavior, Animal
-MH  - *Conscious Sedation
+MH  - *Procedural Sedation
 MH  - Ligands
 MH  - Neural Inhibition
 MH  - Neurons/physiology
@@ -2242,7 +4376,7 @@ PMID- 30053424
 OWN - NLM
 STAT- MEDLINE
 DCOM- 20190418
-LR  - 20231004
+LR  - 20250530
 IS  - 1097-4172 (Electronic)
 IS  - 0092-8674 (Linking)
 VI  - 174
@@ -2490,13 +4624,13 @@ GR  - R01 MH110928/MH/NIMH NIH HHS/United States
 GR  - U01 MH105575/MH/NIMH NIH HHS/United States
 GR  - R01 DA035913/DA/NIDA NIH HHS/United States
 GR  - R01 MH112729/MH/NIMH NIH HHS/United States
+GR  - Z99 NS999999/ImNIH/Intramural NIH HHS/United States
 GR  - R01 NS083390/NS/NINDS NIH HHS/United States
 GR  - R35 NS097212/NS/NINDS NIH HHS/United States
 GR  - R01 HD081379/HD/NICHD NIH HHS/United States
 GR  - R01 MH109901/MH/NIMH NIH HHS/United States
 GR  - DP2 GM119139/GM/NIGMS NIH HHS/United States
 GR  - R01 MH109904/MH/NIMH NIH HHS/United States
-GR  - Z99 NS999999/Intramural NIH HHS/United States
 PT  - Journal Article
 PT  - Research Support, N.I.H., Extramural
 PT  - Research Support, N.I.H., Intramural
@@ -3112,86 +5246,6 @@ PST - ppublish
 SO  - Nat Chem Biol. 2016 Jul;12(7):559-66. doi: 10.1038/nchembio.2097. Epub
       2016 May 30.
 
-PMID- 26845413
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20161213
-LR  - 20181113
-IS  - 1554-8937 (Electronic)
-IS  - 1554-8929 (Linking)
-VI  - 11
-IP  - 4
-DP  - 2016 Apr 15
-TI  - Leveraging Large-scale Behavioral Profiling in Zebrafish to Explore
-      Neuroactive Polypharmacology.
-PG  - 842-9
-LID - 10.1021/acschembio.5b00800 [doi]
-AB  - Many psychiatric drugs modulate the nervous system through multitarget
-      mechanisms. However, systematic identification of multitarget compounds
-      has been difficult using traditional in vitro screening assays. New
-      approaches to phenotypic profiling in zebrafish can help researchers
-      identify novel compounds with complex polypharmacology. For example,
-      large-scale behavior-based chemical screens can rapidly identify large
-      numbers of structurally diverse and phenotype-related compounds. Once
-      these compounds have been identified, a systems-level analysis of their
-      structures may help to identify statistically enriched target pathways.
-      Together, systematic behavioral profiling and multitarget predictions may
-      help researchers identify new behavior-modifying pathways and CNS
-      therapeutics.
-FAU - McCarroll, Matthew N
-AU  - McCarroll MN
-AD  - University of California San Francisco , Institute of Neurodegenerative
-      Diseases, 675 Nelson Rising Lane, San Francisco, California 94143, United
-      States.
-FAU - Gendelev, Leo
-AU  - Gendelev L
-AD  - University of California San Francisco , Institute of Neurodegenerative
-      Diseases, 675 Nelson Rising Lane, San Francisco, California 94143, United
-      States.
-FAU - Keiser, Michael J
-AU  - Keiser MJ
-AD  - University of California San Francisco , Institute of Neurodegenerative
-      Diseases, 675 Nelson Rising Lane, San Francisco, California 94143, United
-      States.
-FAU - Kokel, David
-AU  - Kokel D
-AD  - University of California San Francisco , Institute of Neurodegenerative
-      Diseases, 675 Nelson Rising Lane, San Francisco, California 94143, United
-      States.
-LA  - eng
-GR  - K01MH091449/MH/NIMH NIH HHS/United States
-GR  - T32 GM008284/GM/NIGMS NIH HHS/United States
-GR  - K01 MH091449/MH/NIMH NIH HHS/United States
-GR  - T32EB009383/EB/NIBIB NIH HHS/United States
-GR  - R44 GM093456/GM/NIGMS NIH HHS/United States
-GR  - R44GM093456/GM/NIGMS NIH HHS/United States
-GR  - T32 EB009383/EB/NIBIB NIH HHS/United States
-GR  - U01 MH105027/MH/NIMH NIH HHS/United States
-GR  - AA022583/AA/NIAAA NIH HHS/United States
-GR  - R01 AA022583/AA/NIAAA NIH HHS/United States
-PT  - Journal Article
-PT  - Research Support, N.I.H., Extramural
-PT  - Research Support, Non-U.S. Gov't
-DEP - 20160217
-PL  - United States
-TA  - ACS Chem Biol
-JT  - ACS chemical biology
-JID - 101282906
-SB  - IM
-MH  - Animals
-MH  - Behavior, Animal/*drug effects
-MH  - *Polypharmacy
-MH  - Zebrafish/*physiology
-PMC - PMC5067259
-MID - NIHMS821909
-EDAT- 2016/02/05 06:00
-MHDA- 2016/12/15 06:00
-CRDT- 2016/02/05 06:00
-AID - 10.1021/acschembio.5b00800 [doi]
-PST - ppublish
-SO  - ACS Chem Biol. 2016 Apr 15;11(4):842-9. doi: 10.1021/acschembio.5b00800.
-      Epub 2016 Feb 17.
-
 PMID- 26915512
 OWN - NLM
 STAT- MEDLINE
@@ -3372,6 +5426,86 @@ AID - 10.1016/S2215-0366(15)00553-2 [doi]
 PST - ppublish
 SO  - Lancet Psychiatry. 2016 Apr;3(4):350-7. doi:
       10.1016/S2215-0366(15)00553-2. Epub 2016 Feb 23.
+
+PMID- 26845413
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20161213
+LR  - 20181113
+IS  - 1554-8937 (Electronic)
+IS  - 1554-8929 (Linking)
+VI  - 11
+IP  - 4
+DP  - 2016 Apr 15
+TI  - Leveraging Large-scale Behavioral Profiling in Zebrafish to Explore
+      Neuroactive Polypharmacology.
+PG  - 842-9
+LID - 10.1021/acschembio.5b00800 [doi]
+AB  - Many psychiatric drugs modulate the nervous system through multitarget
+      mechanisms. However, systematic identification of multitarget compounds
+      has been difficult using traditional in vitro screening assays. New
+      approaches to phenotypic profiling in zebrafish can help researchers
+      identify novel compounds with complex polypharmacology. For example,
+      large-scale behavior-based chemical screens can rapidly identify large
+      numbers of structurally diverse and phenotype-related compounds. Once
+      these compounds have been identified, a systems-level analysis of their
+      structures may help to identify statistically enriched target pathways.
+      Together, systematic behavioral profiling and multitarget predictions may
+      help researchers identify new behavior-modifying pathways and CNS
+      therapeutics.
+FAU - McCarroll, Matthew N
+AU  - McCarroll MN
+AD  - University of California San Francisco , Institute of Neurodegenerative
+      Diseases, 675 Nelson Rising Lane, San Francisco, California 94143, United
+      States.
+FAU - Gendelev, Leo
+AU  - Gendelev L
+AD  - University of California San Francisco , Institute of Neurodegenerative
+      Diseases, 675 Nelson Rising Lane, San Francisco, California 94143, United
+      States.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AD  - University of California San Francisco , Institute of Neurodegenerative
+      Diseases, 675 Nelson Rising Lane, San Francisco, California 94143, United
+      States.
+FAU - Kokel, David
+AU  - Kokel D
+AD  - University of California San Francisco , Institute of Neurodegenerative
+      Diseases, 675 Nelson Rising Lane, San Francisco, California 94143, United
+      States.
+LA  - eng
+GR  - K01MH091449/MH/NIMH NIH HHS/United States
+GR  - T32 GM008284/GM/NIGMS NIH HHS/United States
+GR  - K01 MH091449/MH/NIMH NIH HHS/United States
+GR  - T32EB009383/EB/NIBIB NIH HHS/United States
+GR  - R44 GM093456/GM/NIGMS NIH HHS/United States
+GR  - R44GM093456/GM/NIGMS NIH HHS/United States
+GR  - T32 EB009383/EB/NIBIB NIH HHS/United States
+GR  - U01 MH105027/MH/NIMH NIH HHS/United States
+GR  - AA022583/AA/NIAAA NIH HHS/United States
+GR  - R01 AA022583/AA/NIAAA NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20160217
+PL  - United States
+TA  - ACS Chem Biol
+JT  - ACS chemical biology
+JID - 101282906
+SB  - IM
+MH  - Animals
+MH  - Behavior, Animal/*drug effects
+MH  - *Polypharmacy
+MH  - Zebrafish/*physiology
+PMC - PMC5067259
+MID - NIHMS821909
+EDAT- 2016/02/05 06:00
+MHDA- 2016/12/15 06:00
+CRDT- 2016/02/05 06:00
+AID - 10.1021/acschembio.5b00800 [doi]
+PST - ppublish
+SO  - ACS Chem Biol. 2016 Apr 15;11(4):842-9. doi: 10.1021/acschembio.5b00800.
+      Epub 2016 Feb 17.
 
 PMID- 26335661
 OWN - NLM
@@ -3961,6 +6095,77 @@ AID - 10.1038/nchembio.732 [doi]
 PST - epublish
 SO  - Nat Chem Biol. 2011 Dec 18;8(2):144-6. doi: 10.1038/nchembio.732.
 
+PMID- 21058655
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20101228
+LR  - 20211020
+IS  - 1520-4995 (Electronic)
+IS  - 0006-2960 (Linking)
+VI  - 49
+IP  - 48
+DP  - 2010 Dec 7
+TI  - The chemical basis of pharmacology.
+PG  - 10267-76
+LID - 10.1021/bi101540g [doi]
+AB  - Molecular biology now dominates pharmacology so thoroughly that it is
+      difficult to recall that only a generation ago the field was very
+      different. To understand drug action today, we characterize the targets
+      through which they act and new drug leads are discovered on the basis of
+      target structure and function. Until the mid-1980s the information often
+      flowed in reverse: investigators began with organic molecules and sought
+      targets, relating receptors not by sequence or structure but by their
+      ligands. Recently, investigators have returned to this chemical view of
+      biology, bringing to it systematic and quantitative methods of relating
+      targets by their ligands. This has allowed the discovery of new targets
+      for established drugs, suggested the bases for their side effects, and
+      predicted the molecular targets underlying phenotypic screens. The bases
+      for these new methods, some of their successes and liabilities, and new
+      opportunities for their use are described.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AD  - Department of Pharmaceutical Chemistry, University of California-San
+      Francisco, 1700 4th Street, San Francisco, CA 94158-2558, USA.
+FAU - Irwin, John J
+AU  - Irwin JJ
+FAU - Shoichet, Brian K
+AU  - Shoichet BK
+LA  - eng
+GR  - R01 GM071896/GM/NIGMS NIH HHS/United States
+GR  - AGG002132/PHS HHS/United States
+GR  - GM71896/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20101112
+PL  - United States
+TA  - Biochemistry
+JT  - Biochemistry
+JID - 0370623
+RN  - 0 (Ligands)
+RN  - 0 (Pharmaceutical Preparations)
+RN  - 0 (Proteins)
+SB  - IM
+MH  - Animals
+MH  - Databases, Factual
+MH  - Drug Discovery/*methods
+MH  - Drug-Related Side Effects and Adverse Reactions
+MH  - Humans
+MH  - Ligands
+MH  - *Molecular Targeted Therapy
+MH  - Pharmaceutical Preparations/*chemistry/*metabolism
+MH  - Protein Binding
+MH  - Proteins/*chemistry/*metabolism
+PMC - PMC2994275
+EDAT- 2010/11/10 06:00
+MHDA- 2010/12/29 06:00
+CRDT- 2010/11/10 06:00
+AID - 10.1021/bi101540g [doi]
+PST - ppublish
+SO  - Biochemistry. 2010 Dec 7;49(48):10267-76. doi: 10.1021/bi101540g. Epub
+      2010 Nov 12.
+
 PMID- 21048700
 OWN - NLM
 STAT- MEDLINE
@@ -4120,76 +6325,110 @@ PST - ppublish
 SO  - Neuropsychopharmacology. 2011 Feb;36(3):638-51. doi:
       10.1038/npp.2010.195. Epub 2010 Nov 3.
 
-PMID- 21058655
+PMID- 20581797
 OWN - NLM
 STAT- MEDLINE
-DCOM- 20101228
-LR  - 20211020
-IS  - 1520-4995 (Electronic)
-IS  - 0006-2960 (Linking)
-VI  - 49
-IP  - 48
-DP  - 2010 Dec 7
-TI  - The chemical basis of pharmacology.
-PG  - 10267-76
-LID - 10.1021/bi101540g [doi]
-AB  - Molecular biology now dominates pharmacology so thoroughly that it is
-      difficult to recall that only a generation ago the field was very
-      different. To understand drug action today, we characterize the targets
-      through which they act and new drug leads are discovered on the basis of
-      target structure and function. Until the mid-1980s the information often
-      flowed in reverse: investigators began with organic molecules and sought
-      targets, relating receptors not by sequence or structure but by their
-      ligands. Recently, investigators have returned to this chemical view of
-      biology, bringing to it systematic and quantitative methods of relating
-      targets by their ligands. This has allowed the discovery of new targets
-      for established drugs, suggested the bases for their side effects, and
-      predicted the molecular targets underlying phenotypic screens. The bases
-      for these new methods, some of their successes and liabilities, and new
-      opportunities for their use are described.
+DCOM- 20120302
+LR  - 20221207
+IS  - 0048-5764 (Print)
+IS  - 0048-5764 (Linking)
+VI  - 43
+IP  - 1
+DP  - 2010
+TI  - A pilot study of the pharmacodynamic impact of SSRI drug selection and
+      beta-1 receptor genotype (ADRB1) on cardiac vital signs in depressed
+      patients: a novel pharmacogenetic approach.
+PG  - 11-22
+AB  - OBJECTIVE: The adrenergic beta-1 receptor gene (ADRB1) Ser49Gly and
+      Arg389Gly variants differentially affect blood pressure response to beta-
+      blocker therapy. Binding site prediction results for fluoxetine and
+      paroxetine in a bioinformatics model estimated that each of these
+      particular selective serotonin reuptake inhibitors (SSRIs) have high
+      receptor affinity as an "Adrenergic (beta) Blocker," which was confirmed
+      in vitro. This pilot study was conducted to understand the relationship
+      between these "beta-blocking" SSRIs (fluoxetine and paroxetine) and
+      cardiac vital signs (systolic blood pressure (SBP), diastolic blood
+      pressure (DBP) and heart rate (HR)), when subjects are stratified by
+      ADRB1 genotype. Previously ascertained DNA and clinical data was examined
+      from 122 subjects recruited for a cross-sectional study of health and
+      well being during SSRI pharmacotherapy. A multivariate linear regression
+      analysis was used to determine which variables affected cardiac vital
+      signs. There was a significant interaction between Arg389Gly variant
+      status and "beta-blocking" SSRIs [p = 0.0353] in relation to SBP.
+      Specifically in homozygous Arg389 subjects, those receiving "beta-
+      blocking" SSRIs had significantly lower SBP (mean 104 mmHg) compared to
+      the group taking other SSRIs (mean 122 mmHg) [p = 0.0437]. In these same
+      homozygous Arg389 subjects, those receiving "beta-blocking" SSRIs also
+      had lower HR (mean 60 bpm) compared to the other SSRIs (mean 79 bpm) [p =
+      0.00877]. Future prospective studies of this phenomenon are necessary to
+      identify all genetic markers that can predict SSRI-associated
+      cardiovascular effects that may be related to the SSRI discontinuation
+      syndrome and potentially influence pharmacotherapy decisions.
+FAU - Thomas, Kelan L H
+AU  - Thomas KL
+AD  - University of Michigan, Ann Arbor, MI, USA.
+FAU - Ellingrod, Vicki L
+AU  - Ellingrod VL
+FAU - Bishop, Jeffrey R
+AU  - Bishop JR
 FAU - Keiser, Michael J
 AU  - Keiser MJ
-AD  - Department of Pharmaceutical Chemistry, University of California-San
-      Francisco, 1700 4th Street, San Francisco, CA 94158-2558, USA.
-FAU - Irwin, John J
-AU  - Irwin JJ
-FAU - Shoichet, Brian K
-AU  - Shoichet BK
 LA  - eng
-GR  - R01 GM071896/GM/NIGMS NIH HHS/United States
-GR  - AGG002132/PHS HHS/United States
-GR  - GM71896/GM/NIGMS NIH HHS/United States
+GR  - K08 MH083888-03/MH/NIMH NIH HHS/United States
+GR  - K08 MH083888/MH/NIMH NIH HHS/United States
+GR  - 1TL1RR024981/RR/NCRR NIH HHS/United States
+GR  - UL1RR024986/RR/NCRR NIH HHS/United States
+GR  - KL2 RR024980/RR/NCRR NIH HHS/United States
+GR  - TL1 RR024981/RR/NCRR NIH HHS/United States
+GR  - 1UL1RR024979/RR/NCRR NIH HHS/United States
+GR  - UL1 RR024986/RR/NCRR NIH HHS/United States
+GR  - UL1 RR024979/RR/NCRR NIH HHS/United States
+GR  - 1KL2RR024980/RR/NCRR NIH HHS/United States
 PT  - Journal Article
 PT  - Research Support, N.I.H., Extramural
-PT  - Research Support, Non-U.S. Gov't
-PT  - Review
-DEP - 20101112
 PL  - United States
-TA  - Biochemistry
-JT  - Biochemistry
-JID - 0370623
-RN  - 0 (Ligands)
-RN  - 0 (Pharmaceutical Preparations)
-RN  - 0 (Proteins)
+TA  - Psychopharmacol Bull
+JT  - Psychopharmacology bulletin
+JID - 0101123
+RN  - 0 (ADRB1 protein, human)
+RN  - 0 (Adrenergic beta-1 Receptor Antagonists)
+RN  - 0 (Antidepressive Agents, Second-Generation)
+RN  - 0 (Receptors, Adrenergic, beta-1)
+RN  - 0 (Serotonin Uptake Inhibitors)
+RN  - 01K63SUP8D (Fluoxetine)
+RN  - 41VRH5220H (Paroxetine)
 SB  - IM
-MH  - Animals
-MH  - Databases, Factual
-MH  - Drug Discovery/*methods
-MH  - Drug-Related Side Effects and Adverse Reactions
+MH  - Adrenergic beta-1 Receptor Antagonists/adverse effects/*therapeutic use
+MH  - Adult
+MH  - Antidepressive Agents, Second-Generation/adverse effects/*therapeutic use
+MH  - Blood Pressure/*drug effects
+MH  - Cross-Sectional Studies
+MH  - Depression/*drug therapy/genetics/physiopathology
+MH  - Female
+MH  - Fluoxetine/*therapeutic use
+MH  - Gene Frequency
+MH  - Heart Rate/*drug effects
+MH  - Homozygote
 MH  - Humans
-MH  - Ligands
-MH  - *Molecular Targeted Therapy
-MH  - Pharmaceutical Preparations/*chemistry/*metabolism
-MH  - Protein Binding
-MH  - Proteins/*chemistry/*metabolism
-PMC - PMC2994275
-EDAT- 2010/11/10 06:00
-MHDA- 2010/12/29 06:00
-CRDT- 2010/11/10 06:00
-AID - 10.1021/bi101540g [doi]
+MH  - Linear Models
+MH  - Male
+MH  - Paroxetine/*therapeutic use
+MH  - Pharmacogenetics
+MH  - Phenotype
+MH  - Pilot Projects
+MH  - Receptors, Adrenergic, beta-1/*drug effects/*genetics
+MH  - Retrospective Studies
+MH  - Risk Assessment
+MH  - Risk Factors
+MH  - Selective Serotonin Reuptake Inhibitors/adverse effects/*therapeutic use
+MH  - Young Adult
+PMC - PMC3807824
+MID - NIHMS518156
+EDAT- 2010/06/29 06:00
+MHDA- 2012/03/03 06:00
+CRDT- 2010/06/29 06:00
 PST - ppublish
-SO  - Biochemistry. 2010 Dec 7;49(48):10267-76. doi: 10.1021/bi101540g. Epub
-      2010 Nov 12.
+SO  - Psychopharmacol Bull. 2010;43(1):11-22.
 
 PMID- 20540517
 OWN - NLM
@@ -4376,111 +6615,6 @@ AID - 10.1021/jm901613f [doi]
 PST - ppublish
 SO  - J Med Chem. 2010 Mar 25;53(6):2464-71. doi: 10.1021/jm901613f.
 
-PMID- 20581797
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20120302
-LR  - 20221207
-IS  - 0048-5764 (Print)
-IS  - 0048-5764 (Linking)
-VI  - 43
-IP  - 1
-DP  - 2010
-TI  - A pilot study of the pharmacodynamic impact of SSRI drug selection and
-      beta-1 receptor genotype (ADRB1) on cardiac vital signs in depressed
-      patients: a novel pharmacogenetic approach.
-PG  - 11-22
-AB  - OBJECTIVE: The adrenergic beta-1 receptor gene (ADRB1) Ser49Gly and
-      Arg389Gly variants differentially affect blood pressure response to beta-
-      blocker therapy. Binding site prediction results for fluoxetine and
-      paroxetine in a bioinformatics model estimated that each of these
-      particular selective serotonin reuptake inhibitors (SSRIs) have high
-      receptor affinity as an "Adrenergic (beta) Blocker," which was confirmed
-      in vitro. This pilot study was conducted to understand the relationship
-      between these "beta-blocking" SSRIs (fluoxetine and paroxetine) and
-      cardiac vital signs (systolic blood pressure (SBP), diastolic blood
-      pressure (DBP) and heart rate (HR)), when subjects are stratified by
-      ADRB1 genotype. Previously ascertained DNA and clinical data was examined
-      from 122 subjects recruited for a cross-sectional study of health and
-      well being during SSRI pharmacotherapy. A multivariate linear regression
-      analysis was used to determine which variables affected cardiac vital
-      signs. There was a significant interaction between Arg389Gly variant
-      status and "beta-blocking" SSRIs [p = 0.0353] in relation to SBP.
-      Specifically in homozygous Arg389 subjects, those receiving "beta-
-      blocking" SSRIs had significantly lower SBP (mean 104 mmHg) compared to
-      the group taking other SSRIs (mean 122 mmHg) [p = 0.0437]. In these same
-      homozygous Arg389 subjects, those receiving "beta-blocking" SSRIs also
-      had lower HR (mean 60 bpm) compared to the other SSRIs (mean 79 bpm) [p =
-      0.00877]. Future prospective studies of this phenomenon are necessary to
-      identify all genetic markers that can predict SSRI-associated
-      cardiovascular effects that may be related to the SSRI discontinuation
-      syndrome and potentially influence pharmacotherapy decisions.
-FAU - Thomas, Kelan L H
-AU  - Thomas KL
-AD  - University of Michigan, Ann Arbor, MI, USA.
-FAU - Ellingrod, Vicki L
-AU  - Ellingrod VL
-FAU - Bishop, Jeffrey R
-AU  - Bishop JR
-FAU - Keiser, Michael J
-AU  - Keiser MJ
-LA  - eng
-GR  - K08 MH083888-03/MH/NIMH NIH HHS/United States
-GR  - K08 MH083888/MH/NIMH NIH HHS/United States
-GR  - 1TL1RR024981/RR/NCRR NIH HHS/United States
-GR  - UL1RR024986/RR/NCRR NIH HHS/United States
-GR  - KL2 RR024980/RR/NCRR NIH HHS/United States
-GR  - TL1 RR024981/RR/NCRR NIH HHS/United States
-GR  - 1UL1RR024979/RR/NCRR NIH HHS/United States
-GR  - UL1 RR024986/RR/NCRR NIH HHS/United States
-GR  - UL1 RR024979/RR/NCRR NIH HHS/United States
-GR  - 1KL2RR024980/RR/NCRR NIH HHS/United States
-PT  - Journal Article
-PT  - Research Support, N.I.H., Extramural
-PL  - United States
-TA  - Psychopharmacol Bull
-JT  - Psychopharmacology bulletin
-JID - 0101123
-RN  - 0 (ADRB1 protein, human)
-RN  - 0 (Adrenergic beta-1 Receptor Antagonists)
-RN  - 0 (Antidepressive Agents, Second-Generation)
-RN  - 0 (Receptors, Adrenergic, beta-1)
-RN  - 0 (Serotonin Uptake Inhibitors)
-RN  - 01K63SUP8D (Fluoxetine)
-RN  - 41VRH5220H (Paroxetine)
-SB  - IM
-MH  - Adrenergic beta-1 Receptor Antagonists/adverse effects/*therapeutic use
-MH  - Adult
-MH  - Antidepressive Agents, Second-Generation/adverse effects/*therapeutic use
-MH  - Blood Pressure/*drug effects
-MH  - Cross-Sectional Studies
-MH  - Depression/*drug therapy/genetics/physiopathology
-MH  - Female
-MH  - Fluoxetine/*therapeutic use
-MH  - Gene Frequency
-MH  - Heart Rate/*drug effects
-MH  - Homozygote
-MH  - Humans
-MH  - Linear Models
-MH  - Male
-MH  - Paroxetine/*therapeutic use
-MH  - Pharmacogenetics
-MH  - Phenotype
-MH  - Pilot Projects
-MH  - Receptors, Adrenergic, beta-1/*drug effects/*genetics
-MH  - Retrospective Studies
-MH  - Risk Assessment
-MH  - Risk Factors
-MH  - Selective Serotonin Reuptake Inhibitors/adverse effects/*therapeutic use
-MH  - Young Adult
-PMC - PMC3807824
-MID - NIHMS518156
-EDAT- 2010/06/29 06:00
-MHDA- 2012/03/03 06:00
-CRDT- 2010/06/29 06:00
-PST - ppublish
-SO  - Psychopharmacol Bull. 2010;43(1):11-22.
-
 PMID- 19881490
 OWN - NLM
 STAT- MEDLINE
@@ -4611,6 +6745,62 @@ AID - 10.1038/nature08506 [doi]
 PST - ppublish
 SO  - Nature. 2009 Nov 12;462(7270):175-81. doi: 10.1038/nature08506. Epub 2009
       Nov 1.
+
+PMID- 19727616
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100201
+LR  - 20090903
+IS  - 1940-6029 (Electronic)
+IS  - 1064-3745 (Linking)
+VI  - 575
+DP  - 2009
+TI  - Off-target networks derived from ligand set similarity.
+PG  - 195-205
+LID - 10.1007/978-1-60761-274-2_8 [doi]
+AB  - Chemically similar drugs often bind biologically diverse protein targets,
+      and proteins with similar sequences or structures do not always recognize
+      the same ligands. How can we uncover the pharmacological relationships
+      among proteins, when drugs may bind them in defiance of bioinformatic
+      criteria? Here we consider a technique that quantitatively relates
+      proteins based on the chemical similarity of their ligands. Starting with
+      tens of thousands of ligands organized into sets for hundreds of drug
+      targets, we calculated the similarity among sets using ligand topology.
+      We developed a statistical model to rank the resulting scores, which were
+      then expressed in minimum spanning trees. We have shown that biologically
+      sensible groups of targets emerged from these maps, as well as
+      experimentally validated predictions of drug off-target effects.
+FAU - Keiser, Michael J
+AU  - Keiser MJ
+AD  - Department of Pharmaceutical Chemistry, University of California San
+      Francisco, San Francisco, CA, USA.
+FAU - Hert, Jerome
+AU  - Hert J
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PL  - United States
+TA  - Methods Mol Biol
+JT  - Methods in molecular biology (Clifton, N.J.)
+JID - 9214969
+RN  - 0 (Ligands)
+RN  - 0 (Proteins)
+SB  - IM
+MH  - Databases, Factual
+MH  - Databases, Protein
+MH  - Drug Discovery/*statistics & numerical data
+MH  - Ligands
+MH  - Models, Statistical
+MH  - Molecular Biology/methods
+MH  - Proteins/*chemistry/*metabolism
+MH  - *Structural Homology, Protein
+EDAT- 2009/09/04 06:00
+MHDA- 2010/02/02 06:00
+CRDT- 2009/09/04 06:00
+AID - 10.1007/978-1-60761-274-2_8 [doi]
+PST - ppublish
+SO  - Methods Mol Biol. 2009;575:195-205. doi: 10.1007/978-1-60761-274-2_8.
 
 PMID- 19701464
 OWN - NLM
@@ -4818,62 +7008,6 @@ PST - ppublish
 SO  - Nat Chem Biol. 2009 Jul;5(7):479-83. doi: 10.1038/nchembio.180. Epub 2009
       May 31.
 
-PMID- 19727616
-OWN - NLM
-STAT- MEDLINE
-DCOM- 20100201
-LR  - 20090903
-IS  - 1940-6029 (Electronic)
-IS  - 1064-3745 (Linking)
-VI  - 575
-DP  - 2009
-TI  - Off-target networks derived from ligand set similarity.
-PG  - 195-205
-LID - 10.1007/978-1-60761-274-2_8 [doi]
-AB  - Chemically similar drugs often bind biologically diverse protein targets,
-      and proteins with similar sequences or structures do not always recognize
-      the same ligands. How can we uncover the pharmacological relationships
-      among proteins, when drugs may bind them in defiance of bioinformatic
-      criteria? Here we consider a technique that quantitatively relates
-      proteins based on the chemical similarity of their ligands. Starting with
-      tens of thousands of ligands organized into sets for hundreds of drug
-      targets, we calculated the similarity among sets using ligand topology.
-      We developed a statistical model to rank the resulting scores, which were
-      then expressed in minimum spanning trees. We have shown that biologically
-      sensible groups of targets emerged from these maps, as well as
-      experimentally validated predictions of drug off-target effects.
-FAU - Keiser, Michael J
-AU  - Keiser MJ
-AD  - Department of Pharmaceutical Chemistry, University of California San
-      Francisco, San Francisco, CA, USA.
-FAU - Hert, Jerome
-AU  - Hert J
-LA  - eng
-PT  - Journal Article
-PT  - Research Support, Non-U.S. Gov't
-PT  - Research Support, U.S. Gov't, Non-P.H.S.
-PL  - United States
-TA  - Methods Mol Biol
-JT  - Methods in molecular biology (Clifton, N.J.)
-JID - 9214969
-RN  - 0 (Ligands)
-RN  - 0 (Proteins)
-SB  - IM
-MH  - Databases, Factual
-MH  - Databases, Protein
-MH  - Drug Discovery/*statistics & numerical data
-MH  - Ligands
-MH  - Models, Statistical
-MH  - Molecular Biology/methods
-MH  - Proteins/*chemistry/*metabolism
-MH  - *Structural Homology, Protein
-EDAT- 2009/09/04 06:00
-MHDA- 2010/02/02 06:00
-CRDT- 2009/09/04 06:00
-AID - 10.1007/978-1-60761-274-2_8 [doi]
-PST - ppublish
-SO  - Methods Mol Biol. 2009;575:195-205. doi: 10.1007/978-1-60761-274-2_8.
-
 PMID- 18335977
 OWN - NLM
 STAT- MEDLINE
@@ -5026,4 +7160,3 @@ AID - nbt1284 [pii]
 AID - 10.1038/nbt1284 [doi]
 PST - ppublish
 SO  - Nat Biotechnol. 2007 Feb;25(2):197-206. doi: 10.1038/nbt1284.
-

@@ -80,6 +80,18 @@ PAPER_TEMPLATE = '''<span itemprop="isPartOf" itemscope itemtype="http://schema.
 CSV_HEADER = ['id', 'title', 'journal', 'date', 'authors', 'link', 'doi_suffix',
     'preprint_url', 'preprint_journal', 'jekyll_date','type']
 
+MAX_AUTHORS = 10  # threshold to trigger truncation
+KEEP_FIRST = 3
+KEEP_LAST = 3
+
+def truncate_authors(authors_str):
+    "truncate long author lists to first N + last N with ellipsis"
+    authors = [a.strip() for a in authors_str.split(',')]
+    if len(authors) <= MAX_AUTHORS:
+        return authors_str
+    kept = authors[:KEEP_FIRST] + ['...'] + authors[-KEEP_LAST:]
+    return ', '.join(kept)
+
 def make_htmlsafe(txt):
     "make text html safe (primitive)"
     dangerlist = { '"' : "&quot;" }
@@ -119,7 +131,25 @@ def convert_date(datestr):
         except ValueError:
             return datetime.datetime.strptime(datestr, "%Y").strftime("%Y-%m-%d")
 
-def main(fmedline, fpreprint, outfile, datafile, fmanual):
+PREPRINT_DOI_PREFIXES = ('10.1101/', '10.26434/')
+
+def is_preprint_doi(doi):
+    "check if a DOI belongs to a preprint server (bioRxiv, chemRxiv)"
+    return doi.startswith(PREPRINT_DOI_PREFIXES)
+
+def load_skip_list(fskip):
+    "load set of DOIs to skip from a CSV file with a 'doi' column"
+    if fskip is None:
+        return set()
+    with open(fskip) as fi:
+        reader = csv.DictReader(fi)
+        return {row['doi'] for row in reader}
+
+def main(fmedline, fpreprint, outfile, datafile, fmanual, fskip=None):
+    skip_dois = load_skip_list(fskip)
+    if skip_dois:
+        print(f'skip list: {len(skip_dois)} dois')
+
     with open(fpreprint) as fi:
         reader = csv.reader(fi)
         print(f'preprint: skipped header: {next(reader)}')
@@ -155,8 +185,18 @@ def main(fmedline, fpreprint, outfile, datafile, fmanual):
             convert_date(record[PCOL_DATE]),
             'preprint'])
 
+    n_skipped_preprint = 0
+    n_skipped_list = 0
     for record in m_records:
         aid, url, doi = get_id_url(record)
+        if doi and is_preprint_doi(doi):
+            n_skipped_preprint += 1
+            print(f'\tskipped: preprint doi in medline')
+            continue
+        if doi in skip_dois:
+            n_skipped_list += 1
+            print(f'\tskipped: in skip list')
+            continue
         pprint = None
         if aid in aid2preprint:
             pp = aid2preprint[aid]
@@ -172,11 +212,16 @@ def main(fmedline, fpreprint, outfile, datafile, fmanual):
             pprint,
             convert_date(record['DP']),
             'ncbi'])
+    if n_skipped_preprint:
+        print(f'skipped {n_skipped_preprint} preprint medline records (preprints.csv is SSOT)')
+    if n_skipped_list:
+        print(f'skipped {n_skipped_list} records via skip list')
 
     publications.sort(key=lambda x: x[8], reverse=True)
 
+    n_expected = len(p_records) + len(m_records) - n_skipped_preprint - n_skipped_list
     print(f'read {len(m_records)} medline records')
-    print(f'merged into {len(publications)} publication entries (expected {len(p_records) + len(m_records)})')
+    print(f'merged into {len(publications)} publication entries (expected {n_expected})')
 
     frows = []
     for i, p3 in enumerate(grouper(3, publications)):
@@ -188,7 +233,7 @@ def main(fmedline, fpreprint, outfile, datafile, fmanual):
                 image=f'{p[0]}.jpg',
                 alt=p[1],
                 title=f'<span itemprop="name">{p[1]}</span>',
-                excerpt=PAPER_TEMPLATE.format(journal=p[2], date=p[3], authors=p[4]),
+                excerpt=PAPER_TEMPLATE.format(journal=p[2], date=p[3], authors=truncate_authors(p[4])),
                 url=p[5],
                 doi=p[6],
                 preprint=pprint,
@@ -235,10 +280,14 @@ if __name__ == '__main__':
     parser.add_argument('-m', '--manual',
                       help='Manual MEDLINE/NBIB file for articles not in PubMed')
 
+    parser.add_argument('-s', '--skip',
+                      help='CSV file with DOIs to skip (must have a "doi" column)')
+
     args = parser.parse_args()
 
-    main(args.myncbi_file, 
+    main(args.myncbi_file,
          args.preprints_file,
          args.outfile,
          args.datafile,
-         args.manual)
+         args.manual,
+         args.skip)

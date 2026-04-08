@@ -10,8 +10,8 @@ excerpt: "Research Data Analyst, 2021-2024. Mikio received a B.S. in Mathematics
 header:
   teaser: /assets/images/people/bio-tada.jpg
 papers: 
-    - title: Machine-learning convergent melanocytic morphology despite noisy archival slides
-      excerpt: <u>Tada M</u>, Gaskins G, Ghandian S, Mew N, Keiser MJ, Keiser ES. __bioRxiv__. 2024 Sep 12.
-      link: "https://doi.org/10.1101/2024.09.12.612732"
+    - title: Deep learning finds convergent melanocytic morphology despite noisy archival slides
+      excerpt: <u>Tada M</u>, Gaskins G, Ghandian S, Mew N, Keiser MJ, Keiser ES. __Cell Rep Methods__. 2025 Oct 20.
+      link: "https://doi.org/10.1016/j.crmeth.2025.101201"
 
 ---

@@ -10,4 +10,8 @@ excerpt: "[Kortemme Lab](http://kortemmelab.ucsf.edu/) (2021-2025). Keiser Lab; 
 header:
   teaser: /assets/images/people/bio-orr.jpg
 papers: 
+    - title: An improved model for prediction of de novo designed proteins with diverse geometries
+      excerpt: <u>Orr B</u>, Crilly SE, Akpinaroglu D, Zhu E, Keiser MJ, Kortemme T. __bioRxiv__. 2025 Jun 06.
+      link: "https://doi.org/10.1101/2025.06.02.657515"
+
 ---
