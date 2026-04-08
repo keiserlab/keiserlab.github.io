@@ -20,42 +20,14 @@ title                    : "keiser lab @ ucsf"
 title_separator          : "-"
 name                     : "keiserlab"
 description              : "keiser lab @ ucsf"
-url                      : "https://www.keiserlab.org"
+url                      : "https://keiserlab.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "keiserlab/keiserlab.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
-  commitMessage          : # "New comment."
-  filename               : # comment-{@timestamp}
-  format                 : # "yml"
-  moderation             : # true
-  path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : # ['name', 'email', 'message']
-  transforms:
-    email                : # "md5"
-  generatedFields:
-    date:
-      type               : # "date"
-      options:
-        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-reCaptcha:
-  siteKey                :
-  secret                 :
+  provider               : false
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
@@ -76,8 +48,6 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : keiser_lab
 facebook:
   username               :
   app_id                 :
@@ -89,15 +59,14 @@ social:
   type                   : Organization # Person or Organization (defaults to Person)
   name                   : keiser lab # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - https://twitter.com/keiser_lab
     - https://github.com/keiserlab
 
 # Analytics
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-76767105-1"
-    anonymize_ip         : false # true, false (default)
+    tracking_id          : "G-8J8RT12MHW"
+    anonymize_ip         : true # true, false (default)
 
 
 # Site Author
@@ -106,31 +75,6 @@ author:
   avatar           : "/assets/icon/android-chrome-256x256.png"
   bio              : "keiserlab @ ucsf"
   location         : "ucsf"
-  email            :
-  uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           :
-  gitlab           :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 
 # Reading Files
@@ -296,8 +240,6 @@ defaults:
 # https://jekyllrb.com/docs/collections/
 collections_dir: collections
 collections:
-  papers:
-    output: true
   people:
     output: true
   posts:
