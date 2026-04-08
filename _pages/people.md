@@ -17,13 +17,15 @@ sort_order:             # forward (default), reverse
 ---
 
 {% comment %} https://github.com/mmistakes/minimal-mistakes/issues/414 {% endcomment %}
+{% assign coll1 = site.people | where: 'type', 'member' %}
+{% if coll1.size > 0 %}
 <section class="page__content cf">
 <h2>Members</h2>
-{% assign coll1 = site.people | where: 'type', 'member' %}
 <div class="entries-{{ page.entries_layout }}">
   {% include people-list.html entries=coll1 sort_by=page.sort_by sort_order=page.sort_order type=page.entries_layout %}
 </div>
 </section>
+{% endif %}
 
 <section class="page__content cf">
 <h2>Alumni</h2>

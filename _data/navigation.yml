@@ -9,8 +9,6 @@ main:
   url: /dei/
 - title: news
   url: /news/
-- title: jobs
-  url: /jobs/
 - title: resources
   url: /resources/
 - title: contact

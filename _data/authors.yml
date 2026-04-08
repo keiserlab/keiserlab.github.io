@@ -1,6 +1,6 @@
 # Authors
 
-# MEMBERS
+# ALUMNI
 
 michael_keiser:
   name: Michael Keiser, PhD
@@ -20,7 +20,7 @@ michael_keiser:
   ncbi_id: Keiser MJ
   orc_id: 0000-0002-1240-2192
   twitter: keiser_lab
-  type: member
+  type: alumn
 
 umair_khan:
   name: Umair Khan
@@ -107,9 +107,6 @@ maurisa_s:
   github: sayloren
   ncbi_id: Saylor M
   type: alumn
-  
-
-# ALUMNI
 
 laura_shub:
   name: Laura Shub, PhD
@@ -323,7 +320,7 @@ nick_mew:
   type: alumn
 
 will_connell:
-  name: Will Connell
+  name: Will Connell, PhD
   email: connell@keiserlab.org
   bio: Transcripta Bio
   bio_long: >

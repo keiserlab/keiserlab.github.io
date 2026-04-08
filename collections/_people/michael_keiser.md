@@ -5,7 +5,7 @@ author: michael_keiser
 layout: author-bio
 jobtitle: Associate Professor; CZI Ben Barres Investigator; Allen Distinguished Investigator
 bio: pharm chem; bts; bchsi; kifn; ind
-type: member
+type: alumn
 excerpt: "<p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and a Paul G. Allen Distinguished Investigator. Michael joined the UCSF faculty in 2014, in t"
 header:
   teaser: /assets/images/people/bio-keiser.jpg

@@ -11,9 +11,9 @@ import datetime
 import itertools
 from Bio import Medline
 
-DEF_OUTFILE = 'publications.md'
-DOI_URLBASE = 'https://doi.org'
-PMID_URLBASE = 'https://www.ncbi.nlm.nih.gov/pubmed'
+DEF_OUTFILE = "publications.md"
+DOI_URLBASE = "https://doi.org"
+PMID_URLBASE = "https://www.ncbi.nlm.nih.gov/pubmed"
 
 # Preprint csv columns
 PCOL_NCBI_ID = 0
@@ -73,53 +73,70 @@ F_ROW_INCL = """
 {{% include feature_row_paper.html id="feature_row{row_num}" %}}
 """
 
-PAPER_TEMPLATE = '''<span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>{journal}</strong></span>. \
+PAPER_TEMPLATE = """<span itemprop="isPartOf" itemscope itemtype="http://schema.org/Periodical"><strong>{journal}</strong></span>. \
 <span itemprop="datePublished">{date}</span>. \
-<span itemprop="author">{authors}</span>.'''
+<span itemprop="author">{authors}</span>."""
 
-CSV_HEADER = ['id', 'title', 'journal', 'date', 'authors', 'link', 'doi_suffix',
-    'preprint_url', 'preprint_journal', 'jekyll_date','type']
+CSV_HEADER = [
+    "id",
+    "title",
+    "journal",
+    "date",
+    "authors",
+    "link",
+    "doi_suffix",
+    "preprint_url",
+    "preprint_journal",
+    "jekyll_date",
+    "type",
+]
 
 MAX_AUTHORS = 10  # threshold to trigger truncation
 KEEP_FIRST = 3
 KEEP_LAST = 3
 
+
 def truncate_authors(authors_str):
     "truncate long author lists to first N + last N with ellipsis"
-    authors = [a.strip() for a in authors_str.split(',')]
+    authors = [a.strip() for a in authors_str.split(",")]
     if len(authors) <= MAX_AUTHORS:
         return authors_str
-    kept = authors[:KEEP_FIRST] + ['...'] + authors[-KEEP_LAST:]
-    return ', '.join(kept)
+    kept = authors[:KEEP_FIRST] + ["..."] + authors[-KEEP_LAST:]
+    return ", ".join(kept)
+
 
 def make_htmlsafe(txt):
     "make text html safe (primitive)"
-    dangerlist = { '"' : "&quot;" }
+    dangerlist = {'"': "&quot;"}
     for d, r in dangerlist.items():
         txt = txt.replace(d, r)
     return txt
+
 
 def grouper(n, iterable, fillvalue=None):
     "grouper(3, 'ABCDEFG', 'x') --> ABC DEF Gxx"
     args = [iter(iterable)] * n
     return itertools.zip_longest(*args, fillvalue=fillvalue)
 
+
 def aid_scrub(aid):
     "put a AID (e.g., DOI) into filename compatible format"
-    return aid.replace('/','.')
+    return aid.replace("/", ".")
+
 
 def get_id_url(record):
     "pull DOI if possible, otherwise PMID: return (id, url, doi)"
-    if 'AID' in record:
-        aid = list(filter(lambda x: x.lower().find('doi') != -1, record['AID']))
+    if "AID" in record:
+        aid = list(filter(lambda x: x.lower().find("doi") != -1, record["AID"]))
         assert len(aid) == 1
         aid = aid[0].split()[0]
-        print(f'\tdoi {aid}')
-        return aid_scrub(aid), f'{DOI_URLBASE}/{aid}', aid
+        print(f"\tdoi {aid}")
+        return aid_scrub(aid), f"{DOI_URLBASE}/{aid}", aid
     else:
-        pmid = record['PMID']
-        print(f'\tpmid {pmid}')
-        return pmid, f'{PMID_URLBASE}/{pmid}', ""
+        pmid = record["PMID"]
+        print(f"\tpmid {pmid}")
+        return pmid, f"{PMID_URLBASE}/{pmid}", ""
+
 
 def convert_date(datestr):
     "convert YYYY Mon Day format into Jekyll post date format"
@@ -131,11 +148,14 @@ def convert_date(datestr):
         except ValueError:
             return datetime.datetime.strptime(datestr, "%Y").strftime("%Y-%m-%d")
 
-PREPRINT_DOI_PREFIXES = ('10.1101/', '10.26434/')
+
+PREPRINT_DOI_PREFIXES = ("10.1101/", "10.26434/")
+
 
 def is_preprint_doi(doi):
     "check if a DOI belongs to a preprint server (bioRxiv, chemRxiv)"
     return doi.startswith(PREPRINT_DOI_PREFIXES)
+
 
 def load_skip_list(fskip):
     "load set of DOIs to skip from a CSV file with a 'doi' column"
@@ -143,25 +163,28 @@ def load_skip_list(fskip):
         return set()
     with open(fskip) as fi:
         reader = csv.DictReader(fi)
-        return {row['doi'] for row in reader}
+        return {row["doi"] for row in reader}
+
 
 def main(fmedline, fpreprint, outfile, datafile, fmanual, fskip=None):
     skip_dois = load_skip_list(fskip)
     if skip_dois:
-        print(f'skip list: {len(skip_dois)} dois')
+        print(f"skip list: {len(skip_dois)} dois")
 
     with open(fpreprint) as fi:
         reader = csv.reader(fi)
-        print(f'preprint: skipped header: {next(reader)}')
+        print(f"preprint: skipped header: {next(reader)}")
         p_records = []
         aid2preprint = {}
         for row in reader:
             aid = aid_scrub(row[PCOL_NCBI_ID])
-            if aid != '':
+            if aid != "":
                 aid2preprint[aid] = row
             else:
                 p_records.append(row)
-    print(f'read {len(p_records) + len(aid2preprint)} preprint records, {len(aid2preprint)} with ncbi ids')
+    print(
+        f"read {len(p_records) + len(aid2preprint)} preprint records, {len(aid2preprint)} with ncbi ids"
+    )
 
     with open(fmedline) as fi:
         m_records = list(Medline.parse(fi))
@@ -172,18 +195,21 @@ def main(fmedline, fpreprint, outfile, datafile, fmanual, fskip=None):
     publications = []
     # Read preprints/manual first
     for record in p_records:
-        pid = '.'.join([record[PCOL_JOUR].replace(' ','_'), record[PCOL_JOURNID]])
-        publications.append([
-            pid,
-            make_htmlsafe(record[PCOL_TITLE]),
-            record[PCOL_JOUR],
-            record[PCOL_DATE],
-            record[PCOL_AUTH],
-            '',
-            record[PCOL_DOI],
-            (record[PCOL_URL], record[PCOL_JOUR]),
-            convert_date(record[PCOL_DATE]),
-            'preprint'])
+        pid = ".".join([record[PCOL_JOUR].replace(" ", "_"), record[PCOL_JOURNID]])
+        publications.append(
+            [
+                pid,
+                make_htmlsafe(record[PCOL_TITLE]),
+                record[PCOL_JOUR],
+                record[PCOL_DATE],
+                record[PCOL_AUTH],
+                "",
+                record[PCOL_DOI],
+                (record[PCOL_URL], record[PCOL_JOUR]),
+                convert_date(record[PCOL_DATE]),
+                "preprint",
+            ]
+        )
 
     n_skipped_preprint = 0
     n_skipped_list = 0
@@ -191,63 +217,76 @@ def main(fmedline, fpreprint, outfile, datafile, fmanual, fskip=None):
         aid, url, doi = get_id_url(record)
         if doi and is_preprint_doi(doi):
             n_skipped_preprint += 1
-            print(f'\tskipped: preprint doi in medline')
+            print(f"\tskipped: preprint doi in medline")
             continue
         if doi in skip_dois:
             n_skipped_list += 1
-            print(f'\tskipped: in skip list')
+            print(f"\tskipped: in skip list")
             continue
         pprint = None
         if aid in aid2preprint:
             pp = aid2preprint[aid]
             pprint = (pp[PCOL_URL], pp[PCOL_JOUR])
-        publications.append([
-            aid,
-            make_htmlsafe(record['TI'].strip('.')),
-            record['TA'],
-            record['DP'],
-            ", ".join(record['AU']),
-            url,
-            doi,
-            pprint,
-            convert_date(record['DP']),
-            'ncbi'])
+        publications.append(
+            [
+                aid,
+                make_htmlsafe(record["TI"].strip(".")),
+                record["TA"],
+                record["DP"],
+                ", ".join(record["AU"]),
+                url,
+                doi,
+                pprint,
+                convert_date(record["DP"]),
+                "ncbi",
+            ]
+        )
     if n_skipped_preprint:
-        print(f'skipped {n_skipped_preprint} preprint medline records (preprints.csv is SSOT)')
+        print(
+            f"skipped {n_skipped_preprint} preprint medline records (preprints.csv is SSOT)"
+        )
     if n_skipped_list:
-        print(f'skipped {n_skipped_list} records via skip list')
+        print(f"skipped {n_skipped_list} records via skip list")
 
     publications.sort(key=lambda x: x[8], reverse=True)
 
     n_expected = len(p_records) + len(m_records) - n_skipped_preprint - n_skipped_list
-    print(f'read {len(m_records)} medline records')
-    print(f'merged into {len(publications)} publication entries (expected {n_expected})')
+    print(f"read {len(m_records)} medline records")
+    print(
+        f"merged into {len(publications)} publication entries (expected {n_expected})"
+    )
 
     frows = []
     for i, p3 in enumerate(grouper(3, publications)):
         items = []
         for p in filter(None, p3):
             pp = p[7]
-            pprint = F_ROW_PREPRINT.format(url=pp[0], label=pp[1]) if pp is not None else ''
-            items.append(F_ROW_ITEM.format(
-                image=f'{p[0]}.jpg',
-                alt=p[1],
-                title=f'<span itemprop="name">{p[1]}</span>',
-                excerpt=PAPER_TEMPLATE.format(journal=p[2], date=p[3], authors=truncate_authors(p[4])),
-                url=p[5],
-                doi=p[6],
-                preprint=pprint,
-            ))
-        frows.append(F_ROW_HDR.format(row_num=i, items=''.join(items)))
+            pprint = (
+                F_ROW_PREPRINT.format(url=pp[0], label=pp[1]) if pp is not None else ""
+            )
+            items.append(
+                F_ROW_ITEM.format(
+                    image=f"{p[0]}.jpg",
+                    alt=p[1],
+                    title=f'<span itemprop="name">{p[1]}</span>',
+                    excerpt=PAPER_TEMPLATE.format(
+                        journal=p[2], date=p[3], authors=truncate_authors(p[4])
+                    ),
+                    url=p[5],
+                    doi=p[6],
+                    preprint=pprint,
+                )
+            )
+        frows.append(F_ROW_HDR.format(row_num=i, items="".join(items)))
 
-    with open(outfile, 'w', encoding='utf-8') as fo:
-        fo.write(PG_HDR.format(feature_rows=''.join(frows)))
+    with open(outfile, "w", encoding="utf-8") as fo:
+        fo.write(PG_HDR.format(feature_rows="".join(frows)))
         for i in range(len(frows)):
             fo.write(F_ROW_INCL.format(row_num=i))
 
     if datafile is not None:
-        print(f'outputting structured papers to {datafile} as well')
-        with open(datafile, 'w', newline='', encoding='utf-8') as fo:
+        print(f"outputting structured papers to {datafile} as well")
+        with open(datafile, "w", newline="", encoding="utf-8") as fo:
             writer = csv.writer(fo)
             writer.writerow(CSV_HEADER)
             for row in publications:
@@ -257,37 +296,44 @@ def main(fmedline, fpreprint, outfile, datafile, fmanual, fskip=None):
                 if pp is not None:
                     pp = list(row[PCOL_DOI])
                 else:
-                    pp = ['','']
+                    pp = ["", ""]
                 writer.writerow(row1 + pp + row2)
 
-if __name__ == '__main__':
-    parser = argparse.ArgumentParser(
-        description='Parse myNCBI My Bibliography medline export to jekyll page MD'
-    )
-    
-    parser.add_argument('myncbi_file', 
-                      help='Input NBIB file from myNCBI')
-    parser.add_argument('preprints_file',
-                      help='Input CSV file containing preprints')
-    
-    parser.add_argument('-o', '--outfile',
-                      default=DEF_OUTFILE,
-                      help=f'Output file (default: {DEF_OUTFILE})')
-    
-    parser.add_argument('-d', '--datafile',
-                      help='Output copy of structured data to CSV file')
-    
-    parser.add_argument('-m', '--manual',
-                      help='Manual MEDLINE/NBIB file for articles not in PubMed')
 
-    parser.add_argument('-s', '--skip',
-                      help='CSV file with DOIs to skip (must have a "doi" column)')
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(
+        description="Parse myNCBI My Bibliography medline export to jekyll page MD"
+    )
+
+    parser.add_argument("myncbi_file", help="Input NBIB file from myNCBI")
+    parser.add_argument("preprints_file", help="Input CSV file containing preprints")
+
+    parser.add_argument(
+        "-o",
+        "--outfile",
+        default=DEF_OUTFILE,
+        help=f"Output file (default: {DEF_OUTFILE})",
+    )
+
+    parser.add_argument(
+        "-d", "--datafile", help="Output copy of structured data to CSV file"
+    )
+
+    parser.add_argument(
+        "-m", "--manual", help="Manual MEDLINE/NBIB file for articles not in PubMed"
+    )
+
+    parser.add_argument(
+        "-s", "--skip", help='CSV file with DOIs to skip (must have a "doi" column)'
+    )
 
     args = parser.parse_args()
 
-    main(args.myncbi_file,
-         args.preprints_file,
-         args.outfile,
-         args.datafile,
-         args.manual,
-         args.skip)
+    main(
+        args.myncbi_file,
+        args.preprints_file,
+        args.outfile,
+        args.datafile,
+        args.manual,
+        args.skip,
+    )
