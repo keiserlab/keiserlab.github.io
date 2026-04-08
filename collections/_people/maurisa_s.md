@@ -5,8 +5,8 @@ author: maurisa_s
 layout: author-bio
 jobtitle: Grad Student
 bio: bioinformatics
-type: member
-excerpt: "[Tcheandjieu Lab](https://gladstone.org/people/catherine-tcheandjieu-gueliatcha). Maurisa studied general biology at Hampshire College. She is currently a gradu"
+type: alumn
+excerpt: "[Tcheandjieu Lab](https://gladstone.org/people/catherine-tcheandjieu-gueliatcha) (2024-). Keiser Lab (2019-2024). Maurisa studied general biology at Hampshire C"
 header:
   teaser: /assets/images/people/bio-saylor.jpg
 papers: 

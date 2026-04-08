@@ -26,7 +26,7 @@ umair_khan:
   name: Umair Khan
   email: ukhan@keiserlab.org
   bio: "bioinformatics"
-  bio_long: "Sirota Lab. Umair majored in Computer Science and Mathematics at Portland State University before coming to the Biological and Medical Informatics graduate program at UCSF. He is co-advised by [Marina Sirota](https://sirotalab.ucsf.edu/) and is interested in developing and applying new computational techniques to better understand disease."
+  bio_long: "Sirota Lab (2022-). Keiser Lab (2022-2024). Umair majored in Computer Science and Mathematics at Portland State University before coming to the Biological and Medical Informatics graduate program at UCSF. He is co-advised by [Marina Sirota](https://sirotalab.ucsf.edu/) and is interested in developing and applying new computational techniques to better understand disease."
   avatar: /assets/images/people/bio-khan.jpg
   title: Grad Student
   github: khanu263
@@ -35,75 +35,78 @@ umair_khan:
   linkedin: umair-khan-ucsf
   ncbi_id: Khan U
   orc_id: 0000-0002-6361-4996
-  type: member
+  type: alumn
   
 brendan_hall:
-  name: Brendan Hall
+  name: Brendan Hall, PhD
   email: bhall@keiserlab.org
-  bio: "biophysics"
-  bio_long: "[Shoichet Lab](https://bkslab.org/). Brendan graduated in 2021 from Williams College with a B.A in Physics and Math. While there he did research in Daniel Aalberts' lab analyzing ribosome profiling data to study the kinetics of translation elongation. He is now enrolled in the Biophysics PhD program at UCSF."
+  bio: "Montara Therapeutics"
+  bio_long: "[Shoichet Lab](https://bkslab.org/) (2024-2026). Keiser Lab (2022-2024). Brendan graduated in 2021 from Williams College with a B.A in Physics and Math. While there he did research in Daniel Aalberts' lab analyzing ribosome profiling data to study the kinetics of translation elongation. He was enrolled in the Biophysics PhD program at UCSF."
   avatar: /assets/images/people/bio-hall.jpg
-  title: Grad Student
+  title: Scientist
   github: bwhall61
+  linkedin: brendan-hall-439b461b8
   ncbi_id: Hall BW
-  type: member
+  type: alumn
   
 duncan_muir:
-  name: Duncan Muir
+  name: Duncan Muir, PhD
   email: dmuir@keiserlab.org
-  bio: "biophysics"
-  bio_long: "Pinney Lab. Duncan completed his B.S. in Data Science and Biochemistry at Northeastern University. Before starting graduate school, he worked in the Structural Biology group at Relay Therapeutics in Cambridge, Massachusetts. There he supported medicinal chemistry efforts through crystallographic fragment screening and developed tools to store and track crystallographic data. As a part of the UCSF Biophysics PhD program he is interested in using high-throughput microfluidic biochemical assays to assemble rich datasets that probe and model the effects of mutations on enzyme activity and stability. He is co-advised by [Margaux Pinney](https://www.pinneylabucsf.com/)."
+  bio: "Inductive Bio"
+  bio_long: "[Pinney Lab](https://www.pinneylabucsf.com/) (2022-2025). Keiser Lab (2022-2024). Duncan completed his B.S. in Data Science and Biochemistry at Northeastern University. Before starting graduate school, he worked in the Structural Biology group at Relay Therapeutics in Cambridge, Massachusetts. There he supported medicinal chemistry efforts through crystallographic fragment screening and developed tools to store and track crystallographic data. As a part of the UCSF Biophysics PhD program he was interested in using high-throughput microfluidic biochemical assays to assemble rich datasets that probe and model the effects of mutations on enzyme activity and stability. He was co-advised by [Margaux Pinney](https://www.pinneylabucsf.com/)."
   avatar: /assets/images/people/bio-muir.jpg
-  title: Grad Student
+  title: Machine Learning Scientist
   github: duncan-muir
-  linkedin: duncan-muir-79637a14a
+  linkedin: duncanfmuir
   ncbi_id: Muir DF
-  type: member
+  type: alumn
 
 sina_ghandian:
   name: Sina Ghandian
   email: sina@keiserlab.org
-  bio: ""
-  bio_long: "Sina graduated from UC Berkeley with a B.S. in Bioengineering and a concentration in data science. As an undergraduate, his research laid in the field of clinical informatics, where he developed models to predict the onset of different medical conditions using patient data. In the Keiser lab, he is interested in exploring different applications of deep learning in biology; his current research focus is in neuropathology. In his free time, he enjoys exploring the Bay Area food scene, cooking new recipes, and trying new board games with friends."
+  bio: "UC Irvine"
+  bio_long: "Research Data Analyst, 2022-2024. Sina graduated from UC Berkeley with a B.S. in Bioengineering and a concentration in data science. As an undergraduate, his research lay in the field of clinical informatics, where he developed models to predict the onset of different medical conditions using patient data. In the Keiser lab, he explored different applications of deep learning in biology, with a research focus in neuropathology."
   avatar: /assets/images/people/bio-ghandian.jpg
-  title: Research Data Analyst
+  title: PhD Student, MCSB
   github: sghandian
   linkedin: sina-ghandian
   ncbi_id: Ghandian S
-  type: member
+  type: alumn
   
 parker_grosjean:
-  name: Parker Grosjean
+  name: Parker Grosjean, PhD
   email: pgrosjean@keiserlab.org
-  bio: "bioinformatics"
-  bio_long: "Kampmann Lab. As an undergraduate student Parker studied Bioengineering and Applied Mathematics at the University of Washington. He is currently a PhD student in the Bioinformatics Program at UCSF and is co-mentored in the [Kampmann Lab](https://kampmannlab.ucsf.edu/). His research interests lie at the intersection of deep learning, functional genomics, and high-content screening to investigate the underlying mechanisms of tauopathies and subsequent therapeutic perturbations in disease variant neurons."
+  bio: "Insitro"
+  bio_long: "[Kampmann Lab](https://kampmannlab.ucsf.edu/) (2021-2025). Keiser Lab (2021-2024). As an undergraduate student Parker studied Bioengineering and Applied Mathematics at the University of Washington. He was a PhD student in the Bioinformatics Program at UCSF and was co-mentored in the [Kampmann Lab](https://kampmannlab.ucsf.edu/). His research interests lay at the intersection of deep learning, functional genomics, and high-content screening to investigate the underlying mechanisms of tauopathies and subsequent therapeutic perturbations in disease variant neurons."
   avatar: /assets/images/people/bio-grosjean.jpg
-  title: Grad Student
+  title: Lead Machine Learning Scientist
   github: pgrosjean
+  linkedin: parkergrosjean
   ncbi_id: Grosjean P
-  type: member
+  type: alumn
 
 ben_orr:
-  name: Ben Orr
+  name: Ben Orr, PhD
   email: orr@keiserlab.org
-  bio: "biophysics"
-  bio_long: "Kortemme Lab. Ben graduated from Tufts in 2018 with a B.S. in Biochemistry and minor in Studio Art. As an undergraduate, he worked in Joshua Kritzer’s lab, designing cyclic peptide inhibitors of protein-protein interactions. He then worked as a Research Assistant in Jue Chen’s lab at Rockefeller U., studying membrane transporter proteins. He is now in the Biophysics PhD program and is interested in improving de novo protein design protocols with machine learning techniques. He is co-mentored with [Tanja Kortemme](http://kortemmelab.ucsf.edu/)."
+  bio: "Animate Biosciences"
+  bio_long: "[Kortemme Lab](http://kortemmelab.ucsf.edu/) (2021-2025). Keiser Lab; NSF Fellow (2021-2024). Ben graduated from Tufts in 2018 with a B.S. in Biochemistry and minor in Studio Art. As an undergraduate, he worked in Joshua Kritzer’s lab, designing cyclic peptide inhibitors of protein-protein interactions. He then worked as a Research Assistant in Jue Chen’s lab at Rockefeller U., studying membrane transporter proteins. He was in the Biophysics PhD program and was interested in improving de novo protein design protocols with machine learning techniques. He was co-mentored with [Tanja Kortemme](http://kortemmelab.ucsf.edu/)."
   avatar: /assets/images/people/bio-orr.jpg
-  title: Grad Student; NSF Fellow
+  title: AI & Computational Biology Lead
   github: bendorr
+  linkedin: benjamin-orr-29645a268
   ncbi_id: Orr B
-  type: member
+  type: alumn
 
 maurisa_s:
   name: Maurisa S
   email: saylor@keiserlab.org
   bio: "bioinformatics"
-  bio_long: "[Tcheandjieu Lab](https://gladstone.org/people/catherine-tcheandjieu-gueliatcha). Maurisa studied general biology at Hampshire College. She is currently a graduate student in the Integrative Program for Quantitative Biology, Biomedical Informatics track pursuing a PhD."
+  bio_long: "[Tcheandjieu Lab](https://gladstone.org/people/catherine-tcheandjieu-gueliatcha) (2024-). Keiser Lab (2019-2024). Maurisa studied general biology at Hampshire College. She is a graduate student in the Integrative Program for Quantitative Biology, Biomedical Informatics track pursuing a PhD."
   avatar: /assets/images/people/bio-saylor.jpg
   title: Grad Student
   github: sayloren
   ncbi_id: Saylor M
-  type: member
+  type: alumn
   
 
 # ALUMNI
@@ -238,13 +241,13 @@ mahdi_ghorbani:
   type: alumn
 
 rish_sharma:
-  name: Rish Sharma
+  name: Rish Sharma, MS
   email: rish@keiserlab.org
-  bio: University of Rochester
+  bio: Cedars-Sinai
   bio_long: >
-    Research Data Analyst, 2021-2023. Rish is interested in generative modeling and property prediction of molecules using machine learning approaches.
+    Research Data Analyst, 2021-2023. Rish was interested in generative modeling and property prediction of molecules using machine learning approaches.
   avatar: /assets/images/people/bio-rsharma.jpg
-  title: Master's Student in Data Science
+  title: Research Associate Data Scientist
   github: rish647
   ncbi_id: Sharma R
   linkedin: rishabhsharm
@@ -461,13 +464,13 @@ leo_gendelev:
   type: alumn
 
 jacob_pfau:
-  name: Jacob Pfau, M1
+  name: Jacob Pfau
   email: pfau@keiserlab.org
-  bio: NYU
+  bio: UK AI Security Institute
   bio_long: >
-    Research Data Analyst; QBI Bold & Basic Fellow (2019-2020). Jacob's interests span the theory and applications of machine learning models -- and deep learning in particular. He previously graduated from Ecole Polytechnique, in Paris, with an M1 (masters) in data science and a focus on NLP and machine vision. He was researching applications of deep learning to automated diagnosis in dermatology. His work included everything from data wrangling to refining convolutional architectures for the medical context.
+    Research Data Analyst; QBI Bold & Basic Fellow (2019-2020). Jacob's interests spanned the theory and applications of machine learning models -- and deep learning in particular. He previously graduated from Ecole Polytechnique, in Paris, with an M1 (masters) in data science and a focus on NLP and machine vision. He researched applications of deep learning to automated diagnosis in dermatology. His work included everything from data wrangling to refining convolutional architectures for the medical context.
   avatar: /assets/images/people/bio-pfau.jpg
-  title: PhD Candidate working on NLP and AI Safety
+  title: Research Lead, AISI Alignment Team; NYU PhD Candidate
   github: JacobPfau
   ncbi_id: Pfau J
   linkedin: jacob-pfau

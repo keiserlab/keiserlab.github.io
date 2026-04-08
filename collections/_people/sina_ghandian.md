@@ -3,10 +3,10 @@
 title: Sina Ghandian
 author: sina_ghandian
 layout: author-bio
-jobtitle: Research Data Analyst
-bio: 
-type: member
-excerpt: "Sina graduated from UC Berkeley with a B.S. in Bioengineering and a concentration in data science. As an undergraduate, his research laid in the field of clinic"
+jobtitle: PhD Student, MCSB
+bio: UC Irvine
+type: alumn
+excerpt: "Research Data Analyst, 2022-2024. Sina graduated from UC Berkeley with a B.S. in Bioengineering and a concentration in data science. As an undergraduate, his re"
 header:
   teaser: /assets/images/people/bio-ghandian.jpg
 papers: 

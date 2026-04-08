@@ -5,8 +5,8 @@ author: umair_khan
 layout: author-bio
 jobtitle: Grad Student
 bio: bioinformatics
-type: member
-excerpt: "Sirota Lab. Umair majored in Computer Science and Mathematics at Portland State University before coming to the Biological and Medical Informatics graduate prog"
+type: alumn
+excerpt: "Sirota Lab (2022-). Keiser Lab (2022-2024). Umair majored in Computer Science and Mathematics at Portland State University before coming to the Biological and M"
 header:
   teaser: /assets/images/people/bio-khan.jpg
 papers: 
