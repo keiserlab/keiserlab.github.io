@@ -1,5 +1,6 @@
 _site
 .sass-cache
+.playwright-mcp/
 .DS_Store
 *.sublime-project
 *.sublime-workspace

@@ -161,6 +161,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-redirect-from
 
 
 # Archives
@@ -244,7 +246,7 @@ collections:
     output: true
   posts:
     output: true
-    permalink: /:categories/:name
+    permalink: /:categories/:name/
 
 # https://github.com/DIYbiosphere/sphere/issues/140
 github: [metadata]
