@@ -5,25 +5,28 @@
 # Script to parse myNCBI My Bibliography medline export to jekyll page MD
 
 import argparse
-import os
 import csv
 import datetime
 import itertools
 from Bio import Medline
+import yaml
 
 DEF_OUTFILE = "publications.md"
 DOI_URLBASE = "https://doi.org"
 PMID_URLBASE = "https://www.ncbi.nlm.nih.gov/pubmed"
 
-# Preprint csv columns
-PCOL_NCBI_ID = 0
-PCOL_JOUR = 1
-PCOL_JOURNID = 2
-PCOL_AUTH = 3
-PCOL_TITLE = 4
-PCOL_DATE = 5
-PCOL_URL = 6
-PCOL_DOI = 7
+# Publication row columns (internal list-of-lists used throughout main())
+COL_PID = 0
+COL_TITLE = 1
+COL_JOURNAL = 2
+COL_DATE = 3
+COL_AUTHORS = 4
+COL_URL = 5
+COL_DOI = 6
+COL_PREPRINT = 7       # tuple (url, label) or None
+COL_JEKYLL_DATE = 8
+COL_TYPE = 9
+COL_EXTRA_LINKS = 10   # list of {kind, url, label, [icon]}
 
 # Output templates remain unchanged
 PG_HDR = """---
@@ -59,13 +62,22 @@ F_ROW_ITEM = """
     btn_label: >-
         doi &nbsp; <i class="fas fa-external-link-alt"></i>
     btn_class: "btn--primary"
-{preprint}"""
+{preprint}{extra_links}"""
 
 F_ROW_PREPRINT = """    url2: "{url}"
     btn2_label: >-
         {label} &nbsp; <i class="fas fa-external-link-alt"></i>
     btn2_class: "btn--info"
 """
+
+F_ROW_EXTRA_LINKS_HDR = "    extra_links:\n"
+
+F_ROW_EXTRA_LINK = """      - kind: {kind}
+        url: "{url}"
+        label: "{label}"
+"""
+
+F_ROW_EXTRA_LINK_ICON = '        icon: "{icon}"\n'
 
 F_ROW_INCL = """
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
@@ -166,24 +178,54 @@ def load_skip_list(fskip):
         return {row["doi"] for row in reader}
 
 
-def main(fmedline, fpreprint, outfile, datafile, fmanual, fskip=None):
+def load_supplemental(path):
+    """Parse supplemental.yml into (standalone_records, supplemental_map).
+
+    standalone_records: list of dicts (one per preprint not indexed by PubMed)
+        {journal, journal_id, authors, title, pub_date, url, doi, [links]}
+    supplemental_map: {doi: {"preprint": {url, label} | None, "links": [...]}}
+    """
+    with open(path) as fi:
+        data = yaml.safe_load(fi) or {}
+    standalones = data.get("standalone_preprints") or []
+    raw_supp = data.get("supplemental") or {}
+    supplemental = {}
+    for doi, entry in raw_supp.items():
+        entry = entry or {}
+        supplemental[doi] = {
+            "preprint": entry.get("preprint"),
+            "links": entry.get("links") or [],
+        }
+    return standalones, supplemental
+
+
+def render_extra_links(links):
+    "render an extra_links list as a YAML block (or empty string if no links)"
+    if not links:
+        return ""
+    out = [F_ROW_EXTRA_LINKS_HDR]
+    for link in links:
+        out.append(
+            F_ROW_EXTRA_LINK.format(
+                kind=link["kind"],
+                url=link["url"],
+                label=link["label"],
+            )
+        )
+        if link.get("icon"):
+            out.append(F_ROW_EXTRA_LINK_ICON.format(icon=link["icon"]))
+    return "".join(out)
+
+
+def main(fmedline, fsupplemental, outfile, datafile, fmanual, fskip=None):
     skip_dois = load_skip_list(fskip)
     if skip_dois:
         print(f"skip list: {len(skip_dois)} dois")
 
-    with open(fpreprint) as fi:
-        reader = csv.reader(fi)
-        print(f"preprint: skipped header: {next(reader)}")
-        p_records = []
-        aid2preprint = {}
-        for row in reader:
-            aid = aid_scrub(row[PCOL_NCBI_ID])
-            if aid != "":
-                aid2preprint[aid] = row
-            else:
-                p_records.append(row)
+    standalones, supplemental_map = load_supplemental(fsupplemental)
     print(
-        f"read {len(p_records) + len(aid2preprint)} preprint records, {len(aid2preprint)} with ncbi ids"
+        f"read {len(standalones) + len(supplemental_map)} supplemental records, "
+        f"{len(supplemental_map)} keyed by doi"
     )
 
     with open(fmedline) as fi:
@@ -193,21 +235,22 @@ def main(fmedline, fpreprint, outfile, datafile, fmanual, fskip=None):
             m_records.extend(list(Medline.parse(fm)))
 
     publications = []
-    # Read preprints/manual first
-    for record in p_records:
-        pid = ".".join([record[PCOL_JOUR].replace(" ", "_"), record[PCOL_JOURNID]])
+    # Standalone preprints first (not in PubMed)
+    for rec in standalones:
+        pid = ".".join([rec["journal"].replace(" ", "_"), rec["journal_id"]])
         publications.append(
             [
                 pid,
-                make_htmlsafe(record[PCOL_TITLE]),
-                record[PCOL_JOUR],
-                record[PCOL_DATE],
-                record[PCOL_AUTH],
+                make_htmlsafe(rec["title"]),
+                rec["journal"],
+                rec["pub_date"],
+                rec["authors"],
                 "",
-                record[PCOL_DOI],
-                (record[PCOL_URL], record[PCOL_JOUR]),
-                convert_date(record[PCOL_DATE]),
+                rec["doi"],
+                (rec["url"], rec["journal"]),
+                convert_date(rec["pub_date"]),
                 "preprint",
+                rec.get("links") or [],
             ]
         )
 
@@ -217,16 +260,16 @@ def main(fmedline, fpreprint, outfile, datafile, fmanual, fskip=None):
         aid, url, doi = get_id_url(record)
         if doi and is_preprint_doi(doi):
             n_skipped_preprint += 1
-            print(f"\tskipped: preprint doi in medline")
+            print("\tskipped: preprint doi in medline")
             continue
         if doi in skip_dois:
             n_skipped_list += 1
-            print(f"\tskipped: in skip list")
+            print("\tskipped: in skip list")
             continue
-        pprint = None
-        if aid in aid2preprint:
-            pp = aid2preprint[aid]
-            pprint = (pp[PCOL_URL], pp[PCOL_JOUR])
+        supp = supplemental_map.get(doi) or {}
+        pp = supp.get("preprint")
+        pprint = (pp["url"], pp["label"]) if pp else None
+        extra_links = supp.get("links") or []
         publications.append(
             [
                 aid,
@@ -239,18 +282,19 @@ def main(fmedline, fpreprint, outfile, datafile, fmanual, fskip=None):
                 pprint,
                 convert_date(record["DP"]),
                 "ncbi",
+                extra_links,
             ]
         )
     if n_skipped_preprint:
         print(
-            f"skipped {n_skipped_preprint} preprint medline records (preprints.csv is SSOT)"
+            f"skipped {n_skipped_preprint} preprint medline records (supplemental.yml is SSOT)"
         )
     if n_skipped_list:
         print(f"skipped {n_skipped_list} records via skip list")
 
-    publications.sort(key=lambda x: x[8], reverse=True)
+    publications.sort(key=lambda x: x[COL_JEKYLL_DATE], reverse=True)
 
-    n_expected = len(p_records) + len(m_records) - n_skipped_preprint - n_skipped_list
+    n_expected = len(standalones) + len(m_records) - n_skipped_preprint - n_skipped_list
     print(f"read {len(m_records)} medline records")
     print(
         f"merged into {len(publications)} publication entries (expected {n_expected})"
@@ -260,21 +304,25 @@ def main(fmedline, fpreprint, outfile, datafile, fmanual, fskip=None):
     for i, p3 in enumerate(grouper(3, publications)):
         items = []
         for p in filter(None, p3):
-            pp = p[7]
+            pp = p[COL_PREPRINT]
             pprint = (
                 F_ROW_PREPRINT.format(url=pp[0], label=pp[1]) if pp is not None else ""
             )
+            extra = render_extra_links(p[COL_EXTRA_LINKS])
             items.append(
                 F_ROW_ITEM.format(
-                    image=f"{p[0]}.jpg",
-                    alt=p[1],
-                    title=f'<span itemprop="name">{p[1]}</span>',
+                    image=f"{p[COL_PID]}.jpg",
+                    alt=p[COL_TITLE],
+                    title=f'<span itemprop="name">{p[COL_TITLE]}</span>',
                     excerpt=PAPER_TEMPLATE.format(
-                        journal=p[2], date=p[3], authors=truncate_authors(p[4])
+                        journal=p[COL_JOURNAL],
+                        date=p[COL_DATE],
+                        authors=truncate_authors(p[COL_AUTHORS]),
                     ),
-                    url=p[5],
-                    doi=p[6],
+                    url=p[COL_URL],
+                    doi=p[COL_DOI],
                     preprint=pprint,
+                    extra_links=extra,
                 )
             )
         frows.append(F_ROW_HDR.format(row_num=i, items="".join(items)))
@@ -290,13 +338,10 @@ def main(fmedline, fpreprint, outfile, datafile, fmanual, fskip=None):
             writer = csv.writer(fo)
             writer.writerow(CSV_HEADER)
             for row in publications:
-                row1 = row[:7]
-                row2 = row[8:]
-                pp = row[7]
-                if pp is not None:
-                    pp = list(row[PCOL_DOI])
-                else:
-                    pp = ["", ""]
+                row1 = row[:COL_PREPRINT]
+                row2 = row[COL_JEKYLL_DATE : COL_EXTRA_LINKS]
+                pp = row[COL_PREPRINT]
+                pp = list(pp) if pp is not None else ["", ""]
                 writer.writerow(row1 + pp + row2)
 
 
@@ -306,7 +351,10 @@ if __name__ == "__main__":
     )
 
     parser.add_argument("myncbi_file", help="Input NBIB file from myNCBI")
-    parser.add_argument("preprints_file", help="Input CSV file containing preprints")
+    parser.add_argument(
+        "supplemental_file",
+        help="Input YAML file with standalone preprints and per-doi enrichments",
+    )
 
     parser.add_argument(
         "-o",
@@ -331,7 +379,7 @@ if __name__ == "__main__":
 
     main(
         args.myncbi_file,
-        args.preprints_file,
+        args.supplemental_file,
         args.outfile,
         args.datafile,
         args.manual,

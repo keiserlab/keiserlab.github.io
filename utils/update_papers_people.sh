@@ -7,7 +7,7 @@
 # `uv lock --upgrade`
 
 echo '# 1 Update papers'
-uv run papers/merge_myncbi.py papers/input/mybib.nbib papers/input/preprints.csv -o ../_pages/publications.md -d ../_data/papers.csv -m papers/input/manual.nbib -s papers/input/skip.csv
+uv run papers/merge_myncbi.py papers/input/mybib.nbib papers/input/supplemental.yml -o ../_pages/publications.md -d ../_data/papers.csv -m papers/input/manual.nbib -s papers/input/skip.csv
 
 echo '# 2 Update people'
 uv run people/authors2people.py ../_data/authors.yml -o ../collections/_people/ -p ../_data/papers.csv
