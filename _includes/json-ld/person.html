@@ -30,6 +30,9 @@
     {% capture _u %}https://scholar.google.com/citations?user={{ author.google.scholar }}{% endcapture %}
     {% assign sameas = sameas | push: _u %}
   {% endif %}
+  {% if author.website %}
+    {% assign sameas = sameas | push: author.website %}
+  {% endif %}
   {% if author.ucsf_profiles %}
     {% capture _u %}https://profiles.ucsf.edu/{{ author.ucsf_profiles }}{% endcapture %}
     {% assign sameas = sameas | push: _u %}
@@ -49,11 +52,30 @@
   {% if author.bio %}"description": {{ author.bio | strip_html | jsonify }},{% endif %}
   {% if author.email %}"email": {{ author.email | jsonify }},{% endif %}
   {% if sameas.size > 0 %}"sameAs": {{ sameas | jsonify }},{% endif %}
+  {% if page.author == "michael_keiser" %}
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Sygaldry Technologies",
+    "url": "https://sygaldry.com"
+  },
+  "alumniOf": [
+    {
+      "@type": "EducationalOrganization",
+      "name": "University of California, San Francisco"
+    },
+    {
+      "@type": "EducationalOrganization",
+      "name": "Stanford University"
+    }
+  ],
+  "knowsAbout": ["Artificial Intelligence", "Machine Learning", "Drug Discovery", "Deep Learning", "Generative Models", "Systems Pharmacology", "Computational Biology"],
+  {% else %}
   "worksFor": {
     "@type": "Organization",
     "name": "Keiser Lab",
     "url": {{ site.url | jsonify }}
   },
+  {% endif %}
   "url": {{ page.url | absolute_url | jsonify }}
 }
 </script>
