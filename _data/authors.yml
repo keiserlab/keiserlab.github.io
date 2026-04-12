@@ -15,7 +15,6 @@ michael_keiser:
   linkedin: keiser
   google:
     scholar: 6GGtbegAAAAJ
-  ucsf_profiles: michael.keiser
   my_ncbi: michael.keiser.1
   ncbi_id: Keiser MJ
   orc_id: 0000-0002-1240-2192
@@ -53,7 +52,7 @@ duncan_muir:
   name: Duncan Muir, PhD
   email: dmuir@keiserlab.org
   bio: "Inductive Bio"
-  bio_long: "[Pinney Lab](https://www.pinneylabucsf.com/) (2022-2025). Keiser Lab (2022-2024). Duncan completed his B.S. in Data Science and Biochemistry at Northeastern University. Before starting graduate school, he worked in the Structural Biology group at Relay Therapeutics in Cambridge, Massachusetts. There he supported medicinal chemistry efforts through crystallographic fragment screening and developed tools to store and track crystallographic data. As a part of the UCSF Biophysics PhD program he was interested in using high-throughput microfluidic biochemical assays to assemble rich datasets that probe and model the effects of mutations on enzyme activity and stability. He was co-advised by [Margaux Pinney](https://www.pinneylabucsf.com/)."
+  bio_long: "[Pinney Lab](https://pinneylab.com/) (2022-2025). Keiser Lab (2022-2024). Duncan completed his B.S. in Data Science and Biochemistry at Northeastern University. Before starting graduate school, he worked in the Structural Biology group at Relay Therapeutics in Cambridge, Massachusetts. There he supported medicinal chemistry efforts through crystallographic fragment screening and developed tools to store and track crystallographic data. As a part of the UCSF Biophysics PhD program he was interested in using high-throughput microfluidic biochemical assays to assemble rich datasets that probe and model the effects of mutations on enzyme activity and stability. He was co-advised by [Margaux Pinney](https://pinneylab.com/)."
   avatar: /assets/images/people/bio-muir.webp
   title: Machine Learning Scientist
   github: duncan-muir
@@ -126,10 +125,10 @@ laura_gunsalus:
   email: lgunsalus@keiserlab.org
   bio: Genentech
   bio_long: >
-    Grad Student; ARCS Scholar in Bioinformatics, 2018-2023. Laura was an iPQB bioinformatics graduate student interested in using deep learning approaches to better understand the relationships between genetic and epigenetic variation, genome organization, and disease predisposition. She was co-advised by [Professor Katherine Pollard](https://pollardlab.org/).
+    Grad Student; ARCS Scholar in Bioinformatics, 2018-2023. Laura was an iPQB bioinformatics graduate student interested in using deep learning approaches to better understand the relationships between genetic and epigenetic variation, genome organization, and disease predisposition. She was co-advised by [Professor Katherine Pollard](https://docpollard.org/).
   avatar: /assets/images/people/bio-gunsalus.webp
   title: Senior ML Scientist
-  github: LauraGunsalus
+  github: lgunsalus
   ncbi_id: Gunsalus LM
   linkedin: laura-gunsalus-356a10136
   type: alumn
@@ -518,7 +517,7 @@ jessica_mckinley:
     CTSI TL1 Postdoctoral Fellow, 2019-2021. Jessica graduated from UC Riverside with a PhD in Computational/Theoretical Chemistry. She applied machine learning techniques to analyze molecular dynamics trajectories. On her time off she enjoys hiking around the bay area.
   avatar: /assets/images/people/bio-mckinley.webp
   title: Sr. Scientist Computational Chemistry
-  github: jmcki003
+  github:
   google:
     scholar: 1lE4L80AAAAJ
   ncbi_id: McKinley JL

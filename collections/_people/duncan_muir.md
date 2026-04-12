@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Machine Learning Scientist
 bio: Inductive Bio
 type: alumn
-excerpt: "[Pinney Lab](https://www.pinneylabucsf.com/) (2022-2025). Keiser Lab (2022-2024). Duncan completed his B.S. in Data Science and Biochemistry at Northeastern Uni"
+excerpt: "[Pinney Lab](https://pinneylab.com/) (2022-2025). Keiser Lab (2022-2024). Duncan completed his B.S. in Data Science and Biochemistry at Northeastern University."
 header:
   teaser: /assets/images/people/bio-muir.webp
 papers: 
