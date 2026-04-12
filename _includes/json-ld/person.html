@@ -1,0 +1,60 @@
+{% comment %}
+  Person JSON-LD for /people/<slug>/ pages.
+  Expects `page.author` to name a key in site.data.authors; falls back to
+  page.author itself if no matching hash is found. Emits nothing when the
+  author record is missing a name.
+{% endcomment %}
+
+{% assign author = page.author %}
+{% assign author = site.data.authors[author] | default: author %}
+
+{% if author.name %}
+  {% assign sameas = "" | split: "" %}
+  {% if author.orc_id %}
+    {% capture _u %}https://orcid.org/{{ author.orc_id }}{% endcapture %}
+    {% assign sameas = sameas | push: _u %}
+  {% endif %}
+  {% if author.github %}
+    {% capture _u %}https://github.com/{{ author.github }}{% endcapture %}
+    {% assign sameas = sameas | push: _u %}
+  {% endif %}
+  {% if author.linkedin %}
+    {% capture _u %}https://www.linkedin.com/in/{{ author.linkedin }}{% endcapture %}
+    {% assign sameas = sameas | push: _u %}
+  {% endif %}
+  {% if author.twitter %}
+    {% capture _u %}https://twitter.com/{{ author.twitter }}{% endcapture %}
+    {% assign sameas = sameas | push: _u %}
+  {% endif %}
+  {% if author.google.scholar %}
+    {% capture _u %}https://scholar.google.com/citations?user={{ author.google.scholar }}{% endcapture %}
+    {% assign sameas = sameas | push: _u %}
+  {% endif %}
+  {% if author.ucsf_profiles %}
+    {% capture _u %}https://profiles.ucsf.edu/{{ author.ucsf_profiles }}{% endcapture %}
+    {% assign sameas = sameas | push: _u %}
+  {% endif %}
+  {% comment %}
+    No Person.authoredWorks property exists in schema.org; the Person ↔
+    ScholarlyArticle relationship is expressed on the article side
+    (author: [Person]) in /publications/ JSON-LD, and via ORCID / Scholar
+    links in sameAs above.
+  {% endcomment %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": {{ author.name | jsonify }},
+  {% if author.title %}"jobTitle": {{ author.title | jsonify }},{% endif %}
+  {% if author.bio %}"description": {{ author.bio | strip_html | jsonify }},{% endif %}
+  {% if author.email %}"email": {{ author.email | jsonify }},{% endif %}
+  {% if sameas.size > 0 %}"sameAs": {{ sameas | jsonify }},{% endif %}
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Keiser Lab",
+    "url": "https://keiserlab.org"
+  },
+  "url": {{ page.url | absolute_url | jsonify }}
+}
+</script>
+{% endif %}

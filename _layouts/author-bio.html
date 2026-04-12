@@ -3,6 +3,8 @@ layout: single
 author_profile: true
 ---
 
+{% include json-ld/person.html %}
+
 {% assign author = page.author %}
 {% assign author = site.data.authors[author] | default: author %}
 
@@ -25,7 +27,7 @@ author_profile: true
   <h2>Lab papers</h2>
   <ol reversed>
       {% for paper in page.papers %}
-      <li itemprop="knowsAbout">
+      <li>
           <a href="{{ paper.link }}">{{ paper.title }}</a>. {{ paper.excerpt | markdownify }}
       </li>
       {% endfor %}

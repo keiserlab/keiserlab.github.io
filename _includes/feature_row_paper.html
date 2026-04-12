@@ -63,10 +63,10 @@ mjk 2018-11-02 added altmetrics
             {% if f.url or f.url2 or f.extra_links %}
               <p>
                 {% if f.url and f.url != "" %}
-                  <a href="{{ f_url }}" class="btn {{ f.btn_class }}" itemProp="sameAs">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+                  <a href="{{ f_url }}" class="btn {{ f.btn_class }}" itemprop="url">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
                 {% endif %}
                 {% if f.url2 and f.url2 != "" %}
-                  <a href="{{ f_url2 }}" class="btn {{ f.btn2_class }}" itemProp="url">{{ f.btn2_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+                  <a href="{{ f_url2 }}" class="btn {{ f.btn2_class }}" itemprop="sameAs">{{ f.btn2_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
                 {% endif %}
                 {% if f.extra_links and f.extra_links.size > 0 %}
                   {% for link in f.extra_links %}
@@ -97,12 +97,15 @@ mjk 2018-11-02 added altmetrics
                     {% endif %}
                     {% if link.kind == "code" %}
                       {% assign link_btn_class = "btn--github" %}
+                      {% assign link_itemprop = "codeRepository" %}
                     {% elsif link.kind == "data" %}
                       {% assign link_btn_class = "btn--warning" %}
+                      {% assign link_itemprop = "isBasedOn" %}
                     {% else %}
                       {% assign link_btn_class = "btn--info" %}
+                      {% assign link_itemprop = nil %}
                     {% endif %}
-                    <a href="{{ link_url }}" class="btn {{ link_btn_class }}" itemProp="codeRepository"><i class="{{ link_icon }}"></i>{% unless link.role == "paper" %}&nbsp; {{ link.label }}{% endunless %}</a>
+                    <a href="{{ link_url }}" class="btn {{ link_btn_class }}"{% if link_itemprop %} itemprop="{{ link_itemprop }}"{% endif %}><i class="{{ link_icon }}"></i>{% unless link.role == "paper" %}&nbsp; {{ link.label }}{% endunless %}</a>
                   {% endfor %}
                 {% endif %}
               </p>
