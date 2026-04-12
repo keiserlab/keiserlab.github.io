@@ -10,8 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-#theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme           : "mmistakes/minimal-mistakes@4.28.0"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -30,36 +29,20 @@ comments:
   provider               : false
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : true # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
-algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
-google:
-  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
-  instant_search         : # false (default), true
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-yandex_site_verification :
-naver_site_verification  :
+search                   : true
+search_provider          : lunr
 
-# Social Sharing
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
+# Social sharing
 og_image                 : "/assets/icon/android-chrome-256x256.png" # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
+twitter:
+  username               : keiser_lab
+# https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Organization # Person or Organization (defaults to Person)
   name                   : keiser lab # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - https://github.com/keiserlab
+    - https://twitter.com/keiser_lab
 
 # Analytics
 analytics:
@@ -79,7 +62,6 @@ author:
 
 # Reading Files
 include:
-  - .htaccess
   - _pages
 exclude:
   # mjk
@@ -115,7 +97,6 @@ exclude:
   - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
-  - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
@@ -155,9 +136,7 @@ timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_databas
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
@@ -248,6 +227,4 @@ collections:
     output: true
     permalink: /:categories/:name/
 
-# https://github.com/DIYbiosphere/sphere/issues/140
-github: [metadata]
 
