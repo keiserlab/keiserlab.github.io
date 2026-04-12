@@ -52,7 +52,7 @@
   "worksFor": {
     "@type": "Organization",
     "name": "Keiser Lab",
-    "url": "https://keiserlab.org"
+    "url": {{ site.url | jsonify }}
   },
   "url": {{ page.url | absolute_url | jsonify }}
 }
