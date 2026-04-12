@@ -11,5 +11,5 @@ main:
   url: /news/
 - title: resources
   url: /resources/
-- title: contact
-  url: /contact/
+- title: about
+  url: /about/
