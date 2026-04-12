@@ -1,28 +1,45 @@
 ---
 layout: single
-title: Research directions
+title: Research
 permalink: /research/
-excerpt: "Summary of major lab research directions in polypharmacology, phenotypic screen mechanism of action discovery, and precision drug response."
-tags: [research, projects, SEA, Similarity Ensemble Approach, forward polypharmacology, precision medicine]
+excerpt: “The Keiser Lab developed AI/ML methods for drug discovery, biomedical image analysis, and complex scientific research at UCSF.”
+tags: [research, AI, machine learning, deep learning, generative models, diffusion models, language models, representation learning, drug discovery, systems pharmacology, neuropathology, phenotypic profiling, molecular design, adversarial evaluation]
 modified: 
 comments: false
 header:
    image: /assets/images/bar-network.webp
 ---
 
-In classical pharmacology, drugs struck single notes, where one drug would hit one target to treat one disease. But drugs frequently modulate entire “chords” of targets at once, and this can be essential to their action. Our lab is decoding this molecular music, both in terms of new and useful chords for the treatment of complex diseases, and also to identify the jarring notes that existing drugs unintentionally hit when they induce side effects.
+Over a decade, the Keiser Lab developed AI and machine learning across a progression of scientific challenges: from predicting how drugs interact with protein targets, to decoding complex biological systems, to advancing the AI methods themselves.
 
-### Predicting polypharmacology
-*Much remains unknown about multi-target drug activity.* Is it best to block two molecular targets strongly, or to triangulate weaker inhibition at many targets, such that activity only arises by their overlap? We’re developing new systems pharmacology methods to investigate the molecular target binding profiles of drugs and their downstream biological consequences. For this, we are adapting the [Similarity Ensemble Approach (SEA)](http://sea.bkslab.org/) and new deep learning methods to predict molecular targets and drug effects in model systems.
+### Systems pharmacology & molecular prediction
 
-### Decoding phenotypic screens
-*How might the application of systems pharmacology methods to phenotypic screens extend or even contradict known biology?* We've found that no existing dataset or approach comprehensively links cellular, tissue, or organismal drug-induced phenotypes with their mechanistic molecular targets. So how might we anticipate when a drug’s effect arises from action at multiple targets simultaneously, and when one target is sufficient?
+[![Predicted drug-target network from Keiser et al., Nature 2009](/assets/images/research-sea-network.webp){: .align-right style="max-width: 50%;"}](https://doi.org/10.1038/nature08506)
 
-To investigate this, we are using phenotypic screens to deconvolute the mechanism of action targets of drugs and novel small molecules. With polypharmacology predictions as a guide, we can focus over 2.6×10<sup>14</sup> possible target combinations down to a more manageable number, for testing in zebrafish, in cell models of cancer, and in neurodegenerative diseases. One key goal is to actively mine for overlooked and discrepant biological mechanisms.
+The lab’s earliest work addressed a foundational problem: drugs rarely act on a single target. The [Similarity Ensemble Approach (SEA)](http://sea.bkslab.org/) used the statistical similarity of ligand sets to predict unexpected drug-target interactions, revealing that many approved drugs hit targets no one had anticipated ([*Nat Biotechnol* 2007](https://doi.org/10.1038/nbt1284); [*Nature* 2009](https://doi.org/10.1038/nature08506)). These predictions were validated at scale, identifying clinically relevant off-target effects across hundreds of drugs ([*Nature* 2012](https://doi.org/10.1038/nature11159)) and informing FDA drug safety surveillance ([*Clin Pharmacol Ther* 2015](https://doi.org/10.1002/cpt.2)).
 
-### Precision drug response
-*How does our understanding of pharmacology vary across patients, and treatments over time?* Precompetitive drug safety data, FDA adverse event reports, and electronic medical records (EMRs) can provide us with broad population baselines. But only by linking actual patient drug responses with genomic markers and pharmacological predictions can we identify patient-by-patient variations. And what about time? Is pharmacology more properly a path function? Drug response is a function of time, yet researchers often treat a drug’s efficacy as a timeless (equilibrium) property instead of a process. To what extent does a drug’s efficacy depend on the drug regimen preceding it?
+To move beyond ligand similarity, the lab developed new molecular representations using deep learning. [E3FP](https://github.com/keiserlab/e3fp) encoded 3D molecular shape into learnable fingerprints ([*J Med Chem* 2017](https://doi.org/10.1021/acs.jmedchem.7b00696)), and later work advanced molecular representation learning for medicinal chemistry more broadly ([*J Med Chem* 2020](https://doi.org/10.1021/acs.jmedchem.0c00385)). These efforts laid the groundwork for increasingly powerful AI approaches to molecular interaction.
 
----
+### AI for complex biological systems
 
-![subgroup](/assets/images/lab-research-1.webp)
+The lab applied deep learning to problems where the biological complexity exceeded what traditional computational methods could address.
+
+[![Trans-channel fluorescence learning predicts AT8-pTau from DAPI and YFP-tau channels, from Wong et al., Nature Machine Intelligence 2022](/assets/images/research-transchannel.webp){: .align-right style="max-width: 50%;"}](https://doi.org/10.1038/s42256-022-00490-8)
+
+In **phenotypic profiling**, deep metric learning models decoded zebrafish behavioral responses to thousands of neuroactive compounds, identifying drugs with novel mechanisms of action that conventional target-based screening would miss ([*Nat Commun* 2024](https://doi.org/10.1038/s41467-024-54375-y); [*Nat Commun* 2019](https://doi.org/10.1038/s41467-019-11936-w)). Trans-channel fluorescence learning generated informative image channels from high-content screens, unlocking historical datasets for Alzheimer’s drug discovery ([*Nat Mach Intell* 2022](https://doi.org/10.1038/s42256-022-00490-8)).
+
+In **neuropathology**, the lab built convolutional neural network pipelines for interpretable classification of Alzheimer’s disease pathologies ([*Nat Commun* 2019](https://doi.org/10.1038/s41467-019-10212-1)), validated amyloid detection models across institutions ([*Acta Neuropathol Commun* 2020](https://doi.org/10.1186/s40478-020-00927-4); [*Commun Biol* 2023](https://doi.org/10.1038/s42003-023-05031-6)), and developed [tangle-tracer](https://github.com/keiserlab/tangle-tracer) for precise neurofibrillary tangle segmentation from rapid point annotations. This work contributed to network-directed combination therapies for neurodegeneration ([*Cell* 2025](https://doi.org/10.1016/j.cell.2025.06.035)).
+
+In **genomics**, the lab discovered that repetitive elements serve as key determinants of 3D genome folding ([*Cell Genom* 2023](https://doi.org/10.1016/j.xgen.2023.100410)) and developed [ChromaFactor](https://github.com/lgunsalus/ChromaFactor) for deconvolution of single-molecule chromatin organization ([*PLoS Comput Biol* 2025](https://doi.org/10.1371/journal.pcbi.1012841)).
+
+### Advancing AI methods for science
+
+The lab’s work progressively advanced the frontier of AI methods, not just applying existing models to scientific problems but developing new architectures, training paradigms, and evaluation frameworks.
+
+[![AutoFragDiff: generative diffusion model designing a ligand inside a protein binding pocket, from Ghorbani et al., NeurIPS GenBio 2023](/assets/images/research-autofragdiff.webp){: .align-right style="max-width: 50%;"}](https://arxiv.org/abs/2401.05370)
+
+**Generative models** for molecular design represented the most forward-looking direction. [AutoFragDiff](https://github.com/keiserlab/autofragdiff) introduced autoregressive fragment-based diffusion for pocket-aware ligand design, combining diffusion generative models with the structural constraints of protein binding sites ([*NeurIPS GenBio* 2023](https://arxiv.org/abs/2401.05370)). Attention-based learning on molecular ensembles explored how attention mechanisms could capture conformational diversity ([*NeurIPS ML4Molecules* 2020](https://doi.org/10.48550/arXiv.2011.12820)). And the [exceiver](https://github.com/keiserlab/exceiver), a single-cell gene expression language model, applied transformer architectures to learn biological representations directly from transcriptomic data ([*NeurIPS LMRL* 2022](https://doi.org/10.48550/arXiv.2210.14330)).
+
+**Rigorous evaluation of AI** was a parallel theme. The lab demonstrated that adversarial controls are essential for scientific machine learning, showing how standard benchmarks can mislead ([*ACS Chem Biol* 2018](https://doi.org/10.1021/acschembio.8b00881); [*Science* 2018](https://doi.org/10.1126/science.aat8603)), developed robust concept activation vectors for semantic interpretability ([*ICML WHI* 2020](https://doi.org/10.48550/arXiv.2104.02768)), and stress-tested diagnostic AI models for clinical readiness ([*NPJ Digit Med* 2021](https://doi.org/10.1038/s41746-020-00380-6)). Methods for [stochastic negative sampling](https://github.com/keiserlab/stochastic-negatives-paper) improved molecular bioactivity prediction ([*J Chem Inf Model* 2020](https://doi.org/10.1021/acs.jcim.0c00565)), and VAE-based anomaly generation provided new tools for fuzz testing molecular representations ([*J Chem Inf Model* 2025](https://doi.org/10.1021/acs.jcim.4c01876)).
+
+**Retrieval-augmented and scalable approaches** connected learned representations with efficient search. [RAD](https://github.com/keiserlab/rad) applied hierarchical navigable small worlds to molecular docking ([*J Chem Inf Model* 2024](https://doi.org/10.1021/acs.jcim.4c00683)), and [autoparty](https://github.com/keiserlab/autoparty) used machine learning to automate the visual inspection bottleneck in structure-based drug discovery ([*J Chem Inf Model* 2025](https://doi.org/10.1021/acs.jcim.5c00850)).
