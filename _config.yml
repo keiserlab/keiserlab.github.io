@@ -33,7 +33,7 @@ search                   : true
 search_provider          : lunr
 
 # Social sharing
-og_image                 : "/assets/icon/android-chrome-256x256.png" # Open Graph/Twitter default site image
+og_image                 : "/assets/images/og-image.jpg" # Open Graph/Twitter default site image (1200x630)
 twitter:
   username               : keiser_lab
 # https://developers.google.com/structured-data/customize/social-profiles
