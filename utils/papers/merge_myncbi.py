@@ -8,6 +8,7 @@ import argparse
 import csv
 import datetime
 import itertools
+import json
 from Bio import Medline
 import yaml
 
@@ -42,6 +43,7 @@ intro:
     - title: Publications
 {feature_rows}
 ---
+{publications_jsonld}
 {{% include feature_row id="intro" type="center" %}}
 """
 
@@ -132,6 +134,7 @@ comments: false
 header:
    image: /assets/images/bar-network.png
 ---
+{resources_jsonld}
 
 The lab's full public code archive lives at [**github.com/keiserlab**](https://github.com/keiserlab) <i class="fab fa-github"></i>. The table below lists code and data released alongside lab publications, newest first. For the complete citation list see the [publications page](/publications/).
 
@@ -171,6 +174,14 @@ def truncate_authors(authors_str):
         return authors_str
     kept = authors[:KEEP_FIRST] + ["..."] + authors[-KEEP_LAST:]
     return ", ".join(kept)
+
+
+def truncate_author_list(authors_str):
+    "like truncate_authors but return the name list without the '...' marker"
+    authors = [a.strip() for a in authors_str.split(",") if a.strip()]
+    if len(authors) <= MAX_AUTHORS:
+        return authors
+    return authors[:KEEP_FIRST] + authors[-KEEP_LAST:]
 
 
 def make_htmlsafe(txt):
@@ -285,6 +296,132 @@ def link_icon(link, default_icon):
     return default_icon
 
 
+def _jsonld_script(doc):
+    "wrap a python dict as a script tag containing JSON-LD"
+    body = json.dumps(doc, ensure_ascii=False, indent=2)
+    return '<script type="application/ld+json">\n' + body + "\n</script>"
+
+
+def _canonical_doi_url(doi):
+    "return a canonical https://doi.org/ URL for a DOI string"
+    if not doi:
+        return None
+    if doi.lower().startswith("http"):
+        return doi
+    return f"https://doi.org/{doi}"
+
+
+def _article_is_part_of(p):
+    """Build a schema.org reference back to a publication for isPartOf fields."""
+    ref = {"@type": "ScholarlyArticle", "name": p[COL_TITLE]}
+    doi = p[COL_DOI]
+    if doi:
+        ref["identifier"] = f"doi:{doi}"
+    url = p[COL_URL] or None
+    if not url and p[COL_PREPRINT] is not None:
+        url = p[COL_PREPRINT][0]
+    if url:
+        ref["url"] = url
+    return ref
+
+
+def render_publications_jsonld(publications):
+    """Emit a single <script type='application/ld+json'> with an ItemList of
+    ScholarlyArticle entries, one per publication (in the same reverse-chron
+    order the page renders them)."""
+    items = []
+    for i, p in enumerate(publications, start=1):
+        authors = truncate_author_list(p[COL_AUTHORS])
+        article = {
+            "@type": "ScholarlyArticle",
+            "headline": p[COL_TITLE],
+            "author": [{"@type": "Person", "name": a} for a in authors],
+            "datePublished": p[COL_JEKYLL_DATE],
+            "isPartOf": {"@type": "Periodical", "name": p[COL_JOURNAL]},
+        }
+        doi = p[COL_DOI]
+        if doi:
+            article["identifier"] = f"doi:{doi}"
+            article["@id"] = _canonical_doi_url(doi)
+        url = p[COL_URL] or None
+        if not url and p[COL_PREPRINT] is not None:
+            url = p[COL_PREPRINT][0]
+        if url:
+            article["url"] = url
+        pp = p[COL_PREPRINT]
+        if pp is not None and pp[0] != url:
+            article["sameAs"] = pp[0]
+        code_urls = [
+            link["url"] for link in p[COL_EXTRA_LINKS] if link.get("kind") == "code"
+        ]
+        if code_urls:
+            article["codeRepository"] = (
+                code_urls[0] if len(code_urls) == 1 else code_urls
+            )
+        items.append(
+            {"@type": "ListItem", "position": i, "item": article}
+        )
+    doc = {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Keiser Lab publications",
+        "numberOfItems": len(items),
+        "itemListElement": items,
+    }
+    return _jsonld_script(doc)
+
+
+def render_resources_jsonld(publications, orphan_tools):
+    """Emit a JSON-LD @graph of SoftwareSourceCode and Dataset entities for
+    every code/data link in the publications, plus standalone SoftwareSourceCode
+    entries for orphan tools."""
+    graph = []
+    for p in publications:
+        links = p[COL_EXTRA_LINKS]
+        if not links:
+            continue
+        is_part_of = _article_is_part_of(p)
+        for link in links:
+            kind = link.get("kind")
+            label = link.get("label", "")
+            url = link["url"]
+            if kind == "code":
+                graph.append(
+                    {
+                        "@type": "SoftwareSourceCode",
+                        "name": label or "Code",
+                        "codeRepository": url,
+                        "url": url,
+                        "isPartOf": is_part_of,
+                    }
+                )
+            elif kind == "data":
+                graph.append(
+                    {
+                        "@type": "Dataset",
+                        "name": label or "Dataset",
+                        "url": url,
+                        "isPartOf": is_part_of,
+                    }
+                )
+    for tool in orphan_tools:
+        entry = {
+            "@type": "SoftwareSourceCode",
+            "name": tool.get("label", "tool"),
+            "codeRepository": tool["url"],
+            "url": tool["url"],
+        }
+        desc = tool.get("description")
+        if desc:
+            entry["description"] = desc
+        graph.append(entry)
+    doc = {
+        "@context": "https://schema.org",
+        "@graph": graph,
+    }
+    return _jsonld_script(doc)
+
+
 def render_resources_cell(links, default_icon, drop_label=False):
     "render a list of links as a <br>-joined markdown cell (em-dash if empty)"
     if not links:
@@ -354,7 +491,12 @@ def render_resources_page(publications, orphan_tools, outfile):
         )
 
     with open(outfile, "w", encoding="utf-8") as fo:
-        fo.write(R_PG_HDR.format(rows="".join(rows)))
+        fo.write(
+            R_PG_HDR.format(
+                rows="".join(rows),
+                resources_jsonld=render_resources_jsonld(publications, orphan_tools),
+            )
+        )
     print(f"wrote {len(rows)} resource rows to {outfile}")
 
 
@@ -498,7 +640,12 @@ def main(
         frows.append(F_ROW_HDR.format(row_num=i, items="".join(items)))
 
     with open(outfile, "w", encoding="utf-8") as fo:
-        fo.write(PG_HDR.format(feature_rows="".join(frows)))
+        fo.write(
+            PG_HDR.format(
+                feature_rows="".join(frows),
+                publications_jsonld=render_publications_jsonld(publications),
+            )
+        )
         for i in range(len(frows)):
             fo.write(F_ROW_INCL.format(row_num=i))
 

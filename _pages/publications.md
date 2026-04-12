@@ -1148,6 +1148,2408 @@ feature_row19:
 
 
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Keiser Lab publications",
+  "numberOfItems": 60,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Accelerating biomedical discoveries in brain health through transformative neuropathology of aging and neurodegeneration",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Murray ME"
+          },
+          {
+            "@type": "Person",
+            "name": "Smith C"
+          },
+          {
+            "@type": "Person",
+            "name": "Menon V"
+          },
+          {
+            "@type": "Person",
+            "name": "Vogel JW"
+          },
+          {
+            "@type": "Person",
+            "name": "Dugger BN"
+          },
+          {
+            "@type": "Person",
+            "name": "Phatnani H"
+          }
+        ],
+        "datePublished": "2025-11-19",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Neuron"
+        },
+        "identifier": "doi:10.1016/j.neuron.2025.06.014",
+        "@id": "https://doi.org/10.1016/j.neuron.2025.06.014",
+        "url": "https://doi.org/10.1016/j.neuron.2025.06.014"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Deep learning finds convergent melanocytic morphology despite noisy archival slides",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Tada M"
+          },
+          {
+            "@type": "Person",
+            "name": "Gaskins G"
+          },
+          {
+            "@type": "Person",
+            "name": "Ghandian S"
+          },
+          {
+            "@type": "Person",
+            "name": "Mew N"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser ES"
+          }
+        ],
+        "datePublished": "2025-10-20",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Cell Rep Methods"
+        },
+        "identifier": "doi:10.1016/j.crmeth.2025.101201",
+        "@id": "https://doi.org/10.1016/j.crmeth.2025.101201",
+        "url": "https://doi.org/10.1016/j.crmeth.2025.101201",
+        "sameAs": "https://doi.org/10.1101/2024.09.12.612732",
+        "codeRepository": "https://github.com/keiserlab/dermato-paper"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Cell-type-directed network-correcting combination therapy for Alzheimer's disease",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Li Y"
+          },
+          {
+            "@type": "Person",
+            "name": "Pereda Serras C"
+          },
+          {
+            "@type": "Person",
+            "name": "Blumenfeld J"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Huang Y"
+          },
+          {
+            "@type": "Person",
+            "name": "Sirota M"
+          }
+        ],
+        "datePublished": "2025-10-02",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Cell"
+        },
+        "identifier": "doi:10.1016/j.cell.2025.06.035",
+        "@id": "https://doi.org/10.1016/j.cell.2025.06.035",
+        "url": "https://doi.org/10.1016/j.cell.2025.06.035",
+        "sameAs": "https://doi.org/10.1101/2024.12.09.627436",
+        "codeRepository": "https://github.com/YaqiaoLi8/CombinationLI"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "The polypharmacology of psychedelics reveals multiple targets for potential therapeutics",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Jain MK"
+          },
+          {
+            "@type": "Person",
+            "name": "Gumpper RH"
+          },
+          {
+            "@type": "Person",
+            "name": "Slocum ST"
+          },
+          {
+            "@type": "Person",
+            "name": "Gloriam DE"
+          },
+          {
+            "@type": "Person",
+            "name": "Nichols DE"
+          },
+          {
+            "@type": "Person",
+            "name": "Roth BL"
+          }
+        ],
+        "datePublished": "2025-10-01",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Neuron"
+        },
+        "identifier": "doi:10.1016/j.neuron.2025.06.012",
+        "@id": "https://doi.org/10.1016/j.neuron.2025.06.012",
+        "url": "https://doi.org/10.1016/j.neuron.2025.06.012"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Autoparty: Machine Learning-Guided Visual Inspection of Molecular Docking Results",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Shub L"
+          },
+          {
+            "@type": "Person",
+            "name": "Korczynska M"
+          },
+          {
+            "@type": "Person",
+            "name": "Muir DF"
+          },
+          {
+            "@type": "Person",
+            "name": "Lin FY"
+          },
+          {
+            "@type": "Person",
+            "name": "Hall BW"
+          },
+          {
+            "@type": "Person",
+            "name": "Mathiowetz AM"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          }
+        ],
+        "datePublished": "2025-08-11",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "J Chem Inf Model"
+        },
+        "identifier": "doi:10.1021/acs.jcim.5c00850",
+        "@id": "https://doi.org/10.1021/acs.jcim.5c00850",
+        "url": "https://doi.org/10.1021/acs.jcim.5c00850",
+        "sameAs": "https://doi.org/10.26434/chemrxiv-2024-7p4ws",
+        "codeRepository": "https://github.com/keiserlab/autoparty"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "MIC: A deep learning tool for assigning ions and waters in cryo-EM and crystal structures",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Shub L"
+          },
+          {
+            "@type": "Person",
+            "name": "Liu W"
+          },
+          {
+            "@type": "Person",
+            "name": "Skiniotis G"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Robertson MJ"
+          }
+        ],
+        "datePublished": "2025-07-04",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Nat Commun"
+        },
+        "identifier": "doi:10.1038/s41467-025-61315-x",
+        "@id": "https://doi.org/10.1038/s41467-025-61315-x",
+        "url": "https://doi.org/10.1038/s41467-025-61315-x",
+        "sameAs": "https://doi.org/10.1101/2024.03.18.585639",
+        "codeRepository": "https://github.com/keiserlab/metric-ion-classification"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Evolutionary-scale enzymology enables exploration of a rugged catalytic landscape",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Muir DF"
+          },
+          {
+            "@type": "Person",
+            "name": "Asper GPR"
+          },
+          {
+            "@type": "Person",
+            "name": "Notin P"
+          },
+          {
+            "@type": "Person",
+            "name": "Posner JA"
+          },
+          {
+            "@type": "Person",
+            "name": "Marks DS"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Pinney MM"
+          }
+        ],
+        "datePublished": "2025-06-12",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Science"
+        },
+        "identifier": "doi:10.1126/science.adu1058",
+        "@id": "https://doi.org/10.1126/science.adu1058",
+        "url": "https://doi.org/10.1126/science.adu1058",
+        "sameAs": "https://doi.org/10.1101/2024.10.23.619915",
+        "codeRepository": "https://github.com/pinneylab/adk_evolutionary_landscape"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "An improved model for prediction of de novo designed proteins with diverse geometries",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Orr B"
+          },
+          {
+            "@type": "Person",
+            "name": "Crilly SE"
+          },
+          {
+            "@type": "Person",
+            "name": "Akpinaroglu D"
+          },
+          {
+            "@type": "Person",
+            "name": "Zhu E"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Kortemme T"
+          }
+        ],
+        "datePublished": "2025-06-06",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "bioRxiv"
+        },
+        "identifier": "doi:10.1101/2025.06.02.657515",
+        "@id": "https://doi.org/10.1101/2025.06.02.657515",
+        "url": "https://doi.org/10.1101/2025.06.02.657515"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Fuzz Testing Molecular Representation Using Deep Variational Anomaly Generation",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Nogueira VHR"
+          },
+          {
+            "@type": "Person",
+            "name": "Sharma R"
+          },
+          {
+            "@type": "Person",
+            "name": "Guido RVC"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          }
+        ],
+        "datePublished": "2025-02-24",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "J Chem Inf Model"
+        },
+        "identifier": "doi:10.1021/acs.jcim.4c01876",
+        "@id": "https://doi.org/10.1021/acs.jcim.4c01876",
+        "url": "https://doi.org/10.1021/acs.jcim.4c01876",
+        "sameAs": "https://doi.org/10.26434/chemrxiv-2024-ffcrs",
+        "codeRepository": "https://github.com/keiserlab/vae-anomaly-paper"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "ChromaFactor: Deconvolution of single-molecule chromatin organization with non-negative matrix factorization",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Gunsalus LM"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Pollard KS"
+          }
+        ],
+        "datePublished": "2025-02-01",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "PLoS Comput Biol"
+        },
+        "identifier": "doi:10.1371/journal.pcbi.1012841",
+        "@id": "https://doi.org/10.1371/journal.pcbi.1012841",
+        "url": "https://doi.org/10.1371/journal.pcbi.1012841",
+        "sameAs": "https://doi.org/10.1101/2023.11.22.568268",
+        "codeRepository": "https://github.com/lgunsalus/ChromaFactor"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 11,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Deep phenotypic profiling of neuroactive drugs in larval zebrafish",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Gendelev L"
+          },
+          {
+            "@type": "Person",
+            "name": "Taylor J"
+          },
+          {
+            "@type": "Person",
+            "name": "Myers-Turnbull D"
+          },
+          {
+            "@type": "Person",
+            "name": "Chen S"
+          },
+          {
+            "@type": "Person",
+            "name": "McCarroll MN"
+          },
+          {
+            "@type": "Person",
+            "name": "Arkin MR"
+          },
+          {
+            "@type": "Person",
+            "name": "Kokel D"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          }
+        ],
+        "datePublished": "2024-11-17",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Nat Commun"
+        },
+        "identifier": "doi:10.1038/s41467-024-54375-y",
+        "@id": "https://doi.org/10.1038/s41467-024-54375-y",
+        "url": "https://doi.org/10.1038/s41467-024-54375-y",
+        "sameAs": "https://doi.org/10.1101/2024.02.22.581657",
+        "codeRepository": "https://github.com/keiserlab/deepfish"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 12,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Retrieval Augmented Docking Using Hierarchical Navigable Small Worlds",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Hall BW"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          }
+        ],
+        "datePublished": "2024-10-14",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "J Chem Inf Model"
+        },
+        "identifier": "doi:10.1021/acs.jcim.4c00683",
+        "@id": "https://doi.org/10.1021/acs.jcim.4c00683",
+        "url": "https://doi.org/10.1021/acs.jcim.4c00683",
+        "sameAs": "https://doi.org/10.26434/chemrxiv-2024-qsdd1",
+        "codeRepository": "https://github.com/keiserlab/rad"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 13,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Learning chemical sensitivity reveals mechanisms of cellular response",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Connell W"
+          },
+          {
+            "@type": "Person",
+            "name": "Garcia K"
+          },
+          {
+            "@type": "Person",
+            "name": "Goodarzi H"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          }
+        ],
+        "datePublished": "2024-09-15",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Commun Biol"
+        },
+        "identifier": "doi:10.1038/s42003-024-06865-4",
+        "@id": "https://doi.org/10.1038/s42003-024-06865-4",
+        "url": "https://doi.org/10.1038/s42003-024-06865-4",
+        "sameAs": "https://doi.org/10.1101/2023.08.26.554851",
+        "codeRepository": "https://github.com/keiserlab/chemprobe"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 14,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Proximity Graph Networks: Predicting Ligand Affinity with Message Passing Neural Networks",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Gale-Day ZJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Shub L"
+          },
+          {
+            "@type": "Person",
+            "name": "Chuang KV"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          }
+        ],
+        "datePublished": "2024-07-22",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "J Chem Inf Model"
+        },
+        "identifier": "doi:10.1021/acs.jcim.4c00311",
+        "@id": "https://doi.org/10.1021/acs.jcim.4c00311",
+        "url": "https://doi.org/10.1021/acs.jcim.4c00311",
+        "sameAs": "https://doi.org/10.26434/chemrxiv-2024-hznxh",
+        "codeRepository": "https://github.com/keiserlab/torch_pgn"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 15,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Learning precise segmentation of neurofibrillary tangles from rapid manual point annotations",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Ghandian S"
+          },
+          {
+            "@type": "Person",
+            "name": "Albarghouthi L"
+          },
+          {
+            "@type": "Person",
+            "name": "Nava K"
+          },
+          {
+            "@type": "Person",
+            "name": "Jin LW"
+          },
+          {
+            "@type": "Person",
+            "name": "Dugger BN"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          }
+        ],
+        "datePublished": "2024-05-15",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "bioRxiv"
+        },
+        "identifier": "doi:10.1101/2024.05.15.594372",
+        "@id": "https://doi.org/10.1101/2024.05.15.594372",
+        "url": "https://doi.org/10.1101/2024.05.15.594372",
+        "codeRepository": "https://github.com/keiserlab/tangle-tracer"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 16,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Toward a generalizable machine learning workflow for neurodegenerative disease staging with focus on neurofibrillary tangles",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Vizcarra JC"
+          },
+          {
+            "@type": "Person",
+            "name": "Pearce TM"
+          },
+          {
+            "@type": "Person",
+            "name": "Dugger BN"
+          },
+          {
+            "@type": "Person",
+            "name": "Glass JD"
+          },
+          {
+            "@type": "Person",
+            "name": "Farrell K"
+          },
+          {
+            "@type": "Person",
+            "name": "Gutman DA"
+          }
+        ],
+        "datePublished": "2023-12-18",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Acta Neuropathol Commun"
+        },
+        "identifier": "doi:10.1186/s40478-023-01691-x",
+        "@id": "https://doi.org/10.1186/s40478-023-01691-x",
+        "url": "https://doi.org/10.1186/s40478-023-01691-x",
+        "codeRepository": "https://github.com/Gutman-Lab/yolo-braak-stage"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 17,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Autoregressive fragment-based diffusion for pocket-aware ligand design",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Ghorbani M"
+          },
+          {
+            "@type": "Person",
+            "name": "Gendelev L"
+          },
+          {
+            "@type": "Person",
+            "name": "Beroza P"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          }
+        ],
+        "datePublished": "2023-11-02",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "arXiv - NeurIPS GenBio"
+        },
+        "identifier": "doi:10.48550/arXiv.2401.05370",
+        "@id": "https://doi.org/10.48550/arXiv.2401.05370",
+        "url": "https://arxiv.org/abs/2401.05370",
+        "codeRepository": "https://github.com/keiserlab/autofragdiff"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 18,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "In silico discovery of repetitive elements as key sequence determinants of 3D genome folding",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Gunsalus LM"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Pollard KS"
+          }
+        ],
+        "datePublished": "2023-10-11",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Cell Genom"
+        },
+        "identifier": "doi:10.1016/j.xgen.2023.100410",
+        "@id": "https://doi.org/10.1016/j.xgen.2023.100410",
+        "url": "https://doi.org/10.1016/j.xgen.2023.100410",
+        "sameAs": "https://doi.org/10.1101/2022.08.11.503410",
+        "codeRepository": "https://github.com/keiserlab/3d-genome-disruption-paper"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 19,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Learning fast and fine-grained detection of amyloid neuropathologies from coarse-grained expert labels",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Wong DR"
+          },
+          {
+            "@type": "Person",
+            "name": "Magaki SD"
+          },
+          {
+            "@type": "Person",
+            "name": "Vinters HV"
+          },
+          {
+            "@type": "Person",
+            "name": "Graff JP"
+          },
+          {
+            "@type": "Person",
+            "name": "Dugger BN"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          }
+        ],
+        "datePublished": "2023-06-24",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Commun Biol"
+        },
+        "identifier": "doi:10.1038/s42003-023-05031-6",
+        "@id": "https://doi.org/10.1038/s42003-023-05031-6",
+        "url": "https://doi.org/10.1038/s42003-023-05031-6",
+        "sameAs": "https://www.biorxiv.org/content/10.1101/2023.01.13.524019",
+        "codeRepository": "https://github.com/keiserlab/amyloid-yolo-paper"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 20,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "A single-cell gene expression language model",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Connell W"
+          },
+          {
+            "@type": "Person",
+            "name": "Khan U"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          }
+        ],
+        "datePublished": "2022-10-25",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "arXiv - NeurIPS LMRL"
+        },
+        "identifier": "doi:10.48550/arXiv.2210.14330",
+        "@id": "https://doi.org/10.48550/arXiv.2210.14330",
+        "url": "https://doi.org/10.48550/arXiv.2210.14330",
+        "codeRepository": "https://github.com/keiserlab/exceiver"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 21,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Prioritizing Virtual Screening with Interpretable Interaction Fingerprints",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Fassio AV"
+          },
+          {
+            "@type": "Person",
+            "name": "Shub L"
+          },
+          {
+            "@type": "Person",
+            "name": "Ponzoni L"
+          },
+          {
+            "@type": "Person",
+            "name": "McKinley J"
+          },
+          {
+            "@type": "Person",
+            "name": "O'Meara MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Ferreira RS"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "de Melo Minardi RC"
+          }
+        ],
+        "datePublished": "2022-09-26",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "J Chem Inf Model"
+        },
+        "identifier": "doi:10.1021/acs.jcim.2c00695",
+        "@id": "https://doi.org/10.1021/acs.jcim.2c00695",
+        "url": "https://doi.org/10.1021/acs.jcim.2c00695",
+        "sameAs": "https://doi.org/10.1101/2022.05.25.493419",
+        "codeRepository": "https://github.com/keiserlab/LUNA"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 22,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Simultaneous analysis of neuroactive compounds in zebrafish",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Myers-Turnbull D"
+          },
+          {
+            "@type": "Person",
+            "name": "Taylor JC"
+          },
+          {
+            "@type": "Person",
+            "name": "Helsell C"
+          },
+          {
+            "@type": "Person",
+            "name": "Alexander R"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Kokel D"
+          }
+        ],
+        "datePublished": "2022-06-15",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "bioRxiv"
+        },
+        "identifier": "doi:10.1101/2020.01.01.891432",
+        "@id": "https://doi.org/10.1101/2020.01.01.891432",
+        "url": "https://doi.org/10.1101/2020.01.01.891432"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 23,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Trans-channel fluorescence learning improves high-content screening for Alzheimer's disease therapeutics",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Wong DR"
+          },
+          {
+            "@type": "Person",
+            "name": "Conrad J"
+          },
+          {
+            "@type": "Person",
+            "name": "Johnson N"
+          },
+          {
+            "@type": "Person",
+            "name": "Butte AJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Paras NA"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          }
+        ],
+        "datePublished": "2022-06-01",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Nat Mach Intell"
+        },
+        "identifier": "doi:10.1038/s42256-022-00490-8",
+        "@id": "https://doi.org/10.1038/s42256-022-00490-8",
+        "url": "https://doi.org/10.1038/s42256-022-00490-8",
+        "sameAs": "https://doi.org/10.1101/2021.01.08.425973",
+        "codeRepository": "https://github.com/keiserlab/trans-channel-paper"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 24,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Deep learning from multiple experts improves identification of amyloid neuropathologies",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Wong DR"
+          },
+          {
+            "@type": "Person",
+            "name": "Tang Z"
+          },
+          {
+            "@type": "Person",
+            "name": "Mew NC"
+          },
+          {
+            "@type": "Person",
+            "name": "Butte AJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Dugger BN"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          }
+        ],
+        "datePublished": "2022-04-28",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Acta Neuropathol Commun"
+        },
+        "identifier": "doi:10.1186/s40478-022-01365-0",
+        "@id": "https://doi.org/10.1186/s40478-022-01365-0",
+        "url": "https://doi.org/10.1186/s40478-022-01365-0",
+        "sameAs": "https://doi.org/10.1101/2021.03.12.435050",
+        "codeRepository": "https://github.com/keiserlab/consensus-learning-paper"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 25,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Stress testing reveals gaps in clinic readiness of image-based diagnostic artificial intelligence models",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Young AT"
+          },
+          {
+            "@type": "Person",
+            "name": "Fernandez K"
+          },
+          {
+            "@type": "Person",
+            "name": "Pfau J"
+          },
+          {
+            "@type": "Person",
+            "name": "Tam A"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Wei ML"
+          }
+        ],
+        "datePublished": "2021-01-21",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "NPJ Digit Med"
+        },
+        "identifier": "doi:10.1038/s41746-020-00380-6",
+        "@id": "https://doi.org/10.1038/s41746-020-00380-6",
+        "url": "https://doi.org/10.1038/s41746-020-00380-6"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 26,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Adding Stochastic Negative Examples into Machine Learning Improves Molecular Bioactivity Prediction",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Caceres EL"
+          },
+          {
+            "@type": "Person",
+            "name": "Mew NC"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          }
+        ],
+        "datePublished": "2020-12-28",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "J Chem Inf Model"
+        },
+        "identifier": "doi:10.1021/acs.jcim.0c00565",
+        "@id": "https://doi.org/10.1021/acs.jcim.0c00565",
+        "url": "https://doi.org/10.1021/acs.jcim.0c00565",
+        "sameAs": "https://doi.org/10.1101/2020.05.21.107748",
+        "codeRepository": "https://github.com/keiserlab/stochastic-negatives-paper"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 27,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Predicting Cellular Drug Sensitivity using Conditional Modulation of Gene Expression",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Connell W"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          }
+        ],
+        "datePublished": "2020-12-11",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "bioRxiv - NeurIPS LMRL"
+        },
+        "identifier": "doi:10.1101/2021.03.15.435529",
+        "@id": "https://doi.org/10.1101/2021.03.15.435529",
+        "url": "https://doi.org/10.1101/2021.03.15.435529",
+        "codeRepository": "https://github.com/keiserlab/film-gex"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 28,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Attention-Based Learning on Molecular Ensembles",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Chuang KV"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          }
+        ],
+        "datePublished": "2020-11-25",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "arXiv - NeurIPS ML4Molecules"
+        },
+        "identifier": "doi:10.48550/arXiv.2011.12820",
+        "@id": "https://doi.org/10.48550/arXiv.2011.12820",
+        "url": "https://doi.org/10.48550/arXiv.2011.12820"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 29,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Learning Molecular Representations for Medicinal Chemistry",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Chuang KV"
+          },
+          {
+            "@type": "Person",
+            "name": "Gunsalus LM"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          }
+        ],
+        "datePublished": "2020-08-27",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "J Med Chem"
+        },
+        "identifier": "doi:10.1021/acs.jmedchem.0c00385",
+        "@id": "https://doi.org/10.1021/acs.jmedchem.0c00385",
+        "url": "https://doi.org/10.1021/acs.jmedchem.0c00385"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 30,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Artificial Intelligence in Dermatology: A Primer",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Young AT"
+          },
+          {
+            "@type": "Person",
+            "name": "Xiong M"
+          },
+          {
+            "@type": "Person",
+            "name": "Pfau J"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Wei ML"
+          }
+        ],
+        "datePublished": "2020-08-01",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "J Invest Dermatol"
+        },
+        "identifier": "doi:10.1016/j.jid.2020.02.026",
+        "@id": "https://doi.org/10.1016/j.jid.2020.02.026",
+        "url": "https://doi.org/10.1016/j.jid.2020.02.026"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 31,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Robust Semantic Interpretability: Revisiting Concept Activation Vectors",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Pfau J"
+          },
+          {
+            "@type": "Person",
+            "name": "Young AT"
+          },
+          {
+            "@type": "Person",
+            "name": "Wei J"
+          },
+          {
+            "@type": "Person",
+            "name": "Wei ML"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          }
+        ],
+        "datePublished": "2020-07-17",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "arXiv - ICML - WHI"
+        },
+        "identifier": "doi:10.48550/arXiv.2104.02768",
+        "@id": "https://doi.org/10.48550/arXiv.2104.02768",
+        "url": "https://doi.org/10.48550/arXiv.2104.02768",
+        "codeRepository": "https://github.com/keiserlab/rcav"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 32,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Validation of machine learning models to detect amyloid pathologies across institutions",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Vizcarra JC"
+          },
+          {
+            "@type": "Person",
+            "name": "Gearing M"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Glass JD"
+          },
+          {
+            "@type": "Person",
+            "name": "Dugger BN"
+          },
+          {
+            "@type": "Person",
+            "name": "Gutman DA"
+          }
+        ],
+        "datePublished": "2020-04-28",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Acta Neuropathol Commun"
+        },
+        "identifier": "doi:10.1186/s40478-020-00927-4",
+        "@id": "https://doi.org/10.1186/s40478-020-00927-4",
+        "url": "https://doi.org/10.1186/s40478-020-00927-4",
+        "codeRepository": "https://github.com/gutmanlab/Emory_Plaquebox_Paper"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 33,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Global Saliency: Aggregating Saliency Maps to Assess Dataset Artefact Bias",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Pfau J"
+          },
+          {
+            "@type": "Person",
+            "name": "Young AT"
+          },
+          {
+            "@type": "Person",
+            "name": "Wei ML"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          }
+        ],
+        "datePublished": "2019-10-16",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "arXiv - NeurIPS ML4H"
+        },
+        "identifier": "doi:10.48550/arXiv.1910.07604",
+        "@id": "https://doi.org/10.48550/arXiv.1910.07604",
+        "url": "https://doi.org/10.48550/arXiv.1910.07604"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 34,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Zebrafish behavioural profiling identifies GABA and serotonin receptor ligands related to sedation and paradoxical excitation",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "McCarroll MN"
+          },
+          {
+            "@type": "Person",
+            "name": "Gendelev L"
+          },
+          {
+            "@type": "Person",
+            "name": "Kinser R"
+          },
+          {
+            "@type": "Person",
+            "name": "Peterson RT"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Kokel D"
+          }
+        ],
+        "datePublished": "2019-09-09",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Nat Commun"
+        },
+        "identifier": "doi:10.1038/s41467-019-11936-w",
+        "@id": "https://doi.org/10.1038/s41467-019-11936-w",
+        "url": "https://doi.org/10.1038/s41467-019-11936-w"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 35,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Interpretable classification of Alzheimer's disease pathologies with a convolutional neural network pipeline",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Tang Z"
+          },
+          {
+            "@type": "Person",
+            "name": "Chuang KV"
+          },
+          {
+            "@type": "Person",
+            "name": "DeCarli C"
+          },
+          {
+            "@type": "Person",
+            "name": "Jin LW"
+          },
+          {
+            "@type": "Person",
+            "name": "Beckett L"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Dugger BN"
+          }
+        ],
+        "datePublished": "2019-05-15",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Nat Commun"
+        },
+        "identifier": "doi:10.1038/s41467-019-10212-1",
+        "@id": "https://doi.org/10.1038/s41467-019-10212-1",
+        "url": "https://doi.org/10.1038/s41467-019-10212-1",
+        "sameAs": "https://doi.org/10.1101/454793",
+        "codeRepository": "https://github.com/keiserlab/plaquebox-paper"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 36,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Comment on &quot;Predicting reaction performance in C-N cross-coupling using machine learning&quot;",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Chuang KV"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          }
+        ],
+        "datePublished": "2018-11-16",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Science"
+        },
+        "identifier": "doi:10.1126/science.aat8603",
+        "@id": "https://doi.org/10.1126/science.aat8603",
+        "url": "https://doi.org/10.1126/science.aat8603",
+        "codeRepository": "https://github.com/keiserlab/comments"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 37,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Adversarial Controls for Scientific Machine Learning",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Chuang KV"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          }
+        ],
+        "datePublished": "2018-10-19",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "ACS Chem Biol"
+        },
+        "identifier": "doi:10.1021/acschembio.8b00881",
+        "@id": "https://doi.org/10.1021/acschembio.8b00881",
+        "url": "https://doi.org/10.1021/acschembio.8b00881"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 38,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "The Psychiatric Cell Map Initiative: A Convergent Systems Biological Approach to Illuminating Key Molecular Pathways in Neuropsychiatric Disorders",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Willsey AJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Morris MT"
+          },
+          {
+            "@type": "Person",
+            "name": "Wang S"
+          },
+          {
+            "@type": "Person",
+            "name": "Ideker T"
+          },
+          {
+            "@type": "Person",
+            "name": "State MW"
+          },
+          {
+            "@type": "Person",
+            "name": "Krogan NJ"
+          }
+        ],
+        "datePublished": "2018-07-26",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Cell"
+        },
+        "identifier": "doi:10.1016/j.cell.2018.06.016",
+        "@id": "https://doi.org/10.1016/j.cell.2018.06.016",
+        "url": "https://doi.org/10.1016/j.cell.2018.06.016"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 39,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Predicted Biological Activity of Purchasable Chemical Space",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Irwin JJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Gaskins G"
+          },
+          {
+            "@type": "Person",
+            "name": "Sterling T"
+          },
+          {
+            "@type": "Person",
+            "name": "Mysinger MM"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          }
+        ],
+        "datePublished": "2018-01-22",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "J Chem Inf Model"
+        },
+        "identifier": "doi:10.1021/acs.jcim.7b00316",
+        "@id": "https://doi.org/10.1021/acs.jcim.7b00316",
+        "url": "https://doi.org/10.1021/acs.jcim.7b00316"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 40,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Evolutionarily Conserved Roles for Blood-Brain Barrier Xenobiotic Transporters in Endogenous Steroid Partitioning and Behavior",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Hindle SJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Munji RN"
+          },
+          {
+            "@type": "Person",
+            "name": "Dolghih E"
+          },
+          {
+            "@type": "Person",
+            "name": "Jacobson MP"
+          },
+          {
+            "@type": "Person",
+            "name": "Daneman R"
+          },
+          {
+            "@type": "Person",
+            "name": "Bainton RJ"
+          }
+        ],
+        "datePublished": "2017-10-31",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Cell Rep"
+        },
+        "identifier": "doi:10.1016/j.celrep.2017.10.026",
+        "@id": "https://doi.org/10.1016/j.celrep.2017.10.026",
+        "url": "https://doi.org/10.1016/j.celrep.2017.10.026",
+        "sameAs": "https://doi.org/10.1101/131698"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 41,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "A Simple Representation of Three-Dimensional Molecular Structure",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Axen SD"
+          },
+          {
+            "@type": "Person",
+            "name": "Huang XP"
+          },
+          {
+            "@type": "Person",
+            "name": "Caceres EL"
+          },
+          {
+            "@type": "Person",
+            "name": "Gendelev L"
+          },
+          {
+            "@type": "Person",
+            "name": "Roth BL"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          }
+        ],
+        "datePublished": "2017-09-14",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "J Med Chem"
+        },
+        "identifier": "doi:10.1021/acs.jmedchem.7b00696",
+        "@id": "https://doi.org/10.1021/acs.jmedchem.7b00696",
+        "url": "https://doi.org/10.1021/acs.jmedchem.7b00696",
+        "sameAs": "https://doi.org/10.1101/136705",
+        "codeRepository": [
+          "https://github.com/keiserlab/e3fp",
+          "https://github.com/keiserlab/e3fp-paper"
+        ]
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 42,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Zebrafish behavioral profiling identifies multitarget antipsychotic-like compounds",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Bruni G"
+          },
+          {
+            "@type": "Person",
+            "name": "Rennekamp AJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Velenich A"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Peterson RT"
+          },
+          {
+            "@type": "Person",
+            "name": "Kokel D"
+          }
+        ],
+        "datePublished": "2016-07-01",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Nat Chem Biol"
+        },
+        "identifier": "doi:10.1038/nchembio.2097",
+        "@id": "https://doi.org/10.1038/nchembio.2097",
+        "url": "https://doi.org/10.1038/nchembio.2097"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 43,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Leveraging Large-scale Behavioral Profiling in Zebrafish to Explore Neuroactive Polypharmacology",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "McCarroll MN"
+          },
+          {
+            "@type": "Person",
+            "name": "Gendelev L"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Kokel D"
+          }
+        ],
+        "datePublished": "2016-04-15",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "ACS Chem Biol"
+        },
+        "identifier": "doi:10.1021/acschembio.5b00800",
+        "@id": "https://doi.org/10.1021/acschembio.5b00800",
+        "url": "https://doi.org/10.1021/acschembio.5b00800"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 44,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Polygenic overlap between schizophrenia risk and antipsychotic response: a genomic medicine approach",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Ruderfer DM"
+          },
+          {
+            "@type": "Person",
+            "name": "Charney AW"
+          },
+          {
+            "@type": "Person",
+            "name": "Readhead B"
+          },
+          {
+            "@type": "Person",
+            "name": "Purcell SM"
+          },
+          {
+            "@type": "Person",
+            "name": "Dudley JT"
+          },
+          {
+            "@type": "Person",
+            "name": "Sklar P"
+          }
+        ],
+        "datePublished": "2016-04-01",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Lancet Psychiatry"
+        },
+        "identifier": "doi:10.1016/S2215-0366(15)00553-2",
+        "@id": "https://doi.org/10.1016/S2215-0366(15)00553-2",
+        "url": "https://doi.org/10.1016/S2215-0366(15)00553-2"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 45,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Prediction and validation of enzyme and transporter off-targets for metformin",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Yee SW"
+          },
+          {
+            "@type": "Person",
+            "name": "Lin L"
+          },
+          {
+            "@type": "Person",
+            "name": "Merski M"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Gupta A"
+          },
+          {
+            "@type": "Person",
+            "name": "Zhang Y"
+          },
+          {
+            "@type": "Person",
+            "name": "Chien HC"
+          },
+          {
+            "@type": "Person",
+            "name": "Shoichet BK"
+          },
+          {
+            "@type": "Person",
+            "name": "Giacomini KM"
+          }
+        ],
+        "datePublished": "2015-10-01",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "J Pharmacokinet Pharmacodyn"
+        },
+        "identifier": "doi:10.1007/s10928-015-9436-y",
+        "@id": "https://doi.org/10.1007/s10928-015-9436-y",
+        "url": "https://doi.org/10.1007/s10928-015-9436-y"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 46,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Systems pharmacology augments drug safety surveillance",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Lorberbaum T"
+          },
+          {
+            "@type": "Person",
+            "name": "Nasir M"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Vilar S"
+          },
+          {
+            "@type": "Person",
+            "name": "Hripcsak G"
+          },
+          {
+            "@type": "Person",
+            "name": "Tatonetti NP"
+          }
+        ],
+        "datePublished": "2015-02-01",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Clin Pharmacol Ther"
+        },
+        "identifier": "doi:10.1002/cpt.2",
+        "@id": "https://doi.org/10.1002/cpt.2",
+        "url": "https://doi.org/10.1002/cpt.2"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 47,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "In silico molecular comparisons of C. elegans and mammalian pharmacology identify distinct targets that regulate feeding",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Lemieux GA"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Sassano MF"
+          },
+          {
+            "@type": "Person",
+            "name": "Laggner C"
+          },
+          {
+            "@type": "Person",
+            "name": "Mayer F"
+          },
+          {
+            "@type": "Person",
+            "name": "Bainton RJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Werb Z"
+          },
+          {
+            "@type": "Person",
+            "name": "Roth BL"
+          },
+          {
+            "@type": "Person",
+            "name": "Shoichet BK"
+          },
+          {
+            "@type": "Person",
+            "name": "Ashrafi K"
+          }
+        ],
+        "datePublished": "2013-11-01",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "PLoS Biol"
+        },
+        "identifier": "doi:10.1371/journal.pbio.1001712",
+        "@id": "https://doi.org/10.1371/journal.pbio.1001712",
+        "url": "https://doi.org/10.1371/journal.pbio.1001712"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 48,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Large-scale prediction and testing of drug activity on side-effect targets",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Lounkine E"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Whitebread S"
+          },
+          {
+            "@type": "Person",
+            "name": "Cote S"
+          },
+          {
+            "@type": "Person",
+            "name": "Shoichet BK"
+          },
+          {
+            "@type": "Person",
+            "name": "Urban L"
+          }
+        ],
+        "datePublished": "2012-06-10",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Nature"
+        },
+        "identifier": "doi:10.1038/nature11159",
+        "@id": "https://doi.org/10.1038/nature11159",
+        "url": "https://doi.org/10.1038/nature11159"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 49,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Chemical informatics and target identification in a zebrafish phenotypic screen",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Laggner C"
+          },
+          {
+            "@type": "Person",
+            "name": "Kokel D"
+          },
+          {
+            "@type": "Person",
+            "name": "Setola V"
+          },
+          {
+            "@type": "Person",
+            "name": "Roth BL"
+          },
+          {
+            "@type": "Person",
+            "name": "Peterson RT"
+          },
+          {
+            "@type": "Person",
+            "name": "Shoichet BK"
+          }
+        ],
+        "datePublished": "2011-12-18",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Nat Chem Biol"
+        },
+        "identifier": "doi:10.1038/nchembio.732",
+        "@id": "https://doi.org/10.1038/nchembio.732",
+        "url": "https://doi.org/10.1038/nchembio.732"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 50,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "The presynaptic component of the serotonergic system is required for clozapine's efficacy",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Yadav PN"
+          },
+          {
+            "@type": "Person",
+            "name": "Abbas AI"
+          },
+          {
+            "@type": "Person",
+            "name": "Farrell MS"
+          },
+          {
+            "@type": "Person",
+            "name": "Gingrich J"
+          },
+          {
+            "@type": "Person",
+            "name": "Beck SG"
+          },
+          {
+            "@type": "Person",
+            "name": "Roth BL"
+          }
+        ],
+        "datePublished": "2011-02-01",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Neuropsychopharmacology"
+        },
+        "identifier": "doi:10.1038/npp.2010.195",
+        "@id": "https://doi.org/10.1038/npp.2010.195",
+        "url": "https://doi.org/10.1038/npp.2010.195"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 51,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "The chemical basis of pharmacology",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Irwin JJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Shoichet BK"
+          }
+        ],
+        "datePublished": "2010-12-07",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Biochemistry"
+        },
+        "identifier": "doi:10.1021/bi101540g",
+        "@id": "https://doi.org/10.1021/bi101540g",
+        "url": "https://doi.org/10.1021/bi101540g"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 52,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Complementarity between a docking and a high-throughput screen in discovering new cruzain inhibitors",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Ferreira RS"
+          },
+          {
+            "@type": "Person",
+            "name": "Simeonov A"
+          },
+          {
+            "@type": "Person",
+            "name": "Jadhav A"
+          },
+          {
+            "@type": "Person",
+            "name": "Eidam O"
+          },
+          {
+            "@type": "Person",
+            "name": "Mott BT"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "McKerrow JH"
+          },
+          {
+            "@type": "Person",
+            "name": "Maloney DJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Irwin JJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Shoichet BK"
+          }
+        ],
+        "datePublished": "2010-07-08",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "J Med Chem"
+        },
+        "identifier": "doi:10.1021/jm100488w",
+        "@id": "https://doi.org/10.1021/jm100488w",
+        "url": "https://doi.org/10.1021/jm100488w"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 53,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Prediction and evaluation of protein farnesyltransferase inhibition by commercial drugs",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "DeGraw AJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Ochocki JD"
+          },
+          {
+            "@type": "Person",
+            "name": "Shoichet BK"
+          },
+          {
+            "@type": "Person",
+            "name": "Distefano MD"
+          }
+        ],
+        "datePublished": "2010-03-25",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "J Med Chem"
+        },
+        "identifier": "doi:10.1021/jm901613f",
+        "@id": "https://doi.org/10.1021/jm901613f",
+        "url": "https://doi.org/10.1021/jm901613f"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 54,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "A pilot study of the pharmacodynamic impact of SSRI drug selection and beta-1 receptor genotype (ADRB1) on cardiac vital signs in depressed patients: a novel pharmacogenetic approach",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Thomas KL"
+          },
+          {
+            "@type": "Person",
+            "name": "Ellingrod VL"
+          },
+          {
+            "@type": "Person",
+            "name": "Bishop JR"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          }
+        ],
+        "datePublished": "2010-01-01",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Psychopharmacol Bull"
+        },
+        "url": "https://www.ncbi.nlm.nih.gov/pubmed/20581797"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 55,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Predicting new molecular targets for known drugs",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Setola V"
+          },
+          {
+            "@type": "Person",
+            "name": "Irwin JJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Edwards DD"
+          },
+          {
+            "@type": "Person",
+            "name": "Shoichet BK"
+          },
+          {
+            "@type": "Person",
+            "name": "Roth BL"
+          }
+        ],
+        "datePublished": "2009-11-12",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Nature"
+        },
+        "identifier": "doi:10.1038/nature08506",
+        "@id": "https://doi.org/10.1038/nature08506",
+        "url": "https://doi.org/10.1038/nature08506"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 56,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "A mapping of drug space from the viewpoint of small molecule metabolism",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Adams JC"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Basuino L"
+          },
+          {
+            "@type": "Person",
+            "name": "Chambers HF"
+          },
+          {
+            "@type": "Person",
+            "name": "Lee DS"
+          },
+          {
+            "@type": "Person",
+            "name": "Wiest OG"
+          },
+          {
+            "@type": "Person",
+            "name": "Babbitt PC"
+          }
+        ],
+        "datePublished": "2009-08-01",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "PLoS Comput Biol"
+        },
+        "identifier": "doi:10.1371/journal.pcbi.1000474",
+        "@id": "https://doi.org/10.1371/journal.pcbi.1000474",
+        "url": "https://doi.org/10.1371/journal.pcbi.1000474"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 57,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Quantifying biogenic bias in screening libraries",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Hert J"
+          },
+          {
+            "@type": "Person",
+            "name": "Irwin JJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Laggner C"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Shoichet BK"
+          }
+        ],
+        "datePublished": "2009-07-01",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Nat Chem Biol"
+        },
+        "identifier": "doi:10.1038/nchembio.180",
+        "@id": "https://doi.org/10.1038/nchembio.180",
+        "url": "https://doi.org/10.1038/nchembio.180"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 58,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Off-target networks derived from ligand set similarity",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Hert J"
+          }
+        ],
+        "datePublished": "2009-01-01",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Methods Mol Biol"
+        },
+        "identifier": "doi:10.1007/978-1-60761-274-2_8",
+        "@id": "https://doi.org/10.1007/978-1-60761-274-2_8",
+        "url": "https://doi.org/10.1007/978-1-60761-274-2_8"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 59,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Quantifying the relationships among drug classes",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Hert J"
+          },
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Irwin JJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Oprea TI"
+          },
+          {
+            "@type": "Person",
+            "name": "Shoichet BK"
+          }
+        ],
+        "datePublished": "2008-04-01",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "J Chem Inf Model"
+        },
+        "identifier": "doi:10.1021/ci8000259",
+        "@id": "https://doi.org/10.1021/ci8000259",
+        "url": "https://doi.org/10.1021/ci8000259"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 60,
+      "item": {
+        "@type": "ScholarlyArticle",
+        "headline": "Relating protein pharmacology by ligand chemistry",
+        "author": [
+          {
+            "@type": "Person",
+            "name": "Keiser MJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Roth BL"
+          },
+          {
+            "@type": "Person",
+            "name": "Armbruster BN"
+          },
+          {
+            "@type": "Person",
+            "name": "Ernsberger P"
+          },
+          {
+            "@type": "Person",
+            "name": "Irwin JJ"
+          },
+          {
+            "@type": "Person",
+            "name": "Shoichet BK"
+          }
+        ],
+        "datePublished": "2007-02-01",
+        "isPartOf": {
+          "@type": "Periodical",
+          "name": "Nat Biotechnol"
+        },
+        "identifier": "doi:10.1038/nbt1284",
+        "@id": "https://doi.org/10.1038/nbt1284",
+        "url": "https://doi.org/10.1038/nbt1284"
+      }
+    }
+  ]
+}
+</script>
 {% include feature_row id="intro" type="center" %}
 
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
