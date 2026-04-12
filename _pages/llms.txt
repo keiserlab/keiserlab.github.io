@@ -5,10 +5,12 @@ sitemap: false
 ---
 # Keiser Lab @ UCSF
 
-> Systems pharmacology lab at UCSF. Methods and open-source tools for
-> polypharmacology, phenotypic screen deconvolution, and precision drug
-> response, with applications across neurodegeneration, cancer, and drug
-> safety.
+> AI/ML research lab at UCSF (2014-2025), led by Michael Keiser. The lab
+> developed advanced generative and multimodal AI/ML models for drug
+> discovery, biomedicine, and complex scientific research, spanning systems
+> pharmacology, phenotypic profiling, neuropathology, and molecular design.
+> Michael is now co-founder at Sygaldry Technologies, building
+> quantum-accelerated AI infrastructure.
 
 ## Site map
 

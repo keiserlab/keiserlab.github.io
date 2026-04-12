@@ -1,8 +1,8 @@
 ---
 permalink: /
 layout: splash
-excerpt: "Systems pharmacology and deep learning laboratory at UCSF."
-tags: [SEA, machine learning, systems pharmacology, computational chemical biology]
+excerpt: "AI and machine learning laboratory at UCSF."
+tags: [AI, machine learning, deep learning, generative models, representation learning, drug discovery, systems pharmacology, neuropathology, phenotypic profiling, diffusion models, language models]
 header:
    image: /assets/images/bar-network.webp
    image_description: "Keiser Lab network visualization"
@@ -11,14 +11,11 @@ header:
 feature_row:
   - image_path: /assets/images/lab-photo.webp
     alt: "lab lunch"
-    title: "Welcome to the Keiser Lab @ UCSF"
-    excerpt: "Our lab combines machine learning and chemical biology methods to investigate how small molecules perturb protein networks to achieve therapeutic effects.
-    
-    
-    We're part of the [Institute for Neurodegenerative Diseases](http://ind.ucsf.edu), the [Bakar Computational Health Sciences Institute](http://bakarinstitute.ucsf.edu/), the [Kavli Institute for Fundamental Neuroscience](https://kavliifn.ucsf.edu/), the [Department of Pharmaceutical Chemistry](http://pharmchem.ucsf.edu), and the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/).
-    
-    
-    We're located in the [Sandler Neurosciences Center](http://www.som.com/projects/university_of_california_san_francisco_sandler_neurosciences_center) at UCSF Mission Bay."
+    title: "Keiser Lab @ UCSF"
+    excerpt: "For over a decade, our lab built AI and machine learning for scientific problems we cared about, from drug discovery and neurodegeneration to phenotypic profiling and molecular design. We developed generative, multimodal, and representation learning methods across molecules, images, and biological sequences.
+
+
+    Michael is now co-founder at [Sygaldry Technologies](https://sygaldry.com), building quantum-accelerated AI."
 entries_layout: grid
 ---
 
