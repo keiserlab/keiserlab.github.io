@@ -19,7 +19,7 @@ def testfile(infile):
     except UnicodeDecodeError:
         print(f"invalid utf-8: {infile}")
         return
-    except:
+    except Exception:
         print(f"misc err ({sys.exc_info()[0]}): {infile}")
 
 

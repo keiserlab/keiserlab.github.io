@@ -66,6 +66,7 @@ include:
 exclude:
   # mjk
   - "/utils"
+  - "/scripts"
   - "*.py"
   - "*.sh"
   - "*.bash"

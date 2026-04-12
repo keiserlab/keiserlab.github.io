@@ -5,7 +5,7 @@ _site
 *.sublime-project
 *.sublime-workspace
 codekit-config.json
-node_modules
+node_modules/
 _asset_bundler_cache
 .ipynb_checkpoints
 .venv/
@@ -16,3 +16,5 @@ _asset_bundler_cache
 !.claude/commands/
 !.claude/hooks/
 !.claude/skills/
+
+scratch/

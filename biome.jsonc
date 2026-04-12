@@ -1,0 +1,12 @@
+{
+	"$schema": "https://biomejs.dev/schemas/2.3.8/schema.json",
+	"files": {
+		"includes": [
+			"assets/css/**",
+			"assets/icon/**/*.json",
+			"biome.jsonc",
+			"package.json",
+			"!_site"
+		]
+	}
+}

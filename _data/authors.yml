@@ -36,7 +36,7 @@ umair_khan:
   ncbi_id: Khan U
   orc_id: 0000-0002-6361-4996
   type: alumn
-  
+
 brendan_hall:
   name: Brendan Hall, PhD
   email: bhall@keiserlab.org
@@ -48,7 +48,7 @@ brendan_hall:
   linkedin: brendan-hall-439b461b8
   ncbi_id: Hall BW
   type: alumn
-  
+
 duncan_muir:
   name: Duncan Muir, PhD
   email: dmuir@keiserlab.org
@@ -72,7 +72,7 @@ sina_ghandian:
   linkedin: sina-ghandian
   ncbi_id: Ghandian S
   type: alumn
-  
+
 parker_grosjean:
   name: Parker Grosjean, PhD
   email: pgrosjean@keiserlab.org
@@ -120,7 +120,7 @@ laura_shub:
   ncbi_id: Shub L
   linkedin: laura-shub-040291165
   type: alumn
-  
+
 laura_gunsalus:
   name: Laura Gunsalus, PhD
   email: lgunsalus@keiserlab.org
@@ -136,8 +136,8 @@ laura_gunsalus:
 
 halimat_afolabi:
   name: Halimat Afolabi, MBBS
-  email: halimat@keiserlab.org 
-  bio: Novo Nordisk 
+  email: halimat@keiserlab.org
+  bio: Novo Nordisk
   bio_long: >
     Machine Learning Scientist, 2022-2023. Halimat is a physician scientist from the UK. After obtaining clinical experience in the National Health Service she completed a Master's in Data Science, followed by a research fellowship in clinical data science at Stanford University. She researched self-supervised methods to improve the generalisability of computer vision models across histopathology and clinical image datasets. Interests: AI; ML; Computer Vision; Precision Medicine; Translational Medicine.
   avatar: /assets/images/people/bio-afolabi.jpg
@@ -156,12 +156,12 @@ john_gallias:
   title: FAC Systems Analyst
   github: jgallias
   linkedin: jgallias
-  ncbi_id: 
+  ncbi_id:
   type: alumn
 
 liane_albarghouthi:
   name: Liane Albarghouthi
-  email: lianeb@keiserlab.org 
+  email: lianeb@keiserlab.org
   bio: UCSF Memory and Aging Center
   bio_long: >
     Research Data Analyst, 2022-2024. Liane received a B.S. in Bioengineering with a focus in Data Science, and is interested in machine learning applications related to computer vision tasks. In the Keiser lab, she implemented cutting-edge deep learning methods for neuropathology and histopathology datasets.
@@ -180,7 +180,7 @@ fedelle_austria:
     Administrative Officer, 2021-2024. Fedelle studied anthropology and film studies at UCLA and was concurrently a master's student in East Asian Studies at Stanford University. Her current academic research focuses on health tourism in Korea. In her spare time, she enjoys traveling solo and spending time with her beloved Maltese-mix, Pan."
   avatar: /assets/images/people/bio-austria.jpg
   title: ""
-  ncbi_id: 
+  ncbi_id:
   type: alumn
 
 sahru_keiser:
@@ -193,7 +193,7 @@ sahru_keiser:
   title: Project Manager
   linkedin: sahru-keiser-mph-53563427
   twitter: SahruKeiser
-  ncbi_id: 
+  ncbi_id:
   type: alumn
 
 lise_minaud:
@@ -260,7 +260,7 @@ victor_rabesquine:
   title: Scientist, IGP Group
   github: Victor-Rabesquine
   google:
-    scholar: 
+    scholar:
   linkedin: victor-rabesquine-16755a28b
   ncbi_id: Nogueira VHR
   type: alumn
@@ -472,7 +472,7 @@ jacob_pfau:
   ncbi_id: Pfau J
   linkedin: jacob-pfau
   type: alumn
-  
+
 michelle_wong_ng:
   name: Michelle Wong-Ng
   email: wong-ng@keiserlab.org
@@ -481,7 +481,7 @@ michelle_wong_ng:
     Administrative Officer, 2020. Michelle provided administrative support for Keiser Lab members.
   avatar: /assets/images/people/bio-wong-ng.jpg
   title: Administrative Officer
-  ncbi_id: 
+  ncbi_id:
   type: alumn
 
 albert_young:
@@ -597,8 +597,8 @@ dan_wong:
   bio_long: >
     Grad Student, bioinformatics, 2018-2022. Daniel studied Computer Science and Biochemistry at UC Berkeley, and was in a PhD program within the Integrative Program in Quantitative Biology. He is interested in developing machine learning methodologies in improving human health, particularly in the fields of neurodegeneration and pharmacology. Daniel was co-mentored in the [Butte Lab](http://buttelab.ucsf.edu/).
 
-    - [Prototype of running clinical trials in an untrustworthy environment using blockchain](https://doi.org/10.1038/s41467-019-08874-y). <ins>Wong DR</ins>, Bhattacharya S, Butte, AJ. **Nat Commun**. 2019 Feb 22. 
-  
+    - [Prototype of running clinical trials in an untrustworthy environment using blockchain](https://doi.org/10.1038/s41467-019-08874-y). <ins>Wong DR</ins>, Bhattacharya S, Butte, AJ. **Nat Commun**. 2019 Feb 22.
+
     - [Robust Sequence Determinants of α-Synuclein Toxicity in Yeast Implicate Membrane Binding](https://pubmed.ncbi.nlm.nih.gov/32786289/). Newberry RW, Arhar T, Costello J, ... <ins>Wong DR</ins>, Wong G, Redding S, Chow ED, DeGrado WF, Kampmann M. **ACS Chem Biol**. 2020 Aug 21.
   avatar: /assets/images/people/bio-dwong.jpg
   title: Senior Machine Learning Scientist

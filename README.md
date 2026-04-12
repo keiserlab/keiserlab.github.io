@@ -35,6 +35,15 @@ We use Docker for Jekyll serving only. VS Code, Claude Code, and other dev tools
   ```
 - add this to `~/.zshenv` (not `~/.zshrc`) so it's available during vscode devcontainer auto-rebuilds
 
+### linting
+```bash
+./scripts/lint.sh                             # all linters
+uvx ruff check utils/                         # python
+uvx yamllint -d relaxed _config.yml _data/    # yaml
+npx @biomejs/biome check .                    # scss, json
+bundle exec htmlproofer ./_site               # built html + links
+```
+
 ### rebuilds
 - force container rebuild with `$ docker-compose build --no-cache`
 
