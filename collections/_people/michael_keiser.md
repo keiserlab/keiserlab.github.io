@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Co-Founder; formerly Associate Professor
 bio: Sygaldry Technologies
 type: alumn
-excerpt: "<p>Michael is co-founder at <a href='https://sygaldry.com'>Sygaldry Technologies</a>, developing the infrastructure for quantum-accelerated AI. A two-time found"
+excerpt: "<p>Michael is co-founder at <a href='https://sygaldry.com'>Sygaldry Technologies</a>, developing quantum-accelerated AI. A two-time founder with 20+ years devel"
 header:
   teaser: /assets/images/people/bio-keiser.webp
 papers: 

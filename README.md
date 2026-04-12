@@ -1,5 +1,7 @@
 # keiserlab.org
 
+Website for the [Keiser Lab](https://keiserlab.org), an AI/ML research lab at UCSF (2014-2025) led by [Michael Keiser](https://keiserlab.org/people/michael_keiser/).
+
 ### development
 
 We use Docker for Jekyll serving only. VS Code, Claude Code, and other dev tools run on the host (not in the devcontainer).

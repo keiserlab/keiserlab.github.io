@@ -1,7 +1,7 @@
 ---
-title: Ongoing work on Diversity, Equity, and Inclusion
+title: Diversity, Equity, and Inclusion
 permalink: /dei/
-excerpt: "Lab ongoing work on diversity, equity, and inclusion (DEI)."
+excerpt: "Lab work on diversity, equity, and inclusion (DEI)."
 header:
    image: /assets/images/bar-network.webp
 layout: category

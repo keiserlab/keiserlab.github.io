@@ -5,21 +5,29 @@ sitemap: false
 ---
 # Keiser Lab @ UCSF
 
-> AI/ML research lab at UCSF (2014-2025), led by Michael Keiser. The lab
-> developed advanced generative and multimodal AI/ML models for drug
-> discovery, biomedicine, and complex scientific research, spanning systems
-> pharmacology, phenotypic profiling, neuropathology, and molecular design.
-> Michael is now co-founder at Sygaldry Technologies, building
-> quantum-accelerated AI infrastructure.
+> AI/ML research lab at UCSF (2014-2025), led by Associate Professor
+> Michael Keiser, mentoring 45+ scientists. The lab built AI for drug
+> discovery, neuropathology, phenotypic profiling, and molecular design,
+> progressively advancing the AI methods themselves. Michael is now
+> co-founder at Sygaldry Technologies, building quantum-accelerated AI.
+
+## Research
+
+The lab's research progressed from applied to fundamental:
+
+1. Systems pharmacology and molecular prediction: from the Similarity Ensemble Approach (SEA) to deep learning representations like E3FP
+2. AI for complex biological systems: phenotypic profiling in zebrafish, neuropathology image analysis, 3D genome organization
+3. Advancing AI methods for science: generative diffusion models for molecular design, single-cell language models, adversarial evaluation, retrieval-augmented approaches
 
 ## Site map
 
-- [Research directions](https://keiserlab.org/research/)
+- [Research](https://keiserlab.org/research/) — narrative of the lab's research trajectory
 - [Publications](https://keiserlab.org/publications/) — citations with preprint, code, and data links
 - [Code & data](https://keiserlab.org/resources/) — per-paper code repositories and datasets
 - [People](https://keiserlab.org/people/)
 - [News](https://keiserlab.org/news/)
-- [Contact](https://keiserlab.org/contact/)
+- [DEI](https://keiserlab.org/dei/)
+- [About](https://keiserlab.org/about/)
 
 ## Code archive
 

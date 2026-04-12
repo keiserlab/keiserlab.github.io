@@ -18,7 +18,7 @@ locale                   : "en-US"
 title                    : "keiser lab @ ucsf"
 title_separator          : "-"
 name                     : "keiserlab"
-description              : "keiser lab @ ucsf"
+description              : "AI/ML research lab at UCSF (2014-2025), led by Michael Keiser"
 url                      : "https://keiserlab.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "keiserlab/keiserlab.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -57,7 +57,7 @@ analytics:
 author:
   name             : "keiserlab"
   avatar           : "/assets/icon/android-chrome-256x256.png"
-  bio              : "keiserlab @ ucsf"
+  bio              : "AI/ML research lab at UCSF"
   location         : "ucsf"
 
 
