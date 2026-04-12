@@ -39,12 +39,12 @@ excerpt: "Selected lab publications, with links to preprints and supporting cont
 tags: [publications, papers, preprints, manuscripts]
 header:
    image: /assets/images/bar-network.png
-intro:
-    - title: Publications
 {feature_rows}
 ---
 {publications_jsonld}
-{{% include feature_row id="intro" type="center" %}}
+
+# Publications
+
 """
 
 F_ROW_HDR = """feature_row{row_num}:

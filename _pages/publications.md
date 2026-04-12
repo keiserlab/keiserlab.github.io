@@ -7,8 +7,6 @@ excerpt: "Selected lab publications, with links to preprints and supporting cont
 tags: [publications, papers, preprints, manuscripts]
 header:
    image: /assets/images/bar-network.png
-intro:
-    - title: Publications
 feature_row0:
 
   - image_path: /assets/images/papers/10.1016.j.neuron.2025.06.014.jpg
@@ -3550,7 +3548,9 @@ feature_row19:
   ]
 }
 </script>
-{% include feature_row id="intro" type="center" %}
+
+# Publications
+
 
 {% include feature_row_paper.html id="feature_row0" %}
 
