@@ -1,6 +1,6 @@
-# Per-paper supplemental content for the publications page.
+# Per-paper supplemental content for the publications and resources pages.
 #
-# Two sections:
+# Three sections:
 #
 # 1. standalone_preprints — papers not indexed by PubMed, rendered as standalone
 #    entries on the publications page. Full metadata required. Image path is
@@ -11,8 +11,17 @@
 #      - preprint: sidecar link rendered as the secondary button (was preprints.csv)
 #      - links:    optional list of code/data buttons rendered on a new row
 #
-# Each link in `links` has { kind, url, label } plus an optional `icon` override.
-# kind is `code` (default icon: fab fa-github) or `data` (default icon: fas fa-database).
+# 3. orphan_tools — tool repos that exist but aren't tied to a lab publication;
+#    rendered on the resources page as a separate section.
+#
+# Each link in `links` has { kind, [role], url, label, [icon] }:
+#   - kind: `code` | `data` | `site`
+#     - code with role=tool  → github icon, tool column on /resources/
+#     - code with role=paper → github icon, paper-repo column on /resources/
+#     - data                 → database icon, data column on /resources/
+#     - site                 → external-link icon (companion web pages, databases, etc.)
+#   - role: `tool` | `paper` (required for code entries)
+#   - icon: optional font-awesome class override (e.g., "fab fa-github")
 
 standalone_preprints:
 
@@ -31,6 +40,9 @@ standalone_preprints:
     pub_date: "2020 Jul 17"
     url: "https://doi.org/10.48550/arXiv.2104.02768"
     doi: "10.48550/arXiv.2104.02768"
+    links:
+      - { kind: code, role: tool, url: "https://github.com/keiserlab/rcav", label: "RCAV" }
+      - { kind: data, url: "https://zenodo.org/record/3889104", label: "Zenodo" }
 
   - journal: "arXiv - NeurIPS ML4Molecules"
     journal_id: "2011.1282"
@@ -47,6 +59,8 @@ standalone_preprints:
     pub_date: "2020 Dec 11"
     url: "https://doi.org/10.1101/2021.03.15.435529"
     doi: "10.1101/2021.03.15.435529"
+    links:
+      - { kind: code, role: tool, url: "https://github.com/keiserlab/film-gex", label: "film-gex" }
 
   - journal: "bioRxiv"
     journal_id: "2020.01.01.891432"
@@ -55,6 +69,8 @@ standalone_preprints:
     pub_date: "2022 Jun 15"
     url: "https://doi.org/10.1101/2020.01.01.891432"
     doi: "10.1101/2020.01.01.891432"
+    links:
+      - { kind: data, url: "https://osf.io/3dp6x", label: "OSF" }
 
   - journal: "arXiv - NeurIPS LMRL"
     journal_id: "2210.14330"
@@ -63,6 +79,8 @@ standalone_preprints:
     pub_date: "2022 Oct 25"
     url: "https://doi.org/10.48550/arXiv.2210.14330"
     doi: "10.48550/arXiv.2210.14330"
+    links:
+      - { kind: code, role: tool, url: "https://github.com/keiserlab/exceiver", label: "Exceiver" }
 
   - journal: "arXiv - NeurIPS GenBio"
     journal_id: "2401.05370"
@@ -71,6 +89,8 @@ standalone_preprints:
     pub_date: "2023 Nov 2"
     url: "https://arxiv.org/abs/2401.05370"
     doi: "10.48550/arXiv.2401.05370"
+    links:
+      - { kind: code, role: tool, url: "https://github.com/keiserlab/autofragdiff", label: "AutoFragDiff" }
 
   - journal: "bioRxiv"
     journal_id: "2024.05.15.594372"
@@ -79,6 +99,9 @@ standalone_preprints:
     pub_date: "2024 May 15"
     url: "https://doi.org/10.1101/2024.05.15.594372"
     doi: "10.1101/2024.05.15.594372"
+    links:
+      - { kind: code, role: tool, url: "https://github.com/keiserlab/tangle-tracer", label: "Tangle Tracer" }
+      - { kind: data, url: "https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD1165", label: "BioStudies" }
 
   - journal: "bioRxiv"
     journal_id: "2025.06.02.657515"
@@ -95,6 +118,9 @@ supplemental:
     preprint:
       url: "https://doi.org/10.1101/136705"
       label: "bioRxiv"
+    links:
+      - { kind: code, role: tool, url: "https://github.com/keiserlab/e3fp", label: "E3FP" }
+      - { kind: code, role: paper, url: "https://github.com/keiserlab/e3fp-paper", label: "Paper code" }
 
   "10.1016/j.celrep.2017.10.026":
     preprint:
@@ -102,94 +128,162 @@ supplemental:
       label: "bioRxiv"
 
   "10.1016/j.cell.2018.06.016":
-    preprint:
-      url: "http://pcmi.ucsf.edu/"
-      label: "pcmi"
+    links:
+      - { kind: site, url: "http://pcmi.ucsf.edu/", label: "pcmi" }
+
+  "10.1126/science.aat8603":
+    links:
+      - { kind: code, role: paper, url: "https://github.com/keiserlab/comments", label: "Paper code" }
 
   "10.1038/s41467-019-10212-1":
     preprint:
       url: "https://doi.org/10.1101/454793"
       label: "bioRxiv"
+    links:
+      - { kind: code, role: paper, url: "https://github.com/keiserlab/plaquebox-paper", label: "Paper code" }
+      - { kind: data, url: "https://doi.org/10.5281/zenodo.1470797", label: "Zenodo" }
 
   "10.1021/acs.jcim.0c00565":
     preprint:
       url: "https://doi.org/10.1101/2020.05.21.107748"
       label: "bioRxiv"
+    links:
+      - { kind: code, role: paper, url: "https://github.com/keiserlab/stochastic-negatives-paper", label: "Paper code" }
 
   "10.1038/s42256-022-00490-8":
     preprint:
       url: "https://doi.org/10.1101/2021.01.08.425973"
       label: "bioRxiv"
+    links:
+      - { kind: code, role: paper, url: "https://github.com/keiserlab/trans-channel-paper", label: "Paper code" }
+      - { kind: data, url: "https://doi.org/10.17605/OSF.IO/XNTD6", label: "OSF" }
 
   "10.1186/s40478-022-01365-0":
     preprint:
       url: "https://doi.org/10.1101/2021.03.12.435050"
       label: "bioRxiv"
+    links:
+      - { kind: code, role: paper, url: "https://github.com/keiserlab/consensus-learning-paper", label: "Paper code" }
+      - { kind: data, url: "https://doi.org/10.17605/OSF.IO/XH2JD", label: "OSF" }
 
   "10.1021/acs.jcim.2c00695":
     preprint:
       url: "https://doi.org/10.1101/2022.05.25.493419"
       label: "bioRxiv"
+    links:
+      - { kind: code, role: tool, url: "https://github.com/keiserlab/LUNA", label: "LUNA" }
 
   "10.1016/j.xgen.2023.100410":
     preprint:
       url: "https://doi.org/10.1101/2022.08.11.503410"
       label: "bioRxiv"
+    links:
+      - { kind: code, role: paper, url: "https://github.com/keiserlab/3d-genome-disruption-paper", label: "Paper code" }
 
   "10.1038/s42003-023-05031-6":
     preprint:
       url: "https://www.biorxiv.org/content/10.1101/2023.01.13.524019"
       label: "bioRxiv"
+    links:
+      - { kind: code, role: paper, url: "https://github.com/keiserlab/amyloid-yolo-paper", label: "Paper code" }
+      - { kind: data, url: "https://doi.org/10.17605/OSF.IO/FCPMW", label: "OSF" }
 
   "10.1038/s42003-024-06865-4":
     preprint:
       url: "https://doi.org/10.1101/2023.08.26.554851"
       label: "bioRxiv"
+    links:
+      - { kind: code, role: tool, url: "https://github.com/keiserlab/chemprobe", label: "ChemProbe" }
+      - { kind: data, url: "https://doi.org/10.5281/zenodo.13381833", label: "Zenodo" }
 
   "10.1371/journal.pcbi.1012841":
     preprint:
       url: "https://doi.org/10.1101/2023.11.22.568268"
       label: "bioRxiv"
+    links:
+      - { kind: code, role: paper, url: "https://github.com/lgunsalus/ChromaFactor", label: "Paper code" }
 
   "10.1021/acs.jcim.4c00311":
     preprint:
       url: "https://doi.org/10.26434/chemrxiv-2024-hznxh"
       label: "chemRxiv"
+    links:
+      - { kind: code, role: tool, url: "https://github.com/keiserlab/torch_pgn", label: "torch_pgn" }
 
   "10.1038/s41467-024-54375-y":
     preprint:
       url: "https://doi.org/10.1101/2024.02.22.581657"
       label: "bioRxiv"
+    links:
+      - { kind: code, role: tool, url: "https://github.com/keiserlab/deepfish", label: "DeepFish" }
+      - { kind: data, url: "https://doi.org/10.5281/zenodo.10652682", label: "Zenodo" }
 
   "10.1038/s41467-025-61315-x":
     preprint:
       url: "https://doi.org/10.1101/2024.03.18.585639"
       label: "bioRxiv"
+    links:
+      - { kind: code, role: tool, url: "https://github.com/keiserlab/metric-ion-classification", label: "MIC" }
+      - { kind: data, url: "https://doi.org/10.5281/zenodo.15596106", label: "Zenodo" }
 
   "10.1021/acs.jcim.4c00683":
     preprint:
       url: "https://doi.org/10.26434/chemrxiv-2024-qsdd1"
       label: "chemRxiv"
+    links:
+      - { kind: code, role: tool, url: "https://github.com/keiserlab/rad", label: "RAD" }
 
   "10.1021/acs.jcim.4c01876":
     preprint:
       url: "https://doi.org/10.26434/chemrxiv-2024-ffcrs"
       label: "chemRxiv"
+    links:
+      - { kind: code, role: paper, url: "https://github.com/keiserlab/vae-anomaly-paper", label: "Paper code" }
 
   "10.1016/j.crmeth.2025.101201":
     preprint:
       url: "https://doi.org/10.1101/2024.09.12.612732"
       label: "bioRxiv"
+    links:
+      - { kind: code, role: paper, url: "https://github.com/keiserlab/dermato-paper", label: "Paper code" }
+
+  "10.1016/j.neuron.2025.06.012":
+    links:
+      - { kind: data, url: "https://data.mendeley.com/datasets/p54dxd7sf6/1", label: "Mendeley" }
+
+  "10.1186/s40478-023-01691-x":
+    links:
+      - { kind: code, role: paper, url: "https://github.com/Gutman-Lab/yolo-braak-stage", label: "Paper code" }
+      - { kind: data, url: "https://drive.google.com/drive/folders/16LUMrIMdp4LlvWQk5Dp3eVQHWY472jN5", label: "Google Drive" }
+
+  "10.1186/s40478-020-00927-4":
+    links:
+      - { kind: code, role: paper, url: "https://github.com/gutmanlab/Emory_Plaquebox_Paper", label: "Paper code" }
+      - { kind: data, url: "http://computablebrain.emory.edu:8080/#collection/5d607ae8d1dbc700dde750a7/folder/5e29ef629f68993bf1676f78", label: "Emory" }
+
+  "10.1038/s41467-019-11936-w":
+    links:
+      - { kind: data, url: "https://doi.org/10.5281/zenodo.3336616", label: "Zenodo" }
+
+  "10.1021/acs.jcim.7b00316":
+    links:
+      - { kind: data, url: "https://zinc15.docking.org/", label: "ZINC15" }
+      - { kind: data, url: "https://files.docking.org/", label: "files.docking.org" }
 
   "10.1126/science.adu1058":
     preprint:
       url: "https://doi.org/10.1101/2024.10.23.619915"
       label: "bioRxiv"
+    links:
+      - { kind: code, role: paper, url: "https://github.com/pinneylab/adk_evolutionary_landscape", label: "Paper code" }
+      - { kind: data, url: "https://doi.org/10.5281/zenodo.15043239", label: "Zenodo" }
 
   "10.1021/acs.jcim.5c00850":
     preprint:
       url: "https://doi.org/10.26434/chemrxiv-2024-7p4ws"
       label: "chemRxiv"
+    links:
+      - { kind: code, role: tool, url: "https://github.com/keiserlab/autoparty", label: "Autoparty" }
 
   "10.1038/s42256-025-01156-x":
     preprint:
@@ -200,3 +294,17 @@ supplemental:
     preprint:
       url: "https://doi.org/10.1101/2024.12.09.627436"
       label: "bioRxiv"
+    links:
+      - { kind: code, role: paper, url: "https://github.com/YaqiaoLi8/CombinationLI", label: "Paper code" }
+      - { kind: data, url: "https://doi.org/10.17632/f5kx9k264n.1", label: "Mendeley" }
+
+
+# Tool repos that aren't tied to a lab publication. Rendered on /resources/
+# as a small standalone section. Not rendered on /publications/.
+orphan_tools:
+
+  - url: "https://github.com/keiserlab/keras-neural-graph-fingerprint"
+    label: "keras-neural-graph-fingerprint"
+    description: >-
+      Keras implementation of Neural Graph Fingerprints
+      (Duvenaud et al., <a href="https://arxiv.org/abs/1509.09292">arXiv:1509.09292</a>, 2015)

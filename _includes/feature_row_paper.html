@@ -60,13 +60,50 @@ mjk 2018-11-02 added altmetrics
               </div>
             {% endif %}
 
-            {% if f.url or f.url2 %}
+            {% if f.url or f.url2 or f.extra_links %}
               <p>
                 {% if f.url and f.url != "" %}
                   <a href="{{ f_url }}" class="btn {{ f.btn_class }}" itemProp="sameAs">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
                 {% endif %}
                 {% if f.url2 and f.url2 != "" %}
                   <a href="{{ f_url2 }}" class="btn {{ f.btn2_class }}" itemProp="url">{{ f.btn2_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+                {% endif %}
+                {% if f.extra_links and f.extra_links.size > 0 %}
+                  {% for link in f.extra_links %}
+                    {% if link.url contains "://" %}
+                      {% capture link_url %}{{ link.url }}{% endcapture %}
+                    {% else %}
+                      {% capture link_url %}{{ link.url | relative_url }}{% endcapture %}
+                    {% endif %}
+                    {% assign link_label_lower = link.label | downcase %}
+                    {% if link.icon %}
+                      {% assign link_icon = link.icon %}
+                    {% elsif link.kind == "code" %}
+                      {% assign link_icon = "fab fa-github" %}
+                    {% elsif link.kind == "data" and link_label_lower == "zenodo" %}
+                      {% assign link_icon = "ai ai-zenodo" %}
+                    {% elsif link.kind == "data" and link_label_lower == "osf" %}
+                      {% assign link_icon = "ai ai-osf" %}
+                    {% elsif link.kind == "data" and link_label_lower == "figshare" %}
+                      {% assign link_icon = "ai ai-figshare" %}
+                    {% elsif link.kind == "data" and link_label_lower == "dryad" %}
+                      {% assign link_icon = "ai ai-dryad" %}
+                    {% elsif link.kind == "data" and link_label_lower == "mendeley" %}
+                      {% assign link_icon = "ai ai-mendeley" %}
+                    {% elsif link.kind == "data" %}
+                      {% assign link_icon = "fas fa-database" %}
+                    {% else %}
+                      {% assign link_icon = "fas fa-external-link-alt" %}
+                    {% endif %}
+                    {% if link.kind == "code" %}
+                      {% assign link_btn_class = "btn--github" %}
+                    {% elsif link.kind == "data" %}
+                      {% assign link_btn_class = "btn--warning" %}
+                    {% else %}
+                      {% assign link_btn_class = "btn--info" %}
+                    {% endif %}
+                    <a href="{{ link_url }}" class="btn {{ link_btn_class }}" itemProp="codeRepository"><i class="{{ link_icon }}"></i>{% unless link.role == "paper" %}&nbsp; {{ link.label }}{% endunless %}</a>
+                  {% endfor %}
                 {% endif %}
               </p>
             {% endif %}

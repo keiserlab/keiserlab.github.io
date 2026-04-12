@@ -21,8 +21,8 @@ feature_row0:
     url: "https://doi.org/10.1016/j.neuron.2025.06.014"
     doi: "10.1016/j.neuron.2025.06.014"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
 
   - image_path: /assets/images/papers/10.1016.j.crmeth.2025.101201.jpg
     alt: >-
@@ -34,12 +34,17 @@ feature_row0:
     url: "https://doi.org/10.1016/j.crmeth.2025.101201"
     doi: "10.1016/j.crmeth.2025.101201"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.1101/2024.09.12.612732"
     btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="ai ai-biorxiv"></i>&nbsp; bioRxiv
+    btn2_class: "btn--success"
+    extra_links:
+      - kind: code
+        url: "https://github.com/keiserlab/dermato-paper"
+        label: "Paper code"
+        role: paper
 
   - image_path: /assets/images/papers/10.1016.j.cell.2025.06.035.jpg
     alt: >-
@@ -51,12 +56,20 @@ feature_row0:
     url: "https://doi.org/10.1016/j.cell.2025.06.035"
     doi: "10.1016/j.cell.2025.06.035"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.1101/2024.12.09.627436"
     btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="ai ai-biorxiv"></i>&nbsp; bioRxiv
+    btn2_class: "btn--success"
+    extra_links:
+      - kind: code
+        url: "https://github.com/YaqiaoLi8/CombinationLI"
+        label: "Paper code"
+        role: paper
+      - kind: data
+        url: "https://doi.org/10.17632/f5kx9k264n.1"
+        label: "Mendeley"
 
 feature_row1:
 
@@ -70,8 +83,12 @@ feature_row1:
     url: "https://doi.org/10.1016/j.neuron.2025.06.012"
     doi: "10.1016/j.neuron.2025.06.012"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
+    extra_links:
+      - kind: data
+        url: "https://data.mendeley.com/datasets/p54dxd7sf6/1"
+        label: "Mendeley"
 
   - image_path: /assets/images/papers/10.1021.acs.jcim.5c00850.jpg
     alt: >-
@@ -83,12 +100,17 @@ feature_row1:
     url: "https://doi.org/10.1021/acs.jcim.5c00850"
     doi: "10.1021/acs.jcim.5c00850"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.26434/chemrxiv-2024-7p4ws"
     btn2_label: >-
-        chemRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="fas fa-atom"></i>&nbsp; chemRxiv
+    btn2_class: "btn--success"
+    extra_links:
+      - kind: code
+        url: "https://github.com/keiserlab/autoparty"
+        label: "Autoparty"
+        role: tool
 
   - image_path: /assets/images/papers/10.1038.s41467-025-61315-x.jpg
     alt: >-
@@ -100,12 +122,20 @@ feature_row1:
     url: "https://doi.org/10.1038/s41467-025-61315-x"
     doi: "10.1038/s41467-025-61315-x"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.1101/2024.03.18.585639"
     btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="ai ai-biorxiv"></i>&nbsp; bioRxiv
+    btn2_class: "btn--success"
+    extra_links:
+      - kind: code
+        url: "https://github.com/keiserlab/metric-ion-classification"
+        label: "MIC"
+        role: tool
+      - kind: data
+        url: "https://doi.org/10.5281/zenodo.15596106"
+        label: "Zenodo"
 
 feature_row2:
 
@@ -119,12 +149,20 @@ feature_row2:
     url: "https://doi.org/10.1126/science.adu1058"
     doi: "10.1126/science.adu1058"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.1101/2024.10.23.619915"
     btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="ai ai-biorxiv"></i>&nbsp; bioRxiv
+    btn2_class: "btn--success"
+    extra_links:
+      - kind: code
+        url: "https://github.com/pinneylab/adk_evolutionary_landscape"
+        label: "Paper code"
+        role: paper
+      - kind: data
+        url: "https://doi.org/10.5281/zenodo.15043239"
+        label: "Zenodo"
 
   - image_path: /assets/images/papers/bioRxiv.2025.06.02.657515.jpg
     alt: >-
@@ -136,12 +174,12 @@ feature_row2:
     url: ""
     doi: "10.1101/2025.06.02.657515"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.1101/2025.06.02.657515"
     btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="ai ai-biorxiv"></i>&nbsp; bioRxiv
+    btn2_class: "btn--success"
 
   - image_path: /assets/images/papers/10.1021.acs.jcim.4c01876.jpg
     alt: >-
@@ -153,12 +191,17 @@ feature_row2:
     url: "https://doi.org/10.1021/acs.jcim.4c01876"
     doi: "10.1021/acs.jcim.4c01876"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.26434/chemrxiv-2024-ffcrs"
     btn2_label: >-
-        chemRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="fas fa-atom"></i>&nbsp; chemRxiv
+    btn2_class: "btn--success"
+    extra_links:
+      - kind: code
+        url: "https://github.com/keiserlab/vae-anomaly-paper"
+        label: "Paper code"
+        role: paper
 
 feature_row3:
 
@@ -172,12 +215,17 @@ feature_row3:
     url: "https://doi.org/10.1371/journal.pcbi.1012841"
     doi: "10.1371/journal.pcbi.1012841"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.1101/2023.11.22.568268"
     btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="ai ai-biorxiv"></i>&nbsp; bioRxiv
+    btn2_class: "btn--success"
+    extra_links:
+      - kind: code
+        url: "https://github.com/lgunsalus/ChromaFactor"
+        label: "Paper code"
+        role: paper
 
   - image_path: /assets/images/papers/10.1038.s41467-024-54375-y.jpg
     alt: >-
@@ -189,12 +237,20 @@ feature_row3:
     url: "https://doi.org/10.1038/s41467-024-54375-y"
     doi: "10.1038/s41467-024-54375-y"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.1101/2024.02.22.581657"
     btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="ai ai-biorxiv"></i>&nbsp; bioRxiv
+    btn2_class: "btn--success"
+    extra_links:
+      - kind: code
+        url: "https://github.com/keiserlab/deepfish"
+        label: "DeepFish"
+        role: tool
+      - kind: data
+        url: "https://doi.org/10.5281/zenodo.10652682"
+        label: "Zenodo"
 
   - image_path: /assets/images/papers/10.1021.acs.jcim.4c00683.jpg
     alt: >-
@@ -206,12 +262,17 @@ feature_row3:
     url: "https://doi.org/10.1021/acs.jcim.4c00683"
     doi: "10.1021/acs.jcim.4c00683"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.26434/chemrxiv-2024-qsdd1"
     btn2_label: >-
-        chemRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="fas fa-atom"></i>&nbsp; chemRxiv
+    btn2_class: "btn--success"
+    extra_links:
+      - kind: code
+        url: "https://github.com/keiserlab/rad"
+        label: "RAD"
+        role: tool
 
 feature_row4:
 
@@ -225,12 +286,20 @@ feature_row4:
     url: "https://doi.org/10.1038/s42003-024-06865-4"
     doi: "10.1038/s42003-024-06865-4"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.1101/2023.08.26.554851"
     btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="ai ai-biorxiv"></i>&nbsp; bioRxiv
+    btn2_class: "btn--success"
+    extra_links:
+      - kind: code
+        url: "https://github.com/keiserlab/chemprobe"
+        label: "ChemProbe"
+        role: tool
+      - kind: data
+        url: "https://doi.org/10.5281/zenodo.13381833"
+        label: "Zenodo"
 
   - image_path: /assets/images/papers/10.1021.acs.jcim.4c00311.jpg
     alt: >-
@@ -242,12 +311,17 @@ feature_row4:
     url: "https://doi.org/10.1021/acs.jcim.4c00311"
     doi: "10.1021/acs.jcim.4c00311"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.26434/chemrxiv-2024-hznxh"
     btn2_label: >-
-        chemRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="fas fa-atom"></i>&nbsp; chemRxiv
+    btn2_class: "btn--success"
+    extra_links:
+      - kind: code
+        url: "https://github.com/keiserlab/torch_pgn"
+        label: "torch_pgn"
+        role: tool
 
   - image_path: /assets/images/papers/bioRxiv.2024.05.15.594372.jpg
     alt: >-
@@ -259,12 +333,20 @@ feature_row4:
     url: ""
     doi: "10.1101/2024.05.15.594372"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.1101/2024.05.15.594372"
     btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="ai ai-biorxiv"></i>&nbsp; bioRxiv
+    btn2_class: "btn--success"
+    extra_links:
+      - kind: code
+        url: "https://github.com/keiserlab/tangle-tracer"
+        label: "Tangle Tracer"
+        role: tool
+      - kind: data
+        url: "https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD1165"
+        label: "BioStudies"
 
 feature_row5:
 
@@ -278,8 +360,16 @@ feature_row5:
     url: "https://doi.org/10.1186/s40478-023-01691-x"
     doi: "10.1186/s40478-023-01691-x"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
+    extra_links:
+      - kind: code
+        url: "https://github.com/Gutman-Lab/yolo-braak-stage"
+        label: "Paper code"
+        role: paper
+      - kind: data
+        url: "https://drive.google.com/drive/folders/16LUMrIMdp4LlvWQk5Dp3eVQHWY472jN5"
+        label: "Google Drive"
 
   - image_path: /assets/images/papers/arXiv_-_NeurIPS_GenBio.2401.05370.jpg
     alt: >-
@@ -291,12 +381,17 @@ feature_row5:
     url: ""
     doi: "10.48550/arXiv.2401.05370"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://arxiv.org/abs/2401.05370"
     btn2_label: >-
-        arXiv - NeurIPS GenBio &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="ai ai-arxiv"></i>&nbsp; NeurIPS GenBio
+    btn2_class: "btn--success"
+    extra_links:
+      - kind: code
+        url: "https://github.com/keiserlab/autofragdiff"
+        label: "AutoFragDiff"
+        role: tool
 
   - image_path: /assets/images/papers/10.1016.j.xgen.2023.100410.jpg
     alt: >-
@@ -308,12 +403,17 @@ feature_row5:
     url: "https://doi.org/10.1016/j.xgen.2023.100410"
     doi: "10.1016/j.xgen.2023.100410"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.1101/2022.08.11.503410"
     btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="ai ai-biorxiv"></i>&nbsp; bioRxiv
+    btn2_class: "btn--success"
+    extra_links:
+      - kind: code
+        url: "https://github.com/keiserlab/3d-genome-disruption-paper"
+        label: "Paper code"
+        role: paper
 
 feature_row6:
 
@@ -327,12 +427,20 @@ feature_row6:
     url: "https://doi.org/10.1038/s42003-023-05031-6"
     doi: "10.1038/s42003-023-05031-6"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://www.biorxiv.org/content/10.1101/2023.01.13.524019"
     btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="ai ai-biorxiv"></i>&nbsp; bioRxiv
+    btn2_class: "btn--success"
+    extra_links:
+      - kind: code
+        url: "https://github.com/keiserlab/amyloid-yolo-paper"
+        label: "Paper code"
+        role: paper
+      - kind: data
+        url: "https://doi.org/10.17605/OSF.IO/FCPMW"
+        label: "OSF"
 
   - image_path: /assets/images/papers/arXiv_-_NeurIPS_LMRL.2210.14330.jpg
     alt: >-
@@ -344,12 +452,17 @@ feature_row6:
     url: ""
     doi: "10.48550/arXiv.2210.14330"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.48550/arXiv.2210.14330"
     btn2_label: >-
-        arXiv - NeurIPS LMRL &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="ai ai-arxiv"></i>&nbsp; NeurIPS LMRL
+    btn2_class: "btn--success"
+    extra_links:
+      - kind: code
+        url: "https://github.com/keiserlab/exceiver"
+        label: "Exceiver"
+        role: tool
 
   - image_path: /assets/images/papers/10.1021.acs.jcim.2c00695.jpg
     alt: >-
@@ -361,12 +474,17 @@ feature_row6:
     url: "https://doi.org/10.1021/acs.jcim.2c00695"
     doi: "10.1021/acs.jcim.2c00695"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.1101/2022.05.25.493419"
     btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="ai ai-biorxiv"></i>&nbsp; bioRxiv
+    btn2_class: "btn--success"
+    extra_links:
+      - kind: code
+        url: "https://github.com/keiserlab/LUNA"
+        label: "LUNA"
+        role: tool
 
 feature_row7:
 
@@ -380,12 +498,16 @@ feature_row7:
     url: ""
     doi: "10.1101/2020.01.01.891432"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.1101/2020.01.01.891432"
     btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="ai ai-biorxiv"></i>&nbsp; bioRxiv
+    btn2_class: "btn--success"
+    extra_links:
+      - kind: data
+        url: "https://osf.io/3dp6x"
+        label: "OSF"
 
   - image_path: /assets/images/papers/10.1038.s42256-022-00490-8.jpg
     alt: >-
@@ -397,12 +519,20 @@ feature_row7:
     url: "https://doi.org/10.1038/s42256-022-00490-8"
     doi: "10.1038/s42256-022-00490-8"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.1101/2021.01.08.425973"
     btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="ai ai-biorxiv"></i>&nbsp; bioRxiv
+    btn2_class: "btn--success"
+    extra_links:
+      - kind: code
+        url: "https://github.com/keiserlab/trans-channel-paper"
+        label: "Paper code"
+        role: paper
+      - kind: data
+        url: "https://doi.org/10.17605/OSF.IO/XNTD6"
+        label: "OSF"
 
   - image_path: /assets/images/papers/10.1186.s40478-022-01365-0.jpg
     alt: >-
@@ -414,12 +544,20 @@ feature_row7:
     url: "https://doi.org/10.1186/s40478-022-01365-0"
     doi: "10.1186/s40478-022-01365-0"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.1101/2021.03.12.435050"
     btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="ai ai-biorxiv"></i>&nbsp; bioRxiv
+    btn2_class: "btn--success"
+    extra_links:
+      - kind: code
+        url: "https://github.com/keiserlab/consensus-learning-paper"
+        label: "Paper code"
+        role: paper
+      - kind: data
+        url: "https://doi.org/10.17605/OSF.IO/XH2JD"
+        label: "OSF"
 
 feature_row8:
 
@@ -433,8 +571,8 @@ feature_row8:
     url: "https://doi.org/10.1038/s41746-020-00380-6"
     doi: "10.1038/s41746-020-00380-6"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
 
   - image_path: /assets/images/papers/10.1021.acs.jcim.0c00565.jpg
     alt: >-
@@ -446,12 +584,17 @@ feature_row8:
     url: "https://doi.org/10.1021/acs.jcim.0c00565"
     doi: "10.1021/acs.jcim.0c00565"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.1101/2020.05.21.107748"
     btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="ai ai-biorxiv"></i>&nbsp; bioRxiv
+    btn2_class: "btn--success"
+    extra_links:
+      - kind: code
+        url: "https://github.com/keiserlab/stochastic-negatives-paper"
+        label: "Paper code"
+        role: paper
 
   - image_path: /assets/images/papers/bioRxiv_-_NeurIPS_LMRL.2021.03.15.435529.jpg
     alt: >-
@@ -463,12 +606,17 @@ feature_row8:
     url: ""
     doi: "10.1101/2021.03.15.435529"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.1101/2021.03.15.435529"
     btn2_label: >-
-        bioRxiv - NeurIPS LMRL &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="ai ai-biorxiv"></i>&nbsp; NeurIPS LMRL
+    btn2_class: "btn--success"
+    extra_links:
+      - kind: code
+        url: "https://github.com/keiserlab/film-gex"
+        label: "film-gex"
+        role: tool
 
 feature_row9:
 
@@ -482,12 +630,12 @@ feature_row9:
     url: ""
     doi: "10.48550/arXiv.2011.12820"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.48550/arXiv.2011.12820"
     btn2_label: >-
-        arXiv - NeurIPS ML4Molecules &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="ai ai-arxiv"></i>&nbsp; NeurIPS ML4Molecules
+    btn2_class: "btn--success"
 
   - image_path: /assets/images/papers/10.1021.acs.jmedchem.0c00385.jpg
     alt: >-
@@ -499,8 +647,8 @@ feature_row9:
     url: "https://doi.org/10.1021/acs.jmedchem.0c00385"
     doi: "10.1021/acs.jmedchem.0c00385"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
 
   - image_path: /assets/images/papers/10.1016.j.jid.2020.02.026.jpg
     alt: >-
@@ -512,8 +660,8 @@ feature_row9:
     url: "https://doi.org/10.1016/j.jid.2020.02.026"
     doi: "10.1016/j.jid.2020.02.026"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
 
 feature_row10:
 
@@ -527,12 +675,20 @@ feature_row10:
     url: ""
     doi: "10.48550/arXiv.2104.02768"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.48550/arXiv.2104.02768"
     btn2_label: >-
-        arXiv - ICML - WHI &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="ai ai-arxiv"></i>&nbsp; ICML - WHI
+    btn2_class: "btn--success"
+    extra_links:
+      - kind: code
+        url: "https://github.com/keiserlab/rcav"
+        label: "RCAV"
+        role: tool
+      - kind: data
+        url: "https://zenodo.org/record/3889104"
+        label: "Zenodo"
 
   - image_path: /assets/images/papers/10.1186.s40478-020-00927-4.jpg
     alt: >-
@@ -544,8 +700,16 @@ feature_row10:
     url: "https://doi.org/10.1186/s40478-020-00927-4"
     doi: "10.1186/s40478-020-00927-4"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
+    extra_links:
+      - kind: code
+        url: "https://github.com/gutmanlab/Emory_Plaquebox_Paper"
+        label: "Paper code"
+        role: paper
+      - kind: data
+        url: "http://computablebrain.emory.edu:8080/#collection/5d607ae8d1dbc700dde750a7/folder/5e29ef629f68993bf1676f78"
+        label: "Emory"
 
   - image_path: /assets/images/papers/arXiv_-_NeurIPS_ML4H.1910.07604.jpg
     alt: >-
@@ -557,12 +721,12 @@ feature_row10:
     url: ""
     doi: "10.48550/arXiv.1910.07604"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.48550/arXiv.1910.07604"
     btn2_label: >-
-        arXiv - NeurIPS ML4H &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="ai ai-arxiv"></i>&nbsp; NeurIPS ML4H
+    btn2_class: "btn--success"
 
 feature_row11:
 
@@ -576,8 +740,12 @@ feature_row11:
     url: "https://doi.org/10.1038/s41467-019-11936-w"
     doi: "10.1038/s41467-019-11936-w"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
+    extra_links:
+      - kind: data
+        url: "https://doi.org/10.5281/zenodo.3336616"
+        label: "Zenodo"
 
   - image_path: /assets/images/papers/10.1038.s41467-019-10212-1.jpg
     alt: >-
@@ -589,12 +757,20 @@ feature_row11:
     url: "https://doi.org/10.1038/s41467-019-10212-1"
     doi: "10.1038/s41467-019-10212-1"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.1101/454793"
     btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="ai ai-biorxiv"></i>&nbsp; bioRxiv
+    btn2_class: "btn--success"
+    extra_links:
+      - kind: code
+        url: "https://github.com/keiserlab/plaquebox-paper"
+        label: "Paper code"
+        role: paper
+      - kind: data
+        url: "https://doi.org/10.5281/zenodo.1470797"
+        label: "Zenodo"
 
   - image_path: /assets/images/papers/10.1126.science.aat8603.jpg
     alt: >-
@@ -606,8 +782,13 @@ feature_row11:
     url: "https://doi.org/10.1126/science.aat8603"
     doi: "10.1126/science.aat8603"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
+    extra_links:
+      - kind: code
+        url: "https://github.com/keiserlab/comments"
+        label: "Paper code"
+        role: paper
 
 feature_row12:
 
@@ -621,8 +802,8 @@ feature_row12:
     url: "https://doi.org/10.1021/acschembio.8b00881"
     doi: "10.1021/acschembio.8b00881"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
 
   - image_path: /assets/images/papers/10.1016.j.cell.2018.06.016.jpg
     alt: >-
@@ -634,12 +815,12 @@ feature_row12:
     url: "https://doi.org/10.1016/j.cell.2018.06.016"
     doi: "10.1016/j.cell.2018.06.016"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
-    url2: "http://pcmi.ucsf.edu/"
-    btn2_label: >-
-        pcmi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
+    extra_links:
+      - kind: site
+        url: "http://pcmi.ucsf.edu/"
+        label: "pcmi"
 
   - image_path: /assets/images/papers/10.1021.acs.jcim.7b00316.jpg
     alt: >-
@@ -651,8 +832,15 @@ feature_row12:
     url: "https://doi.org/10.1021/acs.jcim.7b00316"
     doi: "10.1021/acs.jcim.7b00316"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
+    extra_links:
+      - kind: data
+        url: "https://zinc15.docking.org/"
+        label: "ZINC15"
+      - kind: data
+        url: "https://files.docking.org/"
+        label: "files.docking.org"
 
 feature_row13:
 
@@ -666,12 +854,12 @@ feature_row13:
     url: "https://doi.org/10.1016/j.celrep.2017.10.026"
     doi: "10.1016/j.celrep.2017.10.026"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.1101/131698"
     btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="ai ai-biorxiv"></i>&nbsp; bioRxiv
+    btn2_class: "btn--success"
 
   - image_path: /assets/images/papers/10.1021.acs.jmedchem.7b00696.jpg
     alt: >-
@@ -683,12 +871,21 @@ feature_row13:
     url: "https://doi.org/10.1021/acs.jmedchem.7b00696"
     doi: "10.1021/acs.jmedchem.7b00696"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
     url2: "https://doi.org/10.1101/136705"
     btn2_label: >-
-        bioRxiv &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn2_class: "btn--info"
+        <i class="ai ai-biorxiv"></i>&nbsp; bioRxiv
+    btn2_class: "btn--success"
+    extra_links:
+      - kind: code
+        url: "https://github.com/keiserlab/e3fp"
+        label: "E3FP"
+        role: tool
+      - kind: code
+        url: "https://github.com/keiserlab/e3fp-paper"
+        label: "Paper code"
+        role: paper
 
   - image_path: /assets/images/papers/10.1038.nchembio.2097.jpg
     alt: >-
@@ -700,8 +897,8 @@ feature_row13:
     url: "https://doi.org/10.1038/nchembio.2097"
     doi: "10.1038/nchembio.2097"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
 
 feature_row14:
 
@@ -715,8 +912,8 @@ feature_row14:
     url: "https://doi.org/10.1021/acschembio.5b00800"
     doi: "10.1021/acschembio.5b00800"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
 
   - image_path: /assets/images/papers/10.1016.S2215-0366(15)00553-2.jpg
     alt: >-
@@ -728,8 +925,8 @@ feature_row14:
     url: "https://doi.org/10.1016/S2215-0366(15)00553-2"
     doi: "10.1016/S2215-0366(15)00553-2"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
 
   - image_path: /assets/images/papers/10.1007.s10928-015-9436-y.jpg
     alt: >-
@@ -741,8 +938,8 @@ feature_row14:
     url: "https://doi.org/10.1007/s10928-015-9436-y"
     doi: "10.1007/s10928-015-9436-y"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
 
 feature_row15:
 
@@ -756,8 +953,8 @@ feature_row15:
     url: "https://doi.org/10.1002/cpt.2"
     doi: "10.1002/cpt.2"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
 
   - image_path: /assets/images/papers/10.1371.journal.pbio.1001712.jpg
     alt: >-
@@ -769,8 +966,8 @@ feature_row15:
     url: "https://doi.org/10.1371/journal.pbio.1001712"
     doi: "10.1371/journal.pbio.1001712"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
 
   - image_path: /assets/images/papers/10.1038.nature11159.jpg
     alt: >-
@@ -782,8 +979,8 @@ feature_row15:
     url: "https://doi.org/10.1038/nature11159"
     doi: "10.1038/nature11159"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
 
 feature_row16:
 
@@ -797,8 +994,8 @@ feature_row16:
     url: "https://doi.org/10.1038/nchembio.732"
     doi: "10.1038/nchembio.732"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
 
   - image_path: /assets/images/papers/10.1038.npp.2010.195.jpg
     alt: >-
@@ -810,8 +1007,8 @@ feature_row16:
     url: "https://doi.org/10.1038/npp.2010.195"
     doi: "10.1038/npp.2010.195"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
 
   - image_path: /assets/images/papers/10.1021.bi101540g.jpg
     alt: >-
@@ -823,8 +1020,8 @@ feature_row16:
     url: "https://doi.org/10.1021/bi101540g"
     doi: "10.1021/bi101540g"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
 
 feature_row17:
 
@@ -838,8 +1035,8 @@ feature_row17:
     url: "https://doi.org/10.1021/jm100488w"
     doi: "10.1021/jm100488w"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
 
   - image_path: /assets/images/papers/10.1021.jm901613f.jpg
     alt: >-
@@ -851,8 +1048,8 @@ feature_row17:
     url: "https://doi.org/10.1021/jm901613f"
     doi: "10.1021/jm901613f"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
 
   - image_path: /assets/images/papers/20581797.jpg
     alt: >-
@@ -864,8 +1061,8 @@ feature_row17:
     url: "https://www.ncbi.nlm.nih.gov/pubmed/20581797"
     doi: ""
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
 
 feature_row18:
 
@@ -879,8 +1076,8 @@ feature_row18:
     url: "https://doi.org/10.1038/nature08506"
     doi: "10.1038/nature08506"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
 
   - image_path: /assets/images/papers/10.1371.journal.pcbi.1000474.jpg
     alt: >-
@@ -892,8 +1089,8 @@ feature_row18:
     url: "https://doi.org/10.1371/journal.pcbi.1000474"
     doi: "10.1371/journal.pcbi.1000474"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
 
   - image_path: /assets/images/papers/10.1038.nchembio.180.jpg
     alt: >-
@@ -905,8 +1102,8 @@ feature_row18:
     url: "https://doi.org/10.1038/nchembio.180"
     doi: "10.1038/nchembio.180"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
 
 feature_row19:
 
@@ -920,8 +1117,8 @@ feature_row19:
     url: "https://doi.org/10.1007/978-1-60761-274-2_8"
     doi: "10.1007/978-1-60761-274-2_8"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
 
   - image_path: /assets/images/papers/10.1021.ci8000259.jpg
     alt: >-
@@ -933,8 +1130,8 @@ feature_row19:
     url: "https://doi.org/10.1021/ci8000259"
     doi: "10.1021/ci8000259"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
 
   - image_path: /assets/images/papers/10.1038.nbt1284.jpg
     alt: >-
@@ -946,8 +1143,8 @@ feature_row19:
     url: "https://doi.org/10.1038/nbt1284"
     doi: "10.1038/nbt1284"
     btn_label: >-
-        doi &nbsp; <i class="fas fa-external-link-alt"></i>
-    btn_class: "btn--primary"
+        <i class="fas fa-book-open"></i>&nbsp; doi
+    btn_class: "btn--info"
 
 
 ---

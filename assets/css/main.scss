@@ -69,3 +69,28 @@ a.btn::before {
   content: none;
   display: none;
 }
+
+// github-dark button for code repo links on /publications/ and /resources/
+.btn--github {
+  background-color: #3a3f45;
+  color: #fff;
+
+  &:visited {
+    color: #fff;
+  }
+
+  &:hover {
+    background-color: lighten(#3a3f45, 10%);
+    color: #fff;
+  }
+}
+
+// resources.md table: suppress link underline by default so the gap between
+// icon and label doesn't get a choppy underscore. underline on hover.
+.page__content table a {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
