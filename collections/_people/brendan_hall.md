@@ -8,7 +8,7 @@ bio: Montara Therapeutics
 type: alumn
 excerpt: "[Shoichet Lab](https://bkslab.org/) (2024-2026). Keiser Lab (2022-2024). Brendan graduated in 2021 from Williams College with a B.A in Physics and Math. While t"
 header:
-  teaser: /assets/images/people/bio-hall.jpg
+  teaser: /assets/images/people/bio-hall.webp
 papers: 
     - title: Autoparty- Machine Learning-Guided Visual Inspection of Molecular Docking Results
       excerpt: Shub L, Korczynska M, Muir DF, Lin FY, <u>Hall BW</u>, Mathiowetz AM, Keiser MJ. __J Chem Inf Model__. 2025 Aug 11.

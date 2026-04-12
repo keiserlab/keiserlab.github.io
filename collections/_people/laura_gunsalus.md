@@ -8,7 +8,7 @@ bio: Genentech
 type: alumn
 excerpt: "Grad Student; ARCS Scholar in Bioinformatics, 2018-2023. Laura was an iPQB bioinformatics graduate student interested in using deep learning approaches to bette"
 header:
-  teaser: /assets/images/people/bio-gunsalus.jpg
+  teaser: /assets/images/people/bio-gunsalus.webp
 papers: 
     - title: ChromaFactor- Deconvolution of single-molecule chromatin organization with non-negative matrix factorization
       excerpt: <u>Gunsalus LM</u>, Keiser MJ, Pollard KS. __PLoS Comput Biol__. 2025 Feb.

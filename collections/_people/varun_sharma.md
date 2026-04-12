@@ -8,6 +8,6 @@ bio: CeMM (Bock and Menche Lab)
 type: alumn
 excerpt: "Research Data Analyst, 2020-2021. Varun studied Biology at Williams College (BA) and Systems Biology at ETH Zurich (MSc), and was a research data analyst in the"
 header:
-  teaser: /assets/images/people/bio-vsharma.jpg
+  teaser: /assets/images/people/bio-vsharma.webp
 papers: 
 ---

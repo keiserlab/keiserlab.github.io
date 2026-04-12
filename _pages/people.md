@@ -6,7 +6,7 @@ tags: [members, people]
 modified: 
 comments: false
 header:
-   image: /assets/images/bar-network.jpg
+   image: /assets/images/bar-network.webp
 
 layout: archive
 collection: people

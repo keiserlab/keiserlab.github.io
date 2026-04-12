@@ -8,6 +8,6 @@ bio: UCSF Facility for Advanced Computing
 type: alumn
 excerpt: "System Administrator, 2022-2024. John is an IT professional with 8+ years of academic research computing experience. He is passionate about solving complex tech"
 header:
-  teaser: /assets/images/people/bio-gallias.jpg
+  teaser: /assets/images/people/bio-gallias.webp
 papers: 
 ---

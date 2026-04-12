@@ -8,7 +8,7 @@ bio: Relay Therapeutics
 type: alumn
 excerpt: "Postdoctoral Scholar, 2019-2022. Luca obtained his PhD in Physics and Chemistry of Biological Systems at SISSA, Trieste (Italy). As a postdoc in the Bahar lab a"
 header:
-  teaser: /assets/images/people/bio-ponzoni.jpg
+  teaser: /assets/images/people/bio-ponzoni.webp
 papers: 
     - title: Prioritizing Virtual Screening with Interpretable Interaction Fingerprints
       excerpt: Fassio AV, Shub L, <u>Ponzoni L</u>, McKinley J, O'Meara MJ, Ferreira RS, Keiser MJ, de Melo Minardi RC. __J Chem Inf Model__. 2022 Sep 26.

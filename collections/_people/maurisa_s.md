@@ -8,6 +8,6 @@ bio: bioinformatics
 type: alumn
 excerpt: "[Tcheandjieu Lab](https://gladstone.org/people/catherine-tcheandjieu-gueliatcha) (2024-). Keiser Lab (2019-2024). Maurisa studied general biology at Hampshire C"
 header:
-  teaser: /assets/images/people/bio-saylor.jpg
+  teaser: /assets/images/people/bio-saylor.webp
 papers: 
 ---

@@ -22,7 +22,7 @@ description              : "keiser lab @ ucsf"
 url                      : "https://keiserlab.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "keiserlab/keiserlab.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.webp"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -33,7 +33,7 @@ search                   : true
 search_provider          : lunr
 
 # Social sharing
-og_image                 : "/assets/images/og-image.jpg" # Open Graph/Twitter default site image (1200x630)
+og_image                 : "/assets/images/og-image.webp" # Open Graph/Twitter default site image (1200x630)
 twitter:
   username               : keiser_lab
 # https://developers.google.com/structured-data/customize/social-profiles

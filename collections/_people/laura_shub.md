@@ -8,7 +8,7 @@ bio: Deep Apple Tx
 type: alumn
 excerpt: "Grad Student, 2019-2024. Laura studied biochemistry and computer science at the University of Texas at Austin. She was a graduate student in the bioinformatics "
 header:
-  teaser: /assets/images/people/bio-shub.jpg
+  teaser: /assets/images/people/bio-shub.webp
 papers: 
     - title: The polypharmacology of psychedelics reveals multiple targets for potential therapeutics
       excerpt: Jain MK, Gumpper RH, Slocum ST, Schmitz GP, Madsen JS, Tummino TA, Suomivuori CM, Huang XP, <u>Shub L</u>, DiBerto JF, Kim K, DeLeon C, Krumm BE, Fay JF, Keiser M, Hauser AS, Dror RO, Shoichet B, Gloriam DE, Nichols DE, Roth BL. __Neuron__. 2025 Oct 1.

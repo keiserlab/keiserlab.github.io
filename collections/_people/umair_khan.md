@@ -8,7 +8,7 @@ bio: bioinformatics
 type: alumn
 excerpt: "Sirota Lab (2022-). Keiser Lab (2022-2024). Umair majored in Computer Science and Mathematics at Portland State University before coming to the Biological and M"
 header:
-  teaser: /assets/images/people/bio-khan.jpg
+  teaser: /assets/images/people/bio-khan.webp
 papers: 
     - title: A single-cell gene expression language model
       excerpt: Connell W, <u>Khan U</u>, Keiser MJ. __arXiv - NeurIPS LMRL__. 2022 Oct 25.

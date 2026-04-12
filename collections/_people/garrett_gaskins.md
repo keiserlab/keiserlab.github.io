@@ -8,7 +8,7 @@ bio: Genentech
 type: alumn
 excerpt: "Grad Student; Genentech Fellow; Hillblom Fellow, 2014-2021. High-content screening across varied cells, conditions, and chemical libraries has emerged as a key "
 header:
-  teaser: /assets/images/people/bio-gaskins.jpg
+  teaser: /assets/images/people/bio-gaskins.webp
 papers: 
     - title: Deep learning finds convergent melanocytic morphology despite noisy archival slides
       excerpt: Tada M, <u>Gaskins G</u>, Ghandian S, Mew N, Keiser MJ, Keiser ES. __Cell Rep Methods__. 2025 Oct 20.

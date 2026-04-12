@@ -8,7 +8,7 @@ bio: UK AI Security Institute
 type: alumn
 excerpt: "Research Data Analyst; QBI Bold & Basic Fellow (2019-2020). Jacob's interests spanned the theory and applications of machine learning models -- and deep learnin"
 header:
-  teaser: /assets/images/people/bio-pfau.jpg
+  teaser: /assets/images/people/bio-pfau.webp
 papers: 
     - title: Stress testing reveals gaps in clinic readiness of image-based diagnostic artificial intelligence models
       excerpt: Young AT, Fernandez K, <u>Pfau J</u>, Reddy R, Cao NA, von Franque MY, Johal A, Wu BV, Wu RR, Chen JY, Fadadu RP, Vasquez JA, Tam A, Keiser MJ, Wei ML. __NPJ Digit Med__. 2021 Jan 21.

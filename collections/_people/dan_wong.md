@@ -8,7 +8,7 @@ bio: Pfizer
 type: alumn
 excerpt: "Grad Student, bioinformatics, 2018-2022. Daniel studied Computer Science and Biochemistry at UC Berkeley, and was in a PhD program within the Integrative Progra"
 header:
-  teaser: /assets/images/people/bio-dwong.jpg
+  teaser: /assets/images/people/bio-dwong.webp
 papers: 
     - title: Learning fast and fine-grained detection of amyloid neuropathologies from coarse-grained expert labels
       excerpt: <u>Wong DR</u>, Magaki SD, Vinters HV, Yong WH, Monuki ES, Williams CK, Martini AC, DeCarli C, Khacherian C, Graff JP, Dugger BN, Keiser MJ. __Commun Biol__. 2023 Jun 24.

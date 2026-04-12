@@ -8,6 +8,6 @@ bio:
 type: alumn
 excerpt: "Administrative Officer, 2021-2024. Fedelle studied anthropology and film studies at UCLA and was concurrently a master's student in East Asian Studies at Stanfo"
 header:
-  teaser: /assets/images/people/bio-austria.jpg
+  teaser: /assets/images/people/bio-austria.webp
 papers: 
 ---

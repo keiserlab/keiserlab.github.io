@@ -8,7 +8,7 @@ bio: Nurix Therapeutics
 type: alumn
 excerpt: "Grad Student, bioinformatics; NSF Fellow; HHMI Gilliam Fellow, 2015-2021. Elena graduated from UCSD with a B.Sc. in molecular biology and a minor in mathematics"
 header:
-  teaser: /assets/images/people/bio-caceres.jpg
+  teaser: /assets/images/people/bio-caceres.webp
 papers: 
     - title: Adding Stochastic Negative Examples into Machine Learning Improves Molecular Bioactivity Prediction
       excerpt: <u>Caceres EL</u>, Mew NC, Keiser MJ. __J Chem Inf Model__. 2020 Dec 28.

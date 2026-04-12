@@ -9,7 +9,7 @@ michael_keiser:
   bio_long: >
     <p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and a Paul G. Allen Distinguished Investigator. Michael joined the UCSF faculty in 2014, in the Dept. of Pharmaceutical Chemistry and the Institute for Neurodegenerative Diseases, with appointments in the Dept. of Bioengineering & Therapeutic Sciences and the Bakar Computational Health Sciences Institute. He is also a member of the Quantitative Biosciences Institute and the Kavli Institute for Fundamental Neuroscience at UCSF.</p>
     <p>Before this, he co-founded a startup bringing systems pharmacology methods for drug-target prediction to pharma and the US FDA, where they are in use today. During his bioinformatics Ph.D. at UCSF as a NSF Fellow, Michael developed techniques to relate drugs and proteins from the statistical similarity of their ligands, such as the Similarity Ensemble Approach (SEA). He holds multiple degrees from Stanford, including a BSc. in Computer Science.</p>
-  avatar: /assets/images/people/bio-keiser.jpg
+  avatar: /assets/images/people/bio-keiser.webp
   title: Associate Professor; CZI Ben Barres Investigator; Allen Distinguished Investigator
   github: mjke
   linkedin: keiser
@@ -27,7 +27,7 @@ umair_khan:
   email: ukhan@keiserlab.org
   bio: "bioinformatics"
   bio_long: "Sirota Lab (2022-). Keiser Lab (2022-2024). Umair majored in Computer Science and Mathematics at Portland State University before coming to the Biological and Medical Informatics graduate program at UCSF. He is co-advised by [Marina Sirota](https://sirotalab.ucsf.edu/) and is interested in developing and applying new computational techniques to better understand disease."
-  avatar: /assets/images/people/bio-khan.jpg
+  avatar: /assets/images/people/bio-khan.webp
   title: Grad Student
   github: khanu263
   google:
@@ -42,7 +42,7 @@ brendan_hall:
   email: bhall@keiserlab.org
   bio: "Montara Therapeutics"
   bio_long: "[Shoichet Lab](https://bkslab.org/) (2024-2026). Keiser Lab (2022-2024). Brendan graduated in 2021 from Williams College with a B.A in Physics and Math. While there he did research in Daniel Aalberts' lab analyzing ribosome profiling data to study the kinetics of translation elongation. He was enrolled in the Biophysics PhD program at UCSF."
-  avatar: /assets/images/people/bio-hall.jpg
+  avatar: /assets/images/people/bio-hall.webp
   title: Scientist
   github: bwhall61
   linkedin: brendan-hall-439b461b8
@@ -54,7 +54,7 @@ duncan_muir:
   email: dmuir@keiserlab.org
   bio: "Inductive Bio"
   bio_long: "[Pinney Lab](https://www.pinneylabucsf.com/) (2022-2025). Keiser Lab (2022-2024). Duncan completed his B.S. in Data Science and Biochemistry at Northeastern University. Before starting graduate school, he worked in the Structural Biology group at Relay Therapeutics in Cambridge, Massachusetts. There he supported medicinal chemistry efforts through crystallographic fragment screening and developed tools to store and track crystallographic data. As a part of the UCSF Biophysics PhD program he was interested in using high-throughput microfluidic biochemical assays to assemble rich datasets that probe and model the effects of mutations on enzyme activity and stability. He was co-advised by [Margaux Pinney](https://www.pinneylabucsf.com/)."
-  avatar: /assets/images/people/bio-muir.jpg
+  avatar: /assets/images/people/bio-muir.webp
   title: Machine Learning Scientist
   github: duncan-muir
   linkedin: duncanfmuir
@@ -66,7 +66,7 @@ sina_ghandian:
   email: sina@keiserlab.org
   bio: "UC Irvine"
   bio_long: "Research Data Analyst, 2022-2024. Sina graduated from UC Berkeley with a B.S. in Bioengineering and a concentration in data science. As an undergraduate, his research lay in the field of clinical informatics, where he developed models to predict the onset of different medical conditions using patient data. In the Keiser lab, he explored different applications of deep learning in biology, with a research focus in neuropathology."
-  avatar: /assets/images/people/bio-ghandian.jpg
+  avatar: /assets/images/people/bio-ghandian.webp
   title: PhD Student, MCSB
   github: sghandian
   linkedin: sina-ghandian
@@ -78,7 +78,7 @@ parker_grosjean:
   email: pgrosjean@keiserlab.org
   bio: "Insitro"
   bio_long: "[Kampmann Lab](https://kampmannlab.ucsf.edu/) (2021-2025). Keiser Lab (2021-2024). As an undergraduate student Parker studied Bioengineering and Applied Mathematics at the University of Washington. He was a PhD student in the Bioinformatics Program at UCSF and was co-mentored in the [Kampmann Lab](https://kampmannlab.ucsf.edu/). His research interests lay at the intersection of deep learning, functional genomics, and high-content screening to investigate the underlying mechanisms of tauopathies and subsequent therapeutic perturbations in disease variant neurons."
-  avatar: /assets/images/people/bio-grosjean.jpg
+  avatar: /assets/images/people/bio-grosjean.webp
   title: Lead Machine Learning Scientist
   github: pgrosjean
   linkedin: parkergrosjean
@@ -90,7 +90,7 @@ ben_orr:
   email: orr@keiserlab.org
   bio: "Animate Biosciences"
   bio_long: "[Kortemme Lab](http://kortemmelab.ucsf.edu/) (2021-2025). Keiser Lab; NSF Fellow (2021-2024). Ben graduated from Tufts in 2018 with a B.S. in Biochemistry and minor in Studio Art. As an undergraduate, he worked in Joshua Kritzer’s lab, designing cyclic peptide inhibitors of protein-protein interactions. He then worked as a Research Assistant in Jue Chen’s lab at Rockefeller U., studying membrane transporter proteins. He was in the Biophysics PhD program and was interested in improving de novo protein design protocols with machine learning techniques. He was co-mentored with [Tanja Kortemme](http://kortemmelab.ucsf.edu/)."
-  avatar: /assets/images/people/bio-orr.jpg
+  avatar: /assets/images/people/bio-orr.webp
   title: AI & Computational Biology Lead
   github: bendorr
   linkedin: benjamin-orr-29645a268
@@ -102,7 +102,7 @@ maurisa_s:
   email: saylor@keiserlab.org
   bio: "bioinformatics"
   bio_long: "[Tcheandjieu Lab](https://gladstone.org/people/catherine-tcheandjieu-gueliatcha) (2024-). Keiser Lab (2019-2024). Maurisa studied general biology at Hampshire College. She is a graduate student in the Integrative Program for Quantitative Biology, Biomedical Informatics track pursuing a PhD."
-  avatar: /assets/images/people/bio-saylor.jpg
+  avatar: /assets/images/people/bio-saylor.webp
   title: Grad Student
   github: sayloren
   ncbi_id: Saylor M
@@ -114,7 +114,7 @@ laura_shub:
   bio: Deep Apple Tx
   bio_long: >
     Grad Student, 2019-2024. Laura studied biochemistry and computer science at the University of Texas at Austin. She was a graduate student in the bioinformatics program at UCSF. She is interested in applying deep learning techniques to drug discovery to better understand and predict protein-ligand interactions."
-  avatar: /assets/images/people/bio-shub.jpg
+  avatar: /assets/images/people/bio-shub.webp
   title: AI/ML Scientist
   github: laurashub
   ncbi_id: Shub L
@@ -127,7 +127,7 @@ laura_gunsalus:
   bio: Genentech
   bio_long: >
     Grad Student; ARCS Scholar in Bioinformatics, 2018-2023. Laura was an iPQB bioinformatics graduate student interested in using deep learning approaches to better understand the relationships between genetic and epigenetic variation, genome organization, and disease predisposition. She was co-advised by [Professor Katherine Pollard](https://pollardlab.org/).
-  avatar: /assets/images/people/bio-gunsalus.jpg
+  avatar: /assets/images/people/bio-gunsalus.webp
   title: Senior ML Scientist
   github: LauraGunsalus
   ncbi_id: Gunsalus LM
@@ -140,7 +140,7 @@ halimat_afolabi:
   bio: Novo Nordisk
   bio_long: >
     Machine Learning Scientist, 2022-2023. Halimat is a physician scientist from the UK. After obtaining clinical experience in the National Health Service she completed a Master's in Data Science, followed by a research fellowship in clinical data science at Stanford University. She researched self-supervised methods to improve the generalisability of computer vision models across histopathology and clinical image datasets. Interests: AI; ML; Computer Vision; Precision Medicine; Translational Medicine.
-  avatar: /assets/images/people/bio-afolabi.jpg
+  avatar: /assets/images/people/bio-afolabi.webp
   title: Machine Learning Scientist
   linkedin: halimat-afolabi
   ncbi_id: Afolabi H
@@ -152,7 +152,7 @@ john_gallias:
   bio: UCSF Facility for Advanced Computing
   bio_long: >
     System Administrator, 2022-2024. John is an IT professional with 8+ years of academic research computing experience. He is passionate about solving complex technical problems for the greatest possible benefit to people. He has worked with communities on various Digital Privacy & Security issues like Banning Facial Recognition and Free Public Education Training and Events. Born in Las Vegas, Nevada, John will be living in the Bay Area with his partner and two Siberian cats. For more information, see [John's website](https://johngallias.com).
-  avatar: /assets/images/people/bio-gallias.jpg
+  avatar: /assets/images/people/bio-gallias.webp
   title: FAC Systems Analyst
   github: jgallias
   linkedin: jgallias
@@ -165,7 +165,7 @@ liane_albarghouthi:
   bio: UCSF Memory and Aging Center
   bio_long: >
     Research Data Analyst, 2022-2024. Liane received a B.S. in Bioengineering with a focus in Data Science, and is interested in machine learning applications related to computer vision tasks. In the Keiser lab, she implemented cutting-edge deep learning methods for neuropathology and histopathology datasets.
-  avatar: /assets/images/people/bio-lianeb.jpg
+  avatar: /assets/images/people/bio-lianeb.webp
   title: Research Data Analyst
   github: lianealbarghouthi
   linkedin: liane-albarghouthi
@@ -178,7 +178,7 @@ fedelle_austria:
   bio: ""
   bio_long: >
     Administrative Officer, 2021-2024. Fedelle studied anthropology and film studies at UCLA and was concurrently a master's student in East Asian Studies at Stanford University. Her current academic research focuses on health tourism in Korea. In her spare time, she enjoys traveling solo and spending time with her beloved Maltese-mix, Pan."
-  avatar: /assets/images/people/bio-austria.jpg
+  avatar: /assets/images/people/bio-austria.webp
   title: ""
   ncbi_id:
   type: alumn
@@ -189,7 +189,7 @@ sahru_keiser:
   bio: UCSF School of Pharmacy
   bio_long: >
     Project Manager, 2020-2024. Sahru is a public health professional with 10+ years of project management experience. She is passionate about improving health and has a background in health education, advocacy and community organizing. She has worked with communities on various public health issues like breast cancer, homelessness, food insecurity and Alzheimer's disease and related dementias and is passionate about improving health outcomes for all. Born in New York, Sahru lives in the Bay Area with her husband and two kids.
-  avatar: /assets/images/people/bio-keiser-sahru.jpg
+  avatar: /assets/images/people/bio-keiser-sahru.webp
   title: Project Manager
   linkedin: sahru-keiser-mph-53563427
   twitter: SahruKeiser
@@ -202,7 +202,7 @@ lise_minaud:
   bio: Minos Biosciences
   bio_long: >
     Data Scientist, 2020-2023. Lise graduated from Université Paris-Saclay with a Master 2 in Bioinformatics and Biostatistics. She is interested in developing machine learning methodologies in the field of neurodegenerative diseases and is currently working on digital images. In her free time, she enjoys hiking and cycling.
-  avatar: /assets/images/people/bio-minaud.jpg
+  avatar: /assets/images/people/bio-minaud.webp
   title: Data Scientist
   github: lise-minaud
   ncbi_id: Minaud L
@@ -215,7 +215,7 @@ mikio_tada:
   bio: Icahn School of Medicine at Mount Sinai
   bio_long: >
     Research Data Analyst, 2021-2024. Mikio received a B.S. in Mathematics and M.S. in Data Science. He researched the applications of deep learning in dermatology. In addition, he is interested in deep learning techniques for broad computer vision problems.
-  avatar: /assets/images/people/bio-tada.jpg
+  avatar: /assets/images/people/bio-tada.webp
   title: PhD Student in Biomedical Science
   github: mikiotada
   ncbi_id: Tada M
@@ -228,7 +228,7 @@ mahdi_ghorbani:
   bio: Expedition Medicine
   bio_long: >
     Postdoctoral Scholar, 2022-2024. Mahdi received his PhD in Chemical and Biomolecular Engineering from University of Maryland College Park (UMD). During his PhD, he applied machine learning and Markov state modeling on molecular dynamics trajectories to better understand kinetics of protein folding. He joined Keiser Lab in 2022, where he applied deep learning models for drug discovery and protein-ligand interactions.
-  avatar: /assets/images/people/bio-ghorbani.jpg
+  avatar: /assets/images/people/bio-ghorbani.webp
   title: Machine Learning Scientist
   github: ghorbanimahdi73
   google:
@@ -243,7 +243,7 @@ rish_sharma:
   bio: Cedars-Sinai
   bio_long: >
     Research Data Analyst, 2021-2023. Rish was interested in generative modeling and property prediction of molecules using machine learning approaches.
-  avatar: /assets/images/people/bio-rsharma.jpg
+  avatar: /assets/images/people/bio-rsharma.webp
   title: Research Associate Data Scientist
   github: rish647
   ncbi_id: Sharma R
@@ -256,7 +256,7 @@ victor_rabesquine:
   bio: Leibniz Institute of Plant Genetics and Crop Plant Research (IPK)
   bio_long: >
     Visiting [CAPES Scholar](https://www.iie.org/Programs/CAPES), 2022-2023. Victor is a biomolecular physicist who came from University of São Paulo, Brazil. Mentored by Prof. Dr. Rafael Guido and Dr. Alexandre Fassio, Victor used generative models to find new molecules with activity against infectious diseases.
-  avatar: /assets/images/people/bio-rabesquine.jpg
+  avatar: /assets/images/people/bio-rabesquine.webp
   title: Scientist, IGP Group
   github: Victor-Rabesquine
   google:
@@ -271,7 +271,7 @@ douglas_myers_turnbull:
   bio: San Diego Supercomputer Center
   bio_long: >
     Postdoctoral Scholar, 2020-2022. Douglas has a PhD in Bioinformatics. He received a B.S. in Computer Science with a Specialization in Bioinformatics (math minor) from UCSD, where he did research in structural biology. He then worked in clinical sequencing at the Stanford School of Medicine. At UCSF, he developed biological and computational methods to discover new neuroactive compounds in vivo, using zebrafish as a model. He is interested in software design, computer vision, and bioinformatics, and in integrating diverse data types.
-  avatar: /assets/images/people/bio-myers-turnbull.jpg
+  avatar: /assets/images/people/bio-myers-turnbull.webp
   title: Research Software Engineer
   github: dmyersturnbull
   linkedin: dmyersturnbull
@@ -284,7 +284,7 @@ luca_ponzoni:
   bio: Relay Therapeutics
   bio_long: >
     Postdoctoral Scholar, 2019-2022. Luca obtained his PhD in Physics and Chemistry of Biological Systems at SISSA, Trieste (Italy). As a postdoc in the Bahar lab at the University of Pittsburgh, he applied machine learning to integrate the analysis of structural dynamics of proteins in the prediction of the effects of missense variants. He joined the Keiser lab in 2019, where he worked on applying deep learning techniques to analyze molecular dynamics trajectories. He enjoys mounting biking and hiking in his free time.
-  avatar: /assets/images/people/bio-ponzoni.jpg
+  avatar: /assets/images/people/bio-ponzoni.webp
   title: Machine Learning Scientist
   github: luponzo86
   google:
@@ -299,7 +299,7 @@ noah_weber:
   bio: Microsoft
   bio_long: >
     Research Data Analyst, 2022. Primary research interests in model robustness, transparency, and structured data representation. Prior to joining UCSF, Noah worked as a researcher at Johns Hopkins University and Stony Brook University, where he conducted research in machine learning, language understanding, and causality.
-  avatar: /assets/images/people/bio-weber.jpg
+  avatar: /assets/images/people/bio-weber.webp
   title: Data & Applied Scientist
   github: weberna
   linkedin: noah-weber-1a37a0a1
@@ -312,7 +312,7 @@ nick_mew:
   bio: ""
   bio_long: >
     Coming from a software engineering and computer science background, I'm focused on creating research tools that combine the state of the art in machine learning, statistics and data visualization. My research involved training artificial neural networks to answer questions related to drugs, targets and their interactions. I also worked on creating interactive visualizations that help human neural networks answer similar questions.
-  avatar: /assets/images/people/bio-mew.jpg
+  avatar: /assets/images/people/bio-mew.webp
   title: Computational ML Research Specialist
   github: munick
   linkedin: nickmew
@@ -325,7 +325,7 @@ will_connell:
   bio: Transcripta Bio
   bio_long: >
     PSPG Grad student, 2019-2022. Clinicians practice medicine on a population level. The ability to molecularly characterize biological systems affords new opportunities in the personalization of patient treatment. Proper integration and interpretation of biological data types are necessary to deconvolute individual homeostatic imbalances. Network representation of this information most closely resembles our current models, and the application of machine learning methods to this data structure can help us understand complex interactions. Will was a student in the Pharmaceutical Sciences and Pharmacogenomics graduate degree program.
-  avatar: /assets/images/people/bio-connell.jpg
+  avatar: /assets/images/people/bio-connell.webp
   title: Senior ML Scientist
   linkedin: will-connell-26412352
   github: wconnell
@@ -338,7 +338,7 @@ cristina_melero:
   bio: ""
   bio_long: >
     Researcher and Lab Manager, 2014-2016.
-  avatar: /assets/images/people/bio-melero.jpg
+  avatar: /assets/images/people/bio-melero.webp
   title: ""
   linkedin: cristina-melero-4567524
   github: MeleroC
@@ -351,7 +351,7 @@ michael_mysinger:
   bio: Atomwise
   bio_long: >
     2015-2016.
-  avatar: /assets/images/people/bio-mysinger.jpg
+  avatar: /assets/images/people/bio-mysinger.webp
   title: Principal Scientist
   github: mmysinger
   linkedin: michael-mysinger-phd-536ba5b
@@ -362,7 +362,7 @@ teague_sterling:
   name: Teague Sterling, MS
   email: sterling@keiserlab.org
   bio: 23andMe
-  avatar: /assets/images/people/bio-sterling.jpg
+  avatar: /assets/images/people/bio-sterling.webp
   title: Director of Computational Biology Systems
   linkedin: teaguesterling
   github: teaguesterling
@@ -375,7 +375,7 @@ jizhou_yang:
   bio: Illumina
   bio_long: >
     Data science intern, 2017-2018.
-  avatar: /assets/images/people/bio-yang.jpg
+  avatar: /assets/images/people/bio-yang.webp
   title: Software Engineer II In Test
   linkedin: jason-jizhou-yang-43082a55
   github: JYang25
@@ -388,7 +388,7 @@ amanda_li:
   bio: Ultima Genomics
   bio_long: >
     Postdoctoral Fellow at UCSF and the [Accelerating Therapeutics for Opportunities in Medicine (ATOM) consortium](https://atomscience.org/), 2017-2019.
-  avatar: /assets/images/people/bio-li.jpg
+  avatar: /assets/images/people/bio-li.webp
   title: Software Integration Manager
   github: 8li
   linkedin: liamanda
@@ -401,7 +401,7 @@ ziqi_tang:
   bio: Google
   bio_long: >
     Visiting Research Scholar, 2017-2019. Ziqi was an undergraduate student from Tsinghua University School of Pharmaceutical Sciences, participating in the UCSF-Tsinghua University Joint Student Education Program. His interests are in polypharmacology and machine learning.
-  avatar: /assets/images/people/bio-tang.jpg
+  avatar: /assets/images/people/bio-tang.webp
   title: Software Engineer
   github: ZiqiTang919
   linkedin: ziqi-tang-bb404a180
@@ -414,7 +414,7 @@ alexandre_fassio:
   bio: Metaphore Biotechnologies
   bio_long: >
     Visiting [CAPES Scholar](https://www.iie.org/Programs/CAPES), 2018-2019. Alexandre was a visiting scholar from the Federal University of Minas Gerais, Brazil. He was mentored by Dr. Raquel Minardi and Dr. Rafaela Ferreira. He is developing molecular representations to visualize and perform machine learning on protein-ligand interactions.
-  avatar: /assets/images/people/bio-fassio.jpg
+  avatar: /assets/images/people/bio-fassio.webp
   title: Senior Scientist I, Computational Antibody Design
   github: alexandrefassio
   linkedin: alexandrefassio
@@ -427,7 +427,7 @@ edward_elhauge:
   bio: Freenome
   bio_long: >
     Computational biology researcher (Specialist), 2017-2019.
-  avatar: /assets/images/people/bio-elhauge.jpg
+  avatar: /assets/images/people/bio-elhauge.webp
   title: Senior Statistician and Epidemiologist
   github: eelhauge-keiserlab
   linkedin: edwardelhauge
@@ -440,7 +440,7 @@ ben_wong:
   bio: Bloomberg
   bio_long: >
     Systems and Infrastructure Admin, 2016-2019. Ben keeps the trains running and the GPU fans spinning. He administered the computational infrastructures of three UCSF labs, and did it with panache.
-  avatar: /assets/images/people/bio-bwong.jpg
+  avatar: /assets/images/people/bio-bwong.webp
   title: Incident Manager
   github: valkaben
   ncbi_id: Wong B
@@ -453,7 +453,7 @@ leo_gendelev:
   bio: Genentech
   bio_long: >
     Biophysics graduate student; Fletcher Jones Fellow, 2014-2019.
-  avatar: /assets/images/people/bio-gendelev.jpg
+  avatar: /assets/images/people/bio-gendelev.webp
   title: Senior AI Scientist - Computational Drug Discovery
   github: lgend
   ncbi_id: Gendelev L
@@ -466,7 +466,7 @@ jacob_pfau:
   bio: UK AI Security Institute
   bio_long: >
     Research Data Analyst; QBI Bold & Basic Fellow (2019-2020). Jacob's interests spanned the theory and applications of machine learning models -- and deep learning in particular. He previously graduated from Ecole Polytechnique, in Paris, with an M1 (masters) in data science and a focus on NLP and machine vision. He researched applications of deep learning to automated diagnosis in dermatology. His work included everything from data wrangling to refining convolutional architectures for the medical context.
-  avatar: /assets/images/people/bio-pfau.jpg
+  avatar: /assets/images/people/bio-pfau.webp
   title: Research Lead, AISI Alignment Team; NYU PhD Candidate
   github: JacobPfau
   ncbi_id: Pfau J
@@ -479,7 +479,7 @@ michelle_wong_ng:
   bio: UCSF Insitute for Health and Aging
   bio_long: >
     Administrative Officer, 2020. Michelle provided administrative support for Keiser Lab members.
-  avatar: /assets/images/people/bio-wong-ng.jpg
+  avatar: /assets/images/people/bio-wong-ng.webp
   title: Administrative Officer
   ncbi_id:
   type: alumn
@@ -490,7 +490,7 @@ albert_young:
   bio: "Henry Ford Health System"
   bio_long: >
     Albert was a 4th year Research Fellow and UCSF medical student interested in dermatology and machine learning in medicine. In the Keiser Lab he pursued a Yearlong Research Fellowship with co-mentor Dr. Maria Wei in the Department of Dermatology, with an emphasis on the automated diagnosis of skin lesions from digital images using deep learning. He is from Fullerton, California and enjoys playing tennis and hiking in his free time.
-  avatar: /assets/images/people/bio-young.jpg
+  avatar: /assets/images/people/bio-young.webp
   title: Medical Resident
   github: ayoung01
   ncbi_id: Young AT
@@ -503,7 +503,7 @@ yannah_melle:
   bio: UCLA, Dept Chemistry and Biochemistry
   bio_long: >
     Visiting Scholar (2020), SRTP Intern (2019). Yannah was a 4th year undergraduate student studying Chemical Engineering at the University of Michigan. In the Keiser lab, she investigated ligand-based drug discovery with cheminformatics and machine learning, using deep neural networks to predict the bioactivity of ligands for protein targets. She is excited about pursuing research and a career in biotechnology. Outside of academia Yannah is a foodie who loves to experience different cultures and do anything outdoors.
-  avatar: /assets/images/people/bio-melle.jpg
+  avatar: /assets/images/people/bio-melle.webp
   title: PhD Student
   github: JYang25
   ncbi_id: Melle Y
@@ -516,7 +516,7 @@ jessica_mckinley:
   bio: Septerna
   bio_long: >
     CTSI TL1 Postdoctoral Fellow, 2019-2021. Jessica graduated from UC Riverside with a PhD in Computational/Theoretical Chemistry. She applied machine learning techniques to analyze molecular dynamics trajectories. On her time off she enjoys hiking around the bay area.
-  avatar: /assets/images/people/bio-mckinley.jpg
+  avatar: /assets/images/people/bio-mckinley.webp
   title: Sr. Scientist Computational Chemistry
   github: jmcki003
   google:
@@ -531,7 +531,7 @@ varun_sharma:
   bio: CeMM (Bock and Menche Lab)
   bio_long: >
     Research Data Analyst, 2020-2021. Varun studied Biology at Williams College (BA) and Systems Biology at ETH Zurich (MSc), and was a research data analyst in the Keiser lab. Previously he worked on using NLP and machine learning to predict the function of new protein complexes in the Aebersold Lab for his MSc thesis at ETH Zurich. He pursuined the application of machine/deep learning methodologies for systems pharmacological interrogation of complex biological systems in the context of high content imaging drug screens. Broadly he looks to leverage machine learning for a variety of therapeutic discovery and systems biology problems in areas such as neurodegeneration, cancer, gut microbiomics, and metabolic disorders.
-  avatar: /assets/images/people/bio-vsharma.jpg
+  avatar: /assets/images/people/bio-vsharma.webp
   title: PhD Student
   github: sharmavaruns
   ncbi_id: Sharma V
@@ -544,7 +544,7 @@ garrett_gaskins:
   bio: "Genentech"
   bio_long: >
     Grad Student; Genentech Fellow; Hillblom Fellow, 2014-2021. High-content screening across varied cells, conditions, and chemical libraries has emerged as a key method for identifying novel compounds capable of systematically perturbing a biological network to induce a phenotype. The molecular targets (proteins, receptors, etc.) through which these compounds act to achieve their phenotype(s) are typically unknown. Garrett developed a chemoinformatic approach using aspects of image processing, machine learning, and SEA to identify the targets of novel compounds via their phenotypic signature.
-  avatar: /assets/images/people/bio-gaskins.jpg
+  avatar: /assets/images/people/bio-gaskins.webp
   title: AI/ML Scientist
   github: gtgask
   ncbi_id: Gaskins G
@@ -557,7 +557,7 @@ kangway_chuang:
   bio: Genentech
   bio_long: >
     Arnold O. Beckman Postdoctoral Fellow, 2017-2021.
-  avatar: /assets/images/people/bio-chuang.jpg
+  avatar: /assets/images/people/bio-chuang.webp
   title: Principal AI Scientist and Group Lead
   github: kangway
   linkedin: kangway
@@ -570,7 +570,7 @@ elena_caceres:
   bio: Nurix Therapeutics
   bio_long: >
     Grad Student, bioinformatics; NSF Fellow; HHMI Gilliam Fellow, 2015-2021. Elena graduated from UCSD with a B.Sc. in molecular biology and a minor in mathematics. As of 2014, she was a graduate student in the Bioinformatics program as part of the iPQB program at UCSF. She is interested in applying techniques from statistics and machine learning to better understand and predict features underlying drug-target interactions.
-  avatar: /assets/images/people/bio-caceres.jpg
+  avatar: /assets/images/people/bio-caceres.webp
   title: Scientist II Machine Learning
   github: elcaceres
   linkedin: elenacaceres
@@ -583,7 +583,7 @@ taline_mardirossian:
   bio: Terray Therapeutics
   bio_long: >
     Research Data Analyst, 2021-2022. Taline graduated from UC Berkeley with a B.A. in Data Science, concentrated in applied mathematics and modeling. Taline worked on the [SPOKE](https://spoke.ucsf.edu/) network project and is interested in the applications of machine learning in healthcare and medicine.
-  avatar: /assets/images/people/bio-mardirossian.jpg
+  avatar: /assets/images/people/bio-mardirossian.webp
   title: Senior Associate Data Scientist
   github: talinemardi
   ncbi_id: Mardirossian T
@@ -600,7 +600,7 @@ dan_wong:
     - [Prototype of running clinical trials in an untrustworthy environment using blockchain](https://doi.org/10.1038/s41467-019-08874-y). <ins>Wong DR</ins>, Bhattacharya S, Butte, AJ. **Nat Commun**. 2019 Feb 22.
 
     - [Robust Sequence Determinants of α-Synuclein Toxicity in Yeast Implicate Membrane Binding](https://pubmed.ncbi.nlm.nih.gov/32786289/). Newberry RW, Arhar T, Costello J, ... <ins>Wong DR</ins>, Wong G, Redding S, Chow ED, DeGrado WF, Kampmann M. **ACS Chem Biol**. 2020 Aug 21.
-  avatar: /assets/images/people/bio-dwong.jpg
+  avatar: /assets/images/people/bio-dwong.webp
   title: Senior Machine Learning Scientist
   github: wongdaniel8
   ncbi_id: Wong DR

@@ -9,6 +9,6 @@ type: alumn
 excerpt: "Postdoctoral Fellow at UCSF and the [Accelerating Therapeutics for Opportunities in Medicine (ATOM) consortium](https://atomscience.org/), 2017-2019.
 "
 header:
-  teaser: /assets/images/people/bio-li.jpg
+  teaser: /assets/images/people/bio-li.webp
 papers: 
 ---

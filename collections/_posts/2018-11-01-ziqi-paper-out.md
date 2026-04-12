@@ -19,7 +19,7 @@ With fantastic neuropathologist collaborator [Brittany Dugger (UC-Davis)](https:
 
 ## 2018 October - UC-Davis Artificial Intelligence & Machine Learning Symposium best abstract award
 
-![UCD-AI Abstract Award]({{ site.url }}/assets/images/posts/2018-11-01-UCD-AI-abstract-award.jpg)
+![UCD-AI Abstract Award]({{ site.url }}/assets/images/posts/2018-11-01-UCD-AI-abstract-award.webp)
 
 > Big congrats to Assistant Professor Brittany Dugger and her team, including undergrad Ziqi Tang!  They received the best...
 >
@@ -27,7 +27,7 @@ With fantastic neuropathologist collaborator [Brittany Dugger (UC-Davis)](https:
 
 ## 2018 September - Alzheimer’s Association poster award
 
-![AA Poster Award]({{ site.url }}/assets/images/posts/2018-11-01-aa-poster-award.jpg)
+![AA Poster Award]({{ site.url }}/assets/images/posts/2018-11-01-aa-poster-award.webp)
 
 > Today is World Alzheimer's Day!  We are therefore proud to share the work of our very own Assistant Professor Brittany...
 >

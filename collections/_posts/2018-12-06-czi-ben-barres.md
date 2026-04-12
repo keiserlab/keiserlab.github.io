@@ -15,7 +15,7 @@ Extremely honored to join the [#Neurodegeneration](https://twitter.com/hashtag/N
 >
 > — biohub ([@biohub](https://twitter.com/biohub)), [December 5, 2018](https://x.com/cziscience/status/1070394335282135040)
 >
-> ![](/assets/images/posts/1070394335282135040-quoted.jpg)
+> ![](/assets/images/posts/1070394335282135040-quoted.webp)
 
 [Original post (@keiser_lab)](https://twitter.com/keiser_lab/status/1070842830611013633)
 

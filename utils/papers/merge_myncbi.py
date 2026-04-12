@@ -38,7 +38,7 @@ permalink: /publications/
 excerpt: "Selected lab publications, with links to preprints and supporting content."
 tags: [publications, papers, preprints, manuscripts]
 header:
-   image: /assets/images/bar-network.jpg
+   image: /assets/images/bar-network.webp
 {feature_rows}
 ---
 {publications_jsonld}
@@ -130,7 +130,7 @@ tags: [resources, code, data, repositories, datasets, tools]
 modified:
 comments: false
 header:
-   image: /assets/images/bar-network.jpg
+   image: /assets/images/bar-network.webp
 ---
 {resources_jsonld}
 
@@ -621,7 +621,7 @@ def main(
             extra = render_extra_links(p[COL_EXTRA_LINKS])
             items.append(
                 F_ROW_ITEM.format(
-                    image=f"{p[COL_PID]}.jpg",
+                    image=f"{p[COL_PID]}.webp",
                     alt=p[COL_TITLE],
                     title=f'<span itemprop="name">{p[COL_TITLE]}</span>',
                     excerpt=PAPER_TEMPLATE.format(

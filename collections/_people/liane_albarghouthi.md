@@ -8,7 +8,7 @@ bio: UCSF Memory and Aging Center
 type: alumn
 excerpt: "Research Data Analyst, 2022-2024. Liane received a B.S. in Bioengineering with a focus in Data Science, and is interested in machine learning applications relat"
 header:
-  teaser: /assets/images/people/bio-lianeb.jpg
+  teaser: /assets/images/people/bio-lianeb.webp
 papers: 
     - title: Learning precise segmentation of neurofibrillary tangles from rapid manual point annotations
       excerpt: Ghandian S, <u>Albarghouthi L</u>, Nava K, Sharma SRR, Minaud L, Beckett L, Saito N, DeCarli C, Rissman RA, Teich AF, Jin LW, Dugger BN, Keiser MJ. __bioRxiv__. 2024 May 15.

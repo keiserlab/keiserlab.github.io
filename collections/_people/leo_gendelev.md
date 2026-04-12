@@ -9,7 +9,7 @@ type: alumn
 excerpt: "Biophysics graduate student; Fletcher Jones Fellow, 2014-2019.
 "
 header:
-  teaser: /assets/images/people/bio-gendelev.jpg
+  teaser: /assets/images/people/bio-gendelev.webp
 papers: 
     - title: Deep phenotypic profiling of neuroactive drugs in larval zebrafish
       excerpt: <u>Gendelev L</u>, Taylor J, Myers-Turnbull D, Chen S, McCarroll MN, Arkin MR, Kokel D, Keiser MJ. __Nat Commun__. 2024 Nov 17.

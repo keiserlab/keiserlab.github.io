@@ -8,7 +8,7 @@ bio: Animate Biosciences
 type: alumn
 excerpt: "[Kortemme Lab](http://kortemmelab.ucsf.edu/) (2021-2025). Keiser Lab; NSF Fellow (2021-2024). Ben graduated from Tufts in 2018 with a B.S. in Biochemistry and m"
 header:
-  teaser: /assets/images/people/bio-orr.jpg
+  teaser: /assets/images/people/bio-orr.webp
 papers: 
     - title: An improved model for prediction of de novo designed proteins with diverse geometries
       excerpt: <u>Orr B</u>, Crilly SE, Akpinaroglu D, Zhu E, Keiser MJ, Kortemme T. __bioRxiv__. 2025 Jun 06.

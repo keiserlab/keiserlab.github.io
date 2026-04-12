@@ -4,5 +4,5 @@ title: News Categories
 excerpt: "News items and job posts organized by category."
 permalink: /categories/
 header:
-   image: /assets/images/bar-network.jpg
+   image: /assets/images/bar-network.webp
 ---

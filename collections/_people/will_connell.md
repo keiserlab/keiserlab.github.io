@@ -8,7 +8,7 @@ bio: Transcripta Bio
 type: alumn
 excerpt: "PSPG Grad student, 2019-2022. Clinicians practice medicine on a population level. The ability to molecularly characterize biological systems affords new opportu"
 header:
-  teaser: /assets/images/people/bio-connell.jpg
+  teaser: /assets/images/people/bio-connell.webp
 papers: 
     - title: Learning chemical sensitivity reveals mechanisms of cellular response
       excerpt: <u>Connell W</u>, Garcia K, Goodarzi H, Keiser MJ. __Commun Biol__. 2024 Sep 15.

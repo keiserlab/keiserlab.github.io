@@ -8,7 +8,7 @@ bio: 23andMe
 type: alumn
 excerpt: ""
 header:
-  teaser: /assets/images/people/bio-sterling.jpg
+  teaser: /assets/images/people/bio-sterling.webp
 papers: 
     - title: Predicted Biological Activity of Purchasable Chemical Space
       excerpt: Irwin JJ, Gaskins G, <u>Sterling T</u>, Mysinger MM, Keiser MJ. __J Chem Inf Model__. 2018 Jan 22.

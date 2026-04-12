@@ -8,7 +8,7 @@ bio:
 type: alumn
 excerpt: "Coming from a software engineering and computer science background, I'm focused on creating research tools that combine the state of the art in machine learning"
 header:
-  teaser: /assets/images/people/bio-mew.jpg
+  teaser: /assets/images/people/bio-mew.webp
 papers: 
     - title: Deep learning from multiple experts improves identification of amyloid neuropathologies
       excerpt: Wong DR, Tang Z, <u>Mew NC</u>, Das S, Athey J, McAleese KE, Kofler JK, Flanagan ME, Borys E, White CL 3rd, Butte AJ, Dugger BN, Keiser MJ. __Acta Neuropathol Commun__. 2022 Apr 28.

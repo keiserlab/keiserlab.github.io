@@ -9,6 +9,6 @@ type: alumn
 excerpt: "Researcher and Lab Manager, 2014-2016.
 "
 header:
-  teaser: /assets/images/people/bio-melero.jpg
+  teaser: /assets/images/people/bio-melero.webp
 papers: 
 ---

@@ -8,7 +8,7 @@ bio: Icahn School of Medicine at Mount Sinai
 type: alumn
 excerpt: "Research Data Analyst, 2021-2024. Mikio received a B.S. in Mathematics and M.S. in Data Science. He researched the applications of deep learning in dermatology."
 header:
-  teaser: /assets/images/people/bio-tada.jpg
+  teaser: /assets/images/people/bio-tada.webp
 papers: 
     - title: Deep learning finds convergent melanocytic morphology despite noisy archival slides
       excerpt: <u>Tada M</u>, Gaskins G, Ghandian S, Mew N, Keiser MJ, Keiser ES. __Cell Rep Methods__. 2025 Oct 20.

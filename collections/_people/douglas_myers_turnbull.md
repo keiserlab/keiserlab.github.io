@@ -8,7 +8,7 @@ bio: San Diego Supercomputer Center
 type: alumn
 excerpt: "Postdoctoral Scholar, 2020-2022. Douglas has a PhD in Bioinformatics. He received a B.S. in Computer Science with a Specialization in Bioinformatics (math minor"
 header:
-  teaser: /assets/images/people/bio-myers-turnbull.jpg
+  teaser: /assets/images/people/bio-myers-turnbull.webp
 papers: 
     - title: Deep phenotypic profiling of neuroactive drugs in larval zebrafish
       excerpt: Gendelev L, Taylor J, <u>Myers-Turnbull D</u>, Chen S, McCarroll MN, Arkin MR, Kokel D, Keiser MJ. __Nat Commun__. 2024 Nov 17.

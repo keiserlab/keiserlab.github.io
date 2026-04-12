@@ -8,7 +8,7 @@ bio: UC Irvine
 type: alumn
 excerpt: "Research Data Analyst, 2022-2024. Sina graduated from UC Berkeley with a B.S. in Bioengineering and a concentration in data science. As an undergraduate, his re"
 header:
-  teaser: /assets/images/people/bio-ghandian.jpg
+  teaser: /assets/images/people/bio-ghandian.webp
 papers: 
     - title: Deep learning finds convergent melanocytic morphology despite noisy archival slides
       excerpt: Tada M, Gaskins G, <u>Ghandian S</u>, Mew N, Keiser MJ, Keiser ES. __Cell Rep Methods__. 2025 Oct 20.

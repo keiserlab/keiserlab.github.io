@@ -9,7 +9,7 @@ type: alumn
 excerpt: "Arnold O. Beckman Postdoctoral Fellow, 2017-2021.
 "
 header:
-  teaser: /assets/images/people/bio-chuang.jpg
+  teaser: /assets/images/people/bio-chuang.webp
 papers: 
     - title: Proximity Graph Networks- Predicting Ligand Affinity with Message Passing Neural Networks
       excerpt: Gale-Day ZJ, Shub L, <u>Chuang KV</u>, Keiser MJ. __J Chem Inf Model__. 2024 Jul 22.

@@ -8,6 +8,6 @@ bio: Novo Nordisk
 type: alumn
 excerpt: "Machine Learning Scientist, 2022-2023. Halimat is a physician scientist from the UK. After obtaining clinical experience in the National Health Service she comp"
 header:
-  teaser: /assets/images/people/bio-afolabi.jpg
+  teaser: /assets/images/people/bio-afolabi.webp
 papers: 
 ---

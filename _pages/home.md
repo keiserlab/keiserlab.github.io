@@ -4,12 +4,12 @@ layout: splash
 excerpt: "Systems pharmacology and deep learning laboratory at UCSF."
 tags: [SEA, machine learning, systems pharmacology, computational chemical biology]
 header:
-   image: /assets/images/bar-network.jpg
+   image: /assets/images/bar-network.webp
    image_description: "Keiser Lab network visualization"
 #intro: 
 #  - excerpt: ''
 feature_row:
-  - image_path: /assets/images/lab-photo.jpg
+  - image_path: /assets/images/lab-photo.webp
     alt: "lab lunch"
     title: "Welcome to the Keiser Lab @ UCSF"
     excerpt: "Our lab combines machine learning and chemical biology methods to investigate how small molecules perturb protein networks to achieve therapeutic effects.

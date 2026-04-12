@@ -9,6 +9,6 @@ type: alumn
 excerpt: "Administrative Officer, 2020. Michelle provided administrative support for Keiser Lab members.
 "
 header:
-  teaser: /assets/images/people/bio-wong-ng.jpg
+  teaser: /assets/images/people/bio-wong-ng.webp
 papers: 
 ---

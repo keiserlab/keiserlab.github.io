@@ -8,7 +8,7 @@ bio: Henry Ford Health System
 type: alumn
 excerpt: "Albert was a 4th year Research Fellow and UCSF medical student interested in dermatology and machine learning in medicine. In the Keiser Lab he pursued a Yearlo"
 header:
-  teaser: /assets/images/people/bio-young.jpg
+  teaser: /assets/images/people/bio-young.webp
 papers: 
     - title: Stress testing reveals gaps in clinic readiness of image-based diagnostic artificial intelligence models
       excerpt: <u>Young AT</u>, Fernandez K, Pfau J, Reddy R, Cao NA, von Franque MY, Johal A, Wu BV, Wu RR, Chen JY, Fadadu RP, Vasquez JA, Tam A, Keiser MJ, Wei ML. __NPJ Digit Med__. 2021 Jan 21.

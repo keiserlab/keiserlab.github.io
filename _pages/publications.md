@@ -6,10 +6,10 @@ permalink: /publications/
 excerpt: "Selected lab publications, with links to preprints and supporting content."
 tags: [publications, papers, preprints, manuscripts]
 header:
-   image: /assets/images/bar-network.jpg
+   image: /assets/images/bar-network.webp
 feature_row0:
 
-  - image_path: /assets/images/papers/10.1016.j.neuron.2025.06.014.jpg
+  - image_path: /assets/images/papers/10.1016.j.neuron.2025.06.014.webp
     alt: >-
         Accelerating biomedical discoveries in brain health through transformative neuropathology of aging and neurodegeneration
     title: >-
@@ -22,7 +22,7 @@ feature_row0:
         <i class="fas fa-book-open"></i>&nbsp; doi
     btn_class: "btn--info"
 
-  - image_path: /assets/images/papers/10.1016.j.crmeth.2025.101201.jpg
+  - image_path: /assets/images/papers/10.1016.j.crmeth.2025.101201.webp
     alt: >-
         Deep learning finds convergent melanocytic morphology despite noisy archival slides
     title: >-
@@ -44,7 +44,7 @@ feature_row0:
         label: "Paper code"
         role: paper
 
-  - image_path: /assets/images/papers/10.1016.j.cell.2025.06.035.jpg
+  - image_path: /assets/images/papers/10.1016.j.cell.2025.06.035.webp
     alt: >-
         Cell-type-directed network-correcting combination therapy for Alzheimer's disease
     title: >-
@@ -71,7 +71,7 @@ feature_row0:
 
 feature_row1:
 
-  - image_path: /assets/images/papers/10.1016.j.neuron.2025.06.012.jpg
+  - image_path: /assets/images/papers/10.1016.j.neuron.2025.06.012.webp
     alt: >-
         The polypharmacology of psychedelics reveals multiple targets for potential therapeutics
     title: >-
@@ -88,7 +88,7 @@ feature_row1:
         url: "https://data.mendeley.com/datasets/p54dxd7sf6/1"
         label: "Mendeley"
 
-  - image_path: /assets/images/papers/10.1021.acs.jcim.5c00850.jpg
+  - image_path: /assets/images/papers/10.1021.acs.jcim.5c00850.webp
     alt: >-
         Autoparty: Machine Learning-Guided Visual Inspection of Molecular Docking Results
     title: >-
@@ -110,7 +110,7 @@ feature_row1:
         label: "Autoparty"
         role: tool
 
-  - image_path: /assets/images/papers/10.1038.s41467-025-61315-x.jpg
+  - image_path: /assets/images/papers/10.1038.s41467-025-61315-x.webp
     alt: >-
         MIC: A deep learning tool for assigning ions and waters in cryo-EM and crystal structures
     title: >-
@@ -137,7 +137,7 @@ feature_row1:
 
 feature_row2:
 
-  - image_path: /assets/images/papers/10.1126.science.adu1058.jpg
+  - image_path: /assets/images/papers/10.1126.science.adu1058.webp
     alt: >-
         Evolutionary-scale enzymology enables exploration of a rugged catalytic landscape
     title: >-
@@ -162,7 +162,7 @@ feature_row2:
         url: "https://doi.org/10.5281/zenodo.15043239"
         label: "Zenodo"
 
-  - image_path: /assets/images/papers/bioRxiv.2025.06.02.657515.jpg
+  - image_path: /assets/images/papers/bioRxiv.2025.06.02.657515.webp
     alt: >-
         An improved model for prediction of de novo designed proteins with diverse geometries
     title: >-
@@ -179,7 +179,7 @@ feature_row2:
         <i class="ai ai-biorxiv"></i>&nbsp; bioRxiv
     btn2_class: "btn--success"
 
-  - image_path: /assets/images/papers/10.1021.acs.jcim.4c01876.jpg
+  - image_path: /assets/images/papers/10.1021.acs.jcim.4c01876.webp
     alt: >-
         Fuzz Testing Molecular Representation Using Deep Variational Anomaly Generation
     title: >-
@@ -203,7 +203,7 @@ feature_row2:
 
 feature_row3:
 
-  - image_path: /assets/images/papers/10.1371.journal.pcbi.1012841.jpg
+  - image_path: /assets/images/papers/10.1371.journal.pcbi.1012841.webp
     alt: >-
         ChromaFactor: Deconvolution of single-molecule chromatin organization with non-negative matrix factorization
     title: >-
@@ -225,7 +225,7 @@ feature_row3:
         label: "Paper code"
         role: paper
 
-  - image_path: /assets/images/papers/10.1038.s41467-024-54375-y.jpg
+  - image_path: /assets/images/papers/10.1038.s41467-024-54375-y.webp
     alt: >-
         Deep phenotypic profiling of neuroactive drugs in larval zebrafish
     title: >-
@@ -250,7 +250,7 @@ feature_row3:
         url: "https://doi.org/10.5281/zenodo.10652682"
         label: "Zenodo"
 
-  - image_path: /assets/images/papers/10.1021.acs.jcim.4c00683.jpg
+  - image_path: /assets/images/papers/10.1021.acs.jcim.4c00683.webp
     alt: >-
         Retrieval Augmented Docking Using Hierarchical Navigable Small Worlds
     title: >-
@@ -274,7 +274,7 @@ feature_row3:
 
 feature_row4:
 
-  - image_path: /assets/images/papers/10.1038.s42003-024-06865-4.jpg
+  - image_path: /assets/images/papers/10.1038.s42003-024-06865-4.webp
     alt: >-
         Learning chemical sensitivity reveals mechanisms of cellular response
     title: >-
@@ -299,7 +299,7 @@ feature_row4:
         url: "https://doi.org/10.5281/zenodo.13381833"
         label: "Zenodo"
 
-  - image_path: /assets/images/papers/10.1021.acs.jcim.4c00311.jpg
+  - image_path: /assets/images/papers/10.1021.acs.jcim.4c00311.webp
     alt: >-
         Proximity Graph Networks: Predicting Ligand Affinity with Message Passing Neural Networks
     title: >-
@@ -321,7 +321,7 @@ feature_row4:
         label: "torch_pgn"
         role: tool
 
-  - image_path: /assets/images/papers/bioRxiv.2024.05.15.594372.jpg
+  - image_path: /assets/images/papers/bioRxiv.2024.05.15.594372.webp
     alt: >-
         Learning precise segmentation of neurofibrillary tangles from rapid manual point annotations
     title: >-
@@ -348,7 +348,7 @@ feature_row4:
 
 feature_row5:
 
-  - image_path: /assets/images/papers/10.1186.s40478-023-01691-x.jpg
+  - image_path: /assets/images/papers/10.1186.s40478-023-01691-x.webp
     alt: >-
         Toward a generalizable machine learning workflow for neurodegenerative disease staging with focus on neurofibrillary tangles
     title: >-
@@ -369,7 +369,7 @@ feature_row5:
         url: "https://drive.google.com/drive/folders/16LUMrIMdp4LlvWQk5Dp3eVQHWY472jN5"
         label: "Google Drive"
 
-  - image_path: /assets/images/papers/arXiv_-_NeurIPS_GenBio.2401.05370.jpg
+  - image_path: /assets/images/papers/arXiv_-_NeurIPS_GenBio.2401.05370.webp
     alt: >-
         Autoregressive fragment-based diffusion for pocket-aware ligand design
     title: >-
@@ -391,7 +391,7 @@ feature_row5:
         label: "AutoFragDiff"
         role: tool
 
-  - image_path: /assets/images/papers/10.1016.j.xgen.2023.100410.jpg
+  - image_path: /assets/images/papers/10.1016.j.xgen.2023.100410.webp
     alt: >-
         In silico discovery of repetitive elements as key sequence determinants of 3D genome folding
     title: >-
@@ -415,7 +415,7 @@ feature_row5:
 
 feature_row6:
 
-  - image_path: /assets/images/papers/10.1038.s42003-023-05031-6.jpg
+  - image_path: /assets/images/papers/10.1038.s42003-023-05031-6.webp
     alt: >-
         Learning fast and fine-grained detection of amyloid neuropathologies from coarse-grained expert labels
     title: >-
@@ -440,7 +440,7 @@ feature_row6:
         url: "https://doi.org/10.17605/OSF.IO/FCPMW"
         label: "OSF"
 
-  - image_path: /assets/images/papers/arXiv_-_NeurIPS_LMRL.2210.14330.jpg
+  - image_path: /assets/images/papers/arXiv_-_NeurIPS_LMRL.2210.14330.webp
     alt: >-
         A single-cell gene expression language model
     title: >-
@@ -462,7 +462,7 @@ feature_row6:
         label: "Exceiver"
         role: tool
 
-  - image_path: /assets/images/papers/10.1021.acs.jcim.2c00695.jpg
+  - image_path: /assets/images/papers/10.1021.acs.jcim.2c00695.webp
     alt: >-
         Prioritizing Virtual Screening with Interpretable Interaction Fingerprints
     title: >-
@@ -486,7 +486,7 @@ feature_row6:
 
 feature_row7:
 
-  - image_path: /assets/images/papers/bioRxiv.2020.01.01.891432.jpg
+  - image_path: /assets/images/papers/bioRxiv.2020.01.01.891432.webp
     alt: >-
         Simultaneous analysis of neuroactive compounds in zebrafish
     title: >-
@@ -507,7 +507,7 @@ feature_row7:
         url: "https://osf.io/3dp6x"
         label: "OSF"
 
-  - image_path: /assets/images/papers/10.1038.s42256-022-00490-8.jpg
+  - image_path: /assets/images/papers/10.1038.s42256-022-00490-8.webp
     alt: >-
         Trans-channel fluorescence learning improves high-content screening for Alzheimer's disease therapeutics
     title: >-
@@ -532,7 +532,7 @@ feature_row7:
         url: "https://doi.org/10.17605/OSF.IO/XNTD6"
         label: "OSF"
 
-  - image_path: /assets/images/papers/10.1186.s40478-022-01365-0.jpg
+  - image_path: /assets/images/papers/10.1186.s40478-022-01365-0.webp
     alt: >-
         Deep learning from multiple experts improves identification of amyloid neuropathologies
     title: >-
@@ -559,7 +559,7 @@ feature_row7:
 
 feature_row8:
 
-  - image_path: /assets/images/papers/10.1038.s41746-020-00380-6.jpg
+  - image_path: /assets/images/papers/10.1038.s41746-020-00380-6.webp
     alt: >-
         Stress testing reveals gaps in clinic readiness of image-based diagnostic artificial intelligence models
     title: >-
@@ -572,7 +572,7 @@ feature_row8:
         <i class="fas fa-book-open"></i>&nbsp; doi
     btn_class: "btn--info"
 
-  - image_path: /assets/images/papers/10.1021.acs.jcim.0c00565.jpg
+  - image_path: /assets/images/papers/10.1021.acs.jcim.0c00565.webp
     alt: >-
         Adding Stochastic Negative Examples into Machine Learning Improves Molecular Bioactivity Prediction
     title: >-
@@ -594,7 +594,7 @@ feature_row8:
         label: "Paper code"
         role: paper
 
-  - image_path: /assets/images/papers/bioRxiv_-_NeurIPS_LMRL.2021.03.15.435529.jpg
+  - image_path: /assets/images/papers/bioRxiv_-_NeurIPS_LMRL.2021.03.15.435529.webp
     alt: >-
         Predicting Cellular Drug Sensitivity using Conditional Modulation of Gene Expression
     title: >-
@@ -618,7 +618,7 @@ feature_row8:
 
 feature_row9:
 
-  - image_path: /assets/images/papers/arXiv_-_NeurIPS_ML4Molecules.2011.1282.jpg
+  - image_path: /assets/images/papers/arXiv_-_NeurIPS_ML4Molecules.2011.1282.webp
     alt: >-
         Attention-Based Learning on Molecular Ensembles
     title: >-
@@ -635,7 +635,7 @@ feature_row9:
         <i class="ai ai-arxiv"></i>&nbsp; NeurIPS ML4Molecules
     btn2_class: "btn--success"
 
-  - image_path: /assets/images/papers/10.1021.acs.jmedchem.0c00385.jpg
+  - image_path: /assets/images/papers/10.1021.acs.jmedchem.0c00385.webp
     alt: >-
         Learning Molecular Representations for Medicinal Chemistry
     title: >-
@@ -648,7 +648,7 @@ feature_row9:
         <i class="fas fa-book-open"></i>&nbsp; doi
     btn_class: "btn--info"
 
-  - image_path: /assets/images/papers/10.1016.j.jid.2020.02.026.jpg
+  - image_path: /assets/images/papers/10.1016.j.jid.2020.02.026.webp
     alt: >-
         Artificial Intelligence in Dermatology: A Primer
     title: >-
@@ -663,7 +663,7 @@ feature_row9:
 
 feature_row10:
 
-  - image_path: /assets/images/papers/arXiv_-_ICML_-_WHI.2104.02768.jpg
+  - image_path: /assets/images/papers/arXiv_-_ICML_-_WHI.2104.02768.webp
     alt: >-
         Robust Semantic Interpretability: Revisiting Concept Activation Vectors
     title: >-
@@ -688,7 +688,7 @@ feature_row10:
         url: "https://zenodo.org/record/3889104"
         label: "Zenodo"
 
-  - image_path: /assets/images/papers/10.1186.s40478-020-00927-4.jpg
+  - image_path: /assets/images/papers/10.1186.s40478-020-00927-4.webp
     alt: >-
         Validation of machine learning models to detect amyloid pathologies across institutions
     title: >-
@@ -709,7 +709,7 @@ feature_row10:
         url: "http://computablebrain.emory.edu:8080/#collection/5d607ae8d1dbc700dde750a7/folder/5e29ef629f68993bf1676f78"
         label: "Emory"
 
-  - image_path: /assets/images/papers/arXiv_-_NeurIPS_ML4H.1910.07604.jpg
+  - image_path: /assets/images/papers/arXiv_-_NeurIPS_ML4H.1910.07604.webp
     alt: >-
         Global Saliency: Aggregating Saliency Maps to Assess Dataset Artefact Bias
     title: >-
@@ -728,7 +728,7 @@ feature_row10:
 
 feature_row11:
 
-  - image_path: /assets/images/papers/10.1038.s41467-019-11936-w.jpg
+  - image_path: /assets/images/papers/10.1038.s41467-019-11936-w.webp
     alt: >-
         Zebrafish behavioural profiling identifies GABA and serotonin receptor ligands related to sedation and paradoxical excitation
     title: >-
@@ -745,7 +745,7 @@ feature_row11:
         url: "https://doi.org/10.5281/zenodo.3336616"
         label: "Zenodo"
 
-  - image_path: /assets/images/papers/10.1038.s41467-019-10212-1.jpg
+  - image_path: /assets/images/papers/10.1038.s41467-019-10212-1.webp
     alt: >-
         Interpretable classification of Alzheimer's disease pathologies with a convolutional neural network pipeline
     title: >-
@@ -770,7 +770,7 @@ feature_row11:
         url: "https://doi.org/10.5281/zenodo.1470797"
         label: "Zenodo"
 
-  - image_path: /assets/images/papers/10.1126.science.aat8603.jpg
+  - image_path: /assets/images/papers/10.1126.science.aat8603.webp
     alt: >-
         Comment on &quot;Predicting reaction performance in C-N cross-coupling using machine learning&quot;
     title: >-
@@ -790,7 +790,7 @@ feature_row11:
 
 feature_row12:
 
-  - image_path: /assets/images/papers/10.1021.acschembio.8b00881.jpg
+  - image_path: /assets/images/papers/10.1021.acschembio.8b00881.webp
     alt: >-
         Adversarial Controls for Scientific Machine Learning
     title: >-
@@ -803,7 +803,7 @@ feature_row12:
         <i class="fas fa-book-open"></i>&nbsp; doi
     btn_class: "btn--info"
 
-  - image_path: /assets/images/papers/10.1016.j.cell.2018.06.016.jpg
+  - image_path: /assets/images/papers/10.1016.j.cell.2018.06.016.webp
     alt: >-
         The Psychiatric Cell Map Initiative: A Convergent Systems Biological Approach to Illuminating Key Molecular Pathways in Neuropsychiatric Disorders
     title: >-
@@ -820,7 +820,7 @@ feature_row12:
         url: "http://pcmi.ucsf.edu/"
         label: "pcmi"
 
-  - image_path: /assets/images/papers/10.1021.acs.jcim.7b00316.jpg
+  - image_path: /assets/images/papers/10.1021.acs.jcim.7b00316.webp
     alt: >-
         Predicted Biological Activity of Purchasable Chemical Space
     title: >-
@@ -842,7 +842,7 @@ feature_row12:
 
 feature_row13:
 
-  - image_path: /assets/images/papers/10.1016.j.celrep.2017.10.026.jpg
+  - image_path: /assets/images/papers/10.1016.j.celrep.2017.10.026.webp
     alt: >-
         Evolutionarily Conserved Roles for Blood-Brain Barrier Xenobiotic Transporters in Endogenous Steroid Partitioning and Behavior
     title: >-
@@ -859,7 +859,7 @@ feature_row13:
         <i class="ai ai-biorxiv"></i>&nbsp; bioRxiv
     btn2_class: "btn--success"
 
-  - image_path: /assets/images/papers/10.1021.acs.jmedchem.7b00696.jpg
+  - image_path: /assets/images/papers/10.1021.acs.jmedchem.7b00696.webp
     alt: >-
         A Simple Representation of Three-Dimensional Molecular Structure
     title: >-
@@ -885,7 +885,7 @@ feature_row13:
         label: "Paper code"
         role: paper
 
-  - image_path: /assets/images/papers/10.1038.nchembio.2097.jpg
+  - image_path: /assets/images/papers/10.1038.nchembio.2097.webp
     alt: >-
         Zebrafish behavioral profiling identifies multitarget antipsychotic-like compounds
     title: >-
@@ -900,7 +900,7 @@ feature_row13:
 
 feature_row14:
 
-  - image_path: /assets/images/papers/10.1021.acschembio.5b00800.jpg
+  - image_path: /assets/images/papers/10.1021.acschembio.5b00800.webp
     alt: >-
         Leveraging Large-scale Behavioral Profiling in Zebrafish to Explore Neuroactive Polypharmacology
     title: >-
@@ -913,7 +913,7 @@ feature_row14:
         <i class="fas fa-book-open"></i>&nbsp; doi
     btn_class: "btn--info"
 
-  - image_path: /assets/images/papers/10.1016.S2215-0366(15)00553-2.jpg
+  - image_path: /assets/images/papers/10.1016.S2215-0366(15)00553-2.webp
     alt: >-
         Polygenic overlap between schizophrenia risk and antipsychotic response: a genomic medicine approach
     title: >-
@@ -926,7 +926,7 @@ feature_row14:
         <i class="fas fa-book-open"></i>&nbsp; doi
     btn_class: "btn--info"
 
-  - image_path: /assets/images/papers/10.1007.s10928-015-9436-y.jpg
+  - image_path: /assets/images/papers/10.1007.s10928-015-9436-y.webp
     alt: >-
         Prediction and validation of enzyme and transporter off-targets for metformin
     title: >-
@@ -941,7 +941,7 @@ feature_row14:
 
 feature_row15:
 
-  - image_path: /assets/images/papers/10.1002.cpt.2.jpg
+  - image_path: /assets/images/papers/10.1002.cpt.2.webp
     alt: >-
         Systems pharmacology augments drug safety surveillance
     title: >-
@@ -954,7 +954,7 @@ feature_row15:
         <i class="fas fa-book-open"></i>&nbsp; doi
     btn_class: "btn--info"
 
-  - image_path: /assets/images/papers/10.1371.journal.pbio.1001712.jpg
+  - image_path: /assets/images/papers/10.1371.journal.pbio.1001712.webp
     alt: >-
         In silico molecular comparisons of C. elegans and mammalian pharmacology identify distinct targets that regulate feeding
     title: >-
@@ -967,7 +967,7 @@ feature_row15:
         <i class="fas fa-book-open"></i>&nbsp; doi
     btn_class: "btn--info"
 
-  - image_path: /assets/images/papers/10.1038.nature11159.jpg
+  - image_path: /assets/images/papers/10.1038.nature11159.webp
     alt: >-
         Large-scale prediction and testing of drug activity on side-effect targets
     title: >-
@@ -982,7 +982,7 @@ feature_row15:
 
 feature_row16:
 
-  - image_path: /assets/images/papers/10.1038.nchembio.732.jpg
+  - image_path: /assets/images/papers/10.1038.nchembio.732.webp
     alt: >-
         Chemical informatics and target identification in a zebrafish phenotypic screen
     title: >-
@@ -995,7 +995,7 @@ feature_row16:
         <i class="fas fa-book-open"></i>&nbsp; doi
     btn_class: "btn--info"
 
-  - image_path: /assets/images/papers/10.1038.npp.2010.195.jpg
+  - image_path: /assets/images/papers/10.1038.npp.2010.195.webp
     alt: >-
         The presynaptic component of the serotonergic system is required for clozapine's efficacy
     title: >-
@@ -1008,7 +1008,7 @@ feature_row16:
         <i class="fas fa-book-open"></i>&nbsp; doi
     btn_class: "btn--info"
 
-  - image_path: /assets/images/papers/10.1021.bi101540g.jpg
+  - image_path: /assets/images/papers/10.1021.bi101540g.webp
     alt: >-
         The chemical basis of pharmacology
     title: >-
@@ -1023,7 +1023,7 @@ feature_row16:
 
 feature_row17:
 
-  - image_path: /assets/images/papers/10.1021.jm100488w.jpg
+  - image_path: /assets/images/papers/10.1021.jm100488w.webp
     alt: >-
         Complementarity between a docking and a high-throughput screen in discovering new cruzain inhibitors
     title: >-
@@ -1036,7 +1036,7 @@ feature_row17:
         <i class="fas fa-book-open"></i>&nbsp; doi
     btn_class: "btn--info"
 
-  - image_path: /assets/images/papers/10.1021.jm901613f.jpg
+  - image_path: /assets/images/papers/10.1021.jm901613f.webp
     alt: >-
         Prediction and evaluation of protein farnesyltransferase inhibition by commercial drugs
     title: >-
@@ -1049,7 +1049,7 @@ feature_row17:
         <i class="fas fa-book-open"></i>&nbsp; doi
     btn_class: "btn--info"
 
-  - image_path: /assets/images/papers/20581797.jpg
+  - image_path: /assets/images/papers/20581797.webp
     alt: >-
         A pilot study of the pharmacodynamic impact of SSRI drug selection and beta-1 receptor genotype (ADRB1) on cardiac vital signs in depressed patients: a novel pharmacogenetic approach
     title: >-
@@ -1064,7 +1064,7 @@ feature_row17:
 
 feature_row18:
 
-  - image_path: /assets/images/papers/10.1038.nature08506.jpg
+  - image_path: /assets/images/papers/10.1038.nature08506.webp
     alt: >-
         Predicting new molecular targets for known drugs
     title: >-
@@ -1077,7 +1077,7 @@ feature_row18:
         <i class="fas fa-book-open"></i>&nbsp; doi
     btn_class: "btn--info"
 
-  - image_path: /assets/images/papers/10.1371.journal.pcbi.1000474.jpg
+  - image_path: /assets/images/papers/10.1371.journal.pcbi.1000474.webp
     alt: >-
         A mapping of drug space from the viewpoint of small molecule metabolism
     title: >-
@@ -1090,7 +1090,7 @@ feature_row18:
         <i class="fas fa-book-open"></i>&nbsp; doi
     btn_class: "btn--info"
 
-  - image_path: /assets/images/papers/10.1038.nchembio.180.jpg
+  - image_path: /assets/images/papers/10.1038.nchembio.180.webp
     alt: >-
         Quantifying biogenic bias in screening libraries
     title: >-
@@ -1105,7 +1105,7 @@ feature_row18:
 
 feature_row19:
 
-  - image_path: /assets/images/papers/10.1007.978-1-60761-274-2_8.jpg
+  - image_path: /assets/images/papers/10.1007.978-1-60761-274-2_8.webp
     alt: >-
         Off-target networks derived from ligand set similarity
     title: >-
@@ -1118,7 +1118,7 @@ feature_row19:
         <i class="fas fa-book-open"></i>&nbsp; doi
     btn_class: "btn--info"
 
-  - image_path: /assets/images/papers/10.1021.ci8000259.jpg
+  - image_path: /assets/images/papers/10.1021.ci8000259.webp
     alt: >-
         Quantifying the relationships among drug classes
     title: >-
@@ -1131,7 +1131,7 @@ feature_row19:
         <i class="fas fa-book-open"></i>&nbsp; doi
     btn_class: "btn--info"
 
-  - image_path: /assets/images/papers/10.1038.nbt1284.jpg
+  - image_path: /assets/images/papers/10.1038.nbt1284.webp
     alt: >-
         Relating protein pharmacology by ligand chemistry
     title: >-

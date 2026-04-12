@@ -8,7 +8,7 @@ bio: Inductive Bio
 type: alumn
 excerpt: "[Pinney Lab](https://www.pinneylabucsf.com/) (2022-2025). Keiser Lab (2022-2024). Duncan completed his B.S. in Data Science and Biochemistry at Northeastern Uni"
 header:
-  teaser: /assets/images/people/bio-muir.jpg
+  teaser: /assets/images/people/bio-muir.webp
 papers: 
     - title: Autoparty- Machine Learning-Guided Visual Inspection of Molecular Docking Results
       excerpt: Shub L, Korczynska M, <u>Muir DF</u>, Lin FY, Hall BW, Mathiowetz AM, Keiser MJ. __J Chem Inf Model__. 2025 Aug 11.

@@ -8,7 +8,7 @@ bio: Metaphore Biotechnologies
 type: alumn
 excerpt: "Visiting [CAPES Scholar](https://www.iie.org/Programs/CAPES), 2018-2019. Alexandre was a visiting scholar from the Federal University of Minas Gerais, Brazil. H"
 header:
-  teaser: /assets/images/people/bio-fassio.jpg
+  teaser: /assets/images/people/bio-fassio.webp
 papers: 
     - title: Prioritizing Virtual Screening with Interpretable Interaction Fingerprints
       excerpt: <u>Fassio AV</u>, Shub L, Ponzoni L, McKinley J, O'Meara MJ, Ferreira RS, Keiser MJ, de Melo Minardi RC. __J Chem Inf Model__. 2022 Sep 26.

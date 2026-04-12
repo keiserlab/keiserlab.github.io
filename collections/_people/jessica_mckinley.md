@@ -8,6 +8,6 @@ bio: Septerna
 type: alumn
 excerpt: "CTSI TL1 Postdoctoral Fellow, 2019-2021. Jessica graduated from UC Riverside with a PhD in Computational/Theoretical Chemistry. She applied machine learning tec"
 header:
-  teaser: /assets/images/people/bio-mckinley.jpg
+  teaser: /assets/images/people/bio-mckinley.webp
 papers: 
 ---

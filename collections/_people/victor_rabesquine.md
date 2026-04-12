@@ -8,7 +8,7 @@ bio: Leibniz Institute of Plant Genetics and Crop Plant Research (IPK)
 type: alumn
 excerpt: "Visiting [CAPES Scholar](https://www.iie.org/Programs/CAPES), 2022-2023. Victor is a biomolecular physicist who came from University of São Paulo, Brazil. Mento"
 header:
-  teaser: /assets/images/people/bio-rabesquine.jpg
+  teaser: /assets/images/people/bio-rabesquine.webp
 papers: 
     - title: Fuzz Testing Molecular Representation Using Deep Variational Anomaly Generation
       excerpt: <u>Nogueira VHR</u>, Sharma R, Guido RVC, Keiser MJ. __J Chem Inf Model__. 2025 Feb 24.

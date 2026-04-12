@@ -8,7 +8,7 @@ bio: Google
 type: alumn
 excerpt: "Visiting Research Scholar, 2017-2019. Ziqi was an undergraduate student from Tsinghua University School of Pharmaceutical Sciences, participating in the UCSF-Ts"
 header:
-  teaser: /assets/images/people/bio-tang.jpg
+  teaser: /assets/images/people/bio-tang.webp
 papers: 
     - title: Deep learning from multiple experts improves identification of amyloid neuropathologies
       excerpt: Wong DR, <u>Tang Z</u>, Mew NC, Das S, Athey J, McAleese KE, Kofler JK, Flanagan ME, Borys E, White CL 3rd, Butte AJ, Dugger BN, Keiser MJ. __Acta Neuropathol Commun__. 2022 Apr 28.

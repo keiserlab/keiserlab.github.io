@@ -8,7 +8,7 @@ bio: pharm chem; bts; bchsi; kifn; ind
 type: alumn
 excerpt: "<p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and a Paul G. Allen Distinguished Investigator. Michael joined the UCSF faculty in 2014, in t"
 header:
-  teaser: /assets/images/people/bio-keiser.jpg
+  teaser: /assets/images/people/bio-keiser.webp
 papers: 
     - title: Accelerating biomedical discoveries in brain health through transformative neuropathology of aging and neurodegeneration
       excerpt: Murray ME, Smith C, Menon V, Keene CD, Lein E, Hawrylycz M, Aguzzi A, Benedetti B, Brose K, Caetano-Anolles K, Sillero MIC, Crary JF, De Jager PL, Faustin A, Flanagan ME, Gokce O, Grant SGN, Grinberg LT, Gutman DA, Hillman EMC, Huang Z, Irwin DJ, Jones DT, Kapasi A, Karch CM, Kukull WT, Lashley T, Lee EB, Lehner T, Parkkinen L, Pedersen M, Pritchett D, Rutledge MH, Schneider JA, Seeley WW, Shepherd CE, Spires-Jones TL, Steen JA, Sutherland M, Vickovic S, Zhang B, Stewart DJ, <u>Keiser MJ</u>, Vogel JW, Dugger BN, Phatnani H. __Neuron__. 2025 Nov 19.

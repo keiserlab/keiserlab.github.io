@@ -8,6 +8,6 @@ bio: UCLA, Dept Chemistry and Biochemistry
 type: alumn
 excerpt: "Visiting Scholar (2020), SRTP Intern (2019). Yannah was a 4th year undergraduate student studying Chemical Engineering at the University of Michigan. In the Kei"
 header:
-  teaser: /assets/images/people/bio-melle.jpg
+  teaser: /assets/images/people/bio-melle.webp
 papers: 
 ---

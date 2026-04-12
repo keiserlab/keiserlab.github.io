@@ -8,7 +8,7 @@ bio: Expedition Medicine
 type: alumn
 excerpt: "Postdoctoral Scholar, 2022-2024. Mahdi received his PhD in Chemical and Biomolecular Engineering from University of Maryland College Park (UMD). During his PhD,"
 header:
-  teaser: /assets/images/people/bio-ghorbani.jpg
+  teaser: /assets/images/people/bio-ghorbani.webp
 papers: 
     - title: Autoregressive fragment-based diffusion for pocket-aware ligand design
       excerpt: <u>Ghorbani M</u>, Gendelev L, Beroza P, Keiser MJ. __arXiv - NeurIPS GenBio__. 2023 Nov 2.

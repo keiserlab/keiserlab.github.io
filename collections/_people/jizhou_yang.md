@@ -9,6 +9,6 @@ type: alumn
 excerpt: "Data science intern, 2017-2018.
 "
 header:
-  teaser: /assets/images/people/bio-yang.jpg
+  teaser: /assets/images/people/bio-yang.webp
 papers: 
 ---

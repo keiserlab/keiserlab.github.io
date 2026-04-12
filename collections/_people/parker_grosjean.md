@@ -8,6 +8,6 @@ bio: Insitro
 type: alumn
 excerpt: "[Kampmann Lab](https://kampmannlab.ucsf.edu/) (2021-2025). Keiser Lab (2021-2024). As an undergraduate student Parker studied Bioengineering and Applied Mathema"
 header:
-  teaser: /assets/images/people/bio-grosjean.jpg
+  teaser: /assets/images/people/bio-grosjean.webp
 papers: 
 ---

@@ -9,6 +9,6 @@ type: alumn
 excerpt: "Computational biology researcher (Specialist), 2017-2019.
 "
 header:
-  teaser: /assets/images/people/bio-elhauge.jpg
+  teaser: /assets/images/people/bio-elhauge.webp
 papers: 
 ---

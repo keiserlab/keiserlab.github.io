@@ -9,7 +9,7 @@ type: alumn
 excerpt: "Research Data Analyst, 2021-2023. Rish was interested in generative modeling and property prediction of molecules using machine learning approaches.
 "
 header:
-  teaser: /assets/images/people/bio-rsharma.jpg
+  teaser: /assets/images/people/bio-rsharma.webp
 papers: 
     - title: Fuzz Testing Molecular Representation Using Deep Variational Anomaly Generation
       excerpt: Nogueira VHR, <u>Sharma R</u>, Guido RVC, Keiser MJ. __J Chem Inf Model__. 2025 Feb 24.
