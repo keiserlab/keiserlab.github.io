@@ -1,0 +1,29 @@
+---
+permalink: /llms.txt
+layout: null
+sitemap: false
+---
+# Keiser Lab @ UCSF
+
+> Systems pharmacology lab at UCSF. Methods and open-source tools for
+> polypharmacology, phenotypic screen deconvolution, and precision drug
+> response, with applications across neurodegeneration, cancer, and drug
+> safety.
+
+## Site map
+
+- [Research directions](https://keiserlab.org/research/)
+- [Publications](https://keiserlab.org/publications/) — citations with preprint, code, and data links
+- [Code & data](https://keiserlab.org/resources/) — per-paper code repositories and datasets
+- [People](https://keiserlab.org/people/)
+- [News](https://keiserlab.org/news/)
+- [Contact](https://keiserlab.org/contact/)
+
+## Code archive
+
+- [github.com/keiserlab](https://github.com/keiserlab) — complete public code archive
+
+## Optional
+
+- [RSS feed](https://keiserlab.org/feed.xml)
+- [Sitemap](https://keiserlab.org/sitemap.xml)
