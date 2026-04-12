@@ -1,8 +1,8 @@
 ---
 title: Lab
 permalink: /people/
-excerpt: "Current lab members and alumni."
-tags: [members, people]
+excerpt: "Lab members and alumni."
+tags: [members, people, alumni]
 modified: 
 comments: false
 header:

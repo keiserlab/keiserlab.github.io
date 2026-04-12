@@ -3,10 +3,10 @@
 title: Michael Keiser, PhD
 author: michael_keiser
 layout: author-bio
-jobtitle: Associate Professor; CZI Ben Barres Investigator; Allen Distinguished Investigator
-bio: pharm chem; bts; bchsi; kifn; ind
+jobtitle: Co-Founder; formerly Associate Professor
+bio: Sygaldry Technologies
 type: alumn
-excerpt: "<p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and a Paul G. Allen Distinguished Investigator. Michael joined the UCSF faculty in 2014, in t"
+excerpt: "<p>Michael is co-founder at <a href='https://sygaldry.com'>Sygaldry Technologies</a>, developing the infrastructure for quantum-accelerated AI. A two-time found"
 header:
   teaser: /assets/images/people/bio-keiser.webp
 papers: 

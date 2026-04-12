@@ -6,6 +6,14 @@
   </li>
 {% endcomment %}
 
+{% if author.website %}
+  <li>
+    <a href="{{ author.website }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-link" aria-hidden="true"></i> Website
+    </a>
+  </li>
+{% endif %}
+
 {% if author.orc_id %}
   <li>
     <a href="https://orcid.org/{{ author.orc_id }}" itemprop="sameAs" rel="nofollow noopener noreferrer">

@@ -5,12 +5,14 @@
 michael_keiser:
   name: Michael Keiser, PhD
   email: keiser@keiserlab.org
-  bio: "pharm chem; bts; bchsi; kifn; ind"
+  bio: "Sygaldry Technologies"
   bio_long: >
-    <p>Michael is a Chan Zuckerberg Initiative Ben Barres Investigator and a Paul G. Allen Distinguished Investigator. Michael joined the UCSF faculty in 2014, in the Dept. of Pharmaceutical Chemistry and the Institute for Neurodegenerative Diseases, with appointments in the Dept. of Bioengineering & Therapeutic Sciences and the Bakar Computational Health Sciences Institute. He is also a member of the Quantitative Biosciences Institute and the Kavli Institute for Fundamental Neuroscience at UCSF.</p>
-    <p>Before this, he co-founded a startup bringing systems pharmacology methods for drug-target prediction to pharma and the US FDA, where they are in use today. During his bioinformatics Ph.D. at UCSF as a NSF Fellow, Michael developed techniques to relate drugs and proteins from the statistical similarity of their ligands, such as the Similarity Ensemble Approach (SEA). He holds multiple degrees from Stanford, including a BSc. in Computer Science.</p>
+    <p>Michael is co-founder at <a href='https://sygaldry.com'>Sygaldry Technologies</a>, developing the infrastructure for quantum-accelerated AI. A two-time founder with 20+ years developing AI/ML systems for scientific research, he previously led the Keiser Lab at UCSF for 11 years, where the group developed advanced generative and multimodal AI/ML models and platforms for drug discovery, biomedicine, and complex scientific research, mentoring 45+ scientists.</p>
+    <p>At UCSF, Michael held appointments in the Dept. of Pharmaceutical Chemistry, the Institute for Neurodegenerative Diseases, the Dept. of Bioengineering &amp; Therapeutic Sciences, the Bakar Computational Health Sciences Institute, and the Kavli Institute for Fundamental Neuroscience. He was recognized as a <a href='https://doi.org/10.37921/550142lkcjzw'>Chan Zuckerberg Initiative Ben Barres Investigator</a> and a <a href='https://alleninstitute.org/division/frontiers-group/distinguished-investigators/'>Paul G. Allen Distinguished Investigator</a>.</p>
+    <p>Earlier, he co-founded SeaChange Pharmaceuticals, bringing systems pharmacology methods for drug-target prediction to pharma partners and the US FDA, where they remain in use today. During his bioinformatics Ph.D. at UCSF as an NSF Graduate Research Fellow, he developed techniques to relate drugs and proteins from the statistical similarity of their ligands, such as the Similarity Ensemble Approach (SEA). He holds three degrees from Stanford, including a BSc. in Computer Science.</p>
   avatar: /assets/images/people/bio-keiser.webp
-  title: Associate Professor; CZI Ben Barres Investigator; Allen Distinguished Investigator
+  title: Co-Founder; formerly Associate Professor
+  website: https://sygaldry.com
   github: mjke
   linkedin: keiser
   google:
