@@ -38,7 +38,7 @@ permalink: /publications/
 excerpt: "Selected lab publications, with links to preprints and supporting content."
 tags: [publications, papers, preprints, manuscripts]
 header:
-   image: /assets/images/bar-network.png
+   image: /assets/images/bar-network.jpg
 {feature_rows}
 ---
 {publications_jsonld}
@@ -130,7 +130,7 @@ tags: [resources, code, data, repositories, datasets, tools]
 modified:
 comments: false
 header:
-   image: /assets/images/bar-network.png
+   image: /assets/images/bar-network.jpg
 ---
 {resources_jsonld}
 

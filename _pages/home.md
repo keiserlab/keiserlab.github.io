@@ -4,7 +4,7 @@ layout: splash
 excerpt: "Systems pharmacology and deep learning laboratory at UCSF."
 tags: [SEA, machine learning, systems pharmacology, computational chemical biology]
 header:
-   image: /assets/images/bar-network.png
+   image: /assets/images/bar-network.jpg
    image_description: "Keiser Lab network visualization"
 #intro: 
 #  - excerpt: ''

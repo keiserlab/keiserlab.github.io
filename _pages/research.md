@@ -7,7 +7,7 @@ tags: [research, projects, SEA, Similarity Ensemble Approach, forward polypharma
 modified: 
 comments: false
 header:
-   image: /assets/images/bar-network.png
+   image: /assets/images/bar-network.jpg
 ---
 
 In classical pharmacology, drugs struck single notes, where one drug would hit one target to treat one disease. But drugs frequently modulate entire “chords” of targets at once, and this can be essential to their action. Our lab is decoding this molecular music, both in terms of new and useful chords for the treatment of complex diseases, and also to identify the jarring notes that existing drugs unintentionally hit when they induce side effects.

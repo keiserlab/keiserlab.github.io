@@ -6,7 +6,7 @@ permalink: /publications/
 excerpt: "Selected lab publications, with links to preprints and supporting content."
 tags: [publications, papers, preprints, manuscripts]
 header:
-   image: /assets/images/bar-network.png
+   image: /assets/images/bar-network.jpg
 feature_row0:
 
   - image_path: /assets/images/papers/10.1016.j.neuron.2025.06.014.jpg

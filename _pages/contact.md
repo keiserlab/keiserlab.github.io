@@ -7,7 +7,7 @@ tags: [contact, address, directions]
 modified: 
 comments: false
 header:
-   image: /assets/images/bar-network.png
+   image: /assets/images/bar-network.jpg
 ---
 
 We are located on the third and fourth floors of the [UCSF Institute for Neurodegenerative Diseases](http://ind.ucsf.edu) in the Sandler Neurosciences Center. Our dry lab is located in room NS 435 and our wet lab is in NS 321.

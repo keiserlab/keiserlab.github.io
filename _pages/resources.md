@@ -8,7 +8,7 @@ tags: [resources, code, data, repositories, datasets, tools]
 modified:
 comments: false
 header:
-   image: /assets/images/bar-network.png
+   image: /assets/images/bar-network.jpg
 ---
 <script type="application/ld+json">
 {
