@@ -1,6 +1,14 @@
 <!-- start custom head snippets -->
 <!--<link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif:400,700,400italic" rel="stylesheet" type="text/css">-->
 
+<!-- Resource hints for external CDNs we actually hit on every page.
+     preconnect = critical, blocks rendering until handshake completes
+     dns-prefetch = nice-to-have, only resolves the name early -->
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="preconnect" href="https://d1bxh8uas1mnw7.cloudfront.net" crossorigin>
+<link rel="dns-prefetch" href="https://api.altmetric.com">
+<link rel="dns-prefetch" href="https://badges.altmetric.com">
+
 <!-- Academicons for preprint / dataset / DOI icons (bioRxiv, chemRxiv, arXiv, Zenodo, OSF, figshare, …) -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons/css/academicons.min.css">
 
