@@ -62,7 +62,7 @@ header:
     },
     {
       "@type": "SoftwareSourceCode",
-      "name": "Autoparty",
+      "name": "autoparty",
       "codeRepository": "https://github.com/keiserlab/autoparty",
       "url": "https://github.com/keiserlab/autoparty",
       "isPartOf": {
@@ -144,7 +144,7 @@ header:
     },
     {
       "@type": "SoftwareSourceCode",
-      "name": "DeepFish",
+      "name": "deepfish",
       "codeRepository": "https://github.com/keiserlab/deepfish",
       "url": "https://github.com/keiserlab/deepfish",
       "isPartOf": {
@@ -157,7 +157,7 @@ header:
     {
       "@type": "Dataset",
       "name": "Zenodo",
-      "url": "https://doi.org/10.5281/zenodo.10652682",
+      "url": "https://zenodo.org/records/15107536",
       "isPartOf": {
         "@type": "ScholarlyArticle",
         "name": "Deep phenotypic profiling of neuroactive drugs in larval zebrafish",
@@ -179,7 +179,7 @@ header:
     },
     {
       "@type": "SoftwareSourceCode",
-      "name": "ChemProbe",
+      "name": "chemprobe",
       "codeRepository": "https://github.com/keiserlab/chemprobe",
       "url": "https://github.com/keiserlab/chemprobe",
       "isPartOf": {
@@ -214,7 +214,7 @@ header:
     },
     {
       "@type": "SoftwareSourceCode",
-      "name": "Tangle Tracer",
+      "name": "tangle-tracer",
       "codeRepository": "https://github.com/keiserlab/tangle-tracer",
       "url": "https://github.com/keiserlab/tangle-tracer",
       "isPartOf": {
@@ -260,7 +260,7 @@ header:
     },
     {
       "@type": "SoftwareSourceCode",
-      "name": "AutoFragDiff",
+      "name": "autofragdiff",
       "codeRepository": "https://github.com/keiserlab/autofragdiff",
       "url": "https://github.com/keiserlab/autofragdiff",
       "isPartOf": {
@@ -307,7 +307,7 @@ header:
     },
     {
       "@type": "SoftwareSourceCode",
-      "name": "Exceiver",
+      "name": "exceiver",
       "codeRepository": "https://github.com/keiserlab/exceiver",
       "url": "https://github.com/keiserlab/exceiver",
       "isPartOf": {
@@ -566,21 +566,21 @@ The lab's full public code archive lives at [**github.com/keiserlab**](https://g
 | [Deep learning finds convergent melanocytic morphology despite noisy archival slides](https://doi.org/10.1016/j.crmeth.2025.101201)<br>*Tada M et al.*, **Cell Rep Methods** 2025 | &mdash; | [<i class="fab fa-github"></i>](https://github.com/keiserlab/dermato-paper) | &mdash; |
 | [Cell-type-directed network-correcting combination therapy for Alzheimer's disease](https://doi.org/10.1016/j.cell.2025.06.035)<br>*Li Y et al.*, **Cell** 2025 | &mdash; | [<i class="fab fa-github"></i>](https://github.com/YaqiaoLi8/CombinationLI) | [<i class="ai ai-mendeley"></i> Mendeley](https://doi.org/10.17632/f5kx9k264n.1) |
 | [The polypharmacology of psychedelics reveals multiple targets for potential therapeutics](https://doi.org/10.1016/j.neuron.2025.06.012)<br>*Jain MK et al.*, **Neuron** 2025 | &mdash; | &mdash; | [<i class="ai ai-mendeley"></i> Mendeley](https://data.mendeley.com/datasets/p54dxd7sf6/1) |
-| [Autoparty: Machine Learning-Guided Visual Inspection of Molecular Docking Results](https://doi.org/10.1021/acs.jcim.5c00850)<br>*Shub L et al.*, **J Chem Inf Model** 2025 | [<i class="fab fa-github"></i> Autoparty](https://github.com/keiserlab/autoparty) | &mdash; | &mdash; |
+| [Autoparty: Machine Learning-Guided Visual Inspection of Molecular Docking Results](https://doi.org/10.1021/acs.jcim.5c00850)<br>*Shub L et al.*, **J Chem Inf Model** 2025 | [<i class="fab fa-github"></i> autoparty](https://github.com/keiserlab/autoparty) | &mdash; | &mdash; |
 | [MIC: A deep learning tool for assigning ions and waters in cryo-EM and crystal structures](https://doi.org/10.1038/s41467-025-61315-x)<br>*Shub L et al.*, **Nat Commun** 2025 | [<i class="fab fa-github"></i> MIC](https://github.com/keiserlab/metric-ion-classification) | &mdash; | [<i class="ai ai-zenodo"></i> Zenodo](https://doi.org/10.5281/zenodo.15596106) |
 | [Evolutionary-scale enzymology enables exploration of a rugged catalytic landscape](https://doi.org/10.1126/science.adu1058)<br>*Muir DF et al.*, **Science** 2025 | &mdash; | [<i class="fab fa-github"></i>](https://github.com/pinneylab/adk_evolutionary_landscape) | [<i class="ai ai-zenodo"></i> Zenodo](https://doi.org/10.5281/zenodo.15043239) |
 | [Fuzz Testing Molecular Representation Using Deep Variational Anomaly Generation](https://doi.org/10.1021/acs.jcim.4c01876)<br>*Nogueira VHR et al.*, **J Chem Inf Model** 2025 | &mdash; | [<i class="fab fa-github"></i>](https://github.com/keiserlab/vae-anomaly-paper) | &mdash; |
 | [ChromaFactor: Deconvolution of single-molecule chromatin organization with non-negative matrix factorization](https://doi.org/10.1371/journal.pcbi.1012841)<br>*Gunsalus LM et al.*, **PLoS Comput Biol** 2025 | &mdash; | [<i class="fab fa-github"></i>](https://github.com/lgunsalus/ChromaFactor) | &mdash; |
-| [Deep phenotypic profiling of neuroactive drugs in larval zebrafish](https://doi.org/10.1038/s41467-024-54375-y)<br>*Gendelev L et al.*, **Nat Commun** 2024 | [<i class="fab fa-github"></i> DeepFish](https://github.com/keiserlab/deepfish) | &mdash; | [<i class="ai ai-zenodo"></i> Zenodo](https://doi.org/10.5281/zenodo.10652682) |
+| [Deep phenotypic profiling of neuroactive drugs in larval zebrafish](https://doi.org/10.1038/s41467-024-54375-y)<br>*Gendelev L et al.*, **Nat Commun** 2024 | [<i class="fab fa-github"></i> deepfish](https://github.com/keiserlab/deepfish) | &mdash; | [<i class="ai ai-zenodo"></i> Zenodo](https://zenodo.org/records/15107536) |
 | [Retrieval Augmented Docking Using Hierarchical Navigable Small Worlds](https://doi.org/10.1021/acs.jcim.4c00683)<br>*Hall BW et al.*, **J Chem Inf Model** 2024 | [<i class="fab fa-github"></i> RAD](https://github.com/keiserlab/rad) | &mdash; | &mdash; |
-| [Learning chemical sensitivity reveals mechanisms of cellular response](https://doi.org/10.1038/s42003-024-06865-4)<br>*Connell W et al.*, **Commun Biol** 2024 | [<i class="fab fa-github"></i> ChemProbe](https://github.com/keiserlab/chemprobe) | &mdash; | [<i class="ai ai-zenodo"></i> Zenodo](https://doi.org/10.5281/zenodo.13381833) |
+| [Learning chemical sensitivity reveals mechanisms of cellular response](https://doi.org/10.1038/s42003-024-06865-4)<br>*Connell W et al.*, **Commun Biol** 2024 | [<i class="fab fa-github"></i> chemprobe](https://github.com/keiserlab/chemprobe) | &mdash; | [<i class="ai ai-zenodo"></i> Zenodo](https://doi.org/10.5281/zenodo.13381833) |
 | [Proximity Graph Networks: Predicting Ligand Affinity with Message Passing Neural Networks](https://doi.org/10.1021/acs.jcim.4c00311)<br>*Gale-Day ZJ et al.*, **J Chem Inf Model** 2024 | [<i class="fab fa-github"></i> torch_pgn](https://github.com/keiserlab/torch_pgn) | &mdash; | &mdash; |
-| [Learning precise segmentation of neurofibrillary tangles from rapid manual point annotations](https://doi.org/10.1101/2024.05.15.594372)<br>*Ghandian S et al.*, **bioRxiv** 2024 | [<i class="fab fa-github"></i> Tangle Tracer](https://github.com/keiserlab/tangle-tracer) | &mdash; | [<i class="fas fa-database"></i> BioStudies](https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD1165) |
+| [Learning precise segmentation of neurofibrillary tangles from rapid manual point annotations](https://doi.org/10.1101/2024.05.15.594372)<br>*Ghandian S et al.*, **bioRxiv** 2024 | [<i class="fab fa-github"></i> tangle-tracer](https://github.com/keiserlab/tangle-tracer) | &mdash; | [<i class="fas fa-database"></i> BioStudies](https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD1165) |
 | [Toward a generalizable machine learning workflow for neurodegenerative disease staging with focus on neurofibrillary tangles](https://doi.org/10.1186/s40478-023-01691-x)<br>*Vizcarra JC et al.*, **Acta Neuropathol Commun** 2023 | &mdash; | [<i class="fab fa-github"></i>](https://github.com/Gutman-Lab/yolo-braak-stage) | [<i class="fas fa-database"></i> Google Drive](https://drive.google.com/drive/folders/16LUMrIMdp4LlvWQk5Dp3eVQHWY472jN5) |
-| [Autoregressive fragment-based diffusion for pocket-aware ligand design](https://arxiv.org/abs/2401.05370)<br>*Ghorbani M et al.*, **arXiv - NeurIPS GenBio** 2023 | [<i class="fab fa-github"></i> AutoFragDiff](https://github.com/keiserlab/autofragdiff) | &mdash; | &mdash; |
+| [Autoregressive fragment-based diffusion for pocket-aware ligand design](https://arxiv.org/abs/2401.05370)<br>*Ghorbani M et al.*, **arXiv - NeurIPS GenBio** 2023 | [<i class="fab fa-github"></i> autofragdiff](https://github.com/keiserlab/autofragdiff) | &mdash; | &mdash; |
 | [In silico discovery of repetitive elements as key sequence determinants of 3D genome folding](https://doi.org/10.1016/j.xgen.2023.100410)<br>*Gunsalus LM et al.*, **Cell Genom** 2023 | &mdash; | [<i class="fab fa-github"></i>](https://github.com/keiserlab/3d-genome-disruption-paper) | &mdash; |
 | [Learning fast and fine-grained detection of amyloid neuropathologies from coarse-grained expert labels](https://doi.org/10.1038/s42003-023-05031-6)<br>*Wong DR et al.*, **Commun Biol** 2023 | &mdash; | [<i class="fab fa-github"></i>](https://github.com/keiserlab/amyloid-yolo-paper) | [<i class="ai ai-osf"></i> OSF](https://doi.org/10.17605/OSF.IO/FCPMW) |
-| [A single-cell gene expression language model](https://doi.org/10.48550/arXiv.2210.14330)<br>*Connell W et al.*, **arXiv - NeurIPS LMRL** 2022 | [<i class="fab fa-github"></i> Exceiver](https://github.com/keiserlab/exceiver) | &mdash; | &mdash; |
+| [A single-cell gene expression language model](https://doi.org/10.48550/arXiv.2210.14330)<br>*Connell W et al.*, **arXiv - NeurIPS LMRL** 2022 | [<i class="fab fa-github"></i> exceiver](https://github.com/keiserlab/exceiver) | &mdash; | &mdash; |
 | [Prioritizing Virtual Screening with Interpretable Interaction Fingerprints](https://doi.org/10.1021/acs.jcim.2c00695)<br>*Fassio AV et al.*, **J Chem Inf Model** 2022 | [<i class="fab fa-github"></i> LUNA](https://github.com/keiserlab/LUNA) | &mdash; | &mdash; |
 | [Simultaneous analysis of neuroactive compounds in zebrafish](https://doi.org/10.1101/2020.01.01.891432)<br>*Myers-Turnbull D et al.*, **bioRxiv** 2022 | &mdash; | &mdash; | [<i class="ai ai-osf"></i> OSF](https://osf.io/3dp6x) |
 | [Trans-channel fluorescence learning improves high-content screening for Alzheimer's disease therapeutics](https://doi.org/10.1038/s42256-022-00490-8)<br>*Wong DR et al.*, **Nat Mach Intell** 2022 | &mdash; | [<i class="fab fa-github"></i>](https://github.com/keiserlab/trans-channel-paper) | [<i class="ai ai-osf"></i> OSF](https://doi.org/10.17605/OSF.IO/XNTD6) |

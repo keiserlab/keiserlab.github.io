@@ -37,11 +37,19 @@ We use Docker for Jekyll serving only. VS Code, Claude Code, and other dev tools
 
 ### linting
 ```bash
-./scripts/lint.sh                             # all linters
+./scripts/lint.sh                             # all linters (internal links only)
 uvx ruff check utils/                         # python
 uvx yamllint -d relaxed _config.yml _data/    # yaml
 npx @biomejs/biome check .                    # scss, json
-bundle exec htmlproofer ./_site               # built html + links
+bundle exec htmlproofer ./_site               # built html + internal links
+```
+
+check external links (DOIs, Zenodo, GitHub, etc. — slow, network-flaky):
+```bash
+docker compose exec keiserlab bundle exec htmlproofer ./_site \
+  --allow-hash-href --no-enforce-https \
+  --ignore-urls '/tags/,/tbproxy/' \
+  --typhoeus '{"followlocation": true, "timeout": 30}'
 ```
 
 ### rebuilds

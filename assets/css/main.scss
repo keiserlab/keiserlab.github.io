@@ -85,12 +85,43 @@ a.btn::before {
   }
 }
 
+// MM's `wide` class only adjusts padding on single/archive/posts/category
+// layouts; the floated element (.page on single, .archive on archive/posts/
+// category) still floats right at ~80% width, leaving a blank left gap.
+// Override both to actually span full width when wide is set. Safe: splash
+// pages use neither; author-bio pages don't have wide.
+body.wide .page,
+body.wide .archive {
+  float: none;
+  width: 100%;
+}
+
+// people grid: keep names readable (match feature_row title scale) and
+// always show the job-title/company line, even on mobile where MM's
+// default hides all excerpts. The second .archive__item-excerpt (the
+// bio_long preview) stays hidden on mobile — only the first one (job
+// title + company) is needed.
+.entries-grid .grid__item {
+  .archive__item-title {
+    font-size: 1.15em;
+  }
+
+  .archive__item-excerpt:first-of-type {
+    display: block;
+  }
+}
+
 // resources.md table: suppress link underline by default so the gap between
 // icon and label doesn't get a choppy underscore. underline on hover.
-.page__content table a {
-  text-decoration: none;
+// also bump font size from MM's compact default for this data-dense table.
+.page__content table {
+  font-size: 0.9em;
 
-  &:hover {
-    text-decoration: underline;
+  a {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
 }

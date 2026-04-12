@@ -80,7 +80,7 @@ standalone_preprints:
     url: "https://doi.org/10.48550/arXiv.2210.14330"
     doi: "10.48550/arXiv.2210.14330"
     links:
-      - { kind: code, role: tool, url: "https://github.com/keiserlab/exceiver", label: "Exceiver" }
+      - { kind: code, role: tool, url: "https://github.com/keiserlab/exceiver", label: "exceiver" }
 
   - journal: "arXiv - NeurIPS GenBio"
     journal_id: "2401.05370"
@@ -90,7 +90,7 @@ standalone_preprints:
     url: "https://arxiv.org/abs/2401.05370"
     doi: "10.48550/arXiv.2401.05370"
     links:
-      - { kind: code, role: tool, url: "https://github.com/keiserlab/autofragdiff", label: "AutoFragDiff" }
+      - { kind: code, role: tool, url: "https://github.com/keiserlab/autofragdiff", label: "autofragdiff" }
 
   - journal: "bioRxiv"
     journal_id: "2024.05.15.594372"
@@ -100,7 +100,7 @@ standalone_preprints:
     url: "https://doi.org/10.1101/2024.05.15.594372"
     doi: "10.1101/2024.05.15.594372"
     links:
-      - { kind: code, role: tool, url: "https://github.com/keiserlab/tangle-tracer", label: "Tangle Tracer" }
+      - { kind: code, role: tool, url: "https://github.com/keiserlab/tangle-tracer", label: "tangle-tracer" }
       - { kind: data, url: "https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD1165", label: "BioStudies" }
 
   - journal: "bioRxiv"
@@ -193,7 +193,7 @@ supplemental:
       url: "https://doi.org/10.1101/2023.08.26.554851"
       label: "bioRxiv"
     links:
-      - { kind: code, role: tool, url: "https://github.com/keiserlab/chemprobe", label: "ChemProbe" }
+      - { kind: code, role: tool, url: "https://github.com/keiserlab/chemprobe", label: "chemprobe" }
       - { kind: data, url: "https://doi.org/10.5281/zenodo.13381833", label: "Zenodo" }
 
   "10.1371/journal.pcbi.1012841":
@@ -215,8 +215,8 @@ supplemental:
       url: "https://doi.org/10.1101/2024.02.22.581657"
       label: "bioRxiv"
     links:
-      - { kind: code, role: tool, url: "https://github.com/keiserlab/deepfish", label: "DeepFish" }
-      - { kind: data, url: "https://doi.org/10.5281/zenodo.10652682", label: "Zenodo" }
+      - { kind: code, role: tool, url: "https://github.com/keiserlab/deepfish", label: "deepfish" }
+      - { kind: data, url: "https://zenodo.org/records/15107536", label: "Zenodo" }
 
   "10.1038/s41467-025-61315-x":
     preprint:
@@ -283,7 +283,7 @@ supplemental:
       url: "https://doi.org/10.26434/chemrxiv-2024-7p4ws"
       label: "chemRxiv"
     links:
-      - { kind: code, role: tool, url: "https://github.com/keiserlab/autoparty", label: "Autoparty" }
+      - { kind: code, role: tool, url: "https://github.com/keiserlab/autoparty", label: "autoparty" }
 
   "10.1038/s42256-025-01156-x":
     preprint:

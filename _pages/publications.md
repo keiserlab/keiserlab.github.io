@@ -107,7 +107,7 @@ feature_row1:
     extra_links:
       - kind: code
         url: "https://github.com/keiserlab/autoparty"
-        label: "Autoparty"
+        label: "autoparty"
         role: tool
 
   - image_path: /assets/images/papers/10.1038.s41467-025-61315-x.webp
@@ -244,10 +244,10 @@ feature_row3:
     extra_links:
       - kind: code
         url: "https://github.com/keiserlab/deepfish"
-        label: "DeepFish"
+        label: "deepfish"
         role: tool
       - kind: data
-        url: "https://doi.org/10.5281/zenodo.10652682"
+        url: "https://zenodo.org/records/15107536"
         label: "Zenodo"
 
   - image_path: /assets/images/papers/10.1021.acs.jcim.4c00683.webp
@@ -293,7 +293,7 @@ feature_row4:
     extra_links:
       - kind: code
         url: "https://github.com/keiserlab/chemprobe"
-        label: "ChemProbe"
+        label: "chemprobe"
         role: tool
       - kind: data
         url: "https://doi.org/10.5281/zenodo.13381833"
@@ -340,7 +340,7 @@ feature_row4:
     extra_links:
       - kind: code
         url: "https://github.com/keiserlab/tangle-tracer"
-        label: "Tangle Tracer"
+        label: "tangle-tracer"
         role: tool
       - kind: data
         url: "https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD1165"
@@ -388,7 +388,7 @@ feature_row5:
     extra_links:
       - kind: code
         url: "https://github.com/keiserlab/autofragdiff"
-        label: "AutoFragDiff"
+        label: "autofragdiff"
         role: tool
 
   - image_path: /assets/images/papers/10.1016.j.xgen.2023.100410.webp
@@ -459,7 +459,7 @@ feature_row6:
     extra_links:
       - kind: code
         url: "https://github.com/keiserlab/exceiver"
-        label: "Exceiver"
+        label: "exceiver"
         role: tool
 
   - image_path: /assets/images/papers/10.1021.acs.jcim.2c00695.webp
