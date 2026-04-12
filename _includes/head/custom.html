@@ -12,6 +12,11 @@
 <!-- Academicons for preprint / dataset / DOI icons (bioRxiv, chemRxiv, arXiv, Zenodo, OSF, figshare, …) -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons/css/academicons.min.css">
 
+<!-- Altmetric embed.js — scans the DOM for .altmetric-embed divs after parse,
+     so defer is the right loading mode. Needed on /publications/; harmless on
+     pages without .altmetric-embed divs. -->
+<script defer src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 <link rel="apple-touch-icon" sizes="180x180" href="/assets/icon/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/assets/icon/favicon-32x32.png">

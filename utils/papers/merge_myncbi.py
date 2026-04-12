@@ -116,8 +116,6 @@ F_ROW_EXTRA_LINK_ROLE = "        role: {role}\n"
 F_ROW_EXTRA_LINK_ICON = '        icon: "{icon}"\n'
 
 F_ROW_INCL = """
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-
 {{% include feature_row_paper.html id="feature_row{row_num}" %}}
 """
 
