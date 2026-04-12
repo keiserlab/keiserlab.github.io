@@ -96,6 +96,13 @@ body.wide .archive {
   width: 100%;
 }
 
+// related posts ("You May Also Enjoy") should span full width on all
+// single-page layouts, not just wide. same float/width issue as above.
+.page__related {
+  float: none;
+  width: 100%;
+}
+
 // people grid: keep names readable (match feature_row title scale) and
 // always show the job-title/company line, even on mobile where MM's
 // default hides all excerpts. The second .archive__item-excerpt (the
