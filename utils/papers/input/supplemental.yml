@@ -259,7 +259,7 @@ supplemental:
   "10.1186/s40478-020-00927-4":
     links:
       - { kind: code, role: paper, url: "https://github.com/gutmanlab/Emory_Plaquebox_Paper", label: "Paper code" }
-      - { kind: data, url: "http://computablebrain.emory.edu:8080/#collection/5d607ae8d1dbc700dde750a7/folder/5e29ef629f68993bf1676f78", label: "Emory" }
+      - { kind: data, url: "https://computablebrain.emory.edu/#collection/5d607ae8d1dbc700dde750a7/folder/5e29ef629f68993bf1676f78", label: "Emory" }
 
   "10.1038/s41467-019-11936-w":
     links:

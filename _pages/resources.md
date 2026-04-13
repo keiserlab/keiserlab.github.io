@@ -9,8 +9,6 @@ modified:
 comments: false
 header:
    image: /assets/images/bar-network.webp
-   image_width: 1600
-   image_height: 280
 ---
 <script type="application/ld+json">
 {
@@ -450,7 +448,7 @@ header:
     {
       "@type": "Dataset",
       "name": "Emory",
-      "url": "http://computablebrain.emory.edu:8080/#collection/5d607ae8d1dbc700dde750a7/folder/5e29ef629f68993bf1676f78",
+      "url": "https://computablebrain.emory.edu/#collection/5d607ae8d1dbc700dde750a7/folder/5e29ef629f68993bf1676f78",
       "isPartOf": {
         "@type": "ScholarlyArticle",
         "name": "Validation of machine learning models to detect amyloid pathologies across institutions",
@@ -590,7 +588,7 @@ The lab's full public code archive lives at [**github.com/keiserlab**](https://g
 | [Adding Stochastic Negative Examples into Machine Learning Improves Molecular Bioactivity Prediction](https://doi.org/10.1021/acs.jcim.0c00565)<br>*Caceres EL et al.*, **J Chem Inf Model** 2020 | &mdash; | [<i class="fab fa-github"></i>](https://github.com/keiserlab/stochastic-negatives-paper) | &mdash; |
 | [Predicting Cellular Drug Sensitivity using Conditional Modulation of Gene Expression](https://doi.org/10.1101/2021.03.15.435529)<br>*Connell W et al.*, **bioRxiv - NeurIPS LMRL** 2020 | [<i class="fab fa-github"></i> film-gex](https://github.com/keiserlab/film-gex) | &mdash; | &mdash; |
 | [Robust Semantic Interpretability: Revisiting Concept Activation Vectors](https://doi.org/10.48550/arXiv.2104.02768)<br>*Pfau J et al.*, **arXiv - ICML - WHI** 2020 | [<i class="fab fa-github"></i> RCAV](https://github.com/keiserlab/rcav) | &mdash; | [<i class="ai ai-zenodo"></i> Zenodo](https://zenodo.org/record/3889104) |
-| [Validation of machine learning models to detect amyloid pathologies across institutions](https://doi.org/10.1186/s40478-020-00927-4)<br>*Vizcarra JC et al.*, **Acta Neuropathol Commun** 2020 | &mdash; | [<i class="fab fa-github"></i>](https://github.com/gutmanlab/Emory_Plaquebox_Paper) | [<i class="fas fa-database"></i> Emory](http://computablebrain.emory.edu:8080/#collection/5d607ae8d1dbc700dde750a7/folder/5e29ef629f68993bf1676f78) |
+| [Validation of machine learning models to detect amyloid pathologies across institutions](https://doi.org/10.1186/s40478-020-00927-4)<br>*Vizcarra JC et al.*, **Acta Neuropathol Commun** 2020 | &mdash; | [<i class="fab fa-github"></i>](https://github.com/gutmanlab/Emory_Plaquebox_Paper) | [<i class="fas fa-database"></i> Emory](https://computablebrain.emory.edu/#collection/5d607ae8d1dbc700dde750a7/folder/5e29ef629f68993bf1676f78) |
 | [Zebrafish behavioural profiling identifies GABA and serotonin receptor ligands related to sedation and paradoxical excitation](https://doi.org/10.1038/s41467-019-11936-w)<br>*McCarroll MN et al.*, **Nat Commun** 2019 | &mdash; | &mdash; | [<i class="ai ai-zenodo"></i> Zenodo](https://doi.org/10.5281/zenodo.3336616) |
 | [Interpretable classification of Alzheimer's disease pathologies with a convolutional neural network pipeline](https://doi.org/10.1038/s41467-019-10212-1)<br>*Tang Z et al.*, **Nat Commun** 2019 | &mdash; | [<i class="fab fa-github"></i>](https://github.com/keiserlab/plaquebox-paper) | [<i class="ai ai-zenodo"></i> Zenodo](https://doi.org/10.5281/zenodo.1470797) |
 | [Comment on &quot;Predicting reaction performance in C-N cross-coupling using machine learning&quot;](https://doi.org/10.1126/science.aat8603)<br>*Chuang KV et al.*, **Science** 2018 | &mdash; | [<i class="fab fa-github"></i>](https://github.com/keiserlab/comments) | &mdash; |

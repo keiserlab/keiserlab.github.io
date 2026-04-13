@@ -12,7 +12,7 @@ Congratulations to recent lab graduates and the UCSF colleagues who co-mentored 
 
 - [**Parker Grosjean**]({{ site.url }}/people/parker_grosjean/), PhD (Bioinformatics, March 2025), co-advised with [Martin Kampmann](https://kampmannlab.ucsf.edu/). Now at Insitro.
 - [**Duncan Muir**]({{ site.url }}/people/duncan_muir/), PhD (Biophysics, June 2025), co-advised with [Margaux Pinney](https://pinneylab.com/). Now at Inductive Bio.
-- [**Ben Orr**]({{ site.url }}/people/ben_orr/), PhD (Biophysics, August 2025), co-advised with [Tanja Kortemme](https://bts.ucsf.edu/kortemme-lab). Now at Animate Biosciences.
+- [**Ben Orr**]({{ site.url }}/people/ben_orr/), PhD (Biophysics, August 2025), co-advised with [Tanja Kortemme](https://kortemmelab.ucsf.edu/). Now at Animate Biosciences.
 - [**Brendan Hall**]({{ site.url }}/people/brendan_hall/), PhD (Biophysics, March 2026), co-advised with [Brian Shoichet](https://bkslab.org/). Now at Montara Therapeutics.
 
 ![Duncan Muir presenting his exit seminar at UCSF](/assets/images/posts/duncan-exit-seminar.webp)

@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Senior Scientist I, Computational Antibody Design
 bio: Metaphore Biotechnologies
 type: alumn
-excerpt: "Visiting [CAPES Scholar](https://www.iie.org/Programs/CAPES), 2018-2019. Alexandre was a visiting scholar from the Federal University of Minas Gerais, Brazil. H"
+excerpt: "Visiting [CAPES Scholar](https://www.gov.br/capes/en), 2018-2019. Alexandre was a visiting scholar from the Federal University of Minas Gerais, Brazil. He was m"
 header:
   teaser: /assets/images/people/bio-fassio.webp
 papers: 

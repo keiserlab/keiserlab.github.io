@@ -6,7 +6,7 @@ layout: author-bio
 jobtitle: Scientist, IGP Group
 bio: Leibniz Institute of Plant Genetics and Crop Plant Research (IPK)
 type: alumn
-excerpt: "Visiting [CAPES Scholar](https://www.iie.org/Programs/CAPES), 2022-2023. Victor is a biomolecular physicist who came from University of São Paulo, Brazil. Mento"
+excerpt: "Visiting [CAPES Scholar](https://www.gov.br/capes/en), 2022-2023. Victor is a biomolecular physicist who came from University of São Paulo, Brazil. Mentored by "
 header:
   teaser: /assets/images/people/bio-rabesquine.webp
 papers: 

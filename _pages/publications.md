@@ -7,8 +7,6 @@ excerpt: "Selected lab publications, with links to preprints and supporting cont
 tags: [publications, papers, preprints, manuscripts]
 header:
    image: /assets/images/bar-network.webp
-   image_width: 1600
-   image_height: 280
 feature_row0:
 
   - image_path: /assets/images/papers/10.1016.j.neuron.2025.06.014.webp
@@ -708,7 +706,7 @@ feature_row10:
         label: "Paper code"
         role: paper
       - kind: data
-        url: "http://computablebrain.emory.edu:8080/#collection/5d607ae8d1dbc700dde750a7/folder/5e29ef629f68993bf1676f78"
+        url: "https://computablebrain.emory.edu/#collection/5d607ae8d1dbc700dde750a7/folder/5e29ef629f68993bf1676f78"
         label: "Emory"
 
   - image_path: /assets/images/papers/arXiv_-_NeurIPS_ML4H.1910.07604.webp
