@@ -7,6 +7,8 @@ modified:
 comments: false
 header:
    image: /assets/images/bar-network.webp
+   image_width: 1600
+   image_height: 280
 
 layout: archive
 collection: people

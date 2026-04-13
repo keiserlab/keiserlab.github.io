@@ -10,6 +10,8 @@ modified:
 comments: false
 header:
    image: /assets/images/bar-network.webp
+   image_width: 1600
+   image_height: 280
 ---
 
 ![NVIDIA Titan RTX GPUs on server room blueprints](/assets/images/titan-rtx.webp){: .align-right style="max-width: 50%;"}

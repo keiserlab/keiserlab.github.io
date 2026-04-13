@@ -8,6 +8,8 @@ modified:
 comments: false
 header:
    image: /assets/images/bar-network.webp
+   image_width: 1600
+   image_height: 280
 ---
 
 Over a decade, the Keiser Lab developed AI and machine learning across a progression of scientific challenges: from predicting how drugs interact with protein targets, to decoding complex biological systems, to advancing the AI methods themselves.

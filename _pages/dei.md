@@ -4,6 +4,8 @@ permalink: /dei/
 excerpt: "Lab work on diversity, equity, and inclusion (DEI)."
 header:
    image: /assets/images/bar-network.webp
+   image_width: 1600
+   image_height: 280
 layout: category
 taxonomy: dei
 entries_layout: # list (default), grid
