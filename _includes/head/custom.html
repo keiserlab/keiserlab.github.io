@@ -6,8 +6,14 @@
      dns-prefetch = nice-to-have, only resolves the name early -->
 <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
 <link rel="preconnect" href="https://d1bxh8uas1mnw7.cloudfront.net" crossorigin>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="dns-prefetch" href="https://api.altmetric.com">
 <link rel="dns-prefetch" href="https://badges.altmetric.com">
+
+<!-- Source Serif 4 heading font (600 semibold + 700 bold; async to avoid render-blocking) -->
+<link rel="preload" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@600;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@600;700&display=swap"></noscript>
 
 <!-- Academicons for preprint / dataset / DOI icons (bioRxiv, chemRxiv, arXiv, Zenodo, OSF, figshare, …)
      Loaded async to avoid render-blocking (only needed for icon display). -->
@@ -34,4 +40,6 @@
 <link rel="mask-icon" href="/assets/icon/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
+<!-- Active page indicator — forces MM's existing ::before underline visible on current nav link -->
+{% if page.url %}<style>.greedy-nav .visible-links a[href="{{ page.url }}"]::before{transform:scaleX(1)}.greedy-nav .visible-links a[href="{{ page.url }}"]{color:#2a6f84}</style>{% endif %}
 <!-- end custom head snippets -->

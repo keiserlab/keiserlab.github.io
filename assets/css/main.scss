@@ -4,21 +4,41 @@
 
 @charset "utf-8";
 
-// custom typography
+// custom typography — Source Serif 4 for headings, system sans for body
+$serif: "Source Serif 4", Georgia, Times, serif;
+$header-font-family: $serif;
 
-/*
-$serif              : "PT Serif", Georgia, Times, serif;
-$sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-
-$global-font-family : $serif;
-$header-font-family : $sans-serif-narrow;
-*/
+// color palette — refined teal with warm depth
+$primary-color: #2a6f84;
+$link-color: #2a6f84;
+$link-color-hover: #1e4e5d;
+$link-color-visited: #4a8899;
+$masthead-link-color: #3d4144;
+$masthead-link-color-hover: #2a6f84;
+$background-color: #fafbfc;
+$footer-background-color: #f0f2f4;
+$border-color: #e8eaed;
 
 // core
-
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+
+// masthead: serif site title, teal active-page underline
+.site-title {
+  font-family: $serif;
+  font-weight: 700;
+}
+
+// MM's .archive__item-title explicitly sets font-family to sans-serif,
+// overriding the h2 rule. Re-apply the heading font for consistency.
+.archive__item-title {
+  font-family: $header-font-family;
+}
+
+.greedy-nav .visible-links a::before {
+  background: $primary-color;
+}
 
 // custom keiserlab
 
@@ -120,6 +140,21 @@ body.wide .archive {
 
   .archive__item-excerpt:first-of-type {
     display: block;
+  }
+}
+
+// footer navigation links
+.page__footer-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em 1.5em;
+  margin-bottom: 1.5em;
+  font-size: 0.8125em;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+    &:hover { color: $primary-color; }
   }
 }
 
